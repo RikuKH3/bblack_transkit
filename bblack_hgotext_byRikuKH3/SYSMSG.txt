@@ -1,0 +1,58 @@
+﻿#Size=11169
+
+[MSG$0010B7,4]
+Yes
+
+[MSG$0010D8,6]
+No
+
+[MSG$001106,16]
+System Menu
+
+[MSG$001146,12]
+Save Game
+
+[MSG$001193,12]
+Load Game
+
+[MSG$0011B2,14]
+Return to Title Screen
+
+[MSG$0011D4,20]
+Return to Title Screen?
+
+[MSG$00121D,30]
+  Directed back to the Title Screen. Are you sure?  
+
+[MSG$0012DB,16]
+Quit Game
+
+[MSG$0012FF,20]
+Do you want to quit the game?
+
+[MSG$001348,30]
+  This will end the current game. Are you sure?  
+
+[MSG$0013EB,16]
+Thank you for playing.
+
+[MSG$001428,12]
+Return to game
+
+[MSG$001775,14]
+Select Fast Forward
+
+[MSG$0017A0,28]
+Fast forward until the next command
+
+[MSG$0017DB,8]
+Automatic play
+
+[MSG$001802,12]
+Return to game
+
+[MSG$0023FB,20]
+Return to Title Screen?
+
+[MSG$002444,30]
+  Directed back to the Title Screen. Are you sure?  

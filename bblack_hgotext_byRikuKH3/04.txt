@@ -1,0 +1,5653 @@
+﻿#Size=156358
+
+[MSG$0002FF,20]
+Grimoire of Honorius
+
+[MSG$000320,40]
+Saeki "That's Pope Honorius's Grimoire."
+
+[MSG$000362,98]
+Saeki "They say that the original manuscript was written by Pope Honorius III in the 13th century,
+
+[MSG$0003C9,32]
+|but in fact it was a false pope
+
+[MSG$0003EE,61]
+|named Cardus who wrote it...it's an infamous book of magic."
+
+[MSG$000445,59]
+Saeki "The striking thing about it is that you can tell the
+
+[MSG$000485,81]
+|rituals have been strongly influenced by those used in Catholic Mass ceremonies.
+
+[MSG$0004DB,53]
+Except, of course, the content is Black Magic itself.
+
+[MSG$000515,71]
+There are numerous spells that claim to have been approved by the Pope.
+
+[MSG$000576,52]
+Saeki "There are many legends surrounding this book.
+
+[MSG$0005AF,80]
+According to one, you can use it to find the location of the hiding place of the
+
+[MSG$000604,18]
+|Knights Templar."
+
+[MSG$000643,10]
+Red Dragon
+
+[MSG$00065A,65]
+Saeki "Red Dragon. In Japan it's known as the magic book Akaryu."
+
+[MSG$0006B6,81]
+Saeki "As a book meant for the dissemination of magic, it's the most well-known."
+
+[MSG$000722,79]
+Saeki "It mainly focuses on communicating with spirits, how to act as a medium,
+
+[MSG$000776,61]
+and it's based on a manuscript written in the 16th century...
+
+[MSG$0007B8,58]
+Although, it was allegedly published in the 19th century."
+
+[MSG$00080D,66]
+Saeki "Since there's a lot of overlap with ''The Great Grimoire'',
+
+[MSG$000854,65]
+it's often regarded as an altered version, with various addenda."
+
+[MSG$0008C3,12]
+Black Pullet
+
+[MSG$0008DC,77]
+Saeki "This is a book for the dissemination of magic called the Black Pullet.
+
+[MSG$00092E,61]
+It's well-known as a popular book of magic in Japan as well."
+
+[MSG$000985,54]
+Saeki "It's said to be based on an ancient manuscript.
+
+[MSG$0009C0,74]
+It contains numerous charms against evil, as well as circles of protection
+
+[MSG$000A0F,35]
+|and the chants to accompany them."
+
+[MSG$000A4C,84]
+Saeki "The famous chant, ''Elohim Essaim, I implore you'' is recorded in this book."
+
+[MSG$000ACD,14]
+Grand Grimoire
+
+[MSG$000AE8,104]
+Saeki "This is a Book of Magic published in France in around the 18th century, known as The Great Book."
+
+[MSG$000B6A,105]
+Saeki "It covers necromancy, mainly on communicating with the spirits of the dead, and summoning demons."
+
+[MSG$000C00,46]
+Book of Sacred Magic of Abra-Melin in the Mage
+
+[MSG$000C3B,58]
+Saeki "Now this is a famous magic book called Abra-Melin."
+
+[MSG$000C8F,106]
+Saeki "They say it was written by the sorcerer Abraham of Wurzburg for his son Lamech in the 15th century.
+
+[MSG$000CFE,66]
+But some sources say it was actually written in the 18th century."
+
+[MSG$000D5A,89]
+Saeki "It's a book about the practice of magic, and contains all sorts of magic squares."
+
+[MSG$000DE0,9]
+Lemegeton
+
+[MSG$000DF6,63]
+Saeki "Lemegeton. Popularly known as the Lesser Key of Solomon,
+
+[MSG$000E3A,70]
+it's a great book of magic said to have been written by King Solomon."
+
+[MSG$000E9A,73]
+Saeki "It's also known as the Goetia, after the first text, or Book One."
+
+[MSG$000EFD,75]
+Saeki "It's comprised of 4 texts in all...It's divided into the Ars Goetia,
+
+[MSG$000F4D,62]
+the Ars Theurgia Goetia, the Ars Paulina, and the Ars Almadel.
+
+[MSG$000F90,110]
+It contains information on powerful magic spells such as how to summon 72 different demons, and other charms."
+
+[MSG$001018,112]
+Saeki "It's the most famous of all the magic books. Everyone who's ever tried their hand at magic owns a copy of
+
+[MSG$00108D,42]
+|this one, along with the Key of Solomon."
+
+[MSG$0010E4,15]
+Grimorium Verum
+
+[MSG$001100,98]
+Saeki "This one's called the Book of Truth, and it was published in Memphis by the Egyptian Aribek
+
+[MSG$001167,22]
+|in the 16th century."
+
+[MSG$001197,109]
+Saeki "The original manuscript was written in Hebrew, using the Key of Solomon as its guide. It's said that a
+
+[MSG$001209,45]
+|Dominican monk translated it into Japanese."
+
+[MSG$001250,66]
+Saeki "There are other books of magic based on the Key of Solomon,
+
+[MSG$001297,75]
+variations such as True Black Magic, or the Secrets of Secrets, and so on."
+
+[MSG$00130F,14]
+Key of Solomon
+
+[MSG$00132A,107]
+Saeki "The Key of Solomon. Of all the books of magic, this one is considered to be the most authoritative."
+
+[MSG$0013AF,65]
+Saeki "It's said to have been written by the Hebrew King Solomon,
+
+[MSG$0013F5,84]
+and there are actually records of its existence dating back to the 1st century B.C."
+
+[MSG$001463,115]
+Saeki "Because of this, there are many versions in many languages. The oldest existing edition is the Greek version
+
+[MSG$0014DB,62]
+|from the 12th century, and it's owned by the British Museum."
+
+[MSG$001534,118]
+Saeki "It covers demon-summoning rituals and various ceremonies in great detail. Countless practitioners of magic have
+
+[MSG$0015AF,96]
+|recognized its power over the years. During the 15th century it was even banned by the Church."
+
+[MSG$001629,80]
+Saeki "It wouldn't be an understatement to say that all books of magic have been
+
+[MSG$00167E,49]
+|influenced in some way by the Key of Solomon..."
+
+[MSG$00181D,48]
+Tell Imari you don't want to have lunch with her
+
+[MSG$00186A,45]
+Say you want to have lunch in the dining hall
+
+[MSG$0018BC,18]
+Pull out after all
+
+[MSG$0018EB,15]
+Come inside her
+
+[MSG$00191F,18]
+Jam it up her anus
+
+[MSG$00194E,27]
+Beg her to do anal with you
+
+[MSG$00198E,4]
+Sure
+
+[MSG$0019AF,6]
+No way
+
+[MSG$0019DA,20]
+Grimoire of Honorius
+
+[MSG$001A27,10]
+Red Dragon
+
+[MSG$001A6A,12]
+Black Pullet
+
+[MSG$001AAF,14]
+Grand Grimoire
+
+[MSG$001AF6,46]
+Book of Sacred Magic of Abra-Melin in the Mage
+
+[MSG$001B5D,9]
+Lemegeton
+
+[MSG$001B9F,15]
+Grimorium Verum
+
+[MSG$001BE7,14]
+Key of Solomon
+
+[MSG$001C36,20]
+Grimoire of Honorius
+
+[MSG$001C83,10]
+Red Dragon
+
+[MSG$001CC6,12]
+Black Pullet
+
+[MSG$001D0B,14]
+Grand Grimoire
+
+[MSG$001D52,46]
+Book of Sacred Magic of Abra-Melin in the Mage
+
+[MSG$001DB9,9]
+Lemegeton
+
+[MSG$001DFB,15]
+Grimorium Verum
+
+[MSG$001E43,14]
+Key of Solomon
+
+[MSG$001E8A,10]
+Don't look
+
+[MSG$001EB9,34]
+Just give her the background story
+
+[MSG$001EF8,13]
+Turn her down
+
+[MSG$001F2A,39]
+Confess the secret of the book of magic
+
+[MSG$001F6E,18]
+Refuse to show her
+
+[MSG$001FA5,26]
+I want to come on her face
+
+[MSG$001FDC,17]
+Come in her mouth
+
+[MSG$002012,20]
+Give in to your lust
+
+[MSG$002043,18]
+Just turn her down
+
+[MSG$0021B4,18]
+April 23 - Morning
+
+[MSG$0022AA,18]
+Imari "Wake up..."
+
+[MSG$0022D6,23]
+Imari "It's morning..."
+
+[MSG$002307,17]
+Imari "Hurry up!"
+
+[MSG$002332,25]
+Rustle, rustle, rustle...
+
+[MSG$0023E8,64]
+As always, I blatantly ignore Imari, who's trying to wake me up.
+
+[MSG$002435,49]
+I was up till 3 AM last night, reading that book.
+
+[MSG$00246B,61]
+Even so, I have yet to fully grasp the details of the ritual.
+
+[MSG$0024B5,51]
+Imari "You don't plan to get up, eh? Okay, then..."
+
+[MSG$002502,64]
+After some rustling sounds, I can hear Imari talking to herself.
+
+[MSG$00254F,57]
+Imari "Well, I have just the thing for someone like you!"
+
+[MSG$0025A2,44]
+Imari "Tell me, Mike, what exactly is this?"
+
+[MSG$0025E8,21]
+Imari "Well, you see,
+
+[MSG$002602,80]
+|it's something that was designed for those who just can't seem to get up in the
+
+[MSG$002657,42]
+|morning with just a standard alarm clock.
+
+[MSG$002686,69]
+|It's an innovative tool that fully utilizes the wonders of science."
+
+[MSG$0026E5,111]
+Imari "It's quite simple. You set the timer and attach the cord to the person's body. When it's time to get up,
+
+[MSG$002759,87]
+you'll have a pleasant wake-up experience thanks to a high-voltage electrical current."
+
+[MSG$0027CA,35]
+Imari "Well, this is amazing, Mike.
+
+[MSG$0027F2,95]
+Now even someone like me with low blood pressure won't have to worry about getting up anymore."
+
+[MSG$00286B,50]
+Imari "Now then, why don't we see how this works?"
+
+[MSG$0028B7,21]
+Imari "Here we go..."
+
+[MSG$0028E6,48]
+I can feel something being attached to my leg...
+
+[MSG$002923,7]
+Click...
+
+[MSG$002E7E,4]
+Zap!
+
+[MSG$002E8F,14]
+Minase "Augh!"
+
+[MSG$002EB7,68]
+I jump out of bed when a powerful jolt of electricity rocks my body.
+
+[MSG$002F00,66]
+When I put my hands on my head, all of my hair is standing on end.
+
+[MSG$002FEE,45]
+Imari "Oh, no, was that a little too strong?"
+
+[MSG$003035,35]
+Minase "Are you trying to kill me?"
+
+[MSG$003072,18]
+I scream at Imari.
+
+[MSG$003091,31]
+Minase "What the hell is this?"
+
+[MSG$0030CA,63]
+I take a closer look at the wristband-like thing around my leg.
+
+[MSG$00310E,31]
+There's a cord running from it.
+
+[MSG$00313A,53]
+I trace the cord back to a strange-looking black box.
+
+[MSG$003174,33]
+It looks like a huge alarm clock.
+
+[MSG$0031A2,49]
+Imari "I bought it on the Home Shopping Network."
+
+[MSG$0031ED,78]
+Imari "It's designed to make you jump out of bed with a timed electric shock."
+
+[MSG$003255,41]
+Who ever heard of such a barbaric device?
+
+[MSG$003283,37]
+Isn't it more like a suicide machine?
+
+[MSG$0032B5,62]
+Imari "I don't get it...I didn't set the voltage that high..."
+
+[MSG$00330D,61]
+So saying, Imari starts inspecting the dial on the black box.
+
+[MSG$003357,60]
+Imari "Oh, wait, sorry...I had the output level on maximum."
+
+[MSG$0033DF,59]
+Imari "I misread ''Minimum'' for ''Maximum''...ha, ha, ha!"
+
+[MSG$003434,95]
+Misread, huh? Just how much voltage do you think you need to shock someone with to wake him up?
+
+[MSG$003498,51]
+If I had a weak heart, I'd be dead now, guaranteed.
+
+[MSG$0034D8,51]
+I rip off the wristband-thing and climb out of bed.
+
+[MSG$003510,47]
+Jeez...I can't believe she bought such a thing.
+
+[MSG$00354C,56]
+Imari "I thought it would be perfect for you, Minase..."
+
+[MSG$00359E,83]
+Imari says this softly, in an apologetic tone as I start getting dressed in a huff.
+
+[MSG$0035FE,44]
+Imari "Well, it's for you, so use it, okay?"
+
+[MSG$003644,18]
+Over my dead body!
+
+[MSG$00367E,26]
+April 23 - Going to school
+
+[MSG$003723,29]
+We're off to school as usual.
+
+[MSG$00374D,24]
+It doesn't feel right...
+
+[MSG$00376A,24]
+It's just like always...
+
+[MSG$00378F,62]
+It's hard to believe that I'd cast that magic spell yesterday.
+
+[MSG$0037D2,71]
+There's no question that Imari is the same old Imari she was yesterday.
+
+[MSG$003826,54]
+But how can that be? I'm sure I cast a spell on Imari.
+
+[MSG$003869,15]
+Minase "Hey..."
+
+[MSG$003892,13]
+Imari "What?"
+
+[MSG$0038B9,35]
+Minase "Do you feel any different?"
+
+[MSG$0038F6,25]
+Imari "What do you mean?"
+
+[MSG$003929,66]
+Minase "You know...like, do you feel differently about me, maybe?"
+
+[MSG$003985,12]
+Imari "Huh?"
+
+[MSG$0039AB,62]
+Minase "I mean...don't you feel anything when you look at me?"
+
+[MSG$003A03,21]
+Imari "Not really..."
+
+[MSG$003A32,23]
+Imari "Oh, but wait..."
+
+[MSG$003A63,62]
+Imari looks over at me as if something's just occurred to her.
+
+[MSG$003AAE,14]
+Minase "What?"
+
+[MSG$003AD6,28]
+Imari "You've got bed-head."
+
+[MSG$003B0C,4]
+Doh!
+
+[MSG$003B1D,50]
+No good, it just didn't take effect, that spell...
+
+[MSG$003B5C,107]
+But why? There was no questioning the power of the spell I cast on Murai, so how could Imari be unaffected?
+
+[MSG$003BD4,86]
+I know I didn't mess up the spell. So how come I succeeded with one and not the other?
+
+[MSG$003C2F,68]
+Or is it that there's some kind of difference between the two girls?
+
+[MSG$003C80,79]
+Come to think of it, the book of magic did have a cautionary note at the end...
+
+[MSG$003CDC,72]
+"If the receiver of the spell has any feelings for the one who casts it,
+
+[MSG$003D29,50]
+it is doubtful whether the spell will take effect.
+
+[MSG$003D60,44]
+False love is powerless before true love..."
+
+[MSG$003D99,30]
+But Imari couldn't possibly...
+
+[MSG$003DCA,26]
+April 23 - Going to school
+
+[MSG$003E6F,31]
+We're off to school as usual...
+
+[MSG$003E9B,52]
+Everything's as it's always been...until this point.
+
+[MSG$003EDC,48]
+But there's got to be some kind of change today.
+
+[MSG$003F11,94]
+That's right, if the spell I cast yesterday is for real, I should be seeing the results today.
+
+[MSG$003F7C,24]
+And if it does happen...
+
+[MSG$003FA1,78]
+I get lost in a daydream about what could be in store for me today, and smirk.
+
+[MSG$003FFC,35]
+Imari "What are you leering about?"
+
+[MSG$004039,19]
+Minase "Nothing..."
+
+[MSG$004067,91]
+I realize Imari's looking at me suspiciously, and quickly put myself back into normal mode.
+
+[MSG$0040CF,105]
+Imari "I don't know, I have a bad feeling...you're thinking about something perverted again, aren't you?"
+
+[MSG$004152,42]
+Minase "I can't believe you'd think that!"
+
+[MSG$004196,36]
+Imari "Oh, well, it doesn't matter."
+
+[MSG$0041DC,18]
+April 23 - Lockers
+
+[MSG$00426D,64]
+I remove my street shoes and get my school shoes from my locker.
+
+[MSG$0042BA,9]
+Rustle...
+
+[MSG$0042D0,13]
+Minase "Huh?"
+
+[MSG$0042F7,83]
+The instant I remove my shoes from my locker, something square falls to the ground.
+
+[MSG$004389,35]
+Imari "Hey, you dropped something."
+
+[MSG$0043C6,13]
+I pick it up.
+
+[MSG$0043E0,26]
+Imari "Is that  a letter?"
+
+[MSG$004414,22]
+It's a white envelope.
+
+[MSG$00442F,63]
+The flap is closed, and there's nothing written on the outside.
+
+[MSG$00447B,29]
+Imari "What is that, anyway?"
+
+[MSG$0044B2,62]
+Imari is staring suspiciously at me as I examine the envelope.
+
+[MSG$0044FD,34]
+Minase "Think it's a love letter?"
+
+[MSG$00456B,14]
+Imari "What?!"
+
+[MSG$004593,71]
+When she hears what I just said, Imari goes red and does a double take.
+
+[MSG$0045E7,43]
+Imari "A blackmail letter is more like it!"
+
+[MSG$00462C,95]
+Imari "Why would someone send you of all people a love letter? I bet she got the wrong locker."
+
+[MSG$0046A6,64]
+Minase "You don't have to get all worked up about it, you know."
+
+[MSG$004700,25]
+I turn over the envelope.
+
+[MSG$00471E,90]
+In small, neat handwriting on the other side of the envelope are the words, ''To Minase.''
+
+[MSG$004785,30]
+Minase "It's addressed to me."
+
+[MSG$0047BD,30]
+Imari "What? Let me see that!"
+
+[MSG$004827,39]
+So saying, Imari peers at the envelope.
+
+[MSG$00485B,57]
+Imari "Hey, you're right. And the handwriting's so nice!"
+
+[MSG$0048AE,69]
+Imari "I don't understand it...how could anyone have such bad taste?"
+
+[MSG$00490D,19]
+Such cruel words...
+
+[MSG$004925,25]
+Imari is clearly rattled.
+
+[MSG$00494B,52]
+Minase "Imari...You wouldn't be jealous, would you?"
+
+[MSG$004999,13]
+Imari "Huh?!"
+
+[MSG$0049F2,59]
+Imari "What are you talking about? In your dreams, Minase!"
+
+[MSG$004ADC,6]
+Smack!
+
+[MSG$004AEF,67]
+Still speaking, Imaki smacks my shoulder with the flat of her hand.
+
+[MSG$004B3F,54]
+My shoulder is killing me. The pain is unbelievable...
+
+[MSG$004B7A,61]
+Imari's totally lost it, and so she forgot to pull her punch.
+
+[MSG$004BC4,58]
+Imari "I can't keep up with your nonsense. I'm going now!"
+
+[MSG$004C18,99]
+Imari "Really, Minase, don't get all carried away by that letter. Get your butt to class, will you?
+
+[MSG$004C80,48]
+You know it's got to be some kind of sick joke!"
+
+[MSG$004CCA,91]
+With these words, Imari turns away from me in a huff, then stomps up the stairs by herself.
+
+[MSG$004D56,35]
+Minase "Jeez, what's your problem?"
+
+[MSG$004D93,19]
+The little freak...
+
+[MSG$004DAB,79]
+I rub my aching shoulder with one hand, and take a closer look at the envelope.
+
+[MSG$004E07,59]
+There's nothing written on the envelope except for my name.
+
+[MSG$004E47,48]
+I hold one end of the envelope, and rip it open.
+
+[MSG$004E84,63]
+Inside I find a single sheet of stationery. It's folded neatly.
+
+[MSG$004EC8,14]
+I take it out.
+
+[MSG$004EE3,18]
+It's a short note.
+
+[MSG$004EFA,45]
+This is what it said, in elegant handwriting.
+
+[MSG$004F34,12]
+Dear Minase,
+
+[MSG$004F45,112]
+I have something important I need to talk to you about. I'll be waiting for you behind the school at lunchtime."
+
+[MSG$004FBA,20]
+Please come...Rika."
+
+[MSG$004FDB,50]
+Rika...There's no question it's from Rika Shiraki.
+
+[MSG$00501A,37]
+It's a love letter from Rika Shiraki!
+
+[MSG$005044,42]
+Woo hoo! So the spell did work, after all!
+
+[MSG$00507B,101]
+Long live Satan! If it means results like this, I'd be happy to sell my soul to the Devil or whoever!
+
+[MSG$0050ED,60]
+Lunch, huh? She's asking me to meet her behind the school...
+
+[MSG$00512E,61]
+it must be some declaration of love that's in store for me...
+
+[MSG$005178,19]
+April 23 - Daydream
+
+[MSG$005343,51]
+Shiraki "Minase...I have to tell you...I love you!"
+
+[MSG$005390,72]
+We gaze at each other...We can only see each other and nothing else now.
+
+[MSG$0053E5,33]
+Minase "I love you, too, Rika..."
+
+[MSG$005420,30]
+Shiraki "That makes me happy!"
+
+[MSG$005458,9]
+(squeeze)
+
+[MSG$00546E,39]
+We hug each other fiercely, and then...
+
+[MSG$0054A2,24]
+Minase "Can I kiss you?"
+
+[MSG$0054D4,23]
+I whisper into her ear.
+
+[MSG$0054F8,16]
+Shiraki "Yes..."
+
+[MSG$005522,28]
+She answers me in a whisper.
+
+[MSG$00554B,43]
+I bring my mouth ever closer to her lips...
+
+[MSG$005583,16]
+Minase "Mmmm..."
+
+[MSG$0056C1,35]
+Saeki "What are you doing, Minase?"
+
+[MSG$0056FE,22]
+I come to all at once.
+
+[MSG$005719,78]
+Saeki is standing in front of me. She's looking at me as if I were some idiot.
+
+[MSG$005774,33]
+Saeki "You'd better watch out..."
+
+[MSG$0057AF,41]
+Saeki "Because you look really stupid..."
+
+[MSG$0057F2,46]
+That's all she says as she walks quickly away.
+
+[MSG$00582D,4]
+Doh!
+
+[MSG$00583E,68]
+She's the last person in the world I would've wanted as an audience.
+
+[MSG$00588F,68]
+Oh, well. Right now I could care less about what Saeki thinks of me.
+
+[MSG$0058D8,47]
+I'm just really looking forward to lunchtime...
+
+[MSG$005990,10]
+Door opens
+
+[MSG$0059A7,51]
+There are hardly any students in the classroom yet.
+
+[MSG$0059E7,64]
+I go to my seat and kill time until class starts by daydreaming.
+
+[MSG$005A34,18]
+..................
+
+[MSG$005A53,12]
+............
+
+[MSG$005A7D,10]
+Bell rings
+
+[MSG$005B24,39]
+.......................................
+
+[MSG$005B58,30]
+..............................
+
+[MSG$005B83,18]
+..................
+
+[MSG$005BA2,12]
+............
+
+[MSG$005BBB,6]
+......
+
+[MSG$005BCE,81]
+The last bell rings, signaling the end of my morning class.  It's time for lunch.
+
+[MSG$005C47,21]
+April 23 - Lunch hour
+
+[MSG$005D06,34]
+Imari "Let's have lunch together."
+
+[MSG$005D42,50]
+So saying, Imari brings her chair over to my desk.
+
+[MSG$005D79,60]
+She's got a little lunchbox wrapped in a cute-looking cloth.
+
+[MSG$005DC2,46]
+I have no choice but to have lunch with Imari.
+
+[MSG$005DF5,58]
+Needless to say, I'm doing her a favor by eating with her,
+
+[MSG$005E34,72]
+so I'm not going to forget to try and get some kind of reward out of it.
+
+[MSG$005F06,18]
+Imari "Let's eat!"
+
+[MSG$005F32,63]
+Imari and I both eat from our respective lunchboxes in silence.
+
+[MSG$005F7E,51]
+But I don't forget to keep an eye on Imari's lunch.
+
+[MSG$005FB6,95]
+I decide on what I'm going to steal, then reach over with my chopsticks when she's not looking.
+
+[MSG$006022,15]
+Swoosh...munch!
+
+[MSG$00603E,23]
+Imari "It's good, huh?"
+
+[MSG$00606F,18]
+She didn't notice.
+
+[MSG$006086,51]
+I get carried away and settle on another objective.
+
+[MSG$0060C6,15]
+Swoosh...munch!
+
+[MSG$0060E2,12]
+Imari "Huh?"
+
+[MSG$006108,22]
+Munch, munch, munch...
+
+[MSG$00612B,47]
+Imari "Hey, you're eating my food, aren't you?"
+
+[MSG$006174,21]
+Minase "No, I'm not."
+
+[MSG$0061A3,57]
+Imari "Liar. Then show me what you've got in your mouth."
+
+[MSG$0061F6,22]
+Munch, munch, munch...
+
+[MSG$006219,80]
+In a rush, I chew up what I've stolen, and open my mouth for Imari's inspection.
+
+[MSG$006276,14]
+Minase "Ah..."
+
+[MSG$00629E,45]
+Imari "Hey, don't show me your filthy mouth!"
+
+[MSG$00637A,6]
+Smack!
+
+[MSG$00638D,76]
+Imari shouts upon seeing the unidentifiable, chewed-up mess inside my mouth.
+
+[MSG$0063DE,76]
+How rude. She's the one who told me to show her. She doesn't have to hit me!
+
+[MSG$006437,46]
+Anyway, our fun-filled lunchtime is soon over,
+
+[MSG$00646A,77]
+and as soon as I've cleared my desk I leave the room to go to the bathroom...
+
+[MSG$00656F,19]
+Takashiro "Minase!"
+
+[MSG$00659C,75]
+I'm walking down the hall when I hear a voice. It belongs to Ms. Takashiro.
+
+[MSG$0065F4,28]
+Minase "Yes, Ms. Takashiro?"
+
+[MSG$00662A,65]
+Takashiro looks straight into my eyes and begins to speak slowly.
+
+[MSG$006678,103]
+Takashiro "Minase, is it true you've recently started practicing something like Black Magic at school?"
+
+[MSG$0066F9,89]
+Because of the incident with Murai yesterday, some rumors had started among the students,
+
+[MSG$006757,63]
+but I had no idea the teachers had already heard about it, too.
+
+[MSG$0067A3,89]
+Takashiro "I don't approve of people doing such things at school, even if it's a joke..."
+
+[MSG$006816,91]
+She says this with a serious look on her face. It was far from her usual cheery expression.
+
+[MSG$00687E,32]
+Minase "Sorry, I'll be careful."
+
+[MSG$0068B8,32]
+I apologize like a good student.
+
+[MSG$0068DD,79]
+I'm a little irritated that I'm being reproached like this...it's just a rumor,
+
+[MSG$006931,69]
+and no one can even prove it. But I just didn't feel like protesting.
+
+[MSG$006983,21]
+Minase "Is that all?"
+
+[MSG$0069B2,21]
+Takashiro "Um...yes."
+
+[MSG$0069E1,46]
+I look away from Takashiro, and walk past her.
+
+[MSG$006A1C,17]
+Takashiro "Wait."
+
+[MSG$006A47,43]
+I stop when I hear her calling to me again.
+
+[MSG$006A7F,41]
+Takashiro "Oh, it's nothing. Never mind."
+
+[MSG$006AC2,77]
+She looks a little conflicted, but then she shakes her head as she says this.
+
+[MSG$006B1C,76]
+Takashiro "If there's anything I can do, just let me know. I'll help you..."
+
+[MSG$006B82,84]
+I'm a little suspicious of Takashiro, but I just bow my head slightly and walk away.
+
+[MSG$006BDB,45]
+Takashiro was acting a little weird just now.
+
+[MSG$006C0D,93]
+It's not like her to be so hyper-sensitive over something trivial like rumors of Black Magic.
+
+[MSG$006C7D,21]
+April 23 - Lunch hour
+
+[MSG$006D19,68]
+As soon as the lunchtime bell rings, I start to leave the classroom.
+
+[MSG$006D62,73]
+Of course I'm on my way to meet Rika Shiraki, who wrote me that letter...
+
+[MSG$006DEA,44]
+Imari "Where are you off to in such a rush?"
+
+[MSG$006E30,67]
+Already the meddling Imari is trying to keep me away from my lover.
+
+[MSG$006E80,60]
+She's got a little lunchbox wrapped in a cute-looking cloth.
+
+[MSG$006EC1,47]
+I guess she's planning to have lunch with me...
+
+[MSG$006EFD,46]
+Minase "I'm gonna go get something for lunch."
+
+[MSG$006F45,37]
+Imari "You didn't bring lunch today?"
+
+[MSG$006F84,30]
+Of course I have it in my bag.
+
+[MSG$006FCF,42]
+Minase "Who wants to have lunch with YOU?"
+
+[MSG$007013,59]
+Ha, ha, ha, I said it. Now at least she'll get the message.
+
+[MSG$00708D,12]
+Imari "Huh?"
+
+[MSG$0070B3,42]
+Imari turns red and stares at me in shock.
+
+[MSG$0070E2,43]
+The lunchbox in her hands starts to quiver.
+
+[MSG$00711A,71]
+Imari "Oh, yeah? Well, listen up, I'M withdrawing the offer right now!"
+
+[MSG$00719F,86]
+Imari spits these words out at me, plops down in her own seat and starts eating alone.
+
+[MSG$007202,32]
+Maybe I was a little too mean...
+
+[MSG$00722F,62]
+This thought went through my head, but I left the room anyway.
+
+[MSG$00727A,11]
+Imari "..."
+
+[MSG$007292,16]
+Imari "...Jerk."
+
+[MSG$0072C7,60]
+Minase "I feel like having lunch in the dinning hall today."
+
+[MSG$00731D,30]
+Imari "What about your lunch?"
+
+[MSG$007355,28]
+Minase "I'll have it later."
+
+[MSG$0073BD,31]
+Imari "Why are you doing this?"
+
+[MSG$0073F6,12]
+Minase "..."
+
+[MSG$00740F,87]
+Dammit, Imari's not going to back down without a fight. But I don't have time for this.
+
+[MSG$007473,34]
+Minase "Hey, it's a free country."
+
+[MSG$0074AF,53]
+Leaving her with these words, I dash out of the room.
+
+[MSG$0074E9,79]
+If I let Imari keep up with her relentless questioning, lunchtime will be over.
+
+[MSG$007545,28]
+Imari "Gosh! I mean really!"
+
+[MSG$007626,19]
+Takashiro "Minase?"
+
+[MSG$007653,75]
+I'm walking down the hall when I hear a voice. It belongs to Ms. Takashiro.
+
+[MSG$0076AB,28]
+Minase "Yes, Ms. Takashiro?"
+
+[MSG$0076E1,65]
+Takashiro looks straight into my eyes and begins to speak slowly.
+
+[MSG$00772F,103]
+Takashiro "Minase, is it true you've recently started practicing something like Black Magic at school?"
+
+[MSG$0077B0,84]
+After the incident with Murai yesterday, some rumors had started among the students,
+
+[MSG$007809,63]
+but I had no idea the teachers had already heard about it, too.
+
+[MSG$007855,89]
+Takashiro "I don't approve of people doing such things at school, even if it's a joke..."
+
+[MSG$0078C8,91]
+She says this with a serious look on her face. It was far from her usual cheery expression.
+
+[MSG$007930,32]
+Minase "Sorry, I'll be careful."
+
+[MSG$00796A,32]
+I apologize like a good student.
+
+[MSG$00798F,79]
+I'm a little irritated that I'm being reproached like this...it's just a rumor,
+
+[MSG$0079E3,69]
+and no one can even prove it. But I just didn't feel like protesting.
+
+[MSG$007A35,21]
+Minase "Is that all?"
+
+[MSG$007A64,21]
+Takashiro "Um...yes."
+
+[MSG$007A93,46]
+I look away from Takashiro, and walk past her.
+
+[MSG$007ACE,17]
+Takashiro "Wait."
+
+[MSG$007AF9,43]
+I stop when I hear her calling to me again.
+
+[MSG$007B31,41]
+Takashiro "Oh, it's nothing. Never mind."
+
+[MSG$007B74,77]
+She looks a little conflicted, but then she shakes her head as she says this.
+
+[MSG$007BCE,76]
+Takashiro "If there's anything I can do, just let me know. I'll help you..."
+
+[MSG$007C34,84]
+I'm a little suspicious of Takashiro, but I just bow my head slightly and walk away.
+
+[MSG$007C8D,45]
+Takashiro was acting a little weird just now.
+
+[MSG$007CBF,93]
+It's not like her to be so hyper-sensitive over something trivial like rumors of Black Magic.
+
+[MSG$007D29,28]
+April 23 - Behind the School
+
+[MSG$007DD0,47]
+I walk towards the rear of the school building.
+
+[MSG$007E0C,83]
+Behind the school building...what better place than that to do something in secret?
+
+[MSG$007E64,74]
+To prove my point, there are squashed cigarette butts all over the ground.
+
+[MSG$007EBB,106]
+Cigarettes aren't a big deal, though. These days I hear there are students who do drugs on school grounds.
+
+[MSG$007F32,42]
+I look around, searching for Rika Shiraki.
+
+[MSG$007F69,22]
+Minase "Where is she?"
+
+[MSG$007F99,36]
+I don't see anyone who could be her.
+
+[MSG$007FC2,26]
+Was it just a prank, then?
+
+[MSG$007FE1,60]
+No, it couldn't be. That would be too much of a coincidence.
+
+[MSG$00802A,19]
+Shiraki "Minase..."
+
+[MSG$008057,35]
+I hear a voice and turn towards it.
+
+[MSG$008087,67]
+I see Rika Shiraki quietly emerge from the shadows of the building.
+
+[MSG$008111,46]
+Fidgeting all the while, she walks towards me.
+
+[MSG$008144,40]
+She blushes as her eyes flick toward me.
+
+[MSG$008179,63]
+She's like a different person than the one I met the other day.
+
+[MSG$0081C5,59]
+Her feminine gestures make her the total opposite of Imari,
+
+[MSG$008205,45]
+who doesn't have a charming bone in her body.
+
+[MSG$008237,75]
+I hang out with Imari everyday and she's definitely not naive like Shiraki.
+
+[MSG$00828F,63]
+Shiraki "I'm sorry...asking you in a letter to meet me here..."
+
+[MSG$0082E8,64]
+Being called out by a girl so she can confess her love to you...
+
+[MSG$00832D,43]
+It's the perfect beginning to a love story.
+
+[MSG$008365,72]
+I used to scoff at this kinda stuff, believing it only existed in manga,
+
+[MSG$0083B2,51]
+but now that it's happened to me I kind of like it.
+
+[MSG$0083F2,63]
+And since the girl in question is none other than Rika Shiraki,
+
+[MSG$008436,72]
+the most popular girl in the whole school, I appreciate it all the more.
+
+[MSG$00848B,29]
+Minase "That's cool. Really."
+
+[MSG$0084C2,55]
+Minase "So, what is it you wanted to talk to me about?"
+
+[MSG$008513,90]
+Even though I know what her answer is going to be, I ask her the question in a calm voice.
+
+[MSG$00857A,23]
+Shiraki "Minase...I..."
+
+[MSG$0085AB,31]
+Shiraki "I'm in love with you!"
+
+[MSG$0085E4,64]
+Shiraki fixes me with a burning gaze, and blurts out her answer.
+
+[MSG$008631,7]
+Gulp...
+
+[MSG$008645,62]
+The instant I hear her words, they rip right through my heart.
+
+[MSG$008688,109]
+Even though I had a pretty good idea what she was going to say, hearing her actually say it was overwhelming.
+
+[MSG$008702,101]
+If I didn't know it was caused by the magic spell, I'd probably piss my pants from elation right now.
+
+[MSG$008774,118]
+Shiraki "I have no idea why, but for some reason I just haven't been able to stop thinking about you since yesterday."
+
+[MSG$008804,38]
+So she feels that strongly about me...
+
+[MSG$00882F,38]
+In a case like this, it wouldn't be...
+
+[MSG$008862,84]
+Shiraki "Just thinking about you makes me feel as though my heart's going to burst."
+
+[MSG$0088D0,31]
+Shiraki "Like right now...see?"
+
+[MSG$008909,85]
+So saying, she takes my hand in her own, and presses it hard against her left breast.
+
+[MSG$0089E7,7]
+squeeze
+
+[MSG$0089FB,11]
+Minase "?!"
+
+[MSG$008A13,16]
+What's going on?
+
+[MSG$008A30,72]
+I'm taken aback by what's just happened. Is this part of the spell, too?
+
+[MSG$008A7D,86]
+I can feel her pounding pulse beneath my hand, placed so firmly over her ample breast.
+
+[MSG$008AE0,84]
+It feels so soft...There's no question that at this moment I'm clutching her breast.
+
+[MSG$008B41,65]
+She pays no attention to me even as I stand there, flabbergasted.
+
+[MSG$008B8F,16]
+Shiraki "Do me!"
+
+[MSG$008BB9,7]
+Huh...?
+
+[MSG$008BCD,40]
+Shiraki "I want you to do me right now!"
+
+[MSG$008C0F,19]
+Shiraki "Screw me!"
+
+[MSG$008C3C,11]
+What the...
+
+[MSG$008C54,66]
+I'm so shocked by Shiraki's words that I nearly faint right there.
+
+[MSG$008CA3,110]
+I never once dreamed that Shiraki would ever say something like that to me. Although it is a welcome surprise.
+
+[MSG$008D1E,63]
+Minase "Well, I can't just do you all of a sudden, you know..."
+
+[MSG$008D77,72]
+But I'm at a total loss as to what to do; things are happening too fast.
+
+[MSG$008DC4,98]
+I never imagined something like this ever happening, so it's hard for me to find the words to say.
+
+[MSG$008E33,106]
+Who would've thought that Rika Shiraki, Miss Pure, would demand sex right after confessing her love to me?
+
+[MSG$008EAA,42]
+Shiraki "You don't want to do it with me?"
+
+[MSG$008EEE,52]
+Shiraki says this with a sorrowful look in her eyes.
+
+[MSG$008F2F,63]
+Minase "I never said that! Of course I want to do it with you."
+
+[MSG$008F88,17]
+Shiraki "Really?"
+
+[MSG$008FB3,14]
+Minase "Yeah."
+
+[MSG$008FDB,30]
+Shiraki "That makes me happy."
+
+[MSG$009013,46]
+She looks radiant with joy when she says this.
+
+[MSG$009046,67]
+I never knew that magic could change a person's feelings this much.
+
+[MSG$009096,39]
+Shiraki "Then, let's do it. Right now."
+
+[MSG$0090D7,5]
+Huh?!
+
+[MSG$0090EB,41]
+Minase "Right now? You mean, right here?"
+
+[MSG$00912E,69]
+Shiraki "I can't wait any longer. I've been all wet since yesterday!"
+
+[MSG$00918D,22]
+Shiraki "See? Look..."
+
+[MSG$00923D,68]
+So saying, she grabs onto the hem of her skirt, and flips it upward.
+
+[MSG$00928E,7]
+Gulp...
+
+[MSG$0092A2,68]
+I can see her pale thighs; her white underwear is digging into them.
+
+[MSG$0092F3,84]
+And it's all sticky and wet from her fluids, right at the slight bulge of her vulva.
+
+[MSG$009354,95]
+It's gone beyond the point of dampening her underwear...it's dripping down her thighs in globs.
+
+[MSG$0093C0,108]
+Even from where I'm standing watching her, I can smell a strong feminine scent coming from between her legs.
+
+[MSG$009439,54]
+Shiraki "It's all your fault...do something about it!"
+
+[MSG$009489,67]
+I stare at her and try with all my might not to reach for my groin.
+
+[MSG$0094D1,85]
+To tell you the truth, ever since I squeezed her breasts my prick has been throbbing.
+
+[MSG$009533,43]
+Minase "Okay, okay. Let's do it right now."
+
+[MSG$009578,77]
+Minase "But we can't do it here. We've got to go somewhere we won't be seen."
+
+[MSG$0095DF,59]
+Letting my desire lead me on, I take her to the nearby gym.
+
+[MSG$00961F,59]
+I'm sure nobody will be coming into the storage room there.
+
+[MSG$009667,14]
+April 23 - Gym
+
+[MSG$0096F4,56]
+Shiraki and I slip into the gym. Luckily no one's there.
+
+[MSG$009739,22]
+Minase "Are you okay?"
+
+[MSG$009769,90]
+I'm worried about Shiraki, who keeps looking behind her as I pull her forward by the hand.
+
+[MSG$009802,16]
+Shiraki "Yes..."
+
+[MSG$00982C,24]
+She blushes as she nods.
+
+[MSG$009849,70]
+Already the juice from between her legs is dripping around her ankles.
+
+[MSG$00989C,12]
+Door opening
+
+[MSG$009931,65]
+I slowly open the steel door to the storage room next to the gym.
+
+[MSG$00997F,50]
+There are mats and vaults scattered around inside.
+
+[MSG$0099F0,98]
+I lead Shiraki inside, shut the door and lock it. Then I gently lay her down on the stack of mats.
+
+[MSG$009A5F,51]
+Minase "No one will be coming in here for a while."
+
+[MSG$009AAC,29]
+Shiraki "Hurry up and do me!"
+
+[MSG$009B85,71]
+Shiraki looks at me with plaintive eyes as she makes this appeal to me.
+
+[MSG$009BD9,63]
+I see no trace of her usual purity. She's like a bitch in heat.
+
+[MSG$009C25,88]
+I put my hands on her hips, and clumsily undo the hook and then the zipper of her skirt.
+
+[MSG$009C8A,83]
+She raises her hips without my asking, and I slide her skirt down and off her body.
+
+[MSG$009D73,45]
+Once again I stare at her exposed lower body.
+
+[MSG$009DAD,83]
+Her white panties look so pure...but almost as a contradiction to their appearance,
+
+[MSG$009E05,46]
+they're sopping wet, as if she's peed herself.
+
+[MSG$009E40,72]
+Minase "That's a lot of juice. You're a lot nastier than you look, huh?"
+
+[MSG$009EA2,31]
+Shiraki "I'm so embarrassed..."
+
+[MSG$009EDB,30]
+Hearing my words, she blushes.
+
+[MSG$009F06,74]
+I shove my face close to the wet area, and start sniffing that lewd smell.
+
+[MSG$009F5D,59]
+Shiraki "Stop it, I don't want you to smell me down there."
+
+[MSG$009FB2,42]
+There's a strong feminine odor down there.
+
+[MSG$009FE1,68]
+I don't care if she doesn't want me to...I go on enjoying the smell.
+
+[MSG$00A032,42]
+So Rika Shiraki is just another girl, huh?
+
+[MSG$00A069,33]
+Shiraki "Take off my top, too..."
+
+[MSG$00A0A4,65]
+I unbutton her blouse buttons one by one, and expose her breasts.
+
+[MSG$00A17B,97]
+Underneath her blouse I find a white bra matching her panties, containing a pair of huge breasts.
+
+[MSG$00A1E1,34]
+I stroke her breasts over her bra.
+
+[MSG$00A210,25]
+Shiraki "That tickles..."
+
+[MSG$00A243,77]
+Shiraki whispers this as she twists away. I ignore her and then grab her bra,
+
+[MSG$00A295,28]
+pulling her breasts upwards.
+
+[MSG$00A347,15]
+Shiraki "Ah..."
+
+[MSG$00A370,73]
+Freed from their constraints, her huge tits come tumbling out in a burst.
+
+[MSG$00A3BE,61]
+I see that her pinkish nipples are both standing straight up.
+
+[MSG$00A408,64]
+Minase "You've got perverted nipples, they're already standing!"
+
+[MSG$00A462,36]
+Shiraki "It's your fault, you know."
+
+[MSG$00A4A0,80]
+I waste no time and grab a handful of her soft breasts, and start massaging her.
+
+[MSG$00A4FD,72]
+I can feel the pleasing elasticity of her tits in the palms of my hands.
+
+[MSG$00A54A,53]
+They're pretty flexible and springy for their size...
+
+[MSG$00A58C,64]
+Shiraki "Don't tease me...hurry up and put your dick inside me."
+
+[MSG$00A5E6,79]
+I put my hands on her panties and start to remove her last article of clothing.
+
+[MSG$00A642,82]
+I grip her by the hips with both hands, and slowly tug down her panties, which are
+
+[MSG$00A699,33]
+|soaked with her bodily fluids...
+
+[MSG$00A6C7,55]
+When I've got them down to her ankles, I slip them off.
+
+[MSG$00A794,34]
+I turn my gaze towards her crotch.
+
+[MSG$00A7BB,78]
+This is the first time I've seen her pussy. It's still virginal and shapely...
+
+[MSG$00A816,79]
+Unable to hold back, I tear off her clothes, and jump on top of her naked body.
+
+[MSG$00A872,90]
+My prick has sprung erect in the direction of her naked body, and it's throbbing greedily.
+
+[MSG$00A8D1,45]
+We're both so aroused we can barely stand it.
+
+[MSG$00A90B,40]
+Shiraki "Your...your thing is so big..."
+
+[MSG$00A94D,36]
+Shiraki "And I want it inside me..."
+
+[MSG$00A98B,53]
+Shiraki is enraptured as she gazes at my erect penis.
+
+[MSG$00A9CD,58]
+Feeling her gaze on me, I thrust it against her wet vulva.
+
+[MSG$00AA9C,15]
+Shiraki "Oh..."
+
+[MSG$00AAC5,73]
+I stimulate her clit with the head of my prick, covering it in her juice.
+
+[MSG$00AB1B,23]
+Minase "Are you ready?"
+
+[MSG$00AB4C,46]
+Shiraki "Yes...stick it in as far as you can!"
+
+[MSG$00AB94,27]
+Minase "I'm coming in now."
+
+[MSG$00ABC9,105]
+I hear her answer and bring my prick to the opening of her vagina, and I slowly thrust my hips forward...
+
+[MSG$00AC3F,72]
+My swollen pink penis slowly shoves open her slit and gets buried inside
+
+[MSG$00AC8C,27]
+|her glistening wet vagina.
+
+[MSG$00AD3D,9]
+Thrusting
+
+[MSG$00AD53,19]
+Shiraki "Ugh...ah!"
+
+[MSG$00AD80,48]
+When I thrust forward, she trembles and shrieks.
+
+[MSG$00ADB5,35]
+I ignore her and go all the way in.
+
+[MSG$00ADE5,48]
+Her narrow vagina squeezes my prick mercilessly.
+
+[MSG$00AE1A,89]
+It's so tight that I wouldn't have been able to move at all if it wasn't for the wetness.
+
+[MSG$00AE80,52]
+Shiraki "I can feel your thing inside me, Minase..."
+
+[MSG$00AECE,30]
+Shiraki "It makes me happy..."
+
+[MSG$00AF06,48]
+Shiraki's eyes fill with tears as she says this.
+
+[MSG$00AF3B,48]
+Even if it's not true, right now I don't care...
+
+[MSG$00AF78,48]
+Forget the details, right now Shiraki is mine...
+
+[MSG$00AFB5,52]
+I dismiss all idle thoughts, and continue to thrust.
+
+[MSG$00AFF6,43]
+Shiraki "Mmm...mmm...I can feel it moving!"
+
+[MSG$00B03B,50]
+I can feel her around me as I begin to accelerate.
+
+[MSG$00B07A,105]
+I can feel intense shocks of pleasure all through my body as I go deeper inside Shiraki. If I lose focus,
+
+[MSG$00B0E8,29]
+I might come at any second...
+
+[MSG$00B112,59]
+Shiraki "Oh! Oh! It's my first time, but it feels so good!"
+
+[MSG$00B167,34]
+She says this as her breasts sway.
+
+[MSG$00B18E,87]
+It's hard to believe, but this is Shiraki's first time. Rather than finding it painful,
+
+[MSG$00B1EA,23]
+she's feeling pleasure.
+
+[MSG$00B20E,82]
+Realizing that I'm the one who took Shiraki's virginity gives me intense euphoria.
+
+[MSG$00B26D,55]
+Shiraki "Ah...ahhh...that's it...you can do it harder!"
+
+[MSG$00B2BE,50]
+At her request, I start gyrating my hips greedily.
+
+[MSG$00B2F5,54]
+She responds by moving her own hips in sync with mine.
+
+[MSG$00B338,28]
+Minase "(breathing heavily)"
+
+[MSG$00B36E,66]
+Our violent passion quickly brings me to the brink of ejaculation.
+
+[MSG$00B3BD,46]
+Minase "Oh, man...I can't hold it in anymore."
+
+[MSG$00B405,56]
+Shiraki "Wait for me...I'm almost about to come, too..."
+
+[MSG$00B457,47]
+Shiraki begs me to wait as she grinds her hips.
+
+[MSG$00B48B,69]
+She attempts to bring on her climax by speeding up her hip movements.
+
+[MSG$00B4DD,36]
+Squish...squish...squish...squish...
+
+[MSG$00B50E,97]
+The lewd, wet sound of our two bodies entwined together reverberates throughout the storage room.
+
+[MSG$00B57C,43]
+Minase "Don't grind so hard, or I'll...ah!"
+
+[MSG$00B5C1,55]
+Shiraki's so unrelenting that I can't stand it anymore.
+
+[MSG$00B5FD,37]
+I'm in danger of coming inside her...
+
+[MSG$00B62F,26]
+I hastily try to pull out.
+
+[MSG$00B656,43]
+Shiraki "No! I want you to come inside me!"
+
+[MSG$00B69B,30]
+Minase "But that's too risky."
+
+[MSG$00B6D3,22]
+Shiraki "I don't care!
+
+[MSG$00B723,29]
+This isn't good, after all...
+
+[MSG$00B745,77]
+The thought crosses my mind, and I try to withdraw my hips, ignoring Shiraki.
+
+[MSG$00B79F,13]
+Shiraki "No!"
+
+[MSG$00B7C6,82]
+Just then, Shiraki tries to stop me from pulling out by clamping down on my penis,
+
+[MSG$00B81D,32]
+all the while telling me ''No!''
+
+[MSG$00B84A,16]
+Minase "Augh..."
+
+[MSG$00B874,57]
+I moan when I feel the sudden tightening around my penis.
+
+[MSG$00B8B2,53]
+It nearly spills out, but I desperately hold it back.
+
+[MSG$00B8F4,56]
+Shiraki "Ahh...I'm going to come...I'm going to come..."
+
+[MSG$00B946,55]
+Shiraki "Minase, I want you to come with me right now!"
+
+[MSG$00B997,88]
+She pins me between her legs to keep me from escaping, and begins to grind her own hips.
+
+[MSG$00B9FC,38]
+Minase "I can't hold it in anymore..."
+
+[MSG$00BA3C,61]
+I know I can't escape this final ecstasy, and I brace myself.
+
+[MSG$00BA86,21]
+Shiraki "I'm coming!"
+
+[MSG$00BAB5,14]
+Minase "Ahhh!"
+
+[MSG$00BAE8,31]
+Minase "Well, if you insist..."
+
+[MSG$00BB21,73]
+So saying, I stop trying to hold it in, and start grinding my hips, hard.
+
+[MSG$00BB77,34]
+Shiraki "I'm coming...I'm coming!"
+
+[MSG$00BBB3,104]
+She has an enraptured look on her face, too. The intense pleasure of nearing climax is making her swoon.
+
+[MSG$00BC28,24]
+Minase "I'm gonna come!"
+
+[MSG$00BC5A,51]
+Shiraki "Come inside me! I want you to fill me up!"
+
+[MSG$00BCA7,14]
+Minase "Ahhh!"
+
+[MSG$00BCCF,35]
+At that moment, I go totally blank.
+
+[MSG$00BCFF,16]
+Shiraki "AHHHH!"
+
+[MSG$00BDA2,14]
+Ejaculating...
+
+[MSG$00BE36,26]
+White come shooting out...
+
+[MSG$00BE5D,92]
+My whole body is racked with spasms as I let loose with a shower of semen from the tip of my
+
+[MSG$00BEBE,32]
+|prick, still buried inside her.
+
+[MSG$00BEEB,26]
+White come shooting out...
+
+[MSG$00BF12,51]
+With each spasm, I spray an amazing amount of come.
+
+[MSG$00BF4A,57]
+Shiraki's in a daze, drunk on her first sexual encounter.
+
+[MSG$00BF90,28]
+Minase "(breathing heavily)"
+
+[MSG$00BFC6,95]
+I'm overwhelmed with the pleasure of having relieved myself. I withdraw my prick from her body.
+
+[MSG$00C0AB,15]
+Spurt, Spurt...
+
+[MSG$00C0C7,45]
+Shiraki "Unbelievable...you're still coming."
+
+[MSG$00C10E,55]
+I ejaculate another 2 or 3 times after I've pulled out.
+
+[MSG$00C14A,66]
+When I'm finally finished, I sink down on the floor in exhaustion.
+
+[MSG$00C199,25]
+Shiraki "It's so warm..."
+
+[MSG$00C1CC,74]
+The semen she's expelling from between her own legs continues to drip down
+
+[MSG$00C21B,25]
+|and pool onto the mat...
+
+[MSG$00C292,46]
+Shiraki "Thank you, Minase. That was amazing!"
+
+[MSG$00C2DA,79]
+Shiraki "But please don't despise me now. I'm not like this at all, usually..."
+
+[MSG$00C343,39]
+She looks embarrassed as she says this.
+
+[MSG$00C36F,97]
+Of course, I know better than anyone that it was my magic spell that caused her to act like that.
+
+[MSG$00C3DD,39]
+Minase "Of course I don't despise you."
+
+[MSG$00C41E,25]
+That's what I say to her.
+
+[MSG$00C43C,81]
+She gets up slowly, kneels on the mat, and starts gathering her wrinkled clothes.
+
+[MSG$00C517,50]
+Shiraki "Ugh...my underwear's all sticky and wet."
+
+[MSG$00C563,80]
+Shiraki sticks her tight little ass towards me as she looks at her wet underwear
+
+[MSG$00C5B8,44]
+|with an embarrassed expression on her face.
+
+[MSG$00C5F1,90]
+With her unprotected butt sticking out at me like that, I can see right up her tight anus.
+
+[MSG$00C658,70]
+As I stand looking at her, my deflated prick starts to swell up again.
+
+[MSG$00C6A3,56]
+After producing all that come...how can I have any left?
+
+[MSG$00C6E8,47]
+Shiraki "Oh...I'm overflowing with your semen."
+
+[MSG$00C731,65]
+Shiraki realizes that my come is still pouring out of her vagina.
+
+[MSG$00C77F,41]
+Shiraki "Huh? What's the matter, Minase?"
+
+[MSG$00C7C2,64]
+She notices that I'm staring at her lower body and asks me this.
+
+[MSG$00C82A,46]
+I get up and stand right behind Shiraki's ass.
+
+[MSG$00C8DE,15]
+Shiraki "Oh..."
+
+[MSG$00C907,46]
+She murmurs when she catches sight of my cock.
+
+[MSG$00C942,61]
+Minase "Just like you asked, I'm going to rip you to shreds."
+
+[MSG$00C999,15]
+Shiraki "What?"
+
+[MSG$00C9C2,33]
+So saying, I grab her by the ass.
+
+[MSG$00C9F0,15]
+Shiraki "Augh!"
+
+[MSG$00CA19,28]
+Shiraki "Not...not there..."
+
+[MSG$00CA5A,74]
+Minase "It's your fault for showing that to me...now I wanna do it again."
+
+[MSG$00CABE,33]
+I say this as I stare at her ass.
+
+[MSG$00CB65,15]
+Shiraki "What?"
+
+[MSG$00CB8E,44]
+Shiraki "Your dick...it's already so big..."
+
+[MSG$00CBD4,44]
+She whispers at the sight of my erect prick.
+
+[MSG$00CC0D,38]
+Minase "You said you liked me, right?"
+
+[MSG$00CC4D,16]
+Shiraki "Yes..."
+
+[MSG$00CC77,18]
+She nods her head.
+
+[MSG$00CC96,59]
+Shiraki "Go ahead...if that's what you want, I don't mind."
+
+[MSG$00CCEB,41]
+With that, she sticks her butt toward me.
+
+[MSG$00CD21,48]
+Shiraki "Go ahead, I'll let you ride my butt..."
+
+[MSG$00CDE4,54]
+I press my erect prick against her tight, closed anus.
+
+[MSG$00CE27,66]
+My prick is still sticky and wet from what we just finished doing,
+
+[MSG$00CE6E,34]
+so I might be able to force it in.
+
+[MSG$00CE9D,37]
+Minase "I'm gonna stick it in now..."
+
+[MSG$00CEDC,43]
+With that, I put all my force into my hips.
+
+[MSG$00CF0C,46]
+At that moment I try to force open her rectum.
+
+[MSG$00CF47,108]
+I push harder, trying to force open her anus with my swollen prick, which slowly starts to twist its way in.
+
+[MSG$00D039,18]
+Shiraki "(grunts)"
+
+[MSG$00D065,20]
+Shiraki "Ow...ouch!"
+
+[MSG$00D093,73]
+As I'm entering her, I can feel intense pleasure all throughout my penis.
+
+[MSG$00D0E1,72]
+It's sensitive from just having done it, so the stimulation's too great.
+
+[MSG$00D136,57]
+Shiraki "It's coming in...your prick's going up my butt!"
+
+[MSG$00D189,91]
+Shiraki's in a daze from pain and ecstasy, and it's taking everything she has to endure it.
+
+[MSG$00D1F1,97]
+By the time I get most of my cock up her ass, her anus is spread so wide it looks about to split.
+
+[MSG$00D25F,77]
+And it's a tighter fit than I imagined. The tip of my prick stings with pain.
+
+[MSG$00D2B9,25]
+Minase "It's all in now."
+
+[MSG$00D2EC,38]
+Minase "You're spread so wide here..."
+
+[MSG$00D32D,26]
+Shiraki "Don't tell me..."
+
+[MSG$00D361,58]
+Shiraki "It feels weird...but it does feel a little good."
+
+[MSG$00D3B5,29]
+She blushes as she says this.
+
+[MSG$00D3DF,99]
+Minase "If you can get aroused doing anal, does that mean you're always playing around down there?"
+
+[MSG$00D45C,45]
+Shiraki "I've never put anything up my butt."
+
+[MSG$00D4A3,56]
+It's a mean question, but she denies it with a red face.
+
+[MSG$00D4E8,36]
+Minase "I'm gonna start moving now."
+
+[MSG$00D526,35]
+Shiraki "Okay...not too fast, now."
+
+[MSG$00D563,59]
+I grab her by the ass, and start moving slowly in her anus.
+
+[MSG$00D5AB,37]
+Shiraki "Augh! Ohh...that's amazing."
+
+[MSG$00D5EA,50]
+Every move I make makes Shiraki writhe in ecstasy.
+
+[MSG$00D629,76]
+I'm ready to faint from the pleasure myself. If I don't stay focused I could
+
+[MSG$00D67A,20]
+|come at any moment.
+
+[MSG$00D69B,20]
+Slither...slither...
+
+[MSG$00D6BC,47]
+I watch as my prick goes in and out of her ass,
+
+[MSG$00D6F0,40]
+and the sweet pleasure washes over me...
+
+[MSG$00D725,64]
+And before even a minute has passed, I'm on the brink of coming.
+
+[MSG$00D772,38]
+Minase "I can't hold it in anymore..."
+
+[MSG$00D7B3,74]
+I move my hips slowly as I announce this to Shiraki, who's moaning softly.
+
+[MSG$00D80A,44]
+Shiraki "All right...you can come any time."
+
+[MSG$00D851,53]
+As soon as I hear her say this, I reach my threshold.
+
+[MSG$00D88B,24]
+I can't take it anymore.
+
+[MSG$00D8B0,14]
+Minase "Whoa!"
+
+[MSG$00D8D8,37]
+I come with my cock still up her ass.
+
+[MSG$00D9FC,22]
+Throb, throb, throb...
+
+[MSG$00DA1F,73]
+Even though I just ejaculated moments earlier, I come with intense force.
+
+[MSG$00DA75,23]
+Shiraki "Ow, it's hot!"
+
+[MSG$00DAA6,59]
+The moment I come, she flinches and then clenches her anus.
+
+[MSG$00DAEE,34]
+Shiraki "You're coming inside me!"
+
+[MSG$00DB2A,61]
+She clenches tightly, and my prick gets squeezed mercilessly.
+
+[MSG$00DB74,14]
+Minase "Augh!"
+
+[MSG$00DC25,68]
+I can barely take all the pleasure and this strange new stimulation.
+
+[MSG$00DC6E,69]
+My prick is ejected all the way out of her anus when she tightens up.
+
+[MSG$00DCC0,16]
+Spurt...splat...
+
+[MSG$00DCDD,68]
+There's still a heavy stream of semen spurting from my ousted prick.
+
+[MSG$00DDB7,6]
+Splat!
+
+[MSG$00DDCA,67]
+Shiraki is getting showered with my come. Her anus opens up weakly,
+
+[MSG$00DE12,60]
+and there's the sound of all the pent-up semen spraying out.
+
+[MSG$00DE5B,20]
+Shiraki "Oh...oh..."
+
+[MSG$00DE89,46]
+Shiraki's eyes are unfocused and she trembles.
+
+[MSG$00DEBC,48]
+I finish ejaculating and fall over onto the mat.
+
+[MSG$00DEF9,39]
+Shiraki's body is covered with my come.
+
+[MSG$00DF25,57]
+And there's thick semen dripping out of her two openings.
+
+[MSG$00DF6B,74]
+The storage room has gone silent. The only sound is that of our breathing.
+
+[MSG$00DFD7,14]
+April 23 - Gym
+
+[MSG$00E0F7,48]
+Shiraki "Listen...can I see you again sometime?"
+
+[MSG$00E141,66]
+Rika Shiraki asks me this as we leave the storage room in the gym.
+
+[MSG$00E190,85]
+True, I was the one who chose Shiraki, but now that I've done the deed I realize that
+
+[MSG$00E1EA,46]
+|I'm not seriously into Rika Shiraki at all...
+
+[MSG$00E225,110]
+This is just a temporary love affair, brought on by a spell. I'm well aware that Shiraki's words aren't coming
+
+[MSG$00E298,100]
+|from her heart. No matter how attractive she might be, I still can't take such a farce seriously...
+
+[MSG$00E309,60]
+I just wanted Rika Shiraki because she was out of my league.
+
+[MSG$00E352,59]
+And once I finally had her, I soiled her with my own hands.
+
+[MSG$00E392,48]
+She and I had sex, there was nothing more to it.
+
+[MSG$00E3CF,72]
+After the sex, all that was left for me was a sinking, hollow feeling...
+
+[MSG$00E424,29]
+Minase "Sure. I'll call you."
+
+[MSG$00E45B,74]
+I'm careful to hide my feelings from her, and just give her the runaround.
+
+[MSG$00E4B2,39]
+Shiraki "Okay...I'll be waiting, then."
+
+[MSG$00E517,71]
+She sounds a little sad when she says this, and trudges out of the gym.
+
+[MSG$00E57C,19]
+(School bell rings)
+
+[MSG$00E59C,86]
+At that moment, the bell signaling the end of lunch hour sounds through the PA system.
+
+[MSG$00E5F7,59]
+Hearing the bell, I start slowly back toward my next class.
+
+[MSG$00E63F,21]
+April 23 - Lunch hour
+
+[MSG$00E6E7,71]
+I reach the class.  As I pass Imari's desk on the way to my own seat...
+
+[MSG$00E76D,71]
+Imari "Where the heck were you all this time? Class is about to start!"
+
+[MSG$00E7CE,52]
+Imari is staring at me with a cold look in her eyes.
+
+[MSG$00E80F,77]
+Why do I have to report everything I do and where I've been to Imari, anyway?
+
+[MSG$00E869,12]
+Imari "Huh?"
+
+[MSG$00E88F,22]
+Sniff, sniff, sniff...
+
+[MSG$00E8B2,44]
+She starts making sniffing sounds around me.
+
+[MSG$00E8EB,52]
+Minase "What's your problem, smelling me like that?"
+
+[MSG$00E939,38]
+Imari "Doesn't something smell funny?"
+
+[MSG$00E979,52]
+Imari "And there's the faint smell of perfume, too."
+
+[MSG$00E9C7,18]
+Damn, she's sharp!
+
+[MSG$00E9DE,23]
+I jerk away from Imari.
+
+[MSG$00E9FA,22]
+She's just like a dog.
+
+[MSG$00EA1D,95]
+I didn't notice it myself, but the scent might've gotten onto me from the act I just committed.
+
+[MSG$00EA89,80]
+Minase "You're imagining things. Anyhow, smelling someone is sexual harassment."
+
+[MSG$00EAF3,54]
+Imari "What? Why would I sexually harass YOU, Minase?"
+
+[MSG$00EB67,42]
+Imari goes back to her own seat in a huff.
+
+[MSG$00EB9E,85]
+After all is said and done, it's a lot easier for me to be with Imari than Shiraki...
+
+[MSG$00EC00,51]
+That's what goes through my mind as I take my seat.
+
+[MSG$00EC40,48]
+The teacher walks in just as I'm sitting down...
+
+[MSG$00EC7D,22]
+April 23 - After class
+
+[MSG$00ED82,27]
+The afternoon class begins.
+
+[MSG$00EDAA,39]
+.......................................
+
+[MSG$00EDDE,30]
+..............................
+
+[MSG$00EE09,18]
+..................
+
+[MSG$00EE28,12]
+............
+
+[MSG$00EE41,6]
+......
+
+[MSG$00EE65,10]
+Bell rings
+
+[MSG$00EF00,61]
+The final bell rings, and I clear my desk and pick up my bag.
+
+[MSG$00EF7C,15]
+Saeki "Minase?"
+
+[MSG$00EFA5,64]
+Her voice gives me a start, and I instantly shut my locker door.
+
+[MSG$00EFF2,58]
+I look over and see that it's Kaori Saeki who spoke to me.
+
+[MSG$00F031,63]
+Uh-oh. If she saw what I have in my bag there could be trouble.
+
+[MSG$00F07D,26]
+Minase "What do you want?"
+
+[MSG$00F0B1,70]
+I ask Saeki this, since it's rare for her to come over and talk to me.
+
+[MSG$00F0FC,33]
+She might be mad about yesterday.
+
+[MSG$00F12A,45]
+Saeki "Do you have any plans this afternoon?"
+
+[MSG$00F171,18]
+Minase "How come?"
+
+[MSG$00F19D,58]
+Saeki "I was wondering if you'd come with me somewhere..."
+
+[MSG$00F1F1,38]
+Saeki fixes me with a meaningful gaze.
+
+[MSG$00F224,57]
+Who knew this girl would ask me to go somewhere with her?
+
+[MSG$00F262,65]
+|Let's just hope she's not planning to wreak some kind of revenge
+
+[MSG$00F2A8,34]
+|on me for yesterday's incident...
+
+[MSG$00F2F7,23]
+Minase "Sure, why not?"
+
+[MSG$00F328,28]
+I accept Saeki's invitation.
+
+[MSG$00F349,99]
+I don't know what she has in mind, but I might as well share the company of freaks once in a while.
+
+[MSG$00F3B9,25]
+Saeki "Really? I'm glad."
+
+[MSG$00F3EC,48]
+Saeki "All right, then, let's go home together."
+
+[MSG$00F436,31]
+Minase "So where are we going?"
+
+[MSG$00F46F,33]
+Saeki "I'll tell you on the way."
+
+[MSG$00F4AA,77]
+So saying, Saeki picks up her bag and starts to walk briskly out of the room.
+
+[MSG$00F504,21]
+Saeki "Let's be off."
+
+[MSG$00F557,30]
+How self-centered can you get?
+
+[MSG$00F57A,45]
+This is precisely why I don't like this girl.
+
+[MSG$00F5AC,77]
+I have no choice but to hastily grab my stuff and follow her out of the room.
+
+[MSG$00F638,48]
+Imari "Where do you think you're going, Minase?"
+
+[MSG$00F682,51]
+As I'm about to leave my desk, Imari pounces on me.
+
+[MSG$00F6BA,33]
+I can't believe how quick she is.
+
+[MSG$00F6E8,104]
+Imari "We have a club meeting today! But here you are with your bag...don't tell me you were thinking of
+
+[MSG$00F755,13]
+|going home!"
+
+[MSG$00F77C,71]
+Imari fixes me with a piercing gaze as she speaks. She's on the attack.
+
+[MSG$00F7D0,37]
+Minase "I've got things to do today."
+
+[MSG$00F80F,60]
+I know it's not going to hold any water but I say it anyway.
+
+[MSG$00F850,77]
+I don't have a chance in hell of escaping Imari with a lame excuse like that.
+
+[MSG$00F8AA,106]
+Imari "Something to do, huh? You really think you're going to get away with something so lame every time?"
+
+[MSG$00F92E,34]
+She's determined not to let me go.
+
+[MSG$00F95D,82]
+Saeki's been waiting outside the room, but she comes back in and walks towards us.
+
+[MSG$00FA12,43]
+Saeki "What's going on? Come on, let's go."
+
+[MSG$00FA57,43]
+She shoves her way in between Imari and me.
+
+[MSG$00FA8F,35]
+Imari "What's your problem, Saeki?"
+
+[MSG$00FACC,78]
+Since she doesn't know what's going on, Imari is at a loss when Saeki appears.
+
+[MSG$00FB27,68]
+Saeki "Sorry, but I've got dibs on him today, Imari. Right, Minase?"
+
+[MSG$00FB85,65]
+So saying, Saeki signals to me with a seductive look in her eyes.
+
+[MSG$00FBD3,21]
+Minase "Yeah...sure."
+
+[MSG$00FC02,33]
+Imari "What's going on, you two?"
+
+[MSG$00FC3E,58]
+Imari has no idea what's going on. She's totally confused.
+
+[MSG$00FC85,26]
+Saeki "Come on, let's go."
+
+[MSG$00FCB9,49]
+Saeki takes my hand and starts to leave the room.
+
+[MSG$00FDA1,42]
+Imari "Hey...wait! Just hold on a minute!"
+
+[MSG$00FDE5,107]
+Not to be outdone, Imari grabs my hand too. Imari's strong like an ox, and Saeki has no chance against her.
+
+[MSG$00FE55,90]
+I'm being pulled by two girls. I don't know what to do. Just for today, I'm Mr. Popular...
+
+[MSG$00FEBC,31]
+Imari "Come on, now, let's go."
+
+[MSG$00FEF5,16]
+Imari "Come on!"
+
+[MSG$00FF1F,8]
+Squeeze!
+
+[MSG$00FF34,22]
+Minase "Hey, come on!"
+
+[MSG$00FF64,47]
+Ignoring me, Imari continues to jerk on my arm.
+
+[MSG$00FFA0,11]
+Saeki "Oh!"
+
+[MSG$00FFC5,60]
+Saeki can't withstand Imari's power, and lets go of my hand.
+
+[MSG$01000E,36]
+Imari drags me towards the Art Room.
+
+[MSG$010063,20]
+Saeki "Really, now!"
+
+[MSG$0100C3,42]
+Saeki "Well, I'm not giving up, you know!"
+
+[MSG$010112,40]
+Minase "Sorry. I've got a club meeting."
+
+[MSG$010154,31]
+I turn down Saeki's invitation.
+
+[MSG$010180,62]
+There's something fishy about her asking me to go somewhere...
+
+[MSG$0101C3,45]
+I'm sure she's got some scheme up her sleeve.
+
+[MSG$0101FD,26]
+I'd better be on my guard.
+
+[MSG$010224,48]
+Saeki "Oh, come on, can't you miss the meeting?"
+
+[MSG$01026E,100]
+She makes it sound so easy, but if it really were that easy to miss meetings I'd have quit long ago.
+
+[MSG$0102DF,50]
+Minase "My life would be a lot easier if I could."
+
+[MSG$01032B,23]
+I say this with a sigh.
+
+[MSG$0103A5,21]
+Imari "That's right."
+
+[MSG$0103D4,76]
+I don't know where she came from, but suddenly Imari is standing between us.
+
+[MSG$01042D,40]
+Imari "Okay, come on, let's go, Minase."
+
+[MSG$01046F,26]
+Imari "Come on, hurry up!"
+
+[MSG$0104A3,33]
+Minase "Hey...hold on, will you?"
+
+[MSG$010502,47]
+Ignoring me, Imari continues to jerk on my arm.
+
+[MSG$010536,59]
+I find myself being dragged toward the Art Room by Imari...
+
+[MSG$0105B0,22]
+Saeki "Really, now..."
+
+[MSG$0105E0,30]
+Saeki "But I'm not giving up!"
+
+[MSG$010618,19]
+April 23 - Art Room
+
+[MSG$01071A,53]
+Imari "What was Saeki talking to you about just now?"
+
+[MSG$010769,43]
+Minase "Nothing. Nothing worth mentioning."
+
+[MSG$0107AE,17]
+Imari "Really..."
+
+[MSG$0107D9,48]
+Imari has a look of utter disbelief in her eyes.
+
+[MSG$010816,36]
+Imari "Hey, are you free on Sunday?"
+
+[MSG$010854,111]
+Imari suddenly asks me this as I'm struggling in front of my canvas, my pitiful imagination and artistic talent
+
+[MSG$0108C8,25]
+|working at full blast...
+
+[MSG$0108EE,90]
+I do have the presence of mind to whisk the canvas out of the way before Imari can see it.
+
+[MSG$010955,37]
+Minase "What's this all of a sudden?"
+
+[MSG$010994,54]
+Imari "Nothing. If you're not free, then no big deal."
+
+[MSG$0109E4,43]
+Minase "I don't have any plans. What's up?"
+
+[MSG$010A29,98]
+Imari "Well, it's just...it would be nice to hang out when we don't have school, don't you think?"
+
+[MSG$010AA5,52]
+Imari looks a little embarrassed when she says this.
+
+[MSG$010AE6,51]
+Could it be she's actually asking me out on a date?
+
+[MSG$010B26,9]
+Shiver...
+
+[MSG$010B3C,63]
+No way. Imari and I have never, ever gone out on a date before.
+
+[MSG$010B80,52]
+I mean, we're not even in that kind of relationship.
+
+[MSG$010BC1,16]
+This is weird...
+
+[MSG$010BD6,49]
+Did she eat something that didn't agree with her?
+
+[MSG$010C14,93]
+Minase "What's gotten into you? I mean, okay, so we'll meet up, but what are we going to do?"
+
+[MSG$010C8B,34]
+Imari "You'll find out on Sunday."
+
+[MSG$010CC7,57]
+Imari "And anyway, if I told you now, you wouldn't come."
+
+[MSG$010D1A,95]
+I don't like the sound of that...I hope she's not planning to take me somewhere really weird...
+
+[MSG$010D86,108]
+Maybe Imari's fallen into the hands of some religious cult, and she's planning to take me there on Sunday...
+
+[MSG$010DFF,88]
+And maybe she and the crazy cult leader, who's probably going to be calling himself God,
+
+[MSG$010E5C,35]
+are going to try to brainwash me...
+
+[MSG$010E8C,54]
+Terrifying...just the thought of that is terrifying...
+
+[MSG$010EC7,51]
+If that's the case, then I'll have to rescue Imari.
+
+[MSG$010F07,76]
+Minase "Imari, just don't get involved with any religious cults, all right?"
+
+[MSG$010F6D,53]
+Imari "Huh? What in the world are you talking about?"
+
+[MSG$010FBC,96]
+Imari "Is this another one of your daydreams? I really think you should try to kick that habit."
+
+[MSG$011036,23]
+Oh, so it's not a cult.
+
+[MSG$011052,33]
+Then I wonder what she's up to...
+
+[MSG$011093,63]
+Could it be that maybe the magic spell is belatedly kicking in?
+
+[MSG$0110D7,57]
+But if that's the cause, then the effects are too feeble.
+
+[MSG$01111D,41]
+Imari "So anyway, we have a date, right?"
+
+[MSG$011160,39]
+Imari "Now don't forget and oversleep!"
+
+[MSG$0111A1,15]
+Minase "Right."
+
+[MSG$0111CA,67]
+After this conversation with Imari, I go back to work on my canvas.
+
+[MSG$011212,45]
+I don't have time for idle chatter like this.
+
+[MSG$01124C,106]
+My top priority is to somehow fix this terrifying portrait into something that the human eye can endure...
+
+[MSG$0112BB,75]
+But...but...for some reason, the more I try to fix it, the weirder it gets.
+
+[MSG$01138F,78]
+Finally the club meeting is over, and Imari and I leave the Art Room together.
+
+[MSG$0113E2,59]
+We change our shoes at our lockers, and leave the building.
+
+[MSG$011464,15]
+Saeki "Minase."
+
+[MSG$01148D,86]
+I look in the direction the voice came from. Kaori Saeki appears from behind a pillar.
+
+[MSG$0114E8,37]
+I didn't know Saeki was still here...
+
+[MSG$01151A,46]
+Minase "What are you doing here at this hour?"
+
+[MSG$011562,31]
+Saeki "I was waiting for  you."
+
+[MSG$01159B,69]
+Saeki "You'll come with me now that your meeting is over, won't you?"
+
+[MSG$0115FA,35]
+Was she waiting until now for that?
+
+[MSG$01162A,11]
+Imari "..."
+
+[MSG$011642,67]
+Imari stands next to me, watching with an annoyed look on her face.
+
+[MSG$01168A,18]
+There's tension...
+
+[MSG$0116A9,58]
+Minase "Sorry, but I already said I'd go home with Imari."
+
+[MSG$0116FD,44]
+Saeki "But I'm the one who asked you first."
+
+[MSG$011743,24]
+She's right, actually...
+
+[MSG$011760,81]
+And if she's been waiting all this time, then it must be pretty important, right?
+
+[MSG$0117F0,55]
+Imari "That's okay, go with her. Don't worry about me."
+
+[MSG$011841,37]
+Imari "I can just go home by myself."
+
+[MSG$011880,73]
+Unexpectedly, Imari breaks in, after listening to my exchange with Saeki.
+
+[MSG$0118CE,56]
+For some reason she doesn't sound as energetic as usual.
+
+[MSG$011913,21]
+Saeki "Sorry, Imari."
+
+[MSG$011942,49]
+Imari "No problem. We're always together anyway."
+
+[MSG$01198D,50]
+Imari "Okay, then, I'll see you tomorrow, Minase."
+
+[MSG$0119D9,14]
+Minase "Sure."
+
+[MSG$011A25,34]
+So saying, Imari trudges homeward.
+
+[MSG$011A86,74]
+Saeki "I feel kind of bad now, it's like I'm forcing you to come with me."
+
+[MSG$011AEA,47]
+What do you mean, ''like''? You ARE forcing me.
+
+[MSG$011B26,10]
+Oh well...
+
+[MSG$011B35,96]
+The way she's going, I just know she'll dog me forever, no matter how many times I blow her off.
+
+[MSG$011B9A,51]
+In that case I might as well just get it over with.
+
+[MSG$011BDA,29]
+So I leave campus with Saeki.
+
+[MSG$011C04,34]
+April 23 - Leave school with Saeki
+
+[MSG$011CC8,44]
+Saeki and I walk off campus, side by side...
+
+[MSG$011CF9,114]
+It feels unnatural and uncomfortable for me to be walking with Saeki along the same path I always take with Imari.
+
+[MSG$011D78,23]
+Minase "So, what's up?"
+
+[MSG$011DA9,55]
+I can't take it anymore that Saeki's holding out on me.
+
+[MSG$011DED,44]
+No way could this be a date, not with Saeki.
+
+[MSG$011E1E,68]
+What could this introverted Black Magic freak possibly want with me?
+
+[MSG$011E6F,45]
+Saeki "Well, I find you interesting, Minase."
+
+[MSG$011EB6,90]
+Minase "Huh? You said just the other day that you didn't like me. What's gotten into you?"
+
+[MSG$011F2A,36]
+Saeki "Yes, I suppose you're right."
+
+[MSG$011F68,68]
+Saeki "You ridiculed my magic. That's what I didn't like about you."
+
+[MSG$011FC6,77]
+Saeki "But now I know that you're the same as me. So I've changed my mind..."
+
+[MSG$01202D,83]
+Same...? Gimme a break. Why should I have to be lumped together with a magic freak?
+
+[MSG$01208D,67]
+Saeki "Besides, I'd like to know what made you change so suddenly."
+
+[MSG$0120EA,95]
+Saeki "Someone who declared he didn't believe in magic suddenly started practicing it one day."
+
+[MSG$012163,33]
+Saeki "But why? Tell me, Minase."
+
+[MSG$01219E,54]
+This girl wants me to tell her the secret of my power.
+
+[MSG$0121D9,105]
+So she wants to see that book of magic? Well, I'm sure someone like her would drool for a book like that.
+
+[MSG$0122CB,38]
+Saeki "Here we are. This is my house."
+
+[MSG$01230B,31]
+With that, Saeki stops walking.
+
+[MSG$01232F,70]
+The house looks brand new. I can see the name Saeki on the name plate.
+
+[MSG$012382,69]
+Saeki "You'll come in, won't you? I have a lot of questions for you."
+
+[MSG$0123E1,12]
+Minase "..."
+
+[MSG$0123FA,48]
+Saeki "No need to be shy. Nobody's home anyway."
+
+[MSG$012444,46]
+She goes inside without waiting for my answer.
+
+[MSG$012477,40]
+I have no choice but to follow her in...
+
+[MSG$01253D,65]
+I'm forcefully invited in, and she leads me upstairs to her room.
+
+[MSG$01258B,23]
+April 23 - Saeki's Room
+
+[MSG$012644,35]
+Saeki "Please don't mind the mess."
+
+[MSG$012681,66]
+The room I enter is just what you'd expect from a girl like Saeki.
+
+[MSG$0126C8,58]
+It's hard to believe it's the room of a girl my own age...
+
+[MSG$01270F,80]
+Imari's room has all sorts of stuffed animals and knick-knacks scattered around,
+
+[MSG$012764,48]
+whereas this room has no decorations whatsoever.
+
+[MSG$0127A1,54]
+It's just the kind of room you'd expect Saeki to have.
+
+[MSG$0127E4,35]
+I look around at my surroundings...
+
+[MSG$012814,42]
+There are piles of books scattered around.
+
+[MSG$012846,24]
+Candles of all colors...
+
+[MSG$01286E,31]
+Tools I can't readily identify.
+
+[MSG$012895,41]
+Bottles holding various kinds of incense.
+
+[MSG$0128CB,82]
+There are magic circles and charms taped to the walls, making it eerier than ever.
+
+[MSG$01292A,31]
+Minase "You've got good taste."
+
+[MSG$0129DF,106]
+I say this with an exasperated look on my face. I turn my gaze toward the huge bookshelf against the wall,
+
+[MSG$012A4E,35]
+and look at the books stored there.
+
+[MSG$012A7E,91]
+They say a look at someone's books will reveal that person's tastes and preferences, but...
+
+[MSG$012AE6,106]
+The shelves are jammed with thick books. Unlike my own bookshelves, there are no comic books or magazines.
+
+[MSG$012B5D,90]
+I look closer and see that there aren't just Japanese books; there are foreign books, too.
+
+[MSG$012C64,43]
+Saeki "What do you think of my collection?"
+
+[MSG$012CA9,85]
+She asks me this as I'm looking at her bookshelves. She's changed out of her uniform.
+
+[MSG$012D03,34]
+She seems very proud of her books.
+
+[MSG$012D32,86]
+I find a lot of the same titles that I borrowed from the library. But she has far more
+
+[MSG$012D8D,18]
+|than the library.
+
+[MSG$012DAC,97]
+Saeki "I have nearly all of the famous magic books. Of course they're all modern English editions
+
+[MSG$012E12,35]
+|that are still available today..."
+
+[MSG$012E4F,84]
+Saeki "There are very few Black Magic books that have been translated into Japanese.
+
+[MSG$012EA8,79]
+So I have no choice but to read them in English. But it's made me very fluent."
+
+[MSG$012F11,63]
+Saeki "Over here there's Crowley, Fortune, Mathers and Waite...
+
+[MSG$012F55,58]
+I have all the books written by modern magicians as well."
+
+[MSG$012FA9,50]
+So saying, she points to a section of the shelves.
+
+[MSG$012FE8,94]
+Saeki "What kind of books do you read, Minase? The spell you cast the other day was similar to
+
+[MSG$01304B,48]
+|the ones you can find in the Key of Solomon..."
+
+[MSG$013095,69]
+Minase "I'm not really sure...I mean, I hardly know anything at all."
+
+[MSG$0130F4,68]
+Saeki "I don't believe you. Then how'd you find out about that one?"
+
+[MSG$013152,12]
+Minase "..."
+
+[MSG$01316B,66]
+Saeki "So you really know nothing. Fine, we have a lot of time..."
+
+[MSG$0131C7,103]
+Saeki "If you'd like you can go ahead and look at any of these books. I can give you lots of pointers.'
+
+[MSG$013248,65]
+Saeki points to the row of books on her shelves as she says this.
+
+[MSG$013312,70]
+She says I can look at any of them, but the titles are all in English.
+
+[MSG$01335D,29]
+I reach for a book at random.
+
+[MSG$0137F1,87]
+Saeki "Well? Pretty impressive, isn't it? I went through a lot to get all these books."
+
+[MSG$013862,91]
+Saeki "I've got other books by Cavarro and the alchemists too, Would you like to see them?"
+
+[MSG$0138D7,51]
+I've had enough of indulging Saeki in her boasting.
+
+[MSG$013917,51]
+Minase "No, that's okay. I think I've seen enough."
+
+[MSG$013964,55]
+Saeki "Oh? But I have so much more I want to show you."
+
+[MSG$0139B5,61]
+I can't believe she collected so many of these weird books...
+
+[MSG$013A7B,77]
+Saeki "All right, then I guess you can tell me now. All about your secret..."
+
+[MSG$013AE3,27]
+Saeki turns her gaze on me.
+
+[MSG$013B03,81]
+I don't like the way she's looking at me, as if she can see right into my soul...
+
+[MSG$013B61,85]
+Besides, I never promised her I'd tell her anything, and I never said I had a secret.
+
+[MSG$013BBB,68]
+That's the kind of person she is. She just doesn't listen to people.
+
+[MSG$013C0C,38]
+Minase "But I don't have any secrets."
+
+[MSG$013C4C,21]
+Saeki "You're lying."
+
+[MSG$013C7B,26]
+Saeki "You can't fool me."
+
+[MSG$013CAF,65]
+Saeki "That spell the other day...it was one of the Love Curses."
+
+[MSG$013D0A,79]
+Saeki "A spell to manipulate another's soul, and force them into lewd behavior.
+
+[MSG$013D5E,64]
+You couldn't have cast it if you didn't know anything about it."
+
+[MSG$013DB9,12]
+Minase "..."
+
+[MSG$013DD2,49]
+Saeki "You're a lot more cautious than you look."
+
+[MSG$013E1D,36]
+Saeki stares at me as she says this.
+
+[MSG$013E4E,92]
+Saeki "Have you ever heard the whole story about what happened to those girls 12 years ago?"
+
+[MSG$013EC4,37]
+Saeki brings up the subject abruptly.
+
+[MSG$013EF6,14]
+Minase "Nope."
+
+[MSG$013F1E,65]
+The Magic Club from 12 years ago...Is Saeki onto me or something?
+
+[MSG$013F6C,94]
+But come to think of it, all I know about that long-ago club is what I saw with my own eyes...
+
+[MSG$013FCF,40]
+the basement room and the Book of Magic,
+
+[MSG$013FFC,49]
+I can only guess what it was they actually did...
+
+[MSG$01403A,109]
+Saeki "They only started practicing magic out of curiosity, and their spells were all child's play at first."
+
+[MSG$0140C1,50]
+Saeki "But gradually things started escalating..."
+
+[MSG$01410D,109]
+Saeki "They began tearing apart live animals as sacrifices, and offered their blood and souls to the demons."
+
+[MSG$014194,85]
+Saeki "Those girls actually performed anachronistic rituals, you see. And finally..."
+
+[MSG$014203,117]
+Saeki's tale sounds like total hogwash, but as someone who's seen that basement room, I have a feeling it's all true.
+
+[MSG$014285,88]
+Saeki "I've heard that they used their power for a lot of things, just like you are now.
+
+[MSG$0142E2,28]
+You know, curses and stuff."
+
+[MSG$014318,71]
+Saeki "And they say that the curses they put on people were effective."
+
+[MSG$014379,29]
+Minase "What are you saying?"
+
+[MSG$0143B0,32]
+Saeki "Oh, it's just a parable."
+
+[MSG$0143EA,68]
+Saeki "All I'm interested in is the reason why someone like you with
+
+[MSG$014433,85]
+|hardly any knowledge of witchcraft was suddenly able to wield that kind of power..."
+
+[MSG$0144A2,60]
+Saeki "Please, Minase, won't you share your secret with me?"
+
+[MSG$0144F8,25]
+Saeki "Please, Minase..."
+
+[MSG$01452B,69]
+Saeki pleads with her eyes. It's like she's licking me with her gaze.
+
+[MSG$014575,47]
+I can see another side to Saeki at this moment.
+
+[MSG$0145B1,12]
+Minase "..."
+
+[MSG$0145CA,61]
+Saeki "Of course, I'm not asking you to share it for free..."
+
+[MSG$01469A,71]
+With that, Saeki spreads her legs wide on the bed, trying to seduce me.
+
+[MSG$0146E6,74]
+Deep inside her skirt, I can see her lewd crotch, veiled in her underwear.
+
+[MSG$01473D,49]
+This girl is a lot more forward than she seems...
+
+[MSG$014773,86]
+Normally, she's got an anti-man barrier around herself, but now she's being seductive.
+
+[MSG$0147D6,56]
+Looking at her now, I wouldn't mind doing Kaori Saeki...
+
+[MSG$014813,50]
+Never mind her personality; she's not bad-looking.
+
+[MSG$014852,21]
+Saeki "Well? Please?"
+
+[MSG$0148AF,14]
+Minase "Okay."
+
+[MSG$0148D7,40]
+Giving in to my lust, I begin to talk...
+
+[MSG$014904,53]
+Needless to say, I'm not going to show her that book.
+
+[MSG$014946,56]
+Saeki "So you're going to tell me? That makes me happy!"
+
+[MSG$014998,54]
+Saeki "Okay, then let me show you my gratitude first."
+
+[MSG$0149E8,38]
+Saeki "Take off your pants, will you?"
+
+[MSG$014A28,13]
+Minase "Huh?"
+
+[MSG$014A4F,80]
+Saeki "We can't do anything if you've got your pants on. Come on, don't be shy."
+
+[MSG$014AB9,64]
+I realize that somewhere along the way, Saeki has taken control.
+
+[MSG$014AFE,108]
+Still, if she's willing to have sex with me, I'm not going to refuse. I'm aroused by this new side of Saeki.
+
+[MSG$014B77,61]
+I do as I'm told and slowly lower my pants in front of Saeki.
+
+[MSG$014BB9,41]
+Saeki watches me with a leer on her face.
+
+[MSG$014BEF,38]
+I look at Saeki once my pants are off.
+
+[MSG$014C22,24]
+Saeki "Take it all off."
+
+[MSG$014C54,75]
+At her bidding, I timidly take hold of my shorts and slowly pull them down.
+
+[MSG$014CA4,49]
+My erect prick pops out, exposed to Saeki's gaze.
+
+[MSG$014CE2,61]
+Saeki has a smile on her face as she gazes at my erect penis.
+
+[MSG$014D2C,32]
+I'm already under Saeki's thumb.
+
+[MSG$014D59,70]
+Saeki "You're already that big? So I've gotten you aroused, Minase..."
+
+[MSG$014DBA,77]
+Saeki giggles as she says this. I must look like an idiot through her eyes...
+
+[MSG$014E14,71]
+Saeki "Okay, I'm going to do something that will make you feel good..."
+
+[MSG$014F23,59]
+With that, Saeki removes her top and kneels in front of me.
+
+[MSG$014F6B,56]
+Saeki "What an obscene shape...and it's quivering, too."
+
+[MSG$014FBD,92]
+So saying, Saeki slowly puts her fingers around my penis, and starts pumping it up and down.
+
+[MSG$015026,16]
+Minase "Ahhh..."
+
+[MSG$015050,86]
+I cry out from the sensation. Seeing my reaction, Saeki skillfully adjusts her motion.
+
+[MSG$0150AB,53]
+She's so good that I'm soon in the throes of ecstasy.
+
+[MSG$0150ED,54]
+Saeki "Now, why don't you tell me your little secret?"
+
+[MSG$01513D,39]
+Saeki asks me this as she rubs my dick.
+
+[MSG$015169,65]
+I'm swooning with pleasure, but I manage to open my mouth slowly.
+
+[MSG$0151B7,52]
+Minase "I've got just one book...a book of magic..."
+
+[MSG$015205,71]
+Saeki "Really? What kind of book? One that I don't have on my shelves?"
+
+[MSG$015266,83]
+Minase "Not like one of yours. It's older, and it's written in Latin and French..."
+
+[MSG$0152D3,22]
+Saeki "Interesting..."
+
+[MSG$015303,61]
+Saeki "So you cast that magic spell after reading that book?"
+
+[MSG$01535A,39]
+Saeki "So where did you get this book?"
+
+[MSG$01539B,72]
+Saeki asks me this as she speeds up her rubbing motion ever so slightly.
+
+[MSG$015469,27]
+Squish...squish...squish...
+
+[MSG$015491,107]
+I'm starting to secrete from the tip of my cock, and it's making a lewd sound in sync with her hand motion.
+
+[MSG$015501,77]
+I listen to it and try to absorb the intense pleasure that's overwhelming me.
+
+[MSG$01555B,48]
+Minase "I found it in the locked Secret Room..."
+
+[MSG$0155A5,78]
+Minase "The basement storage room where they held that ritual 12 years ago..."
+
+[MSG$01560D,40]
+Saeki "You went inside the Secret Room?"
+
+[MSG$01564F,52]
+Minase "Yeah...I found the key in the Faculty Room."
+
+[MSG$01569D,84]
+Minase "That rumor was true. They sealed off that room the way it was 12 years ago."
+
+[MSG$01570B,100]
+Saeki "I didn't know that. I believed the rumor, but I never thought they'd left it the way it was."
+
+[MSG$015789,97]
+Saeki "If that's the case, that means that the book you found is the one they used 12 years ago."
+
+[MSG$015804,33]
+She asks me this with excitement.
+
+[MSG$015832,19]
+Minase "Yes..ahhh!"
+
+[MSG$01585F,59]
+At the same time her hands start moving faster, and I yelp.
+
+[MSG$01589F,66]
+I don't know if she can tell if I'm answering her or just moaning.
+
+[MSG$0158EE,42]
+Saeki "So where's this book of magic now?"
+
+[MSG$015932,106]
+Saeki "You're going to show it to me, aren't you? No, if we've come this far you've got to show it to me!"
+
+[MSG$0159B6,102]
+Saeki "If you promise to show it to me, I'll do something even more amazing for you. What do you say?"
+
+[MSG$015A36,40]
+She's almost babbling, she's so excited.
+
+[MSG$015A6B,27]
+Squish...squish...squish...
+
+[MSG$015A93,86]
+She hasn't stopped for a second. I'm overcome with the overwhelming urge to ejaculate.
+
+[MSG$015B16,41]
+Minase "I can't. I can't show it to you."
+
+[MSG$015B59,67]
+I desperately try to resist my lust, and turn down Saeki's request.
+
+[MSG$015BA9,78]
+Saeki "Why not? We're comrades, aren't we? Now don't be mean...show it to me!"
+
+[MSG$015C11,14]
+Minase "No..."
+
+[MSG$015C39,40]
+Saeki "I see...so it's like Top Secret?"
+
+[MSG$015CF3,57]
+Her voice is sad when she says this. Her hand slows down.
+
+[MSG$015D31,52]
+At the same time, my need to come subsides somewhat.
+
+[MSG$015D72,44]
+Minase "Okay, I told you...now let me come."
+
+[MSG$015DB8,75]
+Since she kept me hanging like that, I can't fight my urge to come anymore.
+
+[MSG$015E08,49]
+If she doesn't let me come now, it'll be torture.
+
+[MSG$015E46,20]
+Saeki "All right..."
+
+[MSG$015E74,44]
+Saeki "But first I'm going to be mean, too."
+
+[MSG$015EBA,10]
+Minase "?"
+
+[MSG$015ED1,101]
+With that, Saeki picks something up from under the bed, and clamps them onto my hands behind my back.
+
+[MSG$015F43,7]
+Snap...
+
+[MSG$015F57,51]
+I can feel something cold and heavy on my wrists...
+
+[MSG$015F8F,20]
+They're handcuffs...
+
+[MSG$015FB0,97]
+I don't know why she'd have a pair, but there's no question I have 2 rings of metal on my wrists.
+
+[MSG$01601E,80]
+And they're not toy cuffs, either...they're the kind that could be used by cops.
+
+[MSG$01607B,30]
+Minase "What...what the hell?"
+
+[MSG$0160B3,83]
+I struggle desperately, both of my hands trapped. But there's only a jangling sound
+
+[MSG$01610B,24]
+|and no give whatsoever.
+
+[MSG$016130,58]
+Saeki "I'm sorry, but really it's your own fault, Minase."
+
+[MSG$016184,54]
+Saeki gives me a pitying glance as I struggle in vain.
+
+[MSG$016244,88]
+Then she throws me onto the bed. I'm a captive and have no choice but to do her bidding.
+
+[MSG$0162A9,111]
+Saeki "If you're not going to show me, then I'll fix you so you'll have to show me whether you like it or not."
+
+[MSG$0163AE,110]
+With that, she takes my penis, still standing straight up towards the ceiling, and starts wrapping a thin cord
+
+[MSG$016421,29]
+|around it, tying it tightly.
+
+[MSG$016443,83]
+My prick is so swollen it's about to burst, and the string's cutting into my flesh.
+
+[MSG$0164A3,51]
+Minase "Ow...ouch! What do you think you're doing?"
+
+[MSG$0164F0,56]
+Saeki "This will feel really good...so good it'll hurt."
+
+[MSG$016542,50]
+Saeki "Let's see how much you'll be able to take."
+
+[MSG$01658E,25]
+Splish, splish, splish...
+
+[MSG$0165B4,68]
+With that, she begins to giving me a hand job with astounding speed.
+
+[MSG$016605,14]
+Minase "Augh!"
+
+[MSG$01662D,54]
+It's so stimulating, I'm instantly ready to ejaculate.
+
+[MSG$016670,24]
+Minase "I'm gonna come!"
+
+[MSG$0166A2,35]
+Saeki "I'd like to see you try it."
+
+[MSG$0166DF,59]
+I'm convulsing. I try with all my might to expel my desire.
+
+[MSG$016727,11]
+Minase "!?"
+
+[MSG$01673F,18]
+I'm not coming....
+
+[MSG$01675E,88]
+Even though the feeling's there, I'm not getting that wave that accompanies ejaculation.
+
+[MSG$0167BB,82]
+I'm bursting with the desire to come, but because I'm tied up, I can't release it.
+
+[MSG$01681A,39]
+Saeki "See? Can't let it out, can you?"
+
+[MSG$01685B,21]
+Pump...pump...pump...
+
+[MSG$01687D,68]
+With an evil giggle, she goes on pumping my dick with amazing speed.
+
+[MSG$0168CE,15]
+Minase "Ahh..."
+
+[MSG$0168F7,75]
+Saeki "Well? You've never experienced pleasure like this before, have you?"
+
+[MSG$01695C,70]
+Saeki "But just wait, there's something even better in store for you."
+
+[MSG$0169BC,41]
+Saeki "Come on, I'll let you come again."
+
+[MSG$0169FF,19]
+Pump, pump, pump...
+
+[MSG$016A1F,43]
+Minase "Hey, come on! Let me get it out..."
+
+[MSG$016A64,44]
+I'm ready to swoon from all the stimulation.
+
+[MSG$016A9D,97]
+Saeki "If you show me the book of magic, then I'll let you ejaculate. You can suffer until then."
+
+[MSG$016B18,13]
+Minase "Man!"
+
+[MSG$016B3F,40]
+Saeki "You shouldn't hold back too much,
+
+[MSG$016B6C,80]
+it's bad for you. And no matter how hard you try it's not going to do any good."
+
+[MSG$016BD6,87]
+Saeki gives no indication that she's even listening to me, and goes on rubbing my dick.
+
+[MSG$016C32,50]
+Once again I'm in agony from the intense pleasure.
+
+[MSG$016C71,14]
+Minase "Augh!"
+
+[MSG$016C99,74]
+Saeki "See, you've reached your limit, haven't you? Now where's the book?"
+
+[MSG$016CFD,60]
+Saeki "Just tell me and you won't have to suffer anymore..."
+
+[MSG$016D53,82]
+My body's still racked by convulsions as I give in to her words and open my mouth.
+
+[MSG$016DB2,56]
+Minase "The-the book's in my bag. Now let me ejaculate!"
+
+[MSG$016E04,26]
+Saeki "(laughs) Good job."
+
+[MSG$016E38,75]
+Saeki "All right, I'm going to let you do as you asked and let it all out."
+
+[MSG$016F26,48]
+Saeki slips off the cord that's binding my dick.
+
+[MSG$016F63,14]
+Minase "Augh!"
+
+[MSG$01707D,7]
+Gushing
+
+[MSG$017091,91]
+Just then, an unbelievable amount of pent-up semen came spurting out of the tip of my cock.
+
+[MSG$0170F9,30]
+Saeki "(laughs) There you go!"
+
+[MSG$017131,20]
+Minase "Ugh...augh!"
+
+[MSG$01715F,19]
+Spurt! Gush! Splat!
+
+[MSG$01717F,72]
+I thrust upwards over and over, spraying thick semen all over the place.
+
+[MSG$0171CC,30]
+It rains down on Saeki's body.
+
+[MSG$0171F7,10]
+Come flows
+
+[MSG$017287,78]
+When I've finished expelling huge amounts of semen, I fall over in exhaustion.
+
+[MSG$0172E2,108]
+Saeki leers as she starts wringing out the semen left in my urethra, with a motion like she's milking a cow.
+
+[MSG$01735B,28]
+Saeki "Just look at this..."
+
+[MSG$017391,52]
+Saeki "You let out so much! Aren't you embarrassed?"
+
+[MSG$0173DF,69]
+Saeki stares at the sticky white fluid on her hands as she says this.
+
+[MSG$017431,77]
+I'm in a daze, so I don't have the will to counter Saeki's words of ridicule.
+
+[MSG$01748B,105]
+Saeki "You must've really been aroused by what I did to you. You must have a masochistic streak, Minase!"
+
+[MSG$01750E,54]
+Full of superiority, Saeki mocks me with her laughter.
+
+[MSG$017551,92]
+Saeki "Now then...to thank you for telling me your secret, I'll let you put yourself in me."
+
+[MSG$0175C7,47]
+She removes my handcuffs and gets on top of me.
+
+[MSG$01760E,48]
+Minase "The book...I've got it inside my bag..."
+
+[MSG$017658,45]
+Unable to withstand it any longer, I confess.
+
+[MSG$017692,34]
+Saeki "You have it with you now?!"
+
+[MSG$0176CE,52]
+Saeki "(Laughs) Well, I can hardly believe my luck!"
+
+[MSG$01771C,98]
+Saeki "You've made me very happy, Minase. To show you my gratitude, I'll make you come just once."
+
+[MSG$017798,95]
+With an audacious smile, she presses her mouth against my throbbing, just-about-to-burst penis.
+
+[MSG$01787D,13]
+Saeki "Mmmm!"
+
+[MSG$0178A4,112]
+She gently covers the head of my prick with her lips, It gets sucked right into her mouth with a slurping sound.
+
+[MSG$017921,33]
+Minase "That feels great, Saeki."
+
+[MSG$01795C,117]
+I'm growing numb from the sensation of Saeki's tongue, but I manage to stare at her with an ecstatic look on my face.
+
+[MSG$0179DE,109]
+If I can get off like this just for showing her that book, it's a small price to pay. It makes sense to me...
+
+[MSG$017A58,94]
+As if she enjoys watching me cringe with joy, Saeki continues to skillfully stimulate my dick.
+
+[MSG$017AC3,26]
+Saeki "Mmm...mmm...mmm..."
+
+[MSG$017AF7,24]
+Smack...smack...smack...
+
+[MSG$017B1C,73]
+Every time Saeki sucks me, I can hear the lewd sound her mouth is making.
+
+[MSG$017B72,91]
+Saeki puckers her lips and sucks. At the same time, her tongue lightly caresses my urethra.
+
+[MSG$017BDA,20]
+Saeki "Mmm...mmm..."
+
+[MSG$017C08,25]
+Squish, squish, squish...
+
+[MSG$017C2E,37]
+Minase "I think I'm about to come..."
+
+[MSG$017C6D,78]
+I'm on the brink of ejaculation. It's so unbearable I have to appeal to Saeki.
+
+[MSG$017D41,20]
+Cock slipping out...
+
+[MSG$017D62,32]
+Saeki "How do you want to come?"
+
+[MSG$017D9C,77]
+Saeki "Do you want to come on my face? Or would you rather come in my mouth?"
+
+[MSG$017E03,64]
+Saeki removes my penis from her mouth and asks me this question.
+
+[MSG$017E48,59]
+There's a thin strand of mucous between Saeki and my prick.
+
+[MSG$017EB0,24]
+Minase "On your face..."
+
+[MSG$017EE2,81]
+As I desperately try to hold off the ensuing ecstasy, I make my request to Saeki.
+
+[MSG$017F38,80]
+I'd like nothing better than to spray myself all over this arrogant girl's face.
+
+[MSG$017F95,22]
+Saeki "(laughs) Fine."
+
+[MSG$017FC5,59]
+Saeki "Then let it all out over my face...your thick milk."
+
+[MSG$01801A,96]
+So saying, Saeki keeps my prick aimed at her face, then starts pumping it with astounding speed.
+
+[MSG$018100,22]
+Shlip, shlip, shlip...
+
+[MSG$018123,24]
+Minase "Ah...ah...ah..."
+
+[MSG$018155,16]
+Saeki "(laughs)"
+
+[MSG$018180,67]
+Giggling softly, Saeki takes her free hand and places it on my ass.
+
+[MSG$0181C8,26]
+Her fingers touch my anus.
+
+[MSG$0181EF,7]
+Thrust!
+
+[MSG$018203,14]
+Minase "Augh!"
+
+[MSG$01822B,74]
+And without a moment's hesitation, those fingers jam themselves up my ass.
+
+[MSG$01827A,78]
+In that instant, I experience the most unbelievable ecstasy and hit my climax.
+
+[MSG$0182D5,24]
+Minase "I'm gonna come!"
+
+[MSG$0183F9,6]
+Spurt!
+
+[MSG$01840C,13]
+Saeki "Augh!"
+
+[MSG$018433,66]
+Thick semen bursts from my prick and spurts all over Saeki's face.
+
+[MSG$018482,42]
+My semen strikes her face and bounces off.
+
+[MSG$0184B9,19]
+Spurt! Gush! Splat!
+
+[MSG$0184D9,82]
+I ejaculate 2, then 3 times in a row. Saeki's face is soon dripping with my juice.
+
+[MSG$018530,57]
+Once I'm finished ejaculating, I fall over in exhaustion.
+
+[MSG$0185EF,18]
+Minase "(heaving)"
+
+[MSG$01861B,38]
+Saeki "That was a lot of pent-up cum."
+
+[MSG$01865B,39]
+The sheer volume surprised even myself.
+
+[MSG$018687,81]
+The semen that's still stuck on Saeki's face is slowly sliding down to the floor,
+
+[MSG$0186DD,76]
+in accordance with the law of gravity. She's not even trying to wipe it off.
+
+[MSG$018736,53]
+Saeki "Both the taste and the smell are so strong..."
+
+[MSG$018785,58]
+She licks the stuff sliding off her face as she says this.
+
+[MSG$0187CC,49]
+Saeki "But you can still do it again, can't you?"
+
+[MSG$018817,101]
+Saeki "I hope you're not through for the day already. We're about to get really serious, you know..."
+
+[MSG$018896,57]
+With that, Saeki pushes me onto the bed and straddles me.
+
+[MSG$0188E7,25]
+Minase "In your mouth..."
+
+[MSG$01891A,81]
+As I desperately try to hold off the ensuing ecstasy, I make my request to Saeki.
+
+[MSG$018978,22]
+Saeki "(laughs) Fine."
+
+[MSG$0189A8,65]
+Saeki "Then I'll savor the taste of your thick milk in my mouth."
+
+[MSG$018A7C,87]
+So saying, Saeki places my prick in her mouth, then takes action with astounding speed.
+
+[MSG$018AE0,26]
+Saeki "Mmm...mmm...mmm..."
+
+[MSG$018B14,22]
+Slurp, slurp, slurp...
+
+[MSG$018B37,19]
+Minase "Ah...ah..."
+
+[MSG$018B64,65]
+Still sucking, Saeki takes her free hand and places it on my ass.
+
+[MSG$018BAA,28]
+Her fingers touch my anus...
+
+[MSG$018BD3,7]
+Thrust!
+
+[MSG$018BE7,14]
+Minase "Augh!"
+
+[MSG$018C0F,74]
+And without a moment's hesitation, those fingers jam themselves up my ass.
+
+[MSG$018C5E,78]
+In that instant, I experience the most unbelievable ecstasy and hit my climax.
+
+[MSG$018CB9,24]
+Minase "I'm gonna come!"
+
+[MSG$018DDD,14]
+Ejaculating...
+
+[MSG$018DF8,16]
+Saeki "(grunts)"
+
+[MSG$018E22,103]
+I start convulsing, Saeki's fingers still up my ass. And I spray a huge amount of semen into her mouth.
+
+[MSG$018E8E,98]
+The thick semen comes pouring out relentlessly, and Saeki receives it in her mouth without a word.
+
+[MSG$018EFD,19]
+Spurt! Gush! Splat!
+
+[MSG$018F1D,88]
+After I've relieved myself for what seems like a long time, the flow is finally stemmed.
+
+[MSG$018F82,18]
+Minase "(heaving)"
+
+[MSG$018FAE,79]
+I'm still enjoying the afterglow. Breathing heavily, I fall over in exhaustion.
+
+[MSG$019002,89]
+Saeki still has my prick in her mouth. She sucks out the remaining semen from my urethra.
+
+[MSG$0190E1,20]
+Cock slipping out...
+
+[MSG$019102,47]
+And when she's removed my penis from her mouth,
+
+[MSG$019136,74]
+she slowly runs her tongue over the massive amounts of semen in her mouth.
+
+[MSG$01918D,20]
+Saeki "Mmm...mmm..."
+
+[MSG$0191BB,14]
+Saeki "Ugh..."
+
+[MSG$0191E3,69]
+Her eyebrows furrow at the taste and feel. Then she spits it all out.
+
+[MSG$01922D,64]
+A mixture of saliva and my semen comes pouring out of her mouth.
+
+[MSG$019272,77]
+It runs down her chin, down her breasts and falls with a splat on the ground.
+
+[MSG$0192CC,24]
+Saeki "That's too much."
+
+[MSG$0192FE,35]
+Saeki "And look how thick it is..."
+
+[MSG$01933B,47]
+Saeki spits everything out and wipes her mouth.
+
+[MSG$019377,49]
+Saeki "But you can still do it again, can't you?"
+
+[MSG$0193C2,101]
+Saeki "I hope you're not through for the day already. We're about to get really serious, you know..."
+
+[MSG$019441,54]
+With that, she throw me onto the bed and straddles me.
+
+[MSG$019500,75]
+Saeki starts removing her clothes as though she's putting on a show for me.
+
+[MSG$019558,29]
+Saeki "Well? Am I beautiful?"
+
+[MSG$01958F,65]
+Saeki "I'm pretty confident that I have a good figure, you know."
+
+[MSG$0195EA,78]
+It's true, Saeki had a body that was wasted on an introverted occultist freak.
+
+[MSG$01963D,84]
+If only she had a normal personality and hobbies, there'd be nothing left to desire.
+
+[MSG$01969E,82]
+Saeki strips down to her underwear, and starts rubbing my dick against her crotch.
+
+[MSG$0196FD,31]
+Saeki "Doesn't that feel good?"
+
+[MSG$019736,102]
+The head of my prick is sensitive; it's being strongly stimulated by the silky texture of her panties.
+
+[MSG$0197A9,14]
+Minase "Yeah."
+
+[MSG$0197D1,60]
+Saeki "Then let me do something that will feel even better!"
+
+[MSG$0198A0,67]
+She flings off her panties, and stuffs my hard cock into her mouth.
+
+[MSG$019969,20]
+Saeki "Here I go..."
+
+[MSG$019997,12]
+Saeki "Mmm!"
+
+[MSG$019A46,10]
+Slither...
+
+[MSG$019A5D,87]
+Saeki slowly lowers herself into a crouch. I can see my dick disappearing up her vulva.
+
+[MSG$019AC1,63]
+I can feel Saeki's body heat against my hypersensitive prick...
+
+[MSG$019B0D,16]
+Saeki "It's in!"
+
+[MSG$019B37,79]
+Saeki "Okay, I'm going to do all the moving, so you just lie still, all right?"
+
+[MSG$019BA0,61]
+With that, Saeki begins moving on top of me in a lewd manner.
+
+[MSG$019BEA,49]
+Saeki "Mmm...mmm...Well? Doesn't that feel good?"
+
+[MSG$019C35,56]
+She moves up and down, and my prick is being squeezed...
+
+[MSG$019C72,69]
+Every time she moves, her breasts, which are on the large size, sway.
+
+[MSG$019CC4,100]
+I lie there watching, as I lose myself in ecstasy over what's going on in the lower half of my body.
+
+[MSG$019D35,47]
+Saeki "That's good...you're all the way in me."
+
+[MSG$019D7E,94]
+Every time our bodies touch, I can feel the head of my prick hitting the entrance to her womb.
+
+[MSG$019DE1,40]
+The sensation gives me intense pleasure.
+
+[MSG$019E16,107]
+After pumping herself up and down for a while, Saeki tightens up her vulva as she starts a grinding motion.
+
+[MSG$019E8E,14]
+Minase "Whoa!"
+
+[MSG$019EB6,47]
+The stimulation is so intense I let out a yelp.
+
+[MSG$019EF2,50]
+Saeki likes my reaction and goes on grinding away.
+
+[MSG$019F31,43]
+Saeki "You're aroused, aren't you, Minase?"
+
+[MSG$019F76,28]
+Saeki "Then how about this?"
+
+[MSG$019FAC,61]
+Saeki puts more power in her hips and begins to grind harder.
+
+[MSG$019FF6,23]
+Squish, squish, squish!
+
+[MSG$01A01A,112]
+I can hear the obscene sound of our mingled bodily fluids against our bodies every time  her ass hits my thighs.
+
+[MSG$01A097,40]
+Minase "If you do that, I'm gonna come!"
+
+[MSG$01A0D9,97]
+I'm shivering as though I'm being raped by Saeki. I'm ready to give in to my desire to shoot off.
+
+[MSG$01A147,23]
+Squish, squish, squish!
+
+[MSG$01A16B,19]
+Minase "Ah...ah..."
+
+[MSG$01A198,99]
+Saeki "You're gonna come already? But you just shot off so much...you're a strong boy, aren't you?"
+
+[MSG$01A215,62]
+Still grinding her hips. Saeki looks down on me as she speaks.
+
+[MSG$01A260,74]
+Saeki "Okay, I'm going to come soon, too, so you'd better not until I do."
+
+[MSG$01A2C4,54]
+Saeki begins moving like a woman just about to climax.
+
+[MSG$01A307,25]
+Squeak, squeak, squeak...
+
+[MSG$01A32D,47]
+The bed groans in agony from Saeki's thrusting.
+
+[MSG$01A369,85]
+I do as Saeki says, and desperately try to hold myself back, though I'm on the brink.
+
+[MSG$01A3CB,37]
+Saeki "Ah...oh...I'm almost there..."
+
+[MSG$01A40A,28]
+Minase "(breathing heavily)"
+
+[MSG$01A440,19]
+Creak, creak, creak
+
+[MSG$01A460,47]
+Saeki "I'm gonna come! I'm gonna come, Minase!"
+
+[MSG$01A4A9,18]
+Saeki "(grunting)"
+
+[MSG$01A4D5,43]
+Saeki "I'm coming! I'm coming, I'm coming!"
+
+[MSG$01A51A,64]
+At that moment, Saeki squeezes my prick with unbelievable force.
+
+[MSG$01A567,26]
+Minase "Can't hold it in!"
+
+[MSG$01A59B,45]
+The stimulation triggers me into ejaculating.
+
+[MSG$01A64E,16]
+(Prick pops out)
+
+[MSG$01A6E4,75]
+In that instant, Saeki raises her hips and whips my prick out of her vulva.
+
+[MSG$01A7B5,6]
+Spurt!
+
+[MSG$01A841,76]
+A shower of spurting semen explodes towards Saeki the instant it's released.
+
+[MSG$01A89A,12]
+Saeki "Hot!"
+
+[MSG$01A8C0,59]
+My semen pounds her body in the nether regions, all frothy.
+
+[MSG$01A908,19]
+Spurt! Gush! Splat!
+
+[MSG$01A928,63]
+It's not long before Saeki's lower body is covered in my semen.
+
+[MSG$01A974,59]
+Saeki "But you just ejaculated...how can there be so much?"
+
+[MSG$01A9C9,53]
+Saeki "Where in the world were you storing all this?"
+
+[MSG$01AA18,11]
+She laughs.
+
+[MSG$01AA30,75]
+I release every last drop of semen inside me, then fall over in exhaustion.
+
+[MSG$01AA80,22]
+I have nothing left...
+
+[MSG$01AB1C,33]
+Saeki "Ugh, I'm sticky all over."
+
+[MSG$01AB57,68]
+Saeki "I wish you'd think about the aftermath before you shoot off."
+
+[MSG$01ABB5,70]
+Saeki gazes at the white semen dripping off her body as she says this.
+
+[MSG$01AC08,28]
+Minase "(breathing heavily)"
+
+[MSG$01AC3E,113]
+I'm breathing heavily. I don't even have the energy to react to the intense sinking feeling that's overcome me...
+
+[MSG$01ACBC,74]
+Ignoring me, Saeki quickly gets dressed, opens up my bag and takes out the
+
+[MSG$01AD0B,14]
+book of magic.
+
+[MSG$01ADE3,24]
+Saeki "So this is it..."
+
+[MSG$01AE15,71]
+Saeki removes the white cloth and takes the book of magic in her hands.
+
+[MSG$01AE69,20]
+Saeki "What's this?"
+
+[MSG$01AE97,51]
+Saeki draws in her breath at the sight of the book.
+
+[MSG$01AED7,54]
+Saeki "But this is...this is the original manuscript!"
+
+[MSG$01AF27,56]
+She views it from every angle, scouring the entire book.
+
+[MSG$01AF6C,38]
+Saeki "I don't see a title, though..."
+
+[MSG$01AFAC,54]
+Saeki opens the book and runs her eyes over the pages.
+
+[MSG$01AFEF,51]
+Saeki "Amazing...this is a handwritten manuscript!"
+
+[MSG$01B03C,50]
+Saeki "I've never seen anything like this before."
+
+[MSG$01B088,69]
+Saeki flips the pages as she says this, talking to herself excitedly.
+
+[MSG$01B0DA,68]
+Saeki "But you know, I don't know Latin. Can you read this, Minase?"
+
+[MSG$01B138,47]
+Saeki "Hey...do you plan to lie there forever?"
+
+[MSG$01B181,67]
+I'm overwhelmed by Saeki's forceful tone and I turn to look at her.
+
+[MSG$01B1D1,87]
+Saeki "How were you able to read this? You always get lower scores than me in English."
+
+[MSG$01B242,76]
+Saeki interrogates me excitedly. Having no choice, I open my mouth to speak.
+
+[MSG$01B29B,114]
+Minase "I read it little by little, using dictionaries and stuff. So I haven't actually read the whole thing yet."
+
+[MSG$01B327,54]
+Saeki "Oh, so it's not like you can actually read it."
+
+[MSG$01B377,25]
+Saeki looks disappointed.
+
+[MSG$01B39D,107]
+Saeki "Still, I can't believe you found this. If a real maniac saw this book they'd be salivating over it."
+
+[MSG$01B422,105]
+Saeki "I'm pretty certain this book was written in the 15th century. It's rare enough to be in a museum."
+
+[MSG$01B4A5,56]
+Minase "How do you know that if you can't even read it?"
+
+[MSG$01B52A,85]
+Saeki "Idiot. We learned it in history class. It wasn't until after the 15th century,
+
+[MSG$01B584,43]
+when Gutenberg invented the printing press,
+
+[MSG$01B5B4,79]
+that books came to be widely published. Until then all books were handwritten."
+
+[MSG$01B61D,60]
+Saeki "Seeing a book like this is a dream come true for me."
+
+[MSG$01B673,69]
+Saeki gets engrossed in reading the book. With each turn of the page,
+
+[MSG$01B6BD,71]
+she lets out a gasp of rapture when she sees the diagrams and drawings.
+
+[MSG$01B709,34]
+She's like a kid in a toy store...
+
+[MSG$01B738,51]
+After she's perused half of the book, she looks up.
+
+[MSG$01B7AB,109]
+Saeki "Come to think of it, those students from 12 years ago...I've heard that one day they suddenly began to
+
+[MSG$01B81D,72]
+|immerse themselves in black magic and started doing all those rituals."
+
+[MSG$01B880,52]
+Saeki "Most likely, this book is what started them."
+
+[MSG$01B8CE,70]
+Saeki "Those girls were able to obtain their power through this book."
+
+[MSG$01B92E,86]
+Saeki "This book has a specific and absolute kind of power. You're the proof of that."
+
+[MSG$01B99E,54]
+Saeki "It's possible that the book itself is magical."
+
+[MSG$01B9EE,80]
+Saeki "There really are magic books like that...those with a story behind them."
+
+[MSG$01BA58,95]
+Saeki "Some books of magic were cursed, causing those who'd come to possess them to go insane."
+
+[MSG$01BAD1,73]
+Minase "Sure, I believe in the power of the books that got written about.
+
+[MSG$01BB1F,56]
+But that doesn't mean they all have that kind of power."
+
+[MSG$01BB71,91]
+Minase "What happened 12 years ago is a good example. The ritual failed. Nobody knows why."
+
+[MSG$01BBE6,105]
+Minase "As long as someone's using that same book, there's no guarantee that you it end up the same way."
+
+[MSG$01BC69,88]
+Saeki "They weren't ready. They overestimated their own power, and destroyed themselves.
+
+[MSG$01BCC6,38]
+A lot of magicians end up doing that."
+
+[MSG$01BD06,83]
+What the hell...She's the one who said she respected those girls from 12 years ago.
+
+[MSG$01BD99,89]
+Saeki "Hey, could you let me borrow this book for one day? I'd like to look into it more.
+
+[MSG$01BDF7,35]
+I'll give it back to you tomorrow."
+
+[MSG$01BE34,15]
+Minase "Huh..."
+
+[MSG$01BE5D,69]
+Saeki "Oh, come on, you can lend it to me for a day. Don't be stingy!
+
+[MSG$01BEA7,51]
+It's not going to diminish its powers or anything."
+
+[MSG$01BEF4,25]
+Minase "I don't want to."
+
+[MSG$01BF27,65]
+If I lend it to this girl I have a feeling it will be diminished.
+
+[MSG$01BF75,120]
+Saeki "You may not want to, but I'm still going to take it, even if it's by force. I let you have sex with me, didn't I?
+
+[MSG$01BFF2,52]
+Isn't this the least you could do for me in return?"
+
+[MSG$01C040,25]
+Minase "You're so pushy.'
+
+[MSG$01C073,41]
+I reluctantly give in to Saeki's request.
+
+[MSG$01C0A9,51]
+Saeki "Don't worry, you can have it back tomorrow."
+
+[MSG$01C0F6,84]
+Minase "Okay...Remember, it's just for one day. You'd better give it back tomorrow."
+
+[MSG$01C164,15]
+Saeki "I will."
+
+[MSG$01C1C0,99]
+Saeki "All right, I have something I need to do tonight, so would you mind going home now, Minase?"
+
+[MSG$01C23D,117]
+Saeki "You're not going to get to take a shower here or anything. Come on, are you going to sit around naked forever?
+
+[MSG$01C2B7,13]
+Get dressed!"
+
+[MSG$01C2DE,32]
+Minase "Hey...hold on a minute."
+
+[MSG$01C404,85]
+With Saeki prodding me, I get into my clothes, and get myself kicked out of her room.
+
+[MSG$01C466,66]
+She's so self-centered! Once she gets what she's after she's like,
+
+[MSG$01C4AD,61]
+''I have no more use for you,'' huh? Is that all I am to her?
+
+[MSG$01C52A,53]
+Saeki "Good night, then. See you tomorrow at school."
+
+[MSG$01C579,94]
+Saeki "I enjoyed myself today. But don't get the wrong idea...about my having slept with you."
+
+[MSG$01C615,50]
+Saeki sees me off and then swiftly shuts the door.
+
+[MSG$01C654,36]
+Huh! That's my line, for god's sake.
+
+[MSG$01C67D,71]
+How can she say that after I got her off like that? It pisses me off...
+
+[MSG$01C6D1,86]
+I don't know what she means by getting the wrong idea; Saeki just as good as raped me.
+
+[MSG$01C72C,46]
+Not that it didn't feel really good, though...
+
+[MSG$01C7E3,48]
+I feel drained and hollow. I trudge slowly home.
+
+[MSG$01C820,81]
+Without the book of magic, my bag feels strangely light. It makes me feel uneasy.
+
+[MSG$01C876,26]
+Today's just not my day...
+
+[MSG$01C8B0,48]
+Minase "I don't know what you're talking about."
+
+[MSG$01C8FA,30]
+I avert my gaze as I say this.
+
+[MSG$01C91D,66]
+If I look at Saeki, I don't think I'll be able to stay rational...
+
+[MSG$01C96C,41]
+Saeki "Don't be so cold. Just tell me..."
+
+[MSG$01C9AF,68]
+Saeki "Look at what I'm doing for you, just so you'll tell me. See?"
+
+[MSG$01CA0D,68]
+Saeki spreads her legs wide so I can get a better view of her vulva.
+
+[MSG$01CA5E,84]
+It's no use...even if I try to resist my gaze is drawn to the area between her legs.
+
+[MSG$01CABF,84]
+Saeki "If you tell me, I'll do something that'll make you feel so good, you know..."
+
+[MSG$01CB2D,66]
+Uh-oh...the second she says that, I can feel a erection coming on.
+
+[MSG$01CB74,87]
+Even though I know I shouldn't, I can't help looking forward to what she's proposing...
+
+[MSG$01CC20,94]
+Minase "Cut it out! Anyway, even if I did have a secret, I'm not so retarded I'd tell anyone."
+
+[MSG$01CC98,66]
+Minase "Isn't that one of the first rules about being a magician?"
+
+[MSG$01CCF4,64]
+I brush away my lust, and tell Saeki this in no uncertain terms.
+
+[MSG$01CD39,51]
+But even as I'm talking, I'm getting an erection...
+
+[MSG$01CD79,80]
+Saeki "Humph! I give you credit for saying that. Granted, what you say is true."
+
+[MSG$01CE5B,58]
+Saeki "Hmm, so sexual advances aren't going to work, huh?"
+
+[MSG$01CEAF,41]
+Saeki "Do you find me that unattractive?"
+
+[MSG$01CEF2,90]
+Saeki's face suddenly returns to its normal expression, as if nothing at all has happened.
+
+[MSG$01CF51,55]
+She straightens her clothing and stands in front of me.
+
+[MSG$01CF95,74]
+I inwardly breath a sigh of relief to see that Saeki's returned to normal.
+
+[MSG$01CFE4,85]
+If she'd been a little more forceful, I'm not sure that I'd have been able to resist.
+
+[MSG$01D0E6,40]
+Saeki "I guess I made a fool of myself."
+
+[MSG$01D128,117]
+Saeki "I'm sorry. I was excited and I got a little too intense. But please don't look down on me. I'm all right now."
+
+[MSG$01D1B7,83]
+As Saeki speaks, I can't find a trace of the sultriness she displayed a moment ago.
+
+[MSG$01D20F,38]
+It's like she has a split personality.
+
+[MSG$01D242,44]
+Minase "If we're through here, I'm leaving."
+
+[MSG$01D288,90]
+Saeki "Wait. I'll give up on finding out your secret, but could you just do me one favor?"
+
+[MSG$01D2FC,27]
+I look at her suspiciously.
+
+[MSG$01D31C,40]
+She's still got something up her sleeve?
+
+[MSG$01D349,64]
+True, I wouldn't expect someone like her to give up so easily...
+
+[MSG$01D396,60]
+Minase "What do you want? I'll hear you out, but that's it."
+
+[MSG$01D3EC,93]
+I act like I have no choice. Surely it wouldn't do any harm to just hear what she has to say.
+
+[MSG$01D456,18]
+Saeki "Thank you."
+
+[MSG$01D482,31]
+Hearing my reply, Saeki smiles.
+
+[MSG$01D4AE,98]
+Saeki "You see, there's a group of us girls who are into magic. and we have sort of a secret club.
+
+[MSG$01D515,46]
+You know, like those girls from 12 years ago."
+
+[MSG$01D55D,113]
+A club for depressing Black Magic girls? That's the most ominous-sounding secret organization I've ever heard of.
+
+[MSG$01D5DB,84]
+Saeki "And you see, we're having a meeting today, and I'd like you to come watch us.
+
+[MSG$01D634,15]
+Our rituals..."
+
+[MSG$01D65D,44]
+What the hell kind of rituals would they be?
+
+[MSG$01D696,95]
+I certainly hope they're not going to handcuff me and then beat me with a whip if I go along...
+
+[MSG$01D6FA,45]
+I can't rule that out entirely in her case...
+
+[MSG$01D734,91]
+Saeki "I believe in your power. I'm not going to tell you to join us, but I'd appreciate it
+
+[MSG$01D794,50]
+|if you would just observe one of our meetings..."
+
+[MSG$01D7E0,21]
+Saeki "Okay? Please."
+
+[MSG$01D80F,17]
+What should I do?
+
+[MSG$01D825,81]
+I don't really want to go, but I am curious about what they do in their meetings.
+
+[MSG$01D883,101]
+Plus, they might be disagreeable types, but they are girls, after all. Why not give them some credit?
+
+[MSG$01D8F5,44]
+Minase "Okay. If all I have to do is watch."
+
+[MSG$01D93B,25]
+Saeki "Really? I'm glad."
+
+[MSG$01D96E,103]
+Saeki "Everyone will be happy to have you. Although there are actually only three of us, including me."
+
+[MSG$01D9EF,44]
+Minase "Where is this meeting gonna happen?"
+
+[MSG$01DA35,115]
+Saeki "We've pooled our money and rented a room in a nearby apartment building. That's where we hold our meetings."
+
+[MSG$01DAC2,22]
+The Secret Altar, huh?
+
+[MSG$01DADD,79]
+I thought they were just fooling around, but it seems a lot more serious now...
+
+[MSG$01DB39,92]
+Saeki "We're going to meet at 10 tonight. Why don't we meet up in front of the school gate?"
+
+[MSG$01DBAF,21]
+Saeki "Is that okay?"
+
+[MSG$01DBDE,56]
+Minase "Sure. 10 PM in front of the school gate, right?"
+
+[MSG$01DC30,37]
+Saeki "Right. Make sure you show up."
+
+[MSG$01DC6F,14]
+Minase "Sure."
+
+[MSG$01DC97,57]
+I agree with Saeki and leave Saeki's house, heading home.
+
+[MSG$01DCDD,15]
+April 23 - Home
+
+[MSG$01DDDB,8]
+Click...
+
+[MSG$01DDF0,18]
+Minase "I'm home!"
+
+[MSG$01DE4E,52]
+Yukiko "Hey, there. You're late getting back today."
+
+[MSG$01DE9C,27]
+My sister welcomes me home.
+
+[MSG$01DEC4,35]
+Minase "I had some stuff going on."
+
+[MSG$01DF01,30]
+I answer her in a tired voice.
+
+[MSG$01DF2C,100]
+Yukiko "That reminds me, I ran into Kurumi Imari a little while ago. She seemed a little depressed."
+
+[MSG$01DFAA,33]
+Yukiko "Did you two fight again?"
+
+[MSG$01DFE5,36]
+Minase "No, we didn't have a fight."
+
+[MSG$01E023,103]
+Yukiko "You two are boyfriend and girlfriend, so don't spend all your time fighting. Try to get along!"
+
+[MSG$01E0A4,52]
+Minase "Since when are we boyfriend and girlfriend?"
+
+[MSG$01E0F2,98]
+Yukiko "Come on, you're famous in the neighborhood. Childhood sweethearts are so rare nowadays..."
+
+[MSG$01E1A0,37]
+Yukiko "So have you two done it yet?"
+
+[MSG$01E1DF,53]
+My sister asks this question with a leer on her face.
+
+[MSG$01E221,59]
+Minase "What the...what the hell kind of question is that?"
+
+[MSG$01E276,61]
+For some reason this abrupt question fills me with confusion.
+
+[MSG$01E2C0,98]
+I've never even kissed Imari, let alone massaged her breasts. Wait, when we were little I remember
+
+[MSG$01E327,86]
+|kissing her once. But no tongue, and her chest is so flat there's nothing to massage.
+
+[MSG$01E38A,91]
+Besides, I've never even fantasized about Imari! I mean, I might have done it once or twice
+
+[MSG$01E3EA,30]
+|for some crazy reason, but...
+
+[MSG$01E415,53]
+Yukiko "Oh well, never mind that. It doesn't matter."
+
+[MSG$01E464,82]
+Yukiko "Kurumi's the only girl who'd put up with someone like you, so you'd better
+
+[MSG$01E4BB,42]
+|be nice to her or you'll be sorry later."
+
+[MSG$01E4FF,42]
+Minase "Mind your own business, will you?"
+
+[MSG$01E543,68]
+Minase "Anyway, who are you to talk? Not one boyfriend at your age?"
+
+[MSG$01E5D3,27]
+Yukiko "What did you say?!"
+
+[MSG$01E608,23]
+Minase "Isn't it true?"
+
+[MSG$01E639,67]
+Yukiko "Listen, you...do you even know how popular I am at school?"
+
+[MSG$01E696,91]
+Yukiko "I have to beat those guys off with a stick every single day! It's such a headache!"
+
+[MSG$01E70B,103]
+Minase "Don't you mean, you throw yourself at their sticks everyday and it's such a headache for them?'
+
+[MSG$01E78C,22]
+Quiver, quiver, quiver
+
+[MSG$01E875,6]
+Whack!
+
+[MSG$01E888,14]
+Minase "Augh!"
+
+[MSG$01E8B0,50]
+I'm assaulted by my sister's fist and I go flying.
+
+[MSG$01E8EF,67]
+Yukiko "How dare you say something like that to your older sister!"
+
+[MSG$01E94C,38]
+So saying, she storms out of the room.
+
+[MSG$01EA1C,53]
+I have dinner, take a shower, and go back to my room.
+
+[MSG$01EA5E,49]
+But I don't have the Book of Magic with me today.
+
+[MSG$01EA9C,82]
+I remember that I was nearly finished with the part about the gate-opening ritual,
+
+[MSG$01EAF3,45]
+and I wish I hadn't left the book with Saeki.
+
+[MSG$01EB2D,90]
+I was just going with the flow when I lent Saeki that book, but now that I think about it,
+
+[MSG$01EB8C,49]
+I've lent it to the most dangerous person of all.
+
+[MSG$01EBCA,103]
+It was a mistake after all to blurt out the secret of the book in return for a few moments of pleasure.
+
+[MSG$01EC3E,15]
+Minase "Shit.."
+
+[MSG$01EC67,34]
+But it's too late for regrets now.
+
+[MSG$01EC8E,72]
+There's nothing for me to do but get that book back from Saeki tomorrow.
+
+[MSG$01ECDB,93]
+Surely even Saeki would have a hard time figuring out what's in that book in just half a day.
+
+[MSG$01ED45,66]
+I dismiss all thoughts of Saeki from my mind, and go to bed early.
+
+[MSG$01ED8C,79]
+As long as I don't have that book, there's no need for me to stay up all night.
+
+[MSG$01EDE8,12]
+Minase "..."
+
+[MSG$01EE01,98]
+But even after I'm in bed, I can't stop thinking about the Book of Magic, and I'm unable to sleep.
+
+[MSG$01EE70,28]
+I have an ominous feeling...
+
+[MSG$01EE91,47]
+I hope it's nothing more than just a feeling...
+
+[MSG$01EF57,78]
+I have dinner, take a shower, then as usual I sit down with the book of magic.
+
+[MSG$01F02E,93]
+I try to open up to the page I'd started working on last night about the gate-opening ritual.
+
+[MSG$01F090,44]
+The page about the ritual held 12 years ago.
+
+[MSG$01F0C1,56]
+I'm planning to finish summarizing that section tonight.
+
+[MSG$01F18F,19]
+Flip, flip, flip...
+
+[MSG$01F1AF,50]
+I flip through the pages in search of where I was.
+
+[MSG$01F1EE,13]
+Minase "Huh?"
+
+[MSG$01F215,96]
+This is when I notice for the first time that there's a page that feels different from the rest.
+
+[MSG$01F27A,69]
+When I feel the page again, I find that it's thicker than the others.
+
+[MSG$01F2CC,8]
+Crack...
+
+[MSG$01F2E1,70]
+While I'm studying the page, one corner splits, It's actually 2 pages.
+
+[MSG$01F32C,89]
+It's right around the last page. The part I just skimmed through without summarizing yet.
+
+[MSG$01F392,41]
+Carefully, I try to peel the pages apart.
+
+[MSG$01F3C8,10]
+Crackle...
+
+[MSG$01F467,11]
+Minase "?!"
+
+[MSG$01F47F,47]
+I'm taken aback when I see the separated pages.
+
+[MSG$01F4BB,55]
+There's a huge reddish-black stain covering both sides.
+
+[MSG$01F4F7,36]
+That's why they were stuck together.
+
+[MSG$01F528,40]
+I know instantly that it's a bloodstain.
+
+[MSG$01F555,96]
+Just like the bloodstains all over the basement room, this is from 12 years ago. I'm sure of it.
+
+[MSG$01F5C2,96]
+There are other flecks of dried blood here and there throughout the book, but the stain on these
+
+[MSG$01F627,45]
+|pages is way bigger and seems a lot fresher.
+
+[MSG$01F661,62]
+But why such a huge bloodstain on just these particular pages?
+
+[MSG$01F6AC,47]
+I decide to translate the words on these pages.
+
+[MSG$01F6E0,61]
+If I figure out what's written here, it might give me a clue.
+
+[MSG$01F72A,49]
+But I'm soon to discover that it's a futile task.
+
+[MSG$01F768,87]
+The bloodstain is stuck firmly all over the pages. The blood is blackish and congealed,
+
+[MSG$01F7C4,67]
+covering the pages so you can't see the words underneath very well.
+
+[MSG$01F814,88]
+The upper right corner is free from blood, and there's an illustration of an ugly demon.
+
+[MSG$01F871,55]
+I figure out that it's a drawing of the demon Asmodeus.
+
+[MSG$01F8B5,105]
+But the only words I can somehow make out are just fragments, and the one line that's completely readable
+
+[MSG$01F923,55]
+|is just a list of gods whose names mean nothing to me.
+
+[MSG$01F967,40]
+Minase "Hain...Lon...Hilay...Sabaoth..."
+
+[MSG$01F9A9,45]
+I utter these names out loud as I make notes.
+
+[MSG$01F9E3,91]
+But after I've written them down and looked them over, I still have no idea what they mean.
+
+[MSG$01FA43,51]
+The crucial parts have been obliterated completely.
+
+[MSG$01FA83,61]
+I give up, put down my pen, and push the pages back together.
+
+[MSG$01FAC5,80]
+Not surprisingly, those bloodstained pages are not the nicest things to look at.
+
+[MSG$01FBAA,73]
+Changing course, I find the page I was looking for and start translating.
+
+[MSG$01FC00,75]
+I immerse myself in my task for a few hours, then glance over at the clock.
+
+[MSG$01FC58,26]
+Minase "Better get going."
+
+[MSG$01FC8C,33]
+I'm supposed to meet Saeki at 10.
+
+[MSG$01FCB2,30]
+It's time for me to get going.
+
+[MSG$01FCDD,44]
+I leave the book the way it is and stand up.
+
+[MSG$01FD0E,48]
+It's probably a good idea not to bring it along.
+
+[MSG$01FD4B,63]
+I get myself ready and leave the house, heading for the school.
+
+[MSG$01FD97,48]
+April 23 - School at night, in front of the gate
+
+[MSG$01FEB7,68]
+In the darkness I can see the glare from the lights of the school...
+
+[MSG$01FF08,84]
+I'd just snuck into school after hours the other day, so it was nothing new to me...
+
+[MSG$01FF69,46]
+I walk up to the school gate, and look around.
+
+[MSG$01FFD7,20]
+Saeki "So you came."
+
+[MSG$020005,60]
+Saeki speaks to me from the shadows, then appears before me.
+
+[MSG$020046,71]
+She's holding a bag and a long stick or something wrapped in a cloth...
+
+[MSG$02009A,41]
+Minase "Of course. I promised, didn't I?"
+
+[MSG$0200DD,50]
+Saeki "Let's go, then. It's just down the street."
+
+[MSG$0201C9,57]
+So saying, Saeki starts walking. I follow her silently...
+
+[MSG$02020F,76]
+Saeki "Everyone should be there by now. I'll introduce you to them, Minase."
+
+[MSG$020275,104]
+Friends of Saeki's...plus, they're into black magic, so they've all got to be pretty freaking out there.
+
+[MSG$0202EA,110]
+Scary masks...I'm pretty interested in meeting them. I'm sure they're are prototypical introverted geek-types.
+
+[MSG$020365,72]
+If it's a friend of Saeki's, there's no way it's a normal human being...
+
+[MSG$0203BA,30]
+April 23 - Secret Club Hideout
+
+[MSG$020457,20]
+Saeki "Here we are."
+
+[MSG$020485,82]
+After walking for about 10 minutes, Saeki stops in front of an apartment building.
+
+[MSG$0204E4,43]
+I follow Saeki into the apartment building.
+
+[MSG$0205BC,91]
+We take the elevator and go up. We soon find ourselves standing in front of a certain door.
+
+[MSG$02061C,24]
+The name plate is blank.
+
+[MSG$020641,27]
+Saeki presses the doorbell.
+
+[MSG$020669,10]
+Ding-dong!
+
+[MSG$020680,20]
+Voice "Who's there?"
+
+[MSG$0206AE,94]
+Immediately, we hear a girl's voice, along with some static, coming from the intercom speaker.
+
+[MSG$020719,16]
+Saeki "It's me."
+
+[MSG$020743,22]
+Voice "Wait a minute."
+
+[MSG$020773,8]
+Click...
+
+[MSG$020788,56]
+Eventually there's the sound of the door being unlocked.
+
+[MSG$0207CD,37]
+Saeki opens the door and goes inside.
+
+[MSG$0207FF,40]
+Saeki "Go on inside. No need to be shy."
+
+[MSG$020841,51]
+I accept her invitation and gingerly step inside...
+
+[MSG$0208FD,12]
+It's dark...
+
+[MSG$02090E,61]
+It's dim inside the room, the only light comes from a candle.
+
+[MSG$02098B,82]
+Saeki "Sorry it's so dark. We don't have any electricity because there's no need."
+
+[MSG$0209F7,95]
+They're gathering at night and they have no electricity? They're a bunch of freaks after all...
+
+[MSG$020A95,28]
+Girl 1 "You're late, Kaori."
+
+[MSG$020ACB,46]
+Girl 1 "We can't start without you, you know."
+
+[MSG$020B13,58]
+The girl who just said these words emerges from behind us.
+
+[MSG$020B5A,21]
+Saeki "Sorry, sorry."
+
+[MSG$020B89,65]
+Saeki "This is Taki Minase, the guy I've been telling you about."
+
+[MSG$020BE4,52]
+Saeki "This is a member of our coven, Jun Amatsuki."
+
+[MSG$020C32,28]
+Minase "Nice to meet you..."
+
+[MSG$020C68,33]
+I'm introduced and I bow my head.
+
+[MSG$020C96,35]
+It's a girl I've never seen before.
+
+[MSG$020CBE,40]
+I wonder if she's not from our school...
+
+[MSG$020CF3,111]
+And contrary to my predictions, the girl in front of me actually looked normal. She didn't seem like a freak...
+
+[MSG$020D6F,87]
+But then there's the example of Saeki herself. No matter how she looked on the outside,
+
+[MSG$020DCB,49]
+she could still be totally wacko on the inside...
+
+[MSG$020E3B,69]
+Amatsuki "Nice to meet you, Minase. I've heard about you from Kaori."
+
+[MSG$020E9A,48]
+The girl named Amatsuki smiles as she says this.
+
+[MSG$020F09,28]
+Girl 2 "You're late, Kaori."
+
+[MSG$020F3F,49]
+Eventually, another girl arrives behind Amatsuki.
+
+[MSG$020F7D,67]
+Girl 2 "Well, we can't even consecrate the square unless you come!"
+
+[MSG$020FDA,71]
+The girl who's just spoken looks like the active type, unlike Amatsuki.
+
+[MSG$021026,77]
+This girl doesn't look like the quiet type of girl who'd be into Black Magic.
+
+[MSG$021080,38]
+I'm getting more and more lost here...
+
+[MSG$0210AB,96]
+Now that I've seen some actual Black Magic enthusiasts, it doesn't seem as cruel as I thought...
+
+[MSG$021118,93]
+Saeki "Let me introduce you to someone. This is Minase, the guy I've been telling you about."
+
+[MSG$02118F,34]
+Saeki "And this is Maki Kurimoto."
+
+[MSG$0211CB,33]
+I bow my head in acknowledgement.
+
+[MSG$02122B,49]
+Kurimoto "Hey, so is this your boyfriend, Kaori?"
+
+[MSG$021276,60]
+Kurimoto "Good for you for showing up with your other half!"
+
+[MSG$0212CC,35]
+Saeki "Don't make jokes like that."
+
+[MSG$021309,56]
+Kurimoto "Welcome to our coven. We're glad to have you."
+
+[MSG$02135B,43]
+The girl named Kurimoto is the boyish type.
+
+[MSG$02138B,96]
+She looks more like the type of girl who'd be into sports, rather than something of this nature.
+
+[MSG$0213F8,112]
+The four of us--Saeki, Kurimoto, Amatsuki and myself--finish with the introductions and move into the back room.
+
+[MSG$021475,22]
+April 23 - Ritual Room
+
+[MSG$02150A,12]
+Door opening
+
+[MSG$021555,35]
+Kurimoto "This is the Ritual Room."
+
+[MSG$021593,97]
+When I enter the large room, I can see a lot of candles lined up across the floor and in holders.
+
+[MSG$0215F9,99]
+The flickering light from these candles is what's eerily illuminating this room, instead of lights.
+
+[MSG$021669,91]
+There are black curtains covering all four walls, covering them along with all the windows.
+
+[MSG$0216D1,88]
+And on the floor, I can see a circle of magic, a combination of a circle and a triangle.
+
+[MSG$021736,82]
+The Ritual Room...It was very similar to the Secret Room I'd seen in the basement.
+
+[MSG$02178D,58]
+Except for the fact that there were no bloodstains here...
+
+[MSG$0217D4,54]
+Quite frankly, it wasn't a very tasteful-looking room.
+
+[MSG$02180F,61]
+If someone saw this place, they'd call the police right away.
+
+[MSG$02188C,89]
+Saeki "All right, we're going to go prepare for the ritual, so just wait for us, Minase."
+
+[MSG$021923,33]
+So saying, Saeki leaves the room.
+
+[MSG$021951,38]
+I'm left alone in this ominous room...
+
+[MSG$021984,99]
+But you can tell just by looking around this room that the girls are practicing serious witchcraft.
+
+[MSG$0219EC,17]
+If they were only
+
+[MSG$021A02,110]
+|fooling around or doing it as a hobby, surely they wouldn't go so far as to rent this room and do all this...
+
+[MSG$021A7D,37]
+Could they really be that into magic?
+
+[MSG$021AA7,44]
+I can't deny it's a seductive kind of power.
+
+[MSG$021AE0,49]
+And I know first-hand what that power feels like.
+
+[MSG$021B9C,36]
+Saeki "Sorry to keep you waiting..."
+
+[MSG$021BDA,66]
+I'm standing there lost in thought when Saeki returns to the room.
+
+[MSG$021C21,54]
+Saeki and the other girls were dressed in black robes.
+
+[MSG$021C64,45]
+They looked just like a coven of 3 witches...
+
+[MSG$021C9E,96]
+Not only that, but they were either naked underneath, or they were only wearing their underwear.
+
+[MSG$021D03,85]
+They only have those robes over their bare bodies, and they look extremely seductive.
+
+[MSG$021D65,89]
+Saeki "Please try not to stare at us too much. This is actually embarrassing for us too."
+
+[MSG$021DD8,58]
+Saeki doesn't seem at all like herself when she says this.
+
+[MSG$021E17,75]
+In contrast to the way she acts at school, she seems a lot more animated...
+
+[MSG$021E6F,74]
+Saeki "But this is the way we have to dress for our magic to be effective.
+
+[MSG$021EBE,81]
+Ideally, we wouldn't be wearing anything at all, but that's a little too much..."
+
+[MSG$021F29,58]
+It would be incredible to see these 3 lined up butt-naked.
+
+[MSG$021F70,41]
+Amatsuki "All right, why don't we begin?"
+
+[MSG$021FB3,54]
+Kurimoto "Yes, let's do that. So who shall we summon?"
+
+[MSG$022003,86]
+Saeki "First let's summon Dantalion. If it goes well, then we'll switch to Astraloth."
+
+[MSG$022073,74]
+Kurimoto "Those are high-levels spirits. Do you think we can manage them?"
+
+[MSG$0220D7,33]
+Saeki "Yes, just leave it to me."
+
+[MSG$022112,38]
+The 3 girls nod and take their places.
+
+[MSG$0221C1,109]
+Saeki "You'd better come into the circle, too, Minase. You'll be affected by the spirits if you stand there."
+
+[MSG$022248,37]
+I step into the circle like I'm told.
+
+[MSG$022282,18]
+Saeki "All right."
+
+[MSG$0222AE,55]
+Saeki says this once she takes the sword from Amatsuki.
+
+[MSG$0222F2,38]
+Kurimoto "Hekas, hekas, este bebeloi!"
+
+[MSG$022332,56]
+Kurimoto "We hereby announce the start of this meeting."
+
+[MSG$022384,50]
+Kurimoto "The consecration of the magic circle..."
+
+[MSG$0223D0,66]
+Saeki nods her head, and stands in the center of the magic circle.
+
+[MSG$02241F,52]
+Then Saeki takes a deep breath and begins the chant.
+
+[MSG$022460,29]
+Why don't I call her bluff...
+
+[MSG$02248A,43]
+Saeki "We hereby humbly enter this circle."
+
+[MSG$0224CF,54]
+Saeki "I invoke and call upon thee, O Omnipotent One."
+
+[MSG$02251F,68]
+Saeki "With the utmost gratitude for the eternal joy, divine wealth,
+
+[MSG$022568,58]
+perfect happiness and overflowing joy you bestow upon us."
+
+[MSG$0225BC,80]
+Saeki "Be far from us, O ye profane, and all ye who would oppose this ceremony."
+
+[MSG$022627,107]
+Saeki "Let this circle which banishes all chaos and conflict be blessed with the protection of the angels."
+
+[MSG$0226AC,38]
+Saeki "Extend thy greatness above us."
+
+[MSG$0226EC,67]
+Saeki "O Lord, O Holy One, bless this dialogue and this gathering."
+
+[MSG$022749,84]
+Saeki "O Lord, consecrate our humble gathering, O eternally blessed and holy one..."
+
+[MSG$0227B8,77]
+When she's finished intoning this lengthy prayer, she stops to take a breath.
+
+[MSG$02280A,73]
+And again she begins to chant arcane words, making the sign of the cross.
+
+[MSG$022860,15]
+Saeki "Atah..."
+
+[MSG$022889,18]
+Saeki "Malkuth..."
+
+[MSG$0228B5,20]
+Saeki "V'Geburah..."
+
+[MSG$0228E3,20]
+Saeki "V'Gedulah..."
+
+[MSG$022911,22]
+Saeki "Liolahm, Amen."
+
+[MSG$022941,89]
+Saeki "O Lord, we pray that thy kingdom shall be blessed with power and glory forever..."
+
+[MSG$0229B4,92]
+Saeki picks up the sword, holds it against her chest and points the tip towards the ceiling.
+
+[MSG$022A1D,105]
+Saeki "In the name of the Almighty, I hold the Sword imbued with the power to protect me from adversity."
+
+[MSG$022AA0,67]
+She traces the edges of the magic circle with the tip of the sword.
+
+[MSG$022AF0,99]
+Saeki "And when, after all the phantoms have vanished, thou shalt see that holy and formless fire."
+
+[MSG$022B6E,110]
+Saeki "The fire the darts and flashes through the hidden depths of the Universe. Hear thou the Voice of Fire."
+
+[MSG$022BF6,70]
+Saeki "In the names and the letters of the Great Southern Quandrangle,
+
+[MSG$022C41,56]
+I invoke ye, ye Angels of the Watchtowers of the South!"
+
+[MSG$022C93,29]
+Amatsuki "So therefore first,
+
+[MSG$022CB5,108]
+the priest who governeth the works of fire must sprinkle with the lustral water of the loud resounding sea."
+
+[MSG$022D3B,85]
+Amatsuki "In the names and the letters of the Great Western Quandrangle, I invoke ye,
+
+[MSG$022D95,42]
+ye Angels of the Watchtowers of the West!"
+
+[MSG$022DD9,69]
+Kurimoto "Such a fire existeth, extending through the rushing of Air.
+
+[MSG$022E23,61]
+Or even a fire formless, whence cometh the image of a voice."
+
+[MSG$022E7A,88]
+Kurimoto "Or even a flashing light, abounding, revolving, whirling forth, crying aloud."
+
+[MSG$022EEC,85]
+Kurimoto "In the names and the letters of the Great Eastern Quandrangle, I invoke ye,
+
+[MSG$022F46,42]
+ye Angels of the Watchtowers of the East."
+
+[MSG$022F8A,84]
+Amatsuki "Stoop not down into that darkly splendid world wherein continually lieth a
+
+[MSG$022FE3,44]
+|faithless depth and Hades wrapped in gloom,
+
+[MSG$023014,59]
+delighting in unintelligible images, precipitous, winding;"
+
+[MSG$023069,91]
+Amatsuki "a black ever-rolling abyss, ever espousing a body unluminous, formless and void."
+
+[MSG$0230D1,73]
+Amatsuki "In the names and the letters of the Great Northern Quandrangle,
+
+[MSG$02311F,56]
+I invoke ye, ye Angels of the Watchtowers of the North!"
+
+[MSG$023171,67]
+Kurimoto "In the names and letters of the mystical Tablet of Union,
+
+[MSG$0231B9,53]
+I invoke ye, ye divine forces of the Spirit of Life!"
+
+[MSG$023208,91]
+Saeki "I invoke ye, ye Angels of the celestial spheres, whose dwelling is in the invisible.
+
+[MSG$02327D,105]
+Saeki "Ye are the guardians of the gates of the Universe, be ye also the guardians of this mystic sphere.
+
+[MSG$0232EB,46]
+Keep far removed the evil and the unbalanced."
+
+[MSG$023333,111]
+Saeki "Strengthen and inspire me so that I may preserve unsullied this abode of the mysteries of eternal Gods."
+
+[MSG$0233BC,104]
+Saeki "Let my sphere be pure and holy so that I may enter in and become a partaker of the Light Divine."
+
+[MSG$02343E,43]
+Saeki "Holy art Thou Lord of the Universe."
+
+[MSG$023483,50]
+Saeki "Holy art Thou Whom nature hath not Formed."
+
+[MSG$0234CF,85]
+Saeki "Holy art Thou the Vast and Mighty One. Lord of the Light and of the Darkness!"
+
+[MSG$02353E,70]
+They finish the long chant at last, and the room is once again silent.
+
+[MSG$023589,82]
+Next, they burn incense, and soon the room is filled with its fragrance and smoke.
+
+[MSG$0235E8,32]
+Saeki "The Lemegeton, please..."
+
+[MSG$023622,96]
+Saeki takes the book from Amatsuki. Opening it, she begins to intone the spirit-summoning chant.
+
+[MSG$02368F,105]
+Saeki "I invocate and conjure thee, O Spirit of Dantalion; and being with power armed from the Almighty."
+
+[MSG$023712,98]
+Saeki "I do strongly command thee, by BERALANENSIS, BALDACHIENSIS, PAUMACHIA, and APOLOGIAE SEDES,
+
+[MSG$023779,87]
+|by the most powerful Princes, Genii, Liachidae, and Ministers of the Tartarean Abode;"
+
+[MSG$0237EB,76]
+Saeki "and by the Chief Prince of the Seat of Apologia in the Ninth Legion."
+
+[MSG$023844,88]
+Saeki "ADONAI, EL, ELOHIM, ELOHI, SABAOTH, ELION, ISCHIROS, JAH, TETRAGRAMMATON, SADAI!"
+
+[MSG$0238B6,100]
+Saeki "I do strongly command thee to forthwith appear unto me and answer all that I demand of thee."
+
+[MSG$023934,74]
+Saeki "Thou art conjured by the name of the LIVING and TRUE GOD, HELIOREN.
+
+[MSG$023983,108]
+I invocate, conjure and command thee in the name of the LIVING and TRUE GOD, and in the name of thy king..."
+
+[MSG$023A09,113]
+Saeki "Come thou, and manifest my demands. Wherefore fulfill my commands, and persist thou therein unto the end."
+
+[MSG$023A94,117]
+Saeki "By the name of TETRATRAMMATON JEHOVAH do I command thee, at which being heard all the hosts of the celestials,
+
+[MSG$023B0E,77]
+terrestials, infernals do tremble together, and are troubled and confounded."
+
+[MSG$023B75,65]
+Saeki "ADONAI, PERAI, PATHUMATON. TETRAGRAMMATON, INESSENSATOAL!"
+
+[MSG$023BD0,59]
+Saeki "Come thou, come thou, in the name of Adonai Sabaoth!
+
+[MSG$023C10,61]
+For it is the King of Kings, Adonai Sadai who commands thee!"
+
+[MSG$023C68,65]
+Again the voices fade away, and the room is enveloped in silence.
+
+[MSG$023CAE,52]
+But although the silence continues, nothing happens.
+
+[MSG$023CEF,47]
+Amatsuki "It's no good. I don't feel anything."
+
+[MSG$023D38,41]
+Kurimoto speaks up, breaking the silence.
+
+[MSG$023D6E,57]
+Kurimoto "But we felt the spirit's presence last time..."
+
+[MSG$023DC1,80]
+Kurimoto "Do you think maybe we should've tried to summon a lower-class spirit?"
+
+[MSG$023E2B,77]
+Saeki "All right...I'll try the spell for breaking the Chain of Restriction."
+
+[MSG$023E92,58]
+So saying, Saeki gathers up her concentration once more...
+
+[MSG$023ED9,82]
+Saeki "O thou wicked and disobedient spirit Dantalion, because thou hast rebelled,
+
+[MSG$023F30,66]
+and hast not obeyed nor regarded my words which I have rehearsed;"
+
+[MSG$023F8C,74]
+Saeki "they being all glorious and incomprehensible names of the true GOD,
+
+[MSG$023FDB,60]
+the maker and creator of thee and me, and of all the world;"
+
+[MSG$024024,75]
+Saeki "I DO by the power of these names that no creature is able to resist,
+
+[MSG$024074,104]
+curse thee unto into the depth of the Bottomless Abyss, there to remain unto the Day of Doom in chains,"
+
+[MSG$0240F7,100]
+Saeki "and in fire and brimstone unquenchable, unless thou forthwith appear here before this Circle,
+
+[MSG$024160,33]
+|in this triangle to do my will."
+
+[MSG$02418E,72]
+Saeki "And, therefore, in the names of ADONAI, SABAOTH, ADONAI, AMIORAN;
+
+[MSG$0241DB,86]
+come thou! come thou! for it is the King of Kings, ADONAI SADAI, who commandeth thee!"
+
+[MSG$02424C,34]
+Just as before, there's no change.
+
+[MSG$024273,80]
+Saeki begins to look somewhat panicked. She starts chanting in a desperate tone.
+
+[MSG$0242D0,92]
+Saeki "O thou Spirit Dantalion, if thou be still so disobedient, and refusest still to come,
+
+[MSG$024331,82]
+I will by the power of the SUPREME AND EVERLASTING GOD, JEHOVAH TETRAGRAMMATON..."
+
+[MSG$02439D,78]
+Saeki "The sole creator of both Heaven and Hell and what is contained therein,
+
+[MSG$0243F0,74]
+and by all the most glorious names of the gods both visible and invisible,
+
+[MSG$02443F,61]
+curse thee and deprive thee of thine office, joy and place...
+
+[MSG$024497,109]
+Saeki "And bind thee in the depths of the Bottomless Pit, there to remain until the day of the Last Judgment.
+
+[MSG$024509,87]
+And I will bind thee in the Eternal Fire, and into the Lake of Flame and of Brimstone."
+
+[MSG$02457A,48]
+Saeki "Let all the company of Heaven curse thee!
+
+[MSG$0245AF,109]
+Let all the hosts of Heaven curse thee into the fire unquenchable, and into the torments of the unspeakable!"
+
+[MSG$024637,89]
+Saeki finishes intoning the long spell, and waits for a reaction without moving a muscle.
+
+[MSG$02469D,35]
+And again, a long silence ensues...
+
+[MSG$0246CF,58]
+Saeki heaves a sigh, and the tension breaks in an instant.
+
+[MSG$024716,94]
+Amatsuki "It's no good, today. There's no reaction whatsoever...Maybe we chose the wrong day."
+
+[MSG$02478E,68]
+Kurimoto "It's not unusual. They only make rare appearances anyway."
+
+[MSG$0247EC,84]
+Saeki "I suppose you're right...I think we'll have better luck on the next Sabbath."
+
+[MSG$02485A,86]
+Saeki "And remember, Walpurgis Night is coming up. I'm sure it will go well that day."
+
+[MSG$0248CA,87]
+This seems to convince all 3 of them. They close the magic circle and we make our exit.
+
+[MSG$024A27,29]
+In the end, nothing happened.
+
+[MSG$024A49,62]
+Not that I ever expected a demon to really appear or anything.
+
+[MSG$024A94,83]
+You can chant all you want, but there's no way a demon would appear just like that.
+
+[MSG$024AEC,59]
+Even those girls from 12 years ago couldn't make it happen.
+
+[MSG$024BB2,35]
+Saeki "What did you think, Minase?"
+
+[MSG$024BEF,59]
+Saeki "Unfortunately, we weren't able to summon a demon..."
+
+[MSG$024C44,24]
+Saeki "Care to comment?"
+
+[MSG$024C76,40]
+Minase "It was an interesting ritual..."
+
+[MSG$024CB8,18]
+Saeki "That's it?"
+
+[MSG$024CE4,96]
+Minase "Yeah...and I hate to burst your bubble, but I really don't know much about Black Magic."
+
+[MSG$024D5E,93]
+Never mind power level, when it comes to sheer knowledge these girls have way more than me...
+
+[MSG$024DC8,86]
+In the first place, I've never summoned a demon before, and it just might be possible.
+
+[MSG$024E23,57]
+But the Book of Magic will at least tell me how to do it.
+
+[MSG$024E69,54]
+Saeki "That's all right, you don't have to be modest."
+
+[MSG$024EB9,119]
+Saeki "Listen, why don't you drop by the day after tomorrow, too? We're going to hold a ritual on the Sabbath as well."
+
+[MSG$024F4A,59]
+Kurimoto "Yeah, you should come. You're more than welcome."
+
+[MSG$024F9F,39]
+Kurimoto "What do you think, Amatsuki?"
+
+[MSG$024FE0,110]
+Amatsuki "Yeah, you should come. I know it's a secret club, but it's a little sad to only have three members."
+
+[MSG$025068,66]
+Saeki "See, everyone wants you to come, so I hope you do drop by."
+
+[MSG$0250C4,46]
+No way can I turn down a whole group of girls.
+
+[MSG$0250F7,77]
+Besides, I kind of like the idea of being the only guy among a trio of girls.
+
+[MSG$025151,14]
+Minase "Sure."
+
+[MSG$025179,35]
+Saeki "Really? We appreciate it..."
+
+[MSG$0251B6,62]
+Kurimoto "Okay then, that means you're one of us now, Minase."
+
+[MSG$02520E,115]
+Amatsuki "Hey, we should have Minase take part in the ritual next time. I'd like to see what kind of power he has."
+
+[MSG$02529B,66]
+Saeki "Good idea. I'll make sure I get a robe for Minase by then."
+
+[MSG$0252F7,59]
+Suddenly I feel like I've lost control of what's happening.
+
+[MSG$02533F,48]
+Minase "It's getting late. I'm gonna head home."
+
+[MSG$025389,45]
+I decide to leave before they go any further.
+
+[MSG$0253C3,87]
+Saeki "Oh? Well, then, we still have to clear the room, so you can go on home, Minase."
+
+[MSG$025434,39]
+I decide to do as she says and go home.
+
+[MSG$025468,23]
+Amatsuki "Bye, Minase."
+
+[MSG$025499,18]
+Kurimoto "See ya!"
+
+[MSG$025541,82]
+I tell them goodbye and leave the building, the cold night air hitting me outside.
+
+[MSG$0255A0,40]
+A secret club to practice Black Magic...
+
+[MSG$0255CD,83]
+but having watched them go through all the hassle of that whole ritual to no avail,
+
+[MSG$025625,45]
+I can see that they're no more than dabblers.
+
+[MSG$02565F,21]
+April 23 - Home/Night
+
+[MSG$025763,72]
+I return to my room and sit down once again to tackle the book of magic.
+
+[MSG$0257B8,51]
+And I go back to work on the gate-summoning ritual.
+
+[MSG$025874,47]
+While I'm working, I remember Saeki's ritual...
+
+[MSG$0258A8,74]
+It was the same as the one I'm translating now; a spirit-summoning ritual.
+
+[MSG$0258FF,75]
+Suddenly, I wonder exactly what I'm doing, translating something like this.
+
+[MSG$025957,98]
+I started out casually. But knowing about these rituals means that I'll also  be able to use them.
+
+[MSG$0259C6,60]
+And there's no denying that I'm going to want to use them...
+
+[MSG$025A07,102]
+There's no difference between what I'm doing and what those girls from 12 years ago were trying to do.
+
+[MSG$025A7A,67]
+But I can't just stop now. I'm so close to finishing this ritual...
+
+[MSG$025AC2,51]
+Will I be able to fend off my own desire, I wonder?
+
+[MSG$025B02,114]
+But despite my inner turmoil I continue to steam along, until I've deciphered the entire section about the ritual.
+
+[MSG$025B81,20]
+Minase "I'm done..."
+
+[MSG$025BAF,57]
+I'm done with my time-consuming task, and I take a break.
+
+[MSG$025BED,88]
+It's after 2 AM. I'd better get to bed or I'll get hell from Imari again in the morning.
+
+[MSG$025C52,75]
+I lean against my chair and start thinking about what I've just translated.
+
+[MSG$025CAA,56]
+The spirit-summoning ritual itself isn't very difficult.
+
+[MSG$025CE7,57]
+It consists of a series of ceremonies, modeled on a mass.
+
+[MSG$025D2D,82]
+You pray to the gods, and summon the spirits under the gods' power and protection,
+
+[MSG$025D84,47]
+and then attempt to take control of the demons.
+
+[MSG$025DB8,61]
+It's similar to the one Saeki and her gang carried out today.
+
+[MSG$025E02,66]
+If you succeed, you'll come into power beyond human understanding.
+
+[MSG$025E49,66]
+The ultimate truth that every practitioner of magic lusts after...
+
+[MSG$025E98,72]
+it wouldn't be hard for even someone like me to carry out such a ritual.
+
+[MSG$025EE5,72]
+It's entirely possible now that I have this book and that basement room.
+
+[MSG$025F3A,83]
+The only thing is that, unlike Saeki's ritual, this one calls for a live sacrifice.
+
+[MSG$025F92,38]
+And this varies from spirit to spirit.
+
+[MSG$025FC5,108]
+If you want to summon a more powerful spirit, then the sacrifice has to be in line with that level of power.
+
+[MSG$02603E,94]
+If they followed this book, then those girls from 12 years ago must've used  a live sacrifice.
+
+[MSG$0260A1,26]
+What was it that they saw?
+
+[MSG$0260C8,39]
+I'd be lying if I said I didn't care...
+
+[MSG$0260F4,39]
+And now I have the means to find out...
+
+[MSG$026128,64]
+If I succeed, then I'll acquire even more power than I have now.
+
+[MSG$02616D,76]
+But it's also highly likely that I'll end up the same way those girls did...
+
+[MSG$0261C6,83]
+What I've got to do first is go back to that basement room and look around closely.
+
+[MSG$02621E,28]
+It all started in that room.
+
+[MSG$026247,32]
+The answer's got to be there....
+
+[MSG$026274,18]
+..................
+
+[MSG$026293,12]
+............
+
+[MSG$0262AC,6]
+......

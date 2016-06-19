@@ -1,0 +1,46 @@
+﻿#Size=10783
+
+[MSG$000ADA,7]
+Show CG
+
+[MSG$000B36,7]
+Show CG
+
+[MSG$000B92,7]
+Show CG
+
+[MSG$000BEE,7]
+Show CG
+
+[MSG$000C4A,7]
+Show CG
+
+[MSG$000CA6,7]
+Show CG
+
+[MSG$000D02,7]
+Show CG
+
+[MSG$000D5E,7]
+Show CG
+
+[MSG$000DBA,7]
+Show CG
+
+[MSG$000E16,7]
+Show CG
+
+[MSG$000E73,7]
+Show CG
+
+[MSG$000ED0,7]
+Show CG
+
+[MSG$000F2D,9]
+Prev Page
+
+[MSG$000F7B,9]
+Next Page
+
+[MSG$000FC9,17]
+Exit picture mode

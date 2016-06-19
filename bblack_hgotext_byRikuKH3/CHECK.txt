@@ -1,0 +1,91 @@
+﻿#Size=3298
+
+[MSG$000078,24]
+Bible Black Ending Check
+
+[MSG$0000B8,22]
+Endings you've seen...
+
+[MSG$0000EE,12]
+Kurumi Imari
+
+[MSG$00015C,12]
+Kurumi Imari
+
+[MSG$0001E9,15]
+Evil never dies
+
+[MSG$00025A,15]
+Evil never dies
+
+[MSG$0002EA,9]
+Deceivers
+
+[MSG$000355,9]
+Deceivers
+
+[MSG$0003CA,12]
+Rika Shiraki
+
+[MSG$000438,12]
+Rika Shiraki
+
+[MSG$0004C5,12]
+Reika Kitami
+
+[MSG$000533,12]
+Reika Kitami
+
+[MSG$0005C0,8]
+Mika Ito
+
+[MSG$00062A,8]
+Mika Ito
+
+[MSG$00069E,10]
+White room
+
+[MSG$00070A,10]
+White room
+
+[MSG$000795,11]
+On the road
+
+[MSG$000802,11]
+On the road
+
+[MSG$00088E,8]
+Art room
+
+[MSG$0008F8,8]
+Art room
+
+[MSG$00096C,15]
+Miyuki Nonogusa
+
+[MSG$0009DD,15]
+Miyuki Nonogusa
+
+[MSG$000A6D,5]
+Knife
+
+[MSG$000AD4,5]
+Knife
+
+[MSG$000B5A,16]
+Hiroko Takashiro
+
+[MSG$000BCC,16]
+Hiroko Takashiro
+
+[MSG$000C44,8]
+Total (\
+
+[MSG$000C69,6]
+/12) 
+
+[MSG$000C8D,31]
+Completed All Endings Complete.
+
+[MSG$000CB7,27]
+You've not seen any ending.

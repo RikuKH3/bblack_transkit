@@ -1,0 +1,3931 @@
+﻿#Size=92679
+
+[MSG$000108,13]
+Use the knife
+
+[MSG$000132,14]
+Drop the knife
+
+[MSG$000165,9]
+Hold back
+
+[MSG$00018B,8]
+Admit it
+
+[MSG$0001B8,15]
+Still hold back
+
+[MSG$0001E4,8]
+Admit it
+
+[MSG$000211,8]
+Admit it
+
+[MSG$00023E,7]
+Lick it
+
+[MSG$000262,6]
+Refuse
+
+[MSG$000287,28]
+Do not summon this function.
+
+[MSG$0002A8,89]
+Significance of this function is mainly to protect the saved data after applying a patch.
+
+[MSG$000306,28]
+Do not summon this function.
+
+[MSG$000327,89]
+Significance of this function is mainly to protect the saved data after applying a patch.
+
+[MSG$000385,28]
+Do not summon this function.
+
+[MSG$0003A6,89]
+Significance of this function is mainly to protect the saved data after applying a patch.
+
+[MSG$00047A,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0004F1,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$000591,18]
+April 29 - Morning
+
+[MSG$0005AB,18]
+Minase "U..uun..."
+
+[MSG$0005D7,51]
+I wasn't sleeping well.  I was tossing and turning.
+
+[MSG$000617,7]
+Bang...
+
+[MSG$00062B,51]
+I hear a dull thud and pain runs through my head...
+
+[MSG$00066B,16]
+Minase "Ouch..."
+
+[MSG$0006AD,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00072A,33]
+I open my eyes and slowly get up.
+
+[MSG$000750,44]
+My bed is so hard...No, it's just the floor.
+
+[MSG$000789,45]
+That's right...Ms. Takashiro is using my bed.
+
+[MSG$0007BB,31]
+I stand up and look at the bed.
+
+[MSG$0007F7,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$000869,28]
+Takashiro "(Soft Breathing)"
+
+[MSG$00089F,32]
+Ms. Takashiro is still sleeping.
+
+[MSG$0008C4,27]
+She must be really tired...
+
+[MSG$0008EC,46]
+I look at the time and it's already past noon.
+
+[MSG$00091F,56]
+I look at Ms. Takashiro once again, and make up my mind.
+
+[MSG$000964,55]
+I get dressed quickly and leave Ms. Takashiro sleeping.
+
+[MSG$0009A0,56]
+I'm going back to that apartment, and I'm going alone...
+
+[MSG$0009E5,96]
+I can't rely on Ms. Takashiro. Even if she does wake up, I don't know if she can help me at all.
+
+[MSG$000A4A,88]
+Anyway, if she finds out that I'm going to go alone, she'll definitely try to stop me...
+
+[MSG$000AAF,34]
+And so I leave the room quietly...
+
+[MSG$000AF6,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$000B73,65]
+I have to get to the apartment and rescue Imari no matter what...
+
+[MSG$000BB9,84]
+Even if it's impossible to rescue her, at least I need to get my hands on that book.
+
+[MSG$000C1A,38]
+But I'm sure it's not gonna be easy...
+
+[MSG$000C45,63]
+Plus, it's pretty likely that I'll just get captured. Honestly,
+
+[MSG$000C89,44]
+they could take me out in about two seconds.
+
+[MSG$000CC2,62]
+Even though I know what's about to happen, I still have to go.
+
+[MSG$000D0D,82]
+Before heading over to the apartment, I stop by the local convenience store to buy
+
+[MSG$000D64,30]
+|a fruit knife and some vodka.
+
+[MSG$000D8F,112]
+Then I open the bottle of vodka, and stuff my handkerchief into the top, letting it soak up some of the alcohol.
+
+[MSG$000E04,61]
+It's a cheesy Molotov cocktail, but it's better than nothing.
+
+[MSG$000E4E,39]
+These are the only weapons I can get...
+
+[MSG$000E92,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$000F03,37]
+In reality, I think I'm over my head.
+
+[MSG$000F35,73]
+I have a fruit knife and a Molotov cocktail as my weapons...I don't think
+
+[MSG$000F83,39]
+they'll be scared of these toys at all.
+
+[MSG$000FB7,85]
+But I can't get anything done without trying. Besides, I don't have much time left...
+
+[MSG$001011,36]
+Anyway, I have to do the best I can.
+
+[MSG$001042,20]
+April 29 - Apartment
+
+[MSG$001069,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0010DA,60]
+I make up my mind, and decide to head towards the apartment.
+
+[MSG$001123,91]
+I stop in front of the door, and light the Molotov cocktail using the lighter in my pocket.
+
+[MSG$001183,76]
+The handkerchief soaked in alcohol lights up, and starts burning like crazy.
+
+[MSG$0011DC,83]
+While holding the Molotov cocktail in one hand, I ring the doorbell with the other.
+
+[MSG$00123C,19]
+Ringing doorbell...
+
+[MSG$00125C,19]
+...Ringing doorbell
+
+[MSG$00127C,19]
+Ringing doorbell...
+
+[MSG$00129C,50]
+I push it over and over again, but nobody answers.
+
+[MSG$0012D3,14]
+Nobody's home?
+
+[MSG$0012E6,37]
+Then I place my hand on the doorknob.
+
+[MSG$001318,17]
+The door opens...
+
+[MSG$001336,11]
+It's open!?
+
+[MSG$001346,44]
+Just like last time, the door is unlocked...
+
+[MSG$00137F,66]
+Could it be a trap? But still, this is a great opportunity for me.
+
+[MSG$0013C6,57]
+Even if it's a trap, it's better than not getting inside.
+
+[MSG$00140C,97]
+Anyway, I can stay out in the hall.  If someone sees me like this, they'll think I'm an arsonist.
+
+[MSG$00148A,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0014FB,73]
+I quietly open the door, make sure nobody's inside, and sneak in quickly.
+
+[MSG$001551,58]
+Soon as I enter, a strong scent of incense hits my nose...
+
+[MSG$001590,61]
+The smell makes my head ache. I try not to take in the smell,
+
+[MSG$0015D2,46]
+and slowly move forward into the dusky room...
+
+[MSG$00160D,66]
+It's weird that the door is unlocked, but I have no time to waste.
+
+[MSG$00165C,81]
+I listen carefully, and a strange sound can be heard from the back of the room...
+
+[MSG$0016B2,83]
+Someone's definitely here. And it's not just one or two people. I can hear a group,
+
+[MSG$00170A,47]
+and I get the feeling that it's a full house...
+
+[MSG$001756,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0017DC,93]
+I'm nervous, but I go inside with flames from the candles and my Molotov cocktail guiding me.
+
+[MSG$00183E,55]
+There's a strange air coming from the back of the room.
+
+[MSG$001882,79]
+I don't have a clue what's going on back there. They could be doing anything...
+
+[MSG$0018DE,48]
+I walk through the hallway one step at a time...
+
+[MSG$001913,89]
+Even though the door was open, I don't see any sign of a trap. Nobody seems to be hiding,
+
+[MSG$001971,36]
+and everyone's probably in the back.
+
+[MSG$0019A2,98]
+I keep walking safely to the back of the room. It's strange that nothing has happened to me yet...
+
+[MSG$001A11,72]
+I can clearly hear that something's going on inside the room just ahead.
+
+[MSG$001A66,54]
+Even though I feel uneasy, I slowly turn the doorknob.
+
+[MSG$001AA1,29]
+Then I quietly open the door.
+
+[MSG$001ACB,49]
+I don't think they'll notice me in this darkness.
+
+[MSG$001B01,44]
+I open the door just a bit, and peek inside.
+
+[MSG$001B52,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$001BC3,14]
+Minase "...!?"
+
+[MSG$001BDE,53]
+I'm surprised to see what's going on inside the room.
+
+[MSG$001C20,67]
+There is a whole crowd of guys and girls getting it on just inside.
+
+[MSG$001C68,117]
+Smoke from the incense covers the room, and masses of naked bodies are moving violently and mysteriously in the haze.
+
+[MSG$001CEA,85]
+They all have vacant eyes and an ecstatic expression, lost in enjoying the madness...
+
+[MSG$001D44,102]
+They are like animals. Grinding their bodies against each other and fulfilling their sexual desires...
+
+[MSG$001DAF,32]
+I spot several familiar faces...
+
+[MSG$001DDC,50]
+Kurimoto "Good! Do me more! My ass feels so good!"
+
+[MSG$001E28,16]
+Amatsuki "Aaan!"
+
+[MSG$001E52,100]
+I see Amatsuki and Kurimoto getting banged by guys, they're shaking their asses, begging for more...
+
+[MSG$001EC3,67]
+You can hear their kinky moaning and breathing throughout the room.
+
+[MSG$001F0B,68]
+The discord of the sounds reminds me of some kind of spell or chant.
+
+[MSG$001F5C,90]
+One woman is having sex with a whole group of guys, and another is busy having anal sex...
+
+[MSG$001FBB,56]
+Some girls are partaking in some lesbian action as well.
+
+[MSG$002000,88]
+A few are making a mess on the cross, and others are masturbating using the Holy Host...
+
+[MSG$00205D,39]
+They're all lost in their crazy acts...
+
+[MSG$002091,84]
+They are completely carried away, enjoying themselves with no idea where they are...
+
+[MSG$0020F2,32]
+Minase "They're unbelievable..."
+
+[MSG$00212C,46]
+I'm watching all this, whispering to myself...
+
+[MSG$002167,53]
+But then I look at the center of the room and freeze.
+
+[MSG$0021A1,35]
+I see a girl lying down on a table.
+
+[MSG$0021D1,15]
+Is that Imari!?
+
+[MSG$0021E5,56]
+But it's too dark and I can't tell from this position...
+
+[MSG$00222A,46]
+Kitami "Stop peeking and come inside, Minase."
+
+[MSG$002272,35]
+I jump up in surprise at the voice.
+
+[MSG$00229A,54]
+Ms. Kitami is watching me from the corner of the room.
+
+[MSG$0022DD,23]
+She was expecting me...
+
+[MSG$0022F9,66]
+I know there is no use sneaking around, so I step into the room...
+
+[MSG$002358,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0023ED,29]
+Kitami "I knew you'd come..."
+
+[MSG$002424,48]
+Ms. Kitami looks at me and says it with a smirk.
+
+[MSG$002459,70]
+She probably knew I was coming. That's why she left the door unlocked.
+
+[MSG$0024AC,73]
+Kitami "What did you come here for? You're not here to join us, are you?"
+
+[MSG$00250F,41]
+I show my Molotov cocktail to Ms. Kitami.
+
+[MSG$002545,37]
+Minase "I'm here to take back Imari."
+
+[MSG$002584,80]
+But her facial expression stays the same, and she looks me over with confidence.
+
+[MSG$0025E1,46]
+Kitami "You think you can scare us with that?"
+
+[MSG$002629,14]
+Minase "Uh..."
+
+[MSG$002651,38]
+Kitami "You think I'll do as you say?"
+
+[MSG$002691,39]
+I guess it's no use with this weapon...
+
+[MSG$0026C5,40]
+Kitami "I'll show you who's in control."
+
+[MSG$002707,45]
+Ms. Kitami lightly exhales towards my bottle.
+
+[MSG$002739,50]
+Then the flame on the Molotov cocktail goes out...
+
+[MSG$002778,14]
+Minase "Shit!"
+
+[MSG$0027A0,36]
+Kitami "Now, what are you gonna do?"
+
+[MSG$0027DE,29]
+Ms. Kitami starts to chuckle.
+
+[MSG$002808,83]
+I quickly put my hand in my pocket and try to take out my lighter, but then I stop.
+
+[MSG$002860,84]
+It doesn't matter how many times I try...I give up and drop the bottle on the floor.
+
+[MSG$0028C1,58]
+Kitami "You came here carrying that bottle to save Imari?"
+
+[MSG$002915,57]
+Kitami "You got some guts. Or are you just plain stupid?"
+
+[MSG$002968,42]
+Minase "What are you going to do with me?"
+
+[MSG$0029AC,69]
+Then I firmly grab the knife I have tucked into the back of my pants.
+
+[MSG$0029F6,26]
+This is all I have left...
+
+[MSG$002A1D,40]
+But Ms. Kitami looks at me and smiles...
+
+[MSG$002A72,51]
+I quickly pull out the knife and attack Ms. Kitami.
+
+[MSG$002AB2,19]
+Minase "Take this!"
+
+[MSG$002ADF,42]
+I raise my voice and charge at Ms. Kitami.
+
+[MSG$002B16,12]
+Attacking...
+
+[MSG$002BC8,13]
+Minase "Guh!"
+
+[MSG$002BEF,74]
+But the knife stops before Ms. Kitami, and it seems like time has stopped.
+
+[MSG$002C46,14]
+Minase "Shit!"
+
+[MSG$002C6E,67]
+Even if I wanted to let go of the knife, my hand won't move at all.
+
+[MSG$002CBE,32]
+Kitami "You're really stupid..."
+
+[MSG$002CF8,50]
+Ms. Kitami looks at me and speaks in a harsh tone.
+
+[MSG$002D37,59]
+Then my hand starts to move on its own. The blade is turned
+
+[MSG$002D77,17]
+towards me now...
+
+[MSG$002D95,21]
+Minase "Guh..Argh..."
+
+[MSG$002DC4,85]
+I try to resist, but no matter how hard I try, the blade is still pointed towards me.
+
+[MSG$002E26,17]
+Minase "Stop it!"
+
+[MSG$002E51,58]
+Kitami "What are you saying? You're doing it on your own."
+
+[MSG$002EA5,17]
+Minase "Damn it!"
+
+[MSG$002ED0,58]
+The knife gradually comes closer to the base of my neck...
+
+[MSG$002F17,64]
+Kitami "You're going to kill yourself...I'm not doing anything."
+
+[MSG$002F71,36]
+Ms. Kitami makes a helpless gesture.
+
+[MSG$002FA2,29]
+Minase "Don't be ridiculous!"
+
+[MSG$002FD9,34]
+Then the knife dives into my neck.
+
+[MSG$003008,13]
+Minase "Guh!"
+
+[MSG$00302F,62]
+Pain fills my body as blood starts pouring out from my throat.
+
+[MSG$0030A3,20]
+Blood pouring out...
+
+[MSG$0030C4,50]
+I try to say Imari's name out loud, but I can't...
+
+[MSG$0030FB,64]
+Then I start to lose consciousness, coughing up tons of blood...
+
+[MSG$003168,20]
+Ending No. 11, Knife
+
+[MSG$003181,10]
+...Bad End
+
+[MSG$0031C7,22]
+It's not gonna work...
+
+[MSG$0031EA,31]
+That's what I think right away.
+
+[MSG$00320E,61]
+Ms. Kitami knows what I'm about to do next...I'm pretty sure.
+
+[MSG$003258,12]
+Minase "..."
+
+[MSG$003271,32]
+I drop the knife on the floor...
+
+[MSG$003296,42]
+This knife won't do me any good right now.
+
+[MSG$0032CD,7]
+Stab...
+
+[MSG$0032E1,75]
+As I let go of the knife, it falls and sticks straight up out of the floor.
+
+[MSG$00336C,65]
+Kitami "Wise choice...Since you're courageous, I won't kill you."
+
+[MSG$0033C7,70]
+Ms. Kitami speaks to me coolly after watching me throw away the knife.
+
+[MSG$003412,60]
+Now there's nothing I can do. I realize how helpless I am...
+
+[MSG$00348E,67]
+Kitami "But I'm not giving back Imari. She's very important to me."
+
+[MSG$0034EB,82]
+Kitami "Her soul is going to atone for my sins. She'll take my sins and go to hell
+
+[MSG$003542,31]
+|just like Jesus Christ did..."
+
+[MSG$00357B,27]
+Kitami "But that's not all.
+
+[MSG$00359B,75]
+I'll make good use of her body. I'm sure her name will go down in history."
+
+[MSG$003600,20]
+Minase "Go to hell!"
+
+[MSG$00362E,62]
+Kitami "You'll never understand what we're trying to do here."
+
+[MSG$003686,111]
+Kitami "Anyway, nobody can stop us now. By tomorrow, I'll be Imari, and I will gain endless power and freedom."
+
+[MSG$00370F,48]
+Kitami "Then the world will revolve around me...
+
+[MSG$003744,50]
+After I've gained eternal life and divine powers!"
+
+[MSG$003790,85]
+Ms. Kitami is excited, but she pauses to draw a deep breath and regain her composure.
+
+[MSG$0037F2,76]
+Kitami "Don't you want to be one of us? Then I'll give you a better future."
+
+[MSG$003858,103]
+Kitami "If you want, I can entertain you with Imari's body. Well? You want to taste Imari's body right?
+
+[MSG$0038C4,48]
+I'll let you have the best time of your life..."
+
+[MSG$00390E,34]
+Minase "I'll never listen to you!"
+
+[MSG$00394A,34]
+I keep talking back to Ms. Kitami.
+
+[MSG$003971,106]
+I'm getting sick just thinking about having sex with Ms. Kitami while she looks like Imari on the outside.
+
+[MSG$0039E8,41]
+Kitami "I see...So negotiations are off."
+
+[MSG$003A2B,65]
+Kitami "It's a shame. I thought we could be really good friends."
+
+[MSG$003A86,17]
+Minase "Hell no."
+
+[MSG$003AB1,70]
+Kitami "Stupid boy. If you joined us, you could've had so much fun..."
+
+[MSG$003B11,79]
+Kitami "But you'll regret it later. When I finish taking Imari's body, we'll be
+
+[MSG$003B65,51]
+|seeing each other everyday. See you then, Minase."
+
+[MSG$003BB2,38]
+Ms. Kitami speaks with an eerie smile.
+
+[MSG$003BDD,101]
+It makes me feeling like puking, just thinking that a woman like her is gonna live her life as Imari.
+
+[MSG$003C47,93]
+I might not mind if it was someone else, but I can't accept the fact that it has to be Imari.
+
+[MSG$003CB1,69]
+Kitami "Well since you came, I'll let you see our wonderful lifestyle
+
+[MSG$003CFB,22]
+|before I let you go."
+
+[MSG$003D2B,69]
+Kitami "We're just about to initiate her flesh. I'll show it to you."
+
+[MSG$003D8A,101]
+Kitami "It's only a matter of time until she becomes mine. I'll let you enjoy her for the last time."
+
+[MSG$003E09,22]
+April 29 - Holy ritual
+
+[MSG$003E32,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$003EB8,64]
+Ms. Kitami snaps her fingers, and Saeki comes over and grabs me.
+
+[MSG$003EFD,34]
+Then she takes me closer to Imari.
+
+[MSG$003F44,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$003FB6,17]
+Minase "Imari..."
+
+[MSG$003FE1,69]
+Imari is sleeping quietly in the room where the orgy is taking place.
+
+[MSG$00402B,70]
+She's lying on top of the altar, which is covered with a velvet cloth.
+
+[MSG$00407E,45]
+Imari doesn't have any clothes on, and she is
+
+[MSG$0040B0,31]
+wearing only her chastity belt.
+
+[MSG$0040DC,44]
+There is also a cross hanging from her neck,
+
+[MSG$00410D,34]
+and a brass cup between her boobs.
+
+[MSG$00413C,34]
+Minase "What did you do to Imari?"
+
+[MSG$004188,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00421D,65]
+Kitami "I used a drug and put her to sleep. I need her to be calm
+
+[MSG$004263,31]
+until the ritual is completed."
+
+[MSG$00429C,47]
+Kitami "She's beautiful isn't she? Her body..."
+
+[MSG$0042E5,55]
+Minase "What's gonna happen to Imari after the ritual?"
+
+[MSG$004336,58]
+Kitami "Imari's soul? Well, it's gonna become part of me."
+
+[MSG$00438A,22]
+Minase "Impossible..."
+
+[MSG$0043BA,61]
+Kitami "I'm sorry, but you're gonna have to let this one go."
+
+[MSG$004412,41]
+Minase "Take me instead. Let Imari go..."
+
+[MSG$004455,100]
+Kitami "No. I'm not interested in your body. You're your body is no good to me since it's not pure."
+
+[MSG$0044D3,109]
+Kitami "On the other hand, Imari's body is perfect. She's the chosen one. I knew it when I first saw her body
+
+[MSG$004545,46]
+|in the nurse's office. She's the ideal type."
+
+[MSG$00458D,83]
+Kitami "I appreciate what you did for me. Thanks to you, I was able to get my hands
+
+[MSG$0045E5,25]
+|on this body with ease."
+
+[MSG$004618,74]
+Ms. Kitami was checking out Imari when I took her to the nurse's office...
+
+[MSG$00466F,54]
+Kitami "No more talk. We can't keep the boys waiting."
+
+[MSG$0046BF,52]
+These guys came out of nowhere and surrounded Imari.
+
+[MSG$0046F8,43]
+They're breathing hard as they watch Imari,
+
+[MSG$004728,31]
+and then they grab their cocks.
+
+[MSG$00474C,38]
+They look like a bunch of hungry dogs.
+
+[MSG$00478F,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$004800,65]
+Minase "What are you gonna do? You're gonna let them have Imari?"
+
+[MSG$00485B,65]
+Kitami "Don't worry, I'll protect her virginity until the ritual.
+
+[MSG$0048A1,34]
+We're just preparing for tomorrow.
+
+[MSG$0048C8,26]
+You keep quiet and watch."
+
+[MSG$0048FC,48]
+So that's why Imari's wearing a chastity belt...
+
+[MSG$004939,92]
+Kitami "Now all of you. Purify this altar of flesh, and fill this chalice with your juices."
+
+[MSG$0049AF,41]
+Then the guys start stroking their cocks,
+
+[MSG$0049DD,34]
+like dogs ordered by their master.
+
+[MSG$004A0C,44]
+They're bunch of dogs trained by Ms. Kitami.
+
+[MSG$004A45,70]
+Minase "Stop it! Aren't you all ashamed to be taking orders from her?"
+
+[MSG$004AA5,82]
+I shout at the guys who are completely gone, only paying attention to their cocks.
+
+[MSG$004B04,80]
+Kitami "It's no use. They're only focused on satisfying their sexual fantasies."
+
+[MSG$004B6E,64]
+Their eyes are vacant, and they're salivating from their mouths.
+
+[MSG$004BB3,50]
+They've gone crazy with the drugs and the incense.
+
+[MSG$004BF2,81]
+I'm feeling a bit tired, myself.  Maybe because of all the incense I'm taking in.
+
+[MSG$004C50,49]
+Kitami "Actually, I want you to join in as well."
+
+[MSG$004C9B,27]
+Ms. Kitami grabs my crotch.
+
+[MSG$004CC3,23]
+Minase "What! Stop it!"
+
+[MSG$004CF4,66]
+Kitami "It's not fun just watching it, right? Aren't you excited?"
+
+[MSG$004D50,36]
+Ms. Kitami starts rubbing my crotch.
+
+[MSG$004D81,13]
+Minase "Kuh!"
+
+[MSG$004DA8,36]
+Kitami "Saeki, take care of Minase."
+
+[MSG$004DF6,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$004E68,82]
+Saeki takes over for Ms. Kitami, and starts to stimulate my cock through my pants.
+
+[MSG$004EC7,44]
+Saeki "Come on Minase, let's do this thing."
+
+[MSG$004F0D,75]
+Saeki whispers into my ears, and ties my hands behind my back with a cloth.
+
+[MSG$004F65,19]
+Minase "Let me go!"
+
+[MSG$004F92,82]
+I didn't come here to be part of all this. But no matter how much I try to resist,
+
+[MSG$004FE9,29]
+I know there is no way out...
+
+[MSG$005013,59]
+Kitami "Now I'll let you enjoy it just like you always do."
+
+[MSG$005068,66]
+Ms. Kitami then pulls out her cock, and starts to rub it with joy.
+
+[MSG$0050B7,12]
+Unzipping...
+
+[MSG$0050D0,63]
+Saeki unzips my pants, and my cock whips out in front of Imari.
+
+[MSG$00512C,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00519E,25]
+Minase "Stop doing this."
+
+[MSG$0051D1,44]
+Saeki "But your cock seems to be liking it."
+
+[MSG$005217,66]
+Saeki rubs some ointment on her hand, and starts stroking my cock.
+
+[MSG$005266,11]
+Stroking...
+
+[MSG$00527E,13]
+Minase "Aah!"
+
+[MSG$0052A5,71]
+Every time she rubs my cock, a numbing sensation goes right to my head.
+
+[MSG$0052F9,40]
+Minase "Why are you doing these things?"
+
+[MSG$00533B,57]
+I hold back the pleasure, and try to speak to Ms. Kitami.
+
+[MSG$005381,96]
+Kitami "No reason. It just feels good. Lust is considered a mortal sin, and is detested by many.
+
+[MSG$0053E6,76]
+God loathes those that have sex solely for pleasure. Forget about adultery."
+
+[MSG$00544C,62]
+Kitami "And so humans are imperfect, and are weak to pleasure.
+
+[MSG$00548F,57]
+And to be lost in pleasure is to admit that you are weak.
+
+[MSG$0054CD,60]
+It gives an opportunity for the devil to enter your body..."
+
+[MSG$005523,33]
+Kitami "So let's just enjoy it...
+
+[MSG$005549,85]
+The joy of sex is a special privilege given to those who ate the fruit of knowledge."
+
+[MSG$0055B8,85]
+Kitami "You like this kind of thing too, right? Minase? As long as humans have flesh,
+
+[MSG$005612,38]
+no one can resist the desire for sex."
+
+[MSG$005652,50]
+Minase "Then humans are gonna become corrupted..."
+
+[MSG$00569E,91]
+Kitami "That's all right. If they can enjoy sex, then even hell will turn into a paradise."
+
+[MSG$005713,32]
+Minase "You're just a coward..."
+
+[MSG$00574D,72]
+Kitami "I'm impressed that you can lecture me with your cock that hard."
+
+[MSG$0057AF,10]
+Rubbing...
+
+[MSG$0057C6,54]
+Even as we're talking, Saeki keeps on rubbing my cock.
+
+[MSG$005801,54]
+My cock was getting huge with the intense stimulation.
+
+[MSG$005844,35]
+Minase "You people forced me to..."
+
+[MSG$005881,29]
+Kitami "Is that your excuse?"
+
+[MSG$0058B8,38]
+Kitami "Saeki, stop moving your hand."
+
+[MSG$0058F8,28]
+Saeki stops moving her hand.
+
+[MSG$005931,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00599E,62]
+Kitami "I wonder how long you can persist with that attitude."
+
+[MSG$0059F6,21]
+Minase "Uh...aaah..."
+
+[MSG$005A25,29]
+I suddenly stop feeling good.
+
+[MSG$005A47,50]
+Soon, my cock feels like it wants more pleasure...
+
+[MSG$005A86,74]
+It's hard for me to hold back my feelings. Plus the aphrodisiac in the air
+
+[MSG$005AD5,57]
+|makes things worse, like it's taking control of my mind.
+
+[MSG$005B1B,29]
+Minase "Hah...hah...haaah..."
+
+[MSG$005B52,56]
+I writhe in agony and twist my body to hold myself back.
+
+[MSG$005B8F,55]
+My hands are tied up and there's nothing more I can do.
+
+[MSG$005BD3,31]
+Kitami "What's wrong? Painful?"
+
+[MSG$005C0C,65]
+Ms. Kitami keeps rubbing her cock as if she's trying to show off.
+
+[MSG$005C5A,19]
+Minase "Shut up..."
+
+[MSG$005C87,44]
+Saeki "I can continue if you ask me nicely."
+
+[MSG$005CCD,24]
+Minase "Why should I..."
+
+[MSG$005CFF,38]
+Kitami "It's not good to hold back..."
+
+[MSG$005D3F,21]
+I try to tolerate it.
+
+[MSG$005D59,90]
+But I can't do anything to control it. The more I hold back, and the more impatient I get,
+
+[MSG$005DB8,46]
+the more the feeling becomes uncontrollable...
+
+[MSG$005DF3,38]
+Saeki smiles as she watches me suffer.
+
+[MSG$005E26,73]
+Saeki "It's better for you to give in. There's no point in holding back."
+
+[MSG$005E89,16]
+Minase "Gack..."
+
+[MSG$005EB3,94]
+Saeki "You're rock hard. You look like you're about to explode any minute. Come on, admit it."
+
+[MSG$005F4B,37]
+Minase "I'll never give in to you..."
+
+[MSG$005F8A,49]
+I reply while tolerating this feeling in my dick.
+
+[MSG$005FC0,56]
+To admit that I like it would be way too embarrassing...
+
+[MSG$006005,68]
+Saeki "How stubborn...Nothing's gonna change even if you hold back."
+
+[MSG$006063,54]
+Then Saeki breathes onto the tip of my rock hard cock.
+
+[MSG$00609E,67]
+Even with the slightest stimulation, my body responds and twitches.
+
+[MSG$0060EE,18]
+This is torture...
+
+[MSG$006105,47]
+No, this is far worse than any kind of torture.
+
+[MSG$006141,29]
+Saeki "Come on, let's relax."
+
+[MSG$006198,14]
+Minase "Nnnn!"
+
+[MSG$0061C0,61]
+I tolerate their torture, trying to think about other things.
+
+[MSG$00620A,66]
+But nothing seems to work. Even if I try to think of other things,
+
+[MSG$006251,48]
+my mind quickly goes back to these obscene acts.
+
+[MSG$006286,43]
+Getting off is the only thing on my mind...
+
+[MSG$0062BE,58]
+Then my body wiggles unconsciously, seeking only pleasure.
+
+[MSG$006305,22]
+I've reached my limit.
+
+[MSG$006320,49]
+Even if my heart says no, my body still says yes.
+
+[MSG$00635E,90]
+After another minute, my lips start moving on their own, and I'm about to admit my defeat.
+
+[MSG$0063D3,23]
+Minase "Let me come..."
+
+[MSG$006404,51]
+I give in to this feeling, and admit it to Saeki...
+
+[MSG$00643C,72]
+I feel ashamed, but like Ms. Kitami said, I have to give in to pleasure.
+
+[MSG$006491,19]
+Saeki "I see. And?"
+
+[MSG$0064BE,18]
+Minase "Please..."
+
+[MSG$0064EA,81]
+Saeki "Be more specific. What do you say when you're asking someone for a favor?"
+
+[MSG$006555,31]
+Minase "Let me come. Please..."
+
+[MSG$00658E,24]
+Saeki "That's better..."
+
+[MSG$0065C0,54]
+Saeki chuckles, and starts stroking my cock very hard.
+
+[MSG$006613,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$006681,11]
+Stroking...
+
+[MSG$006699,13]
+Minase "Aah!"
+
+[MSG$0066C0,63]
+I almost faint in agony as waves of pleasure pass over my body.
+
+[MSG$00670C,80]
+Saeki "Pathetic. If Imari saw you like this, she'd definitely look down on you."
+
+[MSG$006776,98]
+Saeki "Hey, why don't you ejaculate in your awkward position while looking at Imari's naked body?"
+
+[MSG$0067F2,74]
+And just like Saeki says, I'm beginning to feel the strong urge to climax.
+
+[MSG$006849,68]
+Saeki "Minase, you're about to come...Your balls have tightened up."
+
+[MSG$0068A7,102]
+Then Saeki starts massaging my balls. She does it while stimulating my asshole with her middle finger.
+
+[MSG$00691A,60]
+Kitami "In the end, you're no different from any other guy."
+
+[MSG$006970,30]
+Minase "Hah...hah...haaaah..."
+
+[MSG$0069A8,59]
+Saeki "Sticky stuff is already dripping out of your tip..."
+
+[MSG$0069FE,52]
+Saeki "Hey Mistress...Minase is about to ejaculate."
+
+[MSG$006A4C,52]
+Kitami "All right. Go give your blessings to Imari."
+
+[MSG$006A9A,86]
+And the guys all masturbating while watching Imari began to reach climax all together.
+
+[MSG$006AFD,11]
+Stroking...
+
+[MSG$006B15,39]
+Kitami "Now, pour it into the chalice."
+
+[MSG$006B56,19]
+Forgive me Imari...
+
+[MSG$006B76,13]
+Minase "Aah!"
+
+[MSG$006B9D,89]
+And then I couldn't hold it in anymore, and ejaculated with a burning feeling in my dick.
+
+[MSG$006C13,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$006C91,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$006CFF,14]
+Ejaculating...
+
+[MSG$006D2A,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$006D9C,53]
+At the same time, the other guys all get off as well.
+
+[MSG$006DDE,108]
+Fountains of white liquids fly across the air, and it all fills up the chalice placed between Imari's boobs.
+
+[MSG$006E67,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$006ED5,23]
+Chalice being filled...
+
+[MSG$006EF9,41]
+Lots of thick juice fills up the chalice.
+
+[MSG$006F2F,95]
+The liquid that flows out of the cup stains Imari's body in white. But Imari's in a deep sleep,
+
+[MSG$006F93,39]
+and shows no signs of waking up at all.
+
+[MSG$006FC7,108]
+After one guy finishes pouring his sperm into the chalice, another steps up and begins shooting off into it.
+
+[MSG$007050,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0070BE,68]
+I finish releasing my juice and drop down to the floor, still bound.
+
+[MSG$007107,55]
+By now, lots of thick juice can be seen in the chalice.
+
+[MSG$00714B,31]
+Kitami "Great...we got plenty."
+
+[MSG$007184,101]
+Looking at the chalice full of cock juice, Ms. Kitami begins the ritual with Imari in front of her...
+
+[MSG$0071EE,46]
+I can only watch, as my body is still tied up.
+
+[MSG$007239,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0072AA,28]
+Kitami "Our Lord in hell..."
+
+[MSG$0072E0,51]
+Then she makes the sign of an upside down crucifix.
+
+[MSG$007320,113]
+Kitami "Come my Lord. Take the light away from the heavens. All mighty Lord of comfort, sweet friend of the soul,
+
+[MSG$007396,105]
+this peaceful feeling inside my heart...Blessed light, come into the hearts of those who believe in you."
+
+[MSG$007419,39]
+Ms. Kitami takes out a silver pill-box,
+
+[MSG$007445,34]
+and pulls out a wafer from inside.
+
+[MSG$007474,37]
+Kitami "You shall become my flesh..."
+
+[MSG$0074B3,33]
+It's the holy wafer used in Mass.
+
+[MSG$0074D9,95]
+Instead of having the symbol of a cross, there's a reverse pentagram that represents the devil.
+
+[MSG$00753D,33]
+It represents the devil's body...
+
+[MSG$00756B,47]
+Then the wafer is stuffed inside Imari's mouth.
+
+[MSG$0075B7,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$007629,15]
+Imari "Nnnn..."
+
+[MSG$007662,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0076D3,60]
+Kitami "This bread will give me life. I shall eat this bread
+
+[MSG$007714,21]
+and live on forever."
+
+[MSG$007743,75]
+Then she cuts her wrist with a knife, and pours the blood into the chalice.
+
+[MSG$00779B,95]
+Kitami "This is my blood...This blood will cleanse my sins, and it represents an eternal pact."
+
+[MSG$007814,82]
+Kitami mixes the cock juice with her blood, and takes the chalice up to her mouth.
+
+[MSG$007883,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0078F1,23]
+Kitami "Smells good..."
+
+[MSG$007922,62]
+Then she takes the chalice and drinks the thick liquid inside.
+
+[MSG$00797D,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0079EB,46]
+Ms. Kitami pours the contents down her throat.
+
+[MSG$007A1E,59]
+I'm about to puke. I can't imagine anyone would drink that.
+
+[MSG$007A66,61]
+After drinking it about half way, she lets go of the chalice.
+
+[MSG$007AA8,34]
+Then she burps, and pours the rest
+
+[MSG$007ACF,19]
+into Imari's mouth.
+
+[MSG$007AFF,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$007B71,16]
+Pouring juice...
+
+[MSG$007B8E,12]
+Imari "Nn!?"
+
+[MSG$007BB4,21]
+Imari "Ngh! Nn! Kha!"
+
+[MSG$007BE3,23]
+Imari "Gha! Ggh..urgh!"
+
+[MSG$007C14,38]
+Thick liquids pour into Imari's mouth.
+
+[MSG$007C3F,34]
+Imari wakes up and starts choking.
+
+[MSG$007C7E,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$007CEC,31]
+Kitami "Oh my, what a waste..."
+
+[MSG$007D25,73]
+Ms. Kitami takes some liquid from Imari's mouth and licks it up hungrily.
+
+[MSG$007D7B,39]
+Imari "Urgh...What is this stuff? Gha!"
+
+[MSG$007DBC,71]
+Imari can't take the taste of the juice, and tries hard to cough it up.
+
+[MSG$007E10,61]
+Imari tries to get up, but since her arms and legs are bound,
+
+[MSG$007E52,48]
+all it does is make the sound of clanking metal.
+
+[MSG$007E9F,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$007F10,65]
+Ms. Kitami ignores her, and keeps on reciting some kind of spell.
+
+[MSG$007F5E,74]
+Kitami "My words will turn this bread into flesh, and the wine into blood.
+
+[MSG$007FAD,73]
+I shall be given a new body, but my heart shall be strengthened by faith.
+
+[MSG$008010,92]
+Kitami "I offer everything in your power, and will not believe in any other God besides you.
+
+[MSG$008071,21]
+You are my only God."
+
+[MSG$0080A0,16]
+Kitami "Amen..."
+
+[MSG$0080CA,13]
+Black mass...
+
+[MSG$0080DC,42]
+It is a comical parody of the Last Supper.
+
+[MSG$008113,71]
+Ms. Kitami finishes the ritual, takes a deep breath, and watches Imari.
+
+[MSG$008177,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0081E9,92]
+Kitami "Now your body has been purified. We just have to wait for the time of the ritual..."
+
+[MSG$00825F,31]
+Kitami "It'll be fun, Imari..."
+
+[MSG$008298,19]
+Imari "Gha..kha..."
+
+[MSG$0082C5,17]
+Imari "Minase..."
+
+[MSG$0082F0,34]
+Imari looks at me with teary eyes.
+
+[MSG$00831F,15]
+Minase "Imari!"
+
+[MSG$008348,33]
+Kitami "What a touching reunion."
+
+[MSG$008383,49]
+Imari "Help me Minase. These people are crazy..."
+
+[MSG$0083CE,57]
+Imari is shaking in fear, and she keeps on looking at me.
+
+[MSG$008414,23]
+Minase "I'll save you."
+
+[MSG$008445,45]
+Kitami "Maybe you shouldn't say such things."
+
+[MSG$00848C,34]
+Minase "I'll definitely save you."
+
+[MSG$0084C8,35]
+I think hard about what I'm saying.
+
+[MSG$0084F8,80]
+Kitami "A knight in shining armor. You were screaming like a bitch just before."
+
+[MSG$008562,15]
+I'm speechless.
+
+[MSG$00857E,35]
+But I'm serious about saving Imari.
+
+[MSG$0085A6,71]
+I still have time...As long as there's some hope left, I can't give up.
+
+[MSG$00860A,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00869F,93]
+Kitami "All right..since you two were able to have a reunion, I'll give you a farewell gift."
+
+[MSG$008716,35]
+Kitami "Saeki, take care of Imari."
+
+[MSG$008753,75]
+Saeki nods, and begins to wipe off all the cock juice coating Imari's body.
+
+[MSG$0087AB,38]
+Minase "What are you going to do now?"
+
+[MSG$0087EB,97]
+Kitami "I'm letting you enjoy Imari for the very last time. You should really thank me for this."
+
+[MSG$008876,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0088E7,72]
+Ms. Kitami grabs my shoulder and drags me towards where Imari was lying.
+
+[MSG$008934,43]
+Imari tries not to look at my exposed cock.
+
+[MSG$00896C,42]
+Minase "What are you forcing Imari to do?"
+
+[MSG$0089B0,51]
+Kitami "Now Imari. Do it just like I taught you..."
+
+[MSG$0089FD,13]
+Imari "No..."
+
+[MSG$008A24,58]
+Imari refuses as tries to pull her eyes away from my cock.
+
+[MSG$008A6B,15]
+Kitami "Do it."
+
+[MSG$008A94,13]
+Imari "No..."
+
+[MSG$008ABB,57]
+Kitami "If you don't do it, I'll cut off Minase's thing."
+
+[MSG$008B0E,25]
+Ms. Kitami pokes my cock.
+
+[MSG$008B2C,25]
+She'll do it all right...
+
+[MSG$008B52,15]
+Imari "What..."
+
+[MSG$008B7B,36]
+Kitami "Are you gonna do it or not?"
+
+[MSG$008BB9,21]
+Imari "I'll do it..."
+
+[MSG$008BE8,38]
+Imari slumps her shoulders and agrees.
+
+[MSG$008C1B,55]
+Kitami "You'll do it? Don't you know how to be polite?"
+
+[MSG$008C6C,30]
+Imari "Please let me do it..."
+
+[MSG$008CA4,41]
+Kitami "All right, I'll let you do it..."
+
+[MSG$008CE7,39]
+Ms. Kitami forced Imari to be obedient.
+
+[MSG$008D1B,75]
+I'm sure Imari has been receiving some cruel treatment from Kitami as well.
+
+[MSG$008D6B,42]
+Her usual toughness is nowhere to be seen.
+
+[MSG$008DA2,60]
+Imari looks at my cock, and then she grabs it with her hand.
+
+[MSG$008DFB,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$008E69,30]
+Minase "Don't do it, Imari..."
+
+[MSG$008EA1,30]
+But she ignores me, and starts
+
+[MSG$008EC4,24]
+licking my cock timidly.
+
+[MSG$008EE9,79]
+Ms. Kitami must have trained her, since she is very skillful with her tongue...
+
+[MSG$008F45,25]
+Minase "Stop... Imari..."
+
+[MSG$008F78,68]
+I'm talking to Imari as I'm trying to hold back the sweet sensation.
+
+[MSG$008FC1,56]
+I came to rescue Imari, but I'm only torturing her more.
+
+[MSG$009006,68]
+Kitami "You just be quiet and enjoy the feeling. You're happy right?
+
+[MSG$00904F,25]
+She's licking your cock."
+
+[MSG$009082,66]
+Kitami "Look, she's having so much fun licking your dirty cock..."
+
+[MSG$0090DE,10]
+Licking...
+
+[MSG$0090F5,17]
+Minase "Kuh..nn!"
+
+[MSG$009120,45]
+Imari is licking my cock, and it feels great.
+
+[MSG$009152,57]
+Even if this is despicable, I'm getting really aroused...
+
+[MSG$009198,54]
+Kitami "Well? How does it feel to be licked by Imari?"
+
+[MSG$0091E8,67]
+Kitami "She's good, right? I let her lick lots of cocks yesterday."
+
+[MSG$009245,15]
+Unbelievable...
+
+[MSG$009261,64]
+Kitami "I think that's good enough. Now that you're very wet..."
+
+[MSG$0092BB,13]
+Imari "Aaan!"
+
+[MSG$0092E2,96]
+Ms. Kitami separates me from Imari, and pulls out her finger that was buried in Imari's asshole.
+
+[MSG$009347,73]
+While Imari was licking my cock, Ms. Kitami was playing with Imari's ass.
+
+[MSG$00939D,74]
+I look down at my crotch, and see that my cock is wet with Imari's saliva.
+
+[MSG$0093F4,46]
+Kitami "Now, I'll let you taste Imari's body."
+
+[MSG$00943C,65]
+Kitami "Enjoy it well, since it'll be the first and last time..."
+
+[MSG$0094A7,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$009515,80]
+Imari places her arms and legs on the floor, and sticks her ass in my direction.
+
+[MSG$009572,93]
+Her ass is not covered by the chastity belt, and her small asshole is exposed in front of me.
+
+[MSG$0095D4,63]
+Her ass has been covered with plenty of ointment by Ms. Kitami.
+
+[MSG$009620,61]
+Kitami "Unfortunately, I can't let you do her from the front.
+
+[MSG$009662,45]
+But I'll let you do her from behind instead."
+
+[MSG$0096A9,19]
+Minase "What the!?"
+
+[MSG$0096D6,25]
+I don't know what to say.
+
+[MSG$0096F4,49]
+She wants me to stick my cock inside Imari's ass?
+
+[MSG$009732,26]
+Kitami "Hey, you ask him."
+
+[MSG$009766,30]
+Ms. Kitami smacks Imari's ass.
+
+[MSG$009791,42]
+Imari "Go ahead...Do it...I don't mind..."
+
+[MSG$0097D5,39]
+Imari's voice is trembling with fear...
+
+[MSG$009809,39]
+Minase "I can't do it! Please don't..."
+
+[MSG$00984A,91]
+Before I can finish my sentence, Ms. Kitami orders Saeki to carry me nearer to Imari's ass.
+
+[MSG$0098AA,24]
+My cock is still hard...
+
+[MSG$0098CF,21]
+Minase "Stop, Saeki!"
+
+[MSG$0098FE,49]
+Saeki "Stay still, Minase. I can't aim it right."
+
+[MSG$009949,74]
+Saeki applies more pressure with her hands, and brings me closer to Imari.
+
+[MSG$0099A0,29]
+Cock placed up against ass...
+
+[MSG$0099CA,53]
+The tip of my cock is placed on Imari's warm asshole.
+
+[MSG$009A04,35]
+Now I can feel Imari's heartbeat...
+
+[MSG$009A34,13]
+Imari "No..."
+
+[MSG$009A5B,26]
+Saeki "Get ready, Minase."
+
+[MSG$009A8F,64]
+Saeki places her foot on my ass, and pushes with all her weight.
+
+[MSG$009AEC,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$009B5A,12]
+Insertion...
+
+[MSG$009B73,19]
+Minase "Wait! Uaa!"
+
+[MSG$009BA0,47]
+Before I know it, my cock is deep inside Imari.
+
+[MSG$009BDC,14]
+Imari "Nnnnn!"
+
+[MSG$009C04,27]
+Kitami "It's inside now..."
+
+[MSG$009C39,78]
+Ms. Kitami says it with satisfaction as she watches my cock deep inside Imari.
+
+[MSG$009C94,31]
+Minase "Hah...hah...haaaah...."
+
+[MSG$009CCD,82]
+I'm resting on top of Imari's back, trembling because of the feeling from my cock.
+
+[MSG$009D2C,40]
+It was hot inside Imari, and very tight.
+
+[MSG$009D61,75]
+At the same time, Imari is also trembling because my cock is up inside her.
+
+[MSG$009DB1,77]
+Imari is confused and tightens up, squeezing my cock until it begins to hurt.
+
+[MSG$009E0B,52]
+I'm stuck inside Imari. Doing this horrible thing...
+
+[MSG$009E44,71]
+I feel Imari's warmth from my cock...And her pain and sorrow as well...
+
+[MSG$009E98,48]
+Kitami "Don't just stay still. Start thrusting."
+
+[MSG$009EE2,60]
+But Imari and I stay still. No, I couldn't move if I wanted.
+
+[MSG$009F23,54]
+Imari tightened up so hard, that I can't move an inch.
+
+[MSG$009F66,28]
+Kitami "This is irritating."
+
+[MSG$009F9C,59]
+Ms. Kitami orders Saeki, and she starts moving me by force.
+
+[MSG$009FDC,50]
+Saeki puts her foot on my ass, and starts pushing.
+
+[MSG$00A01B,33]
+Minase "Stop! If you push...Kuh!"
+
+[MSG$00A056,12]
+Imari "Aan!"
+
+[MSG$00A07C,63]
+With Saeki helping out, I'm forced back and forth inside Imari.
+
+[MSG$00A0C8,83]
+Every time I move, I get a strong sensation in my dick, and my body arcs backwards.
+
+[MSG$00A120,35]
+It hurts like you wouldn't believe.
+
+[MSG$00A150,24]
+Imari "Hee! An! Haaagh!"
+
+[MSG$00A182,48]
+Imari is sweating like crazy, trying to hold on.
+
+[MSG$00A1BF,60]
+But my cock starts to go numb, and as Imari stops resisting,
+
+[MSG$00A200,38]
+uncontrollable pleasure comes over me.
+
+[MSG$00A233,26]
+Minase "Hah...haaah..nnn!"
+
+[MSG$00A267,40]
+Kitami "So you're feeling good, Minase."
+
+[MSG$00A2A9,51]
+My mind begins to dull as the feeling overtakes me.
+
+[MSG$00A2E1,32]
+I have no idea what I'm doing...
+
+[MSG$00A30E,81]
+I didn't want this at first, but now I realize my hips are moving on their own...
+
+[MSG$00A36C,85]
+Kitami "That's it, Minase. Do it as much as you want, and have yourself some relief."
+
+[MSG$00A3DB,53]
+I'm half conscious, pumping and pumping inside Imari.
+
+[MSG$00A415,75]
+And after a while I feel the urge to come, and grab onto Imari's shoulders.
+
+[MSG$00A46D,40]
+Kitami "Looks like you're gonna come..."
+
+[MSG$00A4AF,13]
+Minase "Aah!"
+
+[MSG$00A4D6,92]
+After Ms. Kitami says that, I lunge forward, and my body shakes as I ejaculate inside Imari.
+
+[MSG$00A54F,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00A5CD,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00A63B,20]
+Juice pouring out...
+
+[MSG$00A65C,16]
+Imari "Hauuu..."
+
+[MSG$00A686,77]
+Imari takes in my cock juice, her body stiffens as I shoot up inside her ass.
+
+[MSG$00A6E0,20]
+Juice pouring out...
+
+[MSG$00A701,57]
+After I finish releasing, I fall to the floor beside her.
+
+[MSG$00A757,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00A7C5,20]
+Juice pouring out...
+
+[MSG$00A7E6,51]
+I watch in amazement as my liquid comes flowing out
+
+[MSG$00A81E,17]
+of Imari's ass...
+
+[MSG$00A83C,61]
+The feeling of deep exhaustion brings me back to my senses...
+
+[MSG$00A87E,45]
+I'm shocked to see the evil deed I have done.
+
+[MSG$00A8B8,21]
+I didn't want this...
+
+[MSG$00A8DA,42]
+Kitami "How was it? Felt good, didn't it?"
+
+[MSG$00A91E,64]
+Minase "How can you be so calm after making me do such a thing?"
+
+[MSG$00A978,48]
+I control my breathing, and glare at Ms. Kitami.
+
+[MSG$00A9C5,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00AA5A,36]
+Kitami "You looked fairly pleased...
+
+[MSG$00AA83,57]
+You felt it right? When you were doing her in the ass..."
+
+[MSG$00AAD6,12]
+Minase "..."
+
+[MSG$00AAEF,85]
+Kitami "That's what humans are like. They seek pleasure, and they can't say no to it.
+
+[MSG$00AB49,35]
+We, as humans, have to admit that."
+
+[MSG$00AB86,72]
+Minase "That's just a lame excuse from someone who's totally corrupt..."
+
+[MSG$00ABE8,96]
+Kitami "You'll find out soon...and you will also agree. No, you'll have no choice but to agree."
+
+[MSG$00AC62,63]
+Kitami "I'll soon be Imari, and I'll teach you all about it..."
+
+[MSG$00ACBB,27]
+Minase "I won't let you..."
+
+[MSG$00ACF0,81]
+Kitami "I think I'll let you go now. There's no point in talking to you anymore."
+
+[MSG$00AD6B,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00ADDC,69]
+Kitami "Oh yeah...That woman wanted the book, if I recall correctly."
+
+[MSG$00AE4B,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00AEB9,59]
+Ms. Kitami takes the Book of Magic and hands it over to me.
+
+[MSG$00AF01,66]
+Kitami "I can give it to you since we have no use for it anymore."
+
+[MSG$00AF5D,66]
+It's impossible to rescue Imari...But I desperately want the book.
+
+[MSG$00AFA4,29]
+If I can just get the book...
+
+[MSG$00AFCE,12]
+Minase "..."
+
+[MSG$00AFE7,30]
+Kitami "Well? Do you want it?"
+
+[MSG$00B01F,21]
+Minase "I want it..."
+
+[MSG$00B04E,27]
+I replied without thinking.
+
+[MSG$00B076,74]
+Ms. Takashiro said there's some hope if we can get our hands on that book.
+
+[MSG$00B0C5,81]
+If Ms. Kitami knows nothing of our plans, we still have a chance to get the book.
+
+[MSG$00B123,48]
+Kitami "Lick my foot. Then I'll give it to you."
+
+[MSG$00B16D,42]
+Ms. Kitami smiles strangely as she speaks.
+
+[MSG$00B1A4,12]
+Minase "..."
+
+[MSG$00B1DD,38]
+Kitami "Now, show me what you can do."
+
+[MSG$00B21D,46]
+Ms. Kitami sticks her foot out in front of me.
+
+[MSG$00B258,12]
+Minase "..."
+
+[MSG$00B271,53]
+I fearfully bring my face near her foot, and lick it.
+
+[MSG$00B2AB,75]
+If I can get the book this easily, I'd even be happy to lick her asshole...
+
+[MSG$00B303,10]
+Licking...
+
+[MSG$00B31A,25]
+Kitami "Heh, heh, heh..."
+
+[MSG$00B34D,64]
+Kitami "Pathetic. Don't you feel ashamed to be licking my foot?"
+
+[MSG$00B3A7,44]
+I keep licking her foot, totally humiliated.
+
+[MSG$00B3E0,23]
+Kitami "That's enough."
+
+[MSG$00B411,29]
+Kitami "I changed my mind..."
+
+[MSG$00B448,15]
+Minase "What!?"
+
+[MSG$00B471,61]
+Kitami "I can't give this book to a miserable fool like you."
+
+[MSG$00B4C8,26]
+Minase "You tricked me..."
+
+[MSG$00B4FC,75]
+Kitami "I don't know what that woman is planning, but if this book is gone,
+
+[MSG$00B54C,57]
+nobody will be able to gain the evil power except for me.
+
+[MSG$00B58A,48]
+There's no need for me to have any competition."
+
+[MSG$00B5DF,28]
+Minase "I'll never do that."
+
+[MSG$00B615,64]
+I say it while looking at the strange glow in Ms. Kitami's eyes.
+
+[MSG$00B662,69]
+She doesn't have any intention of giving it to me in the first place.
+
+[MSG$00B6AC,34]
+I'll only end up making her happy.
+
+[MSG$00B6D3,48]
+She just wants to see me in an awkward position.
+
+[MSG$00B710,48]
+Kitami "Really...I was going to give it to you."
+
+[MSG$00B75A,67]
+Then Ms. Kitami grabs my bottle of vodka, removes the cloth inside,
+
+[MSG$00B7A2,37]
+and pours the contents onto the book.
+
+[MSG$00B7D4,16]
+Pouring vodka...
+
+[MSG$00B7F1,48]
+Kitami "The legend of this book ends with me..."
+
+[MSG$00B83B,84]
+Kitami "The book that took the lives of many sorcerers, will now end up in ashes..."
+
+[MSG$00B8A9,56]
+Kitami "And I will be the ruler of hell! Ahahahahaha..."
+
+[MSG$00B8FC,56]
+Ms. Kitami snaps her fingers, and the book catches fire.
+
+[MSG$00B951,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00B9BF,20]
+Minase "The book..."
+
+[MSG$00B9ED,56]
+The flame quickly covers the book, and it burns red hot.
+
+[MSG$00BA2A,65]
+The covers tear up and the pages turn black as smoke pours out...
+
+[MSG$00BA78,67]
+The flames dance in the air, marking the last moments of the devil.
+
+[MSG$00BAC8,37]
+Kitami "Now, nobody will succeed me."
+
+[MSG$00BB07,84]
+Our last hope has turned to ashes...The book is gone, and I can't save Imari either.
+
+[MSG$00BB60,14]
+It's hopeless.
+
+[MSG$00BB7B,78]
+The book keeps burning for a while, but the flames go out as time passes by...
+
+[MSG$00BBD6,56]
+I wait until it cools down before I pick up the remains.
+
+[MSG$00BC2B,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00BCC0,34]
+But the book is in very bad shape.
+
+[MSG$00BCE7,50]
+If I open it, it just might crumble into pieces...
+
+[MSG$00BD26,98]
+Kitami "You can have it, if you want. Saves me the trouble of having to take it out to the trash."
+
+[MSG$00BDA2,65]
+Kitami "Saeki, Minase is going home. I want you to send him off."
+
+[MSG$00BDFD,54]
+Saeki grabs my arm and leads me out to the front door.
+
+[MSG$00BE40,85]
+Kitami "I'll let you go this time. But if you get in my way tomorrow, I'll kill you."
+
+[MSG$00BEE2,64]
+Kitami "Next time we meet, I hope to see you from Imari's eyes."
+
+[MSG$00BF3C,19]
+Ms. Kitami cackles.
+
+[MSG$00BF5C,15]
+Minase "Imari!"
+
+[MSG$00BF85,43]
+Before I'm taken away, I call out to Imari.
+
+[MSG$00BFB5,62]
+But Imari seems unconscious on the floor, and doesn't respond.
+
+[MSG$00C000,46]
+I'll save her...That's what I promised myself.
+
+[MSG$00C033,78]
+It's my fault that Imari's in this situation. This is just unfair for Imari...
+
+[MSG$00C0C1,111]
+Kitami "Go back and tell Ms. Takashiro. Stop whatever you're planning, and quietly watch what I'm about to do."
+
+[MSG$00C14A,60]
+After she finishes talking, she signals Saeki with her eyes.
+
+[MSG$00C1A3,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00C215,55]
+Then Saeki twists my arm, and takes me out of the room.
+
+[MSG$00C251,54]
+She opens the door, and kicks me out into the hallway.
+
+[MSG$00C2A4,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00C339,21]
+Clothes thrown out...
+
+[MSG$00C35B,21]
+Clothes thrown out...
+
+[MSG$00C37D,36]
+She throws my clothes out behind me.
+
+[MSG$00C3AE,18]
+Saeki "Dumbass..."
+
+[MSG$00C3FE,13]
+Closing door.
+
+[MSG$00C418,40]
+Saeki closes the door with a big slam...
+
+[MSG$00C445,30]
+I just stand there, stunned...
+
+[MSG$00C470,41]
+Obviously, I couldn't fight them head-on.
+
+[MSG$00C49E,45]
+But in the end, I didn't accomplish anything.
+
+[MSG$00C4D0,64]
+The book I was after has turned to ashes, and it's in my hand...
+
+[MSG$00C51D,22]
+Nothing has changed...
+
+[MSG$00C552,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00C5B5,20]
+April 29 - Last hope
+
+[MSG$00C5DC,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00C64D,17]
+The door opens...
+
+[MSG$00C66B,41]
+I come back to my room in disappointment.
+
+[MSG$00C6A1,12]
+Minase "..."
+
+[MSG$00C6BA,77]
+Ms. Takashiro is in the room, facing the desk.  She is immersed in something.
+
+[MSG$00C714,45]
+She is already awake, and has her clothes on.
+
+[MSG$00C746,65]
+She was very confused last night, but now she seems to be normal.
+
+[MSG$00C794,38]
+And that makes me relax just a little.
+
+[MSG$00C7E6,12]
+Minase "..."
+
+[MSG$00C7FF,13]
+Assembling...
+
+[MSG$00C819,62]
+Ms. Kitami is facing the desk, and putting something together.
+
+[MSG$00C864,43]
+Takashiro "You went to Ms. Kitami's place."
+
+[MSG$00C8A9,41]
+She is immersed in assembling the object.
+
+[MSG$00C8DF,30]
+Minase "Aren't you mad at me?"
+
+[MSG$00C917,33]
+I ask with some fear in my voice.
+
+[MSG$00C945,95]
+Takashiro "There's nothing I can do about it. But I'll forgive you since you came back safely."
+
+[MSG$00C9BE,77]
+Takashiro "I thought about going, but I didn't want both of us to get caught.
+
+[MSG$00CA10,38]
+Plus I had to go pick up something..."
+
+[MSG$00CA50,53]
+Takashiro "There's only a few options left for us..."
+
+[MSG$00CA9F,13]
+Assembling...
+
+[MSG$00CAB9,79]
+Ms. Kitami finishes assembling the black object, and checks it over skillfully.
+
+[MSG$00CB15,64]
+Takashiro "If she doesn't stop, then I'll use this to stop her."
+
+[MSG$00CB6F,47]
+She is holding an automatic pistol in her hand.
+
+[MSG$00CBA3,57]
+It was small, but the width of the barrel was pretty big.
+
+[MSG$00CBE9,22]
+Minase "Is that real?"
+
+[MSG$00CC19,59]
+Takashiro "Of course. We can't fight them using a toy gun."
+
+[MSG$00CC6E,55]
+Takashiro "But I never thought I'd have to use this..."
+
+[MSG$00CCBF,56]
+Ms. Takashiro stuffs huge bullets into a short magazine.
+
+[MSG$00CD04,103]
+Takashiro "Not even her demon power can easily negate all the kinetic energy of a high-caliber bullet."
+
+[MSG$00CD85,79]
+Takashiro "I hate to do this, but I'll have to take them down in the name God."
+
+[MSG$00CDEE,29]
+Minase "But that's murder..."
+
+[MSG$00CE25,94]
+Takashiro "If I don't do it, then this world will be in chaos. Then many more people will die.
+
+[MSG$00CE88,45]
+I can still prevent all that from happening."
+
+[MSG$00CECF,69]
+Takashiro "Compared to that, my sacrifice is a small price to pay..."
+
+[MSG$00CF2E,46]
+Ms. Takashiro loads the magazine into the gun.
+
+[MSG$00CF9B,42]
+Takashiro "What do you have in your hand?"
+
+[MSG$00CFDF,26]
+Minase "It's that book..."
+
+[MSG$00D013,42]
+I hand her the burned remains of the book.
+
+[MSG$00D04A,15]
+Takashiro "..."
+
+[MSG$00D066,49]
+She grabs the book and tries to open it slowly...
+
+[MSG$00D0A4,16]
+Falling apart...
+
+[MSG$00D0C1,63]
+But the book falls apart, and black stuff comes tumbling out...
+
+[MSG$00D105,32]
+The whole thing is unreadable...
+
+[MSG$00D132,37]
+Takashiro "This was our last hope..."
+
+[MSG$00D171,37]
+Ms. Takashiro throws it in the trash.
+
+[MSG$00D1A3,72]
+Takashiro "We have no other choice. We can't let that ritual take place.
+
+[MSG$00D1F0,34]
+We must stop them at all costs..."
+
+[MSG$00D22C,18]
+She bites her lip.
+
+[MSG$00D243,51]
+I don't care what it is, we're planning a murder...
+
+[MSG$00D283,57]
+Takashiro "I want you to help me, Minase. Are you ready?"
+
+[MSG$00D2D6,13]
+Minase "Yes."
+
+[MSG$00D2FD,29]
+I nod. We have to save Imari.
+
+[MSG$00D327,53]
+Anyway, I can't just let Ms. Takashiro go by herself.
+
+[MSG$00D361,37]
+All of this happened because of me...
+
+[MSG$00D393,69]
+Takashiro "Our best chance is when the ritual is about to take place.
+
+[MSG$00D3DD,65]
+She'll be concentrating only on the ritual. We'll nail her then."
+
+[MSG$00D438,60]
+Takashiro "Listen Minase. If we fail, Imari won't be saved."
+
+[MSG$00D48E,70]
+Takashiro "We just have to ruin the ritual. Even if we don't kill her,
+
+[MSG$00D4D9,49]
+if we can just prevent the ritual from happening,
+
+[MSG$00D50F,28]
+she'll die tomorrow anyway."
+
+[MSG$00D546,22]
+Minase "I understand."
+
+[MSG$00D576,96]
+Takashiro "I'll deal with Ms. Kitami, so you take Imari and escape. I'll take care of the rest."
+
+[MSG$00D5F0,32]
+We have a plan, but it's absurd.
+
+[MSG$00D615,103]
+There is no guarantee that it'll succeed, and we don't have any idea what we're going to do afterwards.
+
+[MSG$00D681,55]
+But we still have to do it. We have no time to think...
+
+[MSG$00D6C5,87]
+Takashiro "Well, I'll be heading home now. I think I've stayed in your house too long."
+
+[MSG$00D736,69]
+Takashiro "Tomorrow's a big day, so I suggest you go to sleep early."
+
+[MSG$00D7B9,57]
+She puts the gun in her bag, and moves to leave the room.
+
+[MSG$00D7F7,34]
+But she suddenly stops and says...
+
+[MSG$00D858,36]
+Takashiro "Thanks for last night..."
+
+[MSG$00D896,46]
+Takashiro "I'll see you tomorrow at school..."
+
+[MSG$00D902,46]
+I bid her farewell, and she leaves the room...
+
+[MSG$00D93D,59]
+I fall down on my bed, and start thinking about tomorrow...
+
+[MSG$00D97D,38]
+But I can't find any answers at all...
+
+[MSG$00D9B0,29]
+I can only pray to God now...
+
+[MSG$00D9DA,73]
+This is a nightmare. It has to be. I never thought I would be doing this.
+
+[MSG$00DA30,95]
+If I sleep, Imari will come and wake me up as usual...That's what I think when I close my eyes.
+
+[MSG$00DA9C,51]
+But I know better than anyone that it won't happen.
+
+[MSG$00DAD4,31]
+Imari was always annoying me...
+
+[MSG$00DAF8,30]
+But now, I kind of miss her...
+
+[MSG$00DB23,55]
+And then I fall asleep, exhausted both body and soul...
+
+[MSG$00DB77,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00DBE7,24]
+........................
+
+[MSG$00DC0C,18]
+..................
+
+[MSG$00DC2B,12]
+............
+
+[MSG$00DC44,6]
+......
+
+[MSG$00DC5E,25]
+Minase "Ms. Takashiro..."
+
+[MSG$00DC91,37]
+Takashiro "Wait, I'm kind of busy..."
+
+[MSG$00DCE0,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00DD51,36]
+She interrupts me and keeps working.
+
+[MSG$00DD7A,63]
+She is using my laptop computer, and is trying to do something.
+
+[MSG$00DDC6,37]
+I just look on without saying a word.
+
+[MSG$00DDF8,68]
+Ms. Takashiro is looking at a paper that's on my desk, and trying to
+
+[MSG$00DE41,19]
+decipher the words.
+
+[MSG$00DE61,56]
+The paper is the one I used to decipher that black book.
+
+[MSG$00DE9E,52]
+All that's on the paper is a bunch of smudged words,
+
+[MSG$00DED7,18]
+and not much else.
+
+[MSG$00DEF6,72]
+The important stuff was all in that book. And that book turned to ashes,
+
+[MSG$00DF43,37]
+and is now resting here in my hand...
+
+[MSG$00DF75,21]
+Typing on keyboard...
+
+[MSG$00DF97,31]
+Takashiro "Phew...It's done..."
+
+[MSG$00DFD0,77]
+After some time passes, Ms. Takashiro takes her hands away from the keyboard.
+
+[MSG$00E077,43]
+Takashiro "You went to Ms. Kitami's place."
+
+[MSG$00E0BC,37]
+She speaks abruptly, looking me over.
+
+[MSG$00E0EE,30]
+Minase "You're not mad at me?"
+
+[MSG$00E126,77]
+Takashiro "There's nothing I can do about it. At least you came back safely."
+
+[MSG$00E18D,56]
+Takashiro "I was thinking of going, but I found this..."
+
+[MSG$00E1DF,23]
+She points at the note.
+
+[MSG$00E203,23]
+Minase "What about it?"
+
+[MSG$00E234,49]
+Takashiro "The key to victory is written here..."
+
+[MSG$00E27F,55]
+Takashiro "Anyway, what is that you have in your hand?"
+
+[MSG$00E2D0,38]
+I hand her what was left of that book.
+
+[MSG$00E303,63]
+Minase "It's the black book...But Ms. Kitami set it on fire..."
+
+[MSG$00E35C,58]
+Ms. Takashiro takes the book, and tries to open it slowly.
+
+[MSG$00E3A3,19]
+Book falls apart...
+
+[MSG$00E3C3,38]
+Then the book falls apart into pieces.
+
+[MSG$00E3F6,45]
+Takashiro "It's impossible to read it now..."
+
+[MSG$00E43D,81]
+Every page was severely burned, and the important sections were covered in black.
+
+[MSG$00E493,35]
+It was hard to make out anything...
+
+[MSG$00E4C3,21]
+Minase "I'm sorry..."
+
+[MSG$00E4F2,62]
+Takashiro "You don't have to apologize...It's not your fault."
+
+[MSG$00E54A,48]
+Takashiro "Actually, I don't need this anymore."
+
+[MSG$00E594,23]
+Throws away the book...
+
+[MSG$00E5B8,55]
+Ms. Takashiro throws away the burned book in the trash.
+
+[MSG$00E5F4,46]
+The book drops into the trash and falls apart.
+
+[MSG$00E62F,14]
+Minase "What?"
+
+[MSG$00E657,42]
+Takashiro "I was going to burn it anyway."
+
+[MSG$00E69B,44]
+Minase "But you said you needed the book..."
+
+[MSG$00E6E1,25]
+Takashiro "Look at this."
+
+[MSG$00E714,52]
+She interrupts me and shows me the note on the desk.
+
+[MSG$00E755,30]
+Minase "What about this note?"
+
+[MSG$00E78D,63]
+Takashiro "The passage I needed the most is written down here."
+
+[MSG$00E7E7,74]
+It's from the part of the book that was unrecognizable due to bloodstains.
+
+[MSG$00E836,77]
+I wrote down what I could, and just left it in the pile of papers on my desk.
+
+[MSG$00E890,54]
+Takashiro "This is a passage from the forbidden spell.
+
+[MSG$00E8CB,52]
+Did you read the page with the drawing of Asmodeus?"
+
+[MSG$00E919,57]
+I think there was a picture of some demon on that page...
+
+[MSG$00E95F,78]
+Minase "Yeah...But that page was stained with blood, and I could only make out
+
+[MSG$00E9B2,26]
+part of what was written."
+
+[MSG$00E9E7,97]
+Takashiro "I think that blood came from the ritual 12 years ago. When I last looked at that page,
+
+[MSG$00EA4D,31]
+the bloodstains weren't there."
+
+[MSG$00EA86,55]
+Takashiro "I wanted to find out what was written there.
+
+[MSG$00EAC2,52]
+That page had a secret spell to ward off the devil."
+
+[MSG$00EB10,114]
+Takashiro "Asmodeus is guarding the secret. And the spell is considered to be the most important one in the book."
+
+[MSG$00EB9D,83]
+Takashiro "Using this note and my memory, we might be able to defeat that woman..."
+
+[MSG$00EC0A,75]
+Takashiro "If the page was covered in blood 12 years ago during the ritual,
+
+[MSG$00EC5A,49]
+then Ms. Kitami might not know about this spell."
+
+[MSG$00ECA6,30]
+Takashiro "If that is true..."
+
+[MSG$00ECDE,32]
+Minase "Then we can save Imari?"
+
+[MSG$00ED18,60]
+Takashiro "Yes. Now I just have to hope my memory is right."
+
+[MSG$00ED6E,102]
+Takashiro "The 19 Gods were written on the note and I checked if they're in order. With this I can..."
+
+[MSG$00EDEE,16]
+Minase "Then..."
+
+[MSG$00EE18,16]
+Takashiro "Yes."
+
+[MSG$00EE42,38]
+Ms. Takashiro nods, feeling confident.
+
+[MSG$00EE75,81]
+Takashiro "I'll show Ms. Kitami a thing or two when I go to the ritual tomorrow."
+
+[MSG$00EEE0,67]
+She then saves the data on a floppy disk and puts it in her pocket.
+
+[MSG$00EF30,87]
+Takashiro "Well, I'll be heading home now. I think I've stayed in your house too long."
+
+[MSG$00EFA1,69]
+Takashiro "Tomorrow's a big day, so I suggest you go to sleep early."
+
+[MSG$00F024,28]
+She moves to leave the room.
+
+[MSG$00F045,34]
+But she suddenly stops and says...
+
+[MSG$00F0A6,36]
+Takashiro "Thanks for last night..."
+
+[MSG$00F0E4,46]
+Takashiro "I'll see you tomorrow at school..."
+
+[MSG$00F150,46]
+I bid her farewell, and she leaves the room...
+
+[MSG$00F18B,59]
+I fall down on my bed, and start thinking about tomorrow...
+
+[MSG$00F1CB,37]
+But I can't find any answer at all...
+
+[MSG$00F1FD,29]
+I can only pray to God now...
+
+[MSG$00F227,71]
+If what Ms. Takashiro said is true, we can get out of this predicament.
+
+[MSG$00F27B,60]
+Maybe if I sleep, Imari will come and wake me up as usual...
+
+[MSG$00F2BC,59]
+Imari was always annoying me, but now I kind of miss her...
+
+[MSG$00F304,50]
+And then I fall asleep, exhausted body and soul...
+
+[MSG$00F353,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00F3C3,24]
+........................
+
+[MSG$00F3E8,18]
+..................
+
+[MSG$00F407,12]
+............
+
+[MSG$00F420,6]
+......
+
+[MSG$00F43F,18]
+Voice "Wake up..."
+
+[MSG$00F46B,26]
+Voice "Wake up, Minase..."
+
+[MSG$00F49F,10]
+Shaking...
+
+[MSG$00F4CE,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00F54B,20]
+Minase "Nn...nnn..."
+
+[MSG$00F579,35]
+I gradually regain consciousness...
+
+[MSG$00F5A1,34]
+Both my back and shoulders hurt...
+
+[MSG$00F603,22]
+Saeki "Are you awake?"
+
+[MSG$00F633,29]
+Saeki is standing by my side.
+
+[MSG$00F65D,28]
+Minase "Why are you here..."
+
+[MSG$00F693,52]
+I realize I was sleeping in a room in the apartment.
+
+[MSG$00F6CC,41]
+That's right...I slept here last night...
+
+[MSG$00F702,71]
+I slept on the floor with only a light blanket on me. Plus I'm naked...
+
+[MSG$00F74E,26]
+No wonder my body hurts...
+
+[MSG$00F775,69]
+Saeki "Stop messing around and wake up already. Everybody's exhausted
+
+[MSG$00F7BF,59]
+|so they can't even keep an eye on Imari or Ms. Takashiro."
+
+[MSG$00F814,56]
+I look around the room, and I see only few people awake.
+
+[MSG$00F859,24]
+Minase "What about you?"
+
+[MSG$00F88B,83]
+Saeki "Ms. Kitami and I are heading to the school to prepare for tomorrow's ritual.
+
+[MSG$00F8E3,53]
+I want you to keep an eye on them until we get back."
+
+[MSG$00F932,56]
+There's no school today because it's a national holiday.
+
+[MSG$00F96F,68]
+They're preparing for tomorrow's ritual while nobody else is around.
+
+[MSG$00F9B8,46]
+Tomorrow's the 30th, the night of Walpurgis...
+
+[MSG$00F9F3,29]
+Minase "What time is it now?"
+
+[MSG$00FA2A,53]
+My head isn't clear, so I shake my head and stand up.
+
+[MSG$00FA64,85]
+I can see that my head is still numb from the drugs and incense we used last night...
+
+[MSG$00FAC6,31]
+Saeki "It's already past noon."
+
+[MSG$00FAFF,56]
+I was very tired last night, and I must have passed out.
+
+[MSG$00FB3C,41]
+I don't even know how many hours I slept.
+
+[MSG$00FB96,41]
+I stagger around as I look over the room.
+
+[MSG$00FBCC,97]
+There are men and women lying in piles on the floor. Some are sleeping and some are just resting.
+
+[MSG$00FC32,53]
+Some of them are still having sex off in the corners.
+
+[MSG$00FC74,31]
+One of them is Ms. Takashiro...
+
+[MSG$00FCB8,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$00FD29,53]
+Takashiro "Hargh! Stop it...I can't take it anymore!"
+
+[MSG$00FD78,61]
+Kurimoto "You only took 2 liters. You can do more than that."
+
+[MSG$00FDCF,75]
+There is a cylindrical plug up Ms. Takashiro's ass, and Kurimoto is pumping
+
+[MSG$00FE1F,32]
+|lots of liquid inside her body.
+
+[MSG$00FE4C,57]
+The liquid in the container is gradually being sucked up.
+
+[MSG$00FE92,50]
+Takashiro "No, no, no! My stomach is gonna burst."
+
+[MSG$00FEDE,77]
+Ms. Takashiro is screaming and liquids are pouring out of her nose and mouth.
+
+[MSG$00FF30,73]
+There are many marks on her arm indicating she's been drugged repeatedly,
+
+[MSG$00FF7E,48]
+and she's probably gone totally cuckoo by now...
+
+[MSG$00FFBB,41]
+Plus one of her nipples has been pierced.
+
+[MSG$00FFF1,54]
+Kurimoto "You're so loud. I think I'll stop doing it."
+
+[MSG$010041,32]
+Takashiro "Thank you so much..."
+
+[MSG$01007B,69]
+Kurimoto closes the handle on the pump, and stops the flow of liquid.
+
+[MSG$0100C5,101]
+But the balloon-like plug is stuck in Ms. Takashiro's ass, and she is screaming in pain and pleasure.
+
+[MSG$010137,24]
+Takashiro "Uh..ugggh..."
+
+[MSG$010169,88]
+Her bloated stomach is making a tremendous sound. If it weren't for the cork in her ass,
+
+[MSG$0101C6,33]
+the liquid would've all shot out.
+
+[MSG$0101F4,58]
+Takashiro "I can't take it. Please..let me pour it out..."
+
+[MSG$010248,34]
+Kurimoto "Just hold it for a bit."
+
+[MSG$010284,47]
+Takashiro "I can't! Ugh! No..it's gonna burst."
+
+[MSG$0102CD,77]
+Kurimoto "All right...But I need to punish you by piercing the other nipple."
+
+[MSG$010334,42]
+Takashiro "Fine! Just let me pour it out!"
+
+[MSG$010378,44]
+Kurimoto "All right. I'll pull it out then."
+
+[MSG$0103BE,30]
+Takashiro "A...aa...please..."
+
+[MSG$0103F6,53]
+Then Kurimoto loosens the handle and let the air out.
+
+[MSG$010430,33]
+The air is let out from the pump.
+
+[MSG$01045E,33]
+Takashiro "Out, it's coming out!"
+
+[MSG$010499,61]
+Ms. Takashiro's body shakes, as if she's doing a weird dance.
+
+[MSG$0104E3,42]
+Takashiro "A..aa..it's coming out! Unaaa!"
+
+[MSG$010537,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0105A5,20]
+Liquid coming out...
+
+[MSG$0105C6,17]
+Takashiro "Aaaa!"
+
+[MSG$0105F1,34]
+After the butt plug is pulled out,
+
+[MSG$010618,86]
+Ms. Takashiro screams as liquid shoots out like cascading waterfalls from her asshole.
+
+[MSG$010673,81]
+At the same time, urine comes out and an ugly scene takes shape before my eyes...
+
+[MSG$0106D1,20]
+Urine pouring out...
+
+[MSG$0106F2,44]
+Kurimoto "Disgusting. Do it more elegantly!"
+
+[MSG$010738,26]
+Takashiro "Hee! I'll die!"
+
+[MSG$01076C,22]
+Liquid shooting out...
+
+[MSG$01078F,36]
+Kurimoto "Don't make such a fuss..."
+
+[MSG$0107CD,57]
+I take my eyes from Ms. Takashiro's miserable appearance.
+
+[MSG$01080B,41]
+Ms. Takashiro is being used as their toy.
+
+[MSG$010839,55]
+It makes me sick to think that woman was teaching me...
+
+[MSG$01087D,62]
+Then I look for Imari's body, and find her lying on the floor.
+
+[MSG$0108D8,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$010949,11]
+Imari "..."
+
+[MSG$010961,68]
+Imari still has the chastity belt on, and looks as if she is dead...
+
+[MSG$0109AA,69]
+Lots of thick white cock juice is still flowing out of Imari's ass...
+
+[MSG$0109FC,78]
+I'm sure she took it up the ass a hundred times last night during the Sabbath.
+
+[MSG$010A4F,55]
+I don't know how many times they ejaculated inside her,
+
+[MSG$010A8B,49]
+but from the looks of things, it was quite a lot.
+
+[MSG$010AC1,70]
+Her sphincter is stretched out and her ass won't even close anymore...
+
+[MSG$010B2F,13]
+Imari "Uh..."
+
+[MSG$010B56,38]
+Imari senses my presence and wakes up.
+
+[MSG$010B99,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$010C07,17]
+Imari "Minase..."
+
+[MSG$010C32,13]
+Imari "Ouch!"
+
+[MSG$010C59,44]
+Imari frowns because of the pain in her ass.
+
+[MSG$010C8A,82]
+The drugs had worn off, and she's feeling a pain that wasn't there during the sex.
+
+[MSG$010CE9,59]
+Imari "I'm sorry...So many guys stuck it up my ass, and..."
+
+[MSG$010D3E,39]
+Imari apologizes to me with a sad face.
+
+[MSG$010D72,55]
+Imari "I asked them to stop, but they just wouldn't..."
+
+[MSG$010DC3,34]
+Minase "How many guys banged you?"
+
+[MSG$010DFF,95]
+Imari "I remember doing five guys in a row, but after that, the drug made everything a blur..."
+
+[MSG$010E78,81]
+Imari "But while they were doing me, I was constantly thinking about you, Minase.
+
+[MSG$010ECE,71]
+I was okay, because I was pretending you were the only one doing me..."
+
+[MSG$010F2F,36]
+Imari averts her eyes as she speaks.
+
+[MSG$010F58,84]
+She doesn't have the resolute attitude like before, and she is acting rather cute...
+
+[MSG$010FB9,47]
+Imari "What's gonna happen to me? I'm scared...
+
+[MSG$010FED,44]
+I feel like I'm gonna be separated from you,
+
+[MSG$01101E,10]
+Minase..."
+
+[MSG$011042,28]
+Imari starts talking humbly.
+
+[MSG$011063,33]
+I kind of feel sorry for Imari...
+
+[MSG$011091,33]
+Imari "I always liked you Minase.
+
+[MSG$0110B7,75]
+But I never mentioned it since I thought it might ruin our relationship..."
+
+[MSG$01111C,41]
+Imari "I was just happy to be with you...
+
+[MSG$01114A,49]
+But I can't take it anymore. I'm very worried..."
+
+[MSG$011195,87]
+Imari "Hey...we're still gonna be together from now on, right? Always together, right?"
+
+[MSG$011206,34]
+Imari keeps asking me desperately.
+
+[MSG$01122D,33]
+Of course I don't have an answer.
+
+[MSG$011253,45]
+She's about to become Ms. Kitami's sacrifice.
+
+[MSG$01128D,96]
+I'm somewhat moved by her words. This is the first time Imari has ever said something like this.
+
+[MSG$0112FA,48]
+But I can't betray Ms. Kitami now to save Imari.
+
+[MSG$01132F,62]
+Besides, it's impossible to escape from Ms. Kitami's clutches.
+
+[MSG$01137A,13]
+Minase "Huh!"
+
+[MSG$0113A1,94]
+I push Imari away as if I'm trying to keep my mind from thinking the wrong thing.  I stand up.
+
+[MSG$01140C,12]
+Imari "Kya!"
+
+[MSG$011432,15]
+Falling down...
+
+[MSG$01144E,43]
+Imari loses her balance, and starts to cry.
+
+[MSG$011486,17]
+Imari "(sobbing)"
+
+[MSG$0114B1,30]
+I can't do anything for her...
+
+[MSG$0114D4,57]
+No matter what I say, I'll end up hurting her feelings...
+
+[MSG$01151A,49]
+Then I leave since I can't stand the situation...
+
+[MSG$011568,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0115FD,16]
+Kitami "Minase."
+
+[MSG$011627,25]
+Ms. Kitami calls my name.
+
+[MSG$01164D,75]
+Kitami "Saeki and I are going down to the school to prepare for the ritual.
+
+[MSG$01169D,45]
+Can you stay here and keep an eye on things?"
+
+[MSG$0116E4,14]
+Minase "Sure."
+
+[MSG$01170C,29]
+Kitami "I'm counting on you."
+
+[MSG$011767,41]
+Then Ms. Kitami and Saeki leave the room.
+
+[MSG$011795,43]
+I just stay in the room with nothing to do.
+
+[MSG$0117CD,72]
+I'm still tired from last night, so I don't even feel like having sex...
+
+[MSG$01184D,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0118BF,47]
+I find Shiraki unconscious, and shake her body.
+
+[MSG$0118F3,51]
+I should at least wake her up to cure my boredom...
+
+[MSG$011933,18]
+Shiraki "U..uu..."
+
+[MSG$01195F,61]
+Shiraki is facing away from me, and it looks like she's dead.
+
+[MSG$0119A1,77]
+Lots of cock juice is pouring down to the floor from both her crotch and ass.
+
+[MSG$0119FB,19]
+Minase "Shiraki..."
+
+[MSG$011A28,15]
+Shiraki "Nn..."
+
+[MSG$011A51,101]
+Shiraki regains consciousness and tries to get up, but she falls back unconscious almost immediately.
+
+[MSG$011AC3,23]
+She's no good either...
+
+[MSG$011ADF,50]
+I'm guessing she was getting banged until morning.
+
+[MSG$011B16,62]
+Once a school idol, Shiraki has now been reduced to nothing...
+
+[MSG$011B71,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$011BE2,20]
+April 29 - Takashiro
+
+[MSG$011C4F,21]
+Takashiro "Minase..."
+
+[MSG$011C7E,37]
+Then Ms. Takashiro staggers up to me.
+
+[MSG$011CB0,26]
+Minase "What do you want?"
+
+[MSG$011CE4,68]
+I look at Ms. Takashiro as if I were looking at a dirty toilet bowl.
+
+[MSG$011D35,37]
+Takashiro "Please make love to me..."
+
+[MSG$011D74,70]
+Takashiro "Everyone wants to do me in the ass but not in the front..."
+
+[MSG$011DD4,73]
+She's looking at me with vacant eyes. I can tell she's totally out of it.
+
+[MSG$011E22,51]
+It's hard to believe that she was once a teacher...
+
+[MSG$011E62,112]
+I don't care how strong or weak the drugs are. If you take them continuously like she has, you'll end up insane.
+
+[MSG$011ED7,41]
+Her body can't go on without the drugs...
+
+[MSG$011F0D,26]
+Minase "Ask someone else."
+
+[MSG$011F41,40]
+Takashiro "Everyone else is sleeping..."
+
+[MSG$011F83,83]
+It's true that all the other guys are exhausted and in no condition to do anything.
+
+[MSG$011FDB,41]
+But I don't feel like doing it right now.
+
+[MSG$012011,57]
+Takashiro "Please...I'll let you do whatever you like..."
+
+[MSG$012064,44]
+Ms. Takashiro shimmies her hips as she begs.
+
+[MSG$01209D,21]
+Minase "All right..."
+
+[MSG$0120CC,29]
+I decide to go along with it.
+
+[MSG$0120EE,64]
+I'm getting tired of doing her, but it might be good exercise...
+
+[MSG$01213B,24]
+Takashiro "Thank you..."
+
+[MSG$0121A4,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$012215,65]
+I push her down to the floor and stroke my cock to make it erect.
+
+[MSG$01225B,55]
+Then I place my cock up against Ms. Takashiro's crotch.
+
+[MSG$01229F,37]
+Takashiro "Hurry up and stick it in!"
+
+[MSG$0122DE,67]
+She can't wait for it, so she lifts her hips to get my cock inside.
+
+[MSG$01232E,60]
+Minase "Yeah, yeah...I'll stick it in your hole in no time."
+
+[MSG$012385,68]
+I push my cock against her opening, and slowly thrust it inside her.
+
+[MSG$0123E6,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$012454,12]
+Insertion...
+
+[MSG$01246D,17]
+Takashiro "Aaaa!"
+
+[MSG$012498,58]
+Ms. Takashiro takes in my cock, and tightens up real hard.
+
+[MSG$0124D7,67]
+It feels like I have my dick stuck in a vise, and she won't let go.
+
+[MSG$012527,52]
+Minase "I can't move if you tighten up like that..."
+
+[MSG$012575,30]
+Takashiro "This is just fine!"
+
+[MSG$0125EE,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$01265C,7]
+Stab...
+
+[MSG$012670,14]
+Minase "Ouch!"
+
+[MSG$012698,15]
+I felt a sting.
+
+[MSG$0126AC,63]
+Ms. Takashiro is holding a small hypodermic needle in her hand,
+
+[MSG$0126F0,38]
+and the needle is stuck under my skin.
+
+[MSG$01271B,53]
+The contents are already being released into my body.
+
+[MSG$01275D,33]
+Takashiro "Hee, hee...Ahahaha..."
+
+[MSG$012798,61]
+As I realize what's happening, Ms. Takashiro starts laughing.
+
+[MSG$0127E2,31]
+Minase "What did you do to me?"
+
+[MSG$01281B,65]
+Takashiro "You gave me lots of drugs, so I gave some back to you.
+
+[MSG$012861,55]
+It's the undiluted solution I stole from Ms. Kitami..."
+
+[MSG$0128B2,15]
+Minase "What!?"
+
+[MSG$0128DB,83]
+Takashiro "I was waiting for this moment. A moment with Ms. Kitami out of sight..."
+
+[MSG$012948,52]
+Her lifeless eyes became full of life in an instant.
+
+[MSG$012989,45]
+Minase "You still had this much energy left?"
+
+[MSG$0129D0,35]
+She was putting on an act till now?
+
+[MSG$0129F8,85]
+We gave her more dosage than others, but she's somehow able to maintain her sanity...
+
+[MSG$012A5A,67]
+Takashiro "Sorry. But I'm also a sorceress, I'm resistant to drugs.
+
+[MSG$012AA2,38]
+But I almost went insane this time..."
+
+[MSG$012AE2,14]
+Minase "Shit!"
+
+[MSG$012B0A,16]
+Feeling weird...
+
+[MSG$012B27,49]
+Then I realize something is happening to my body.
+
+[MSG$012B65,13]
+Minase "Hee!"
+
+[MSG$012B8C,62]
+I feel a strong charge of electricity running through my head.
+
+[MSG$012BCF,87]
+At the same time, my cock, still buried in Ms. Takashiro's crotch, becomes much bigger.
+
+[MSG$012C33,79]
+I know the effects of the drug. If she injected me with the undiluted solution,
+
+[MSG$012C87,42]
+I don't think I'll be able to tolerate it.
+
+[MSG$012CBE,95]
+Takashiro "I think the drug is taking effect...You should feel the pain I felt ten times over."
+
+[MSG$012D37,19]
+Minase "Help me..."
+
+[MSG$012D64,66]
+My body keeps twitching, and I call out to Ms. Takashiro for help.
+
+[MSG$012DAB,75]
+I feel like my brain is melting, something is constantly violating my mind.
+
+[MSG$012E03,13]
+Minase "Aah!"
+
+[MSG$012E3A,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$012EB8,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$012F26,20]
+Juice pouring out...
+
+[MSG$012F47,63]
+I can't hold back, and I immediately ejaculate against my will.
+
+[MSG$012F93,53]
+Takashiro "Nnnn! Don't shoot it out all of a sudden."
+
+[MSG$012FE2,41]
+I don't have time to listen to her words.
+
+[MSG$013010,96]
+The feeling is several times greater than usual, and I keep on shooting out my juice inside her.
+
+[MSG$01307D,15]
+Minase "Heeee!"
+
+[MSG$0130A6,60]
+Experiencing orgasm continuously, my brain begins to scream.
+
+[MSG$0130E7,82]
+Every time I ejaculate, I feel my brain sizes and cock juice squirts from my body.
+
+[MSG$01313E,29]
+I'm on the verge of insanity.
+
+[MSG$013168,54]
+Takashiro "How long will you keep shooting inside me?"
+
+[MSG$0131B8,45]
+Ms. Takashiro pulls my cock out of her pussy.
+
+[MSG$013202,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$013280,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0132F0,18]
+Minase "I'll die!"
+
+[MSG$01331C,20]
+Juice pouring out...
+
+[MSG$01333D,93]
+But I can't stop ejaculating, and it keeps on going without showing any sign of slowing down.
+
+[MSG$0133A7,19]
+Minase "Help me..."
+
+[MSG$0133D4,76]
+While shooting my white juice all over Ms. Takashiro's body, I beg for help.
+
+[MSG$01342D,72]
+Takashiro "I said those words so many times. But you never helped me..."
+
+[MSG$01348F,106]
+Takashiro "This is your punishment. It's what you get for defying God and selling your soul to the devil."
+
+[MSG$013513,14]
+Minase "What!"
+
+[MSG$01353B,110]
+Takashiro "I'll get out of here and do whatever it takes to stop Ms. Kitami.  That's what God wants me to do."
+
+[MSG$0135C3,30]
+Takashiro "Goodbye, Minase..."
+
+[MSG$0135FB,23]
+Minase "Wait! Uh! Aah!"
+
+[MSG$01363C,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0136AA,80]
+Ms. Takashiro leaves me and gets up, then begins to leave the room with Imari...
+
+[MSG$013707,64]
+There's no one in the room who can stop Ms. Takashiro right now.
+
+[MSG$01374C,58]
+Ms. Takashiro ignores the people lying naked on the floor,
+
+[MSG$01378B,67]
+pushes away those who get in her way, and calmly leaves the room...
+
+[MSG$0137DB,78]
+Then I'm forced to experience great pleasure, and start to lose consciousness.
+
+[MSG$01382E,81]
+My mind is ruled only by pleasure, and I have no time to regret the things I did.
+
+[MSG$01388C,79]
+My mind becomes blank as if a short circuit caused a fuse to blow in my head...
+
+[MSG$0138E8,52]
+Then I slowly go to sleep, never to wake up again...
+
+[MSG$01395E,31]
+Ending No. 12, Hiroko Takashiro
+
+[MSG$013982,10]
+...Bad End
+
+[MSG$0139C3,39]
+Immediately, I know something is wrong.
+
+[MSG$0139EF,58]
+I see that Ms. Takashiro has a dangerous glow in her eyes.
+
+[MSG$013A36,60]
+I look at her hand, and she is holding something very shiny.
+
+[MSG$013A77,32]
+It is a small hypodermic needle.
+
+[MSG$013AA4,80]
+She tries to stab me with the needle, but I quickly smack her hand with my fist.
+
+[MSG$013B01,8]
+Smack...
+
+[MSG$013B16,63]
+The needle goes flying from her hand, and drops onto the floor.
+
+[MSG$013B72,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$013BE0,17]
+Minase "I see..."
+
+[MSG$013C0B,17]
+Takashiro "Aaah!"
+
+[MSG$013C36,61]
+Minase "I didn't know you still had that much energy left..."
+
+[MSG$013C8D,82]
+She's pretty tough. I can't believe she's still sane after taking all those drugs.
+
+[MSG$013CEC,42]
+I grab the needle and take a look at it...
+
+[MSG$013D1B,33]
+There's a greenish liquid inside.
+
+[MSG$013D49,82]
+Minase "It's a pretty dark color...I see, so this must be the undiluted solution."
+
+[MSG$013DB5,102]
+I don't know how she stole it from Ms. Kitami, but the drug inside is the original undiluted solution.
+
+[MSG$013E20,58]
+If she stabbed me with this thing, I would've been dead...
+
+[MSG$013E67,67]
+Minase "You got some nerve to stab your student with this thing..."
+
+[MSG$013EC4,29]
+Takashiro "I almost had you!"
+
+[MSG$013EFB,36]
+Ms. Takashiro bites her lip in fury.
+
+[MSG$013F2C,41]
+Her eyes look very lively, unlike before.
+
+[MSG$013F5A,47]
+So, she was just putting on an act until now...
+
+[MSG$013F96,64]
+Minase "I don't want to throw it away. I'll just use it on you."
+
+[MSG$013FF0,61]
+Then I take the hypodermic needle and approach Ms. Takashiro.
+
+[MSG$01403A,68]
+Takashiro "Stop it! If you stab me with that thing, I'll go insane!"
+
+[MSG$014098,77]
+Minase "But you tried to stab me with it. I want you to feel what it's like."
+
+[MSG$0140FF,20]
+Takashiro "Stop it!"
+
+[MSG$01412D,56]
+I ignore what she's saying and stab her with the needle.
+
+[MSG$014182,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0141F0,41]
+Minase "I'll show you the way to Eden..."
+
+[MSG$014233,7]
+Stab...
+
+[MSG$014247,18]
+Takashiro "Heeee!"
+
+[MSG$014273,65]
+Then I push the needle in and release the contents into her body.
+
+[MSG$0142C1,36]
+Takashiro "Aaa..don't push it in..."
+
+[MSG$0142FF,83]
+Ms. Takashiro watches in utter amazement as the green liquid is emptied inside her.
+
+[MSG$014357,81]
+After I release all the contents, I pull out the needle and drop it on the floor.
+
+[MSG$0143C5,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$014433,26]
+Takashiro "Hah...haaah..."
+
+[MSG$014467,62]
+Minase "It's a pretty thick solution. I'm sure it feels good."
+
+[MSG$0144BF,20]
+Takashiro "Ah..aah!"
+
+[MSG$0144ED,69]
+The drug soon takes effect, and Ms. Takashiro's body starts to shake.
+
+[MSG$01453F,33]
+Takashiro "It's great...so good!"
+
+[MSG$01457A,87]
+Due to the great pleasure caused by the drug, Ms. Takashiro immediately looks ecstatic.
+
+[MSG$0145DE,35]
+Takashiro "I'm coming..I'm coming!"
+
+[MSG$01461B,31]
+She screams and reaches orgasm.
+
+[MSG$01463F,61]
+After she comes, her body starts to convulse violently again.
+
+[MSG$014689,50]
+Takashiro "Ah..aah! I'm coming again..I'm coming!"
+
+[MSG$0146D5,22]
+Minase "It's amazing."
+
+[MSG$014705,40]
+But Ms. Takashiro can't hear my voice...
+
+[MSG$01473A,99]
+She is climaxing continuously, and you can tell she's totally out of it from her facial expression.
+
+[MSG$0147A2,77]
+The pupils of her eyes are dilated, and she's also salivating from her mouth.
+
+[MSG$0147FC,72]
+I think she's totally gone. Now, let's see if she'll get back to normal.
+
+[MSG$01486C,65]
+And then I spot a small vial lying on the floor, so I pick it up.
+
+[MSG$0148B2,46]
+There was some undiluted solution left inside.
+
+[MSG$0148ED,57]
+I think about something as I look at the greenish liquid.
+
+[MSG$014933,48]
+If I use this, maybe I can deceive Ms. Kitami...
+
+[MSG$014970,93]
+If what Ms. Takashiro said is true, Ms. Kitami will automatically perish if the ritual fails.
+
+[MSG$0149DA,83]
+Then I can rule these idiots. Yeah, I can have everything go my way if I want to...
+
+[MSG$014A3A,69]
+Even if I obey Ms. Kitami, I'm never gonna be number one around here.
+
+[MSG$014A84,59]
+The most I can do is to work as a slave under Ms. Kitami...
+
+[MSG$014ACC,49]
+No, it would be Ms. Kitami inside Imari's body...
+
+[MSG$014B0A,38]
+But if I can get her out of the way...
+
+[MSG$014B3D,28]
+I think up a plan and smile.
+
+[MSG$014B5E,78]
+Ms. Kitami is trying to deceive the devil, but I'll show her a thing or two...
+
+[MSG$014BB9,30]
+Luckily, Ms. Kitami trusts me.
+
+[MSG$014BDC,59]
+She probably doesn't think I'll betray her at this point...
+
+[MSG$014C24,75]
+Heh, heh, heh...I can't wait to see Ms. Kitami's face when she finds out...
+
+[MSG$014C7C,33]
+Kurimoto "Hey, is she all right?"
+
+[MSG$014CB7,53]
+Kurimoto seems worried as she looks at Ms. Takashiro.
+
+[MSG$014CF9,80]
+Minase "Don't worry, she's still alive. She attacked me first. She deserved it."
+
+[MSG$014D63,65]
+Then I avert my eyes from Ms. Takashiro, who was still orgasming.
+
+[MSG$014DC1,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$014E56,62]
+Minase "I'm gonna take a break. I want you to keep a lookout."
+
+[MSG$014EAE,60]
+Kurimoto "What the hell? You are supposed to be doing it..."
+
+[MSG$014F14,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$014F82,73]
+I tell Kurimoto to take over, and I go to the corner of the room to rest.
+
+[MSG$014FD0,74]
+After I took care of Ms. Takashiro, there's nothing more to worry about...
+
+[MSG$015027,73]
+Now we just wait for time to pass, and get ready for tomorrow's ritual...
+
+[MSG$01507F,30]
+..............................
+
+[MSG$0150AA,24]
+........................
+
+[MSG$0150CF,18]
+..................
+
+[MSG$0150EE,12]
+............
+
+[MSG$015107,6]
+......
+
+[MSG$01511A,84]
+Ms. Kitami and Saeki come back, and they begin preparing Imari for the final ritual.
+
+[MSG$01517B,22]
+April 29 - Holy ritual
+
+[MSG$0151AC,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$01521D,78]
+Imari is naked except for her chastity belt, and they lay her down on an altar
+
+[MSG$015270,29]
+|decorated with velvet cloth.
+
+[MSG$01529A,93]
+She has a cross hanging from her neck, and a shiny brass chalice is placed between her boobs.
+
+[MSG$015304,85]
+There is a whole gang of guys surrounding the altar, and they're stroking their cocks
+
+[MSG$01535E,65]
+|as they watch Imari's body. They've become Ms. Kitami's puppets.
+
+[MSG$0153AC,53]
+I watch the unusual show from a corner of the room...
+
+[MSG$0153EE,29]
+Takashiro "Aha..ahahahaha..."
+
+[MSG$015425,51]
+Ms. Takashiro is sitting on the floor laughing, and
+
+[MSG$01545D,28]
+|looking utterly dejected...
+
+[MSG$015486,56]
+Her eyes are out of focus, and she's staring into space.
+
+[MSG$0154C3,68]
+She can't possibly do anything against Ms. Kitami in this condition.
+
+[MSG$015514,69]
+Kitami "Now, fill up the chalice with your juices and make it dirty."
+
+[MSG$015583,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0155F1,69]
+Then the guys start to shoot their cock juice into the chalice placed
+
+[MSG$01563B,22]
+between Imari's boobs.
+
+[MSG$01565E,98]
+After they finish releasing their juices, there is lots of thick, white liquid inside the chalice.
+
+[MSG$0156C5,38]
+I'm feeling sick just looking at it...
+
+[MSG$015708,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$015776,21]
+Kitami "That's good."
+
+[MSG$0157A5,51]
+Ms. Kitami moves them aside, and starts the ritual.
+
+[MSG$0157F5,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$015866,37]
+Kitami "Our almighty lord in hell..."
+
+[MSG$0158A5,53]
+Ms. Kitami draws a reverse crucifix across her chest.
+
+[MSG$0158E7,96]
+Kitami "Come my Lord. Take the light away. All mighty Lord of comfort, sweet friend of the soul,
+
+[MSG$01594C,99]
+this peacefulness inside my heart...Blessed light, come to the hearts of those who believe in you."
+
+[MSG$0159C9,61]
+Ms. Kitami takes a round wafer from a small silver container.
+
+[MSG$015A13,37]
+Kitami "You shall become my flesh..."
+
+[MSG$015A52,52]
+It's a holy wafer used for Mass. Instead of a cross,
+
+[MSG$015A8B,54]
+there is a reverse pentagram as a symbol of the devil.
+
+[MSG$015AC6,33]
+It represents the devil's body...
+
+[MSG$015AF4,50]
+Then she forces the holy bread into Imari's mouth.
+
+[MSG$015B43,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$015BB5,14]
+Imari "Nnn..."
+
+[MSG$015BDD,64]
+Kitami "This bread will give me life. I shall eat this bread and
+
+[MSG$015C22,18]
+|live on forever."
+
+[MSG$015C4E,70]
+She cuts her wrist with a knife, and pours the blood into the chalice.
+
+[MSG$015CA1,105]
+Kitami "This is my blood...This blood will cleanse my sins, and it represents a sign of an eternal pact."
+
+[MSG$015D24,97]
+Ms. Kitami mixes her blood with the juice in the chalice, and brings the chalice up to her mouth.
+
+[MSG$015DA2,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$015E14,23]
+Kitami "Smells good..."
+
+[MSG$015E45,63]
+And she puts the chalice to her mouth, and drinks the contents.
+
+[MSG$015EA1,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$015F0F,39]
+She pours the contents down her throat.
+
+[MSG$015F3B,71]
+I felt sick watching her. I can't believe anyone would do such a thing.
+
+[MSG$015F8F,30]
+After drinking about half way,
+
+[MSG$015FB2,80]
+she takes the chalice from her lips. Then she pours the rest into Imari's mouth.
+
+[MSG$01601F,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$016091,16]
+Pouring juice...
+
+[MSG$0160AE,12]
+Imari "Nn!?"
+
+[MSG$0160D4,21]
+Imari "Ngh! Nn! Kha!"
+
+[MSG$016104,22]
+Imari "Gha! Ghe! Ugh!"
+
+[MSG$016134,59]
+The liquid goes down into Imari's mouth. Imari wakes up and
+
+[MSG$016174,26]
+starts to choke and cough.
+
+[MSG$01619B,28]
+Kitami "Oh, what a waste..."
+
+[MSG$0161D1,73]
+Ms. Kitami takes some liquid from Imari's mouth and licks it up hungrily.
+
+[MSG$016237,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$0162A5,31]
+Imari "Urgh...So disgusting..."
+
+[MSG$0162DE,71]
+Imari can't take the taste of the juice, and tries hard to cough it up.
+
+[MSG$01632A,89]
+I'm sure any girl would want to throw up after having that liquid poured down her throat.
+
+[MSG$0163A0,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$016411,59]
+Ms. Kitami ignores Imari, and keeps on reciting her spells.
+
+[MSG$016459,74]
+Kitami "My words will turn this bread into flesh, and the wine into blood.
+
+[MSG$0164A8,73]
+I shall be given a new body, but my heart shall be strengthened by faith.
+
+[MSG$01650B,92]
+Kitami "I offer everything in your power, and will not believe in any other God besides you.
+
+[MSG$01656C,21]
+You are my only God."
+
+[MSG$01659B,16]
+Kitami "Amen..."
+
+[MSG$0165C5,66]
+This is a Black Mass, which is like a parody of the Last Supper...
+
+[MSG$01660C,82]
+You betray God, and praise the devil. It was very common during the Middle Ages...
+
+[MSG$01666B,77]
+After Ms. Kitami finishes reciting her spells, she looks at Imari and smiles.
+
+[MSG$0166D5,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$016747,85]
+Kitami "Your body has been purified. Now, we just wait for the time of the ritual..."
+
+[MSG$0167B6,43]
+Kitami "It should be interesting, Imari..."
+
+[MSG$0167FB,19]
+Imari "Gha..keh..."
+
+[MSG$016828,53]
+Imari is only thinking of getting that horrible taste
+
+[MSG$016862,43]
+|and feeling out of her mouth and throat...
+
+[MSG$0168AA,65]
+This message is just an example. It will protect your saved data.
+
+[MSG$01691A,83]
+Then the night comes, and we exchange partners and have sex until we fall asleep...
+
+[MSG$01697A,46]
+Finally, tomorrow is the night of Walpurgis...
+
+[MSG$0169B5,18]
+..................
+
+[MSG$0169D4,12]
+............
+
+[MSG$0169ED,6]
+......

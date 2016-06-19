@@ -1,0 +1,4555 @@
+﻿#Size=129433
+
+[MSG$0001E0,13]
+Talk to Murai
+
+[MSG$000212,21]
+Try using it yourself
+
+[MSG$000244,19]
+Ugh, don't touch it
+
+[MSG$00027C,32]
+Why don't I just go for Imari...
+
+[MSG$0002B9,36]
+Of course, the Idol of the school...
+
+[MSG$000302,34]
+In that case, just go for Imari...
+
+[MSG$000349,28]
+Refuse in no uncertain terms
+
+[MSG$000382,48]
+For now just pretend to go along like a good boy
+
+[MSG$0003D7,19]
+Temptation strategy
+
+[MSG$000407,20]
+Transformation spell
+
+[MSG$000440,11]
+Take a peek
+
+[MSG$000470,16]
+Keep on watching
+
+[MSG$00049D,13]
+Stop watching
+
+[MSG$0004CF,19]
+I try simulating it
+
+[MSG$000507,8]
+Save her
+
+[MSG$00052C,42]
+Start plotting a different way to use this
+
+[MSG$00057B,16]
+Punish those two
+
+[MSG$00077A,18]
+April 22 - Morning
+
+[MSG$000812,19]
+Voice "Wake up...."
+
+[MSG$00083F,26]
+Voice "Please, wake up..."
+
+[MSG$000873,25]
+Voice "Come on, wake up!"
+
+[MSG$0008A6,60]
+Somewhere in my drowsy haze, I can hear an angel whispering.
+
+[MSG$0008E7,48]
+The angel seems even more kind than usual today.
+
+[MSG$00091C,43]
+Though who knows how long that will last...
+
+[MSG$0009E5,54]
+Imari "If you don't get up right now, you'll be late!"
+
+[MSG$000A35,30]
+Imari "Come on, now, wake up!"
+
+[MSG$000A6D,45]
+Imari "It's Imari, asking you pretty please!"
+
+[MSG$000AB4,13]
+That moron...
+
+[MSG$000ACE,100]
+When I hear that voice, so unlike the Imari I know, I can't help laughing ruefully, even in my daze.
+
+[MSG$000B37,78]
+She might think she's being gentle, but it's actually scarier for me this way.
+
+[MSG$000B92,11]
+Imari "..."
+
+[MSG$000BAA,11]
+Imari "..."
+
+[MSG$000C3A,43]
+Imari "Oh, man! I don't believe this crap!"
+
+[MSG$000C7F,52]
+Imari "You're giving me the chills, for God's sake."
+
+[MSG$000CCD,76]
+With that, the real Imari returns. I'm a lot more comfortable with this one.
+
+[MSG$000D26,100]
+Imari "All right, I was going to wake you up gently, but I can see you're determined not to get up!"
+
+[MSG$000DA4,45]
+Imari "I hope you know what you're in for..."
+
+[MSG$000DEB,20]
+Imari "Here I go..."
+
+[MSG$000E19,31]
+Imari "Sandwich pin technique!"
+
+[MSG$000E52,5]
+Thud!
+
+[MSG$000EDD,98]
+Just at that moment, it seems as though my body has levitated...and then the whole world capsizes.
+
+[MSG$000FE1,18]
+Wham! Crash! Thud!
+
+[MSG$001000,69]
+The next thing I know, I'm squashed between the bed and the mattress.
+
+[MSG$001052,63]
+Imari has knocked over the whole mattress, with me still on it.
+
+[MSG$00109E,4]
+Bam!
+
+[MSG$00114E,50]
+Minase "I can't believe you woke me up like that!"
+
+[MSG$00119A,83]
+I shove the mattress away and yell at Imari, who stands impassively in front of me.
+
+[MSG$0011F2,50]
+Can't she come up with something better than that?
+
+[MSG$001231,53]
+Imari "Using force is the most effective, after all."
+
+[MSG$001280,58]
+Imari nods her head, satisfied, as she makes this comment.
+
+[MSG$0012BF,57]
+But as the victim, I find this tactic totally screwed up.
+
+[MSG$001305,83]
+Minase "Jeez...on top of being sleep-deprived, that was the rudest awakening ever!"
+
+[MSG$001372,74]
+It looks like I burned out in the middle of translating the book of magic.
+
+[MSG$0013C9,68]
+I can remember up to a point, but not the moment when I fell asleep.
+
+[MSG$001412,72]
+I'm impressed with myself for somehow making it under the covers myself.
+
+[MSG$001467,75]
+I look over and see that my notes and books are scattered all over my desk.
+
+[MSG$0014BF,50]
+Imari "I bet you were up late again last night..."
+
+[MSG$00150B,62]
+Imari "That's why I'm always telling you to get to bed early!"
+
+[MSG$001563,79]
+Minase "Just shut up, will you? Don't start lecturing me the second I wake up!"
+
+[MSG$0015CC,58]
+I mutter and complain as I start changing into my uniform.
+
+[MSG$00160B,38]
+Imari quickly averts her eyes from me.
+
+[MSG$001662,30]
+Imari "Hey, what's this book?"
+
+[MSG$00169A,88]
+Imari is interested in the book on my desk. She asks me about it as I'm getting dressed.
+
+[MSG$0016F7,86]
+The Book of Magic, which I'd been reading until late last night, was there on my desk.
+
+[MSG$00175A,19]
+Minase "It's porn."
+
+[MSG$001787,37]
+I answer her curtly as I get dressed.
+
+[MSG$0017B1,73]
+Even if Imari took a look inside there's no way she'd be able to read it.
+
+[MSG$001807,48]
+Imari "You're just messing with me, aren't you?"
+
+[MSG$001851,72]
+Imari speaks with suspicion in her voice as she flips through the pages.
+
+[MSG$0018A6,39]
+Imari "I have no idea what it's about."
+
+[MSG$0018E7,26]
+Imari "You can read this?"
+
+[MSG$00191B,25]
+Minase "You think I can?"
+
+[MSG$00194E,40]
+Imari "Probably not with your brains..."
+
+[MSG$001990,45]
+Imari "But where'd you get a book like this?"
+
+[MSG$0019D7,31]
+Minase "I'm just borrowing it."
+
+[MSG$001A10,49]
+Imari "Even though you can't read it? And anyway,
+
+[MSG$001A46,75]
+who'd lend you a book like this? I'm pretty sure it belongs in a museum..."
+
+[MSG$001AAB,38]
+Imari "Oh, wait, is it Yukiko's book?"
+
+[MSG$001AEB,68]
+This probably occurred to Imari because she knows my sister so well.
+
+[MSG$001B3C,29]
+Minase "Something like that."
+
+[MSG$001B73,107]
+I can't stand being interrogated about every little thing, so I just tell Imari this to stop her questions.
+
+[MSG$001BEB,16]
+Imari "I see..."
+
+[MSG$001C15,35]
+Imari is still staring at the book.
+
+[MSG$001C45,26]
+Minase "You can look now."
+
+[MSG$001C79,41]
+I get myself ready and call out to Imari.
+
+[MSG$001CA7,32]
+Imari hears me and turns around.
+
+[MSG$001D06,28]
+Imari "All right, let's go."
+
+[MSG$001D3C,86]
+I stuff my notes between the pages of the book, place it in my bag and leave the room.
+
+[MSG$001D9F,26]
+April 22 - Going to school
+
+[MSG$001E44,68]
+Imari "Are you that sleepy? You've got to get to bed early tonight."
+
+[MSG$001EA2,51]
+Imari says this to me because I can't stop yawning.
+
+[MSG$001EE2,16]
+Minase "Yawn..."
+
+[MSG$001F0C,41]
+Instead of replying, I yawn at her again.
+
+[MSG$001F42,43]
+Imari "Oh, come on! That's your 21st yawn."
+
+[MSG$001F87,60]
+The little pest, is she counting how many times I've yawned?
+
+[MSG$001FD0,116]
+Imari "Really, now, Minase...you're never gonna be able to get up on time when you start working in the real world!"
+
+[MSG$00205E,29]
+Imari sighs as she says this.
+
+[MSG$002080,38]
+As if that were any of her business...
+
+[MSG$0020B3,18]
+April 22 - Lockers
+
+[MSG$002167,33]
+Imari "Mika's absent today, huh?"
+
+[MSG$0021A2,83]
+Imari is looking over at Ito's locker with a worried look as she changes her shoes.
+
+[MSG$002202,45]
+A pair of indoor shoes sit inside her locker.
+
+[MSG$00223C,47]
+Minase "Maybe she just hasn't gotten here yet."
+
+[MSG$002285,89]
+That's what I tell her, but I don't think there's a chance in hell that Ito will show up.
+
+[MSG$0022E3,86]
+After what happened, no one in their right mind could possibly show their face here...
+
+[MSG$00234E,20]
+April 22 - Classroom
+
+[MSG$0023E1,14]
+The door opens
+
+[MSG$0023FC,50]
+Imari and I open the door and enter the classroom.
+
+[MSG$00246D,61]
+Imari "Hey, I guess you and I are the first ones here today."
+
+[MSG$0024C5,54]
+For once, there's no one else in the classroom but us.
+
+[MSG$002508,20]
+April 22 - Classroom
+
+[MSG$002543,64]
+I head toward my seat and hang up my bag on the side of my desk.
+
+[MSG$002588,57]
+Since the Book of Magic's inside, it hangs there heavily.
+
+[MSG$0025CE,15]
+The door opens.
+
+[MSG$00261C,59]
+Kaori Saeki is the next person after Imari and I to appear.
+
+[MSG$002664,51]
+Saeki glides over to her seat like she always does,
+
+[MSG$00269C,73]
+sits down quietly and takes her textbooks and other books out of her bag.
+
+[MSG$002716,52]
+After a while, a few more of our classmates show up.
+
+[MSG$002757,102]
+Some of them start discussing Ito, while others get to work on the homework they've forgotten to do...
+
+[MSG$002846,64]
+In the midst of all this, Saeki sits at her desk reading a book.
+
+[MSG$002893,53]
+I get up from my seat, and walk towards Saeki's desk.
+
+[MSG$0028D5,66]
+Minase "What are you reading? The book you checked out yesterday?"
+
+[MSG$002931,58]
+I try to start a conversation with Saeki to pass the time.
+
+[MSG$002970,44]
+Normally, I probably wouldn't talk to Saeki,
+
+[MSG$0029A1,83]
+but after yesterday's incident I find myself more aware of her presence than usual.
+
+[MSG$002A01,94]
+Besides, ever since I got my hands on that book, I have more than a passing interest in Saeki,
+
+[MSG$002A64,35]
+as a fellow black magic enthusiast.
+
+[MSG$002A94,78]
+If it's just a matter of knowledge, I know that Saeki is far superior to me...
+
+[MSG$002AE7,56]
+But knowledge and experience are two different things...
+
+[MSG$002B2C,33]
+Saeki "A book of poems by Yeats."
+
+[MSG$002B67,87]
+Saeki looks up at me with her usual expression, and answers me in an unemotional voice.
+
+[MSG$002BCB,15]
+Minase "Yeats?"
+
+[MSG$002BF4,52]
+It's the book Saeki had in her hands at the library.
+
+[MSG$002C2D,60]
+I could see the name ''W.B. Yeats'' on the cover, all right.
+
+[MSG$002C76,68]
+Saeki "William Butler Yeats. An Irish poet who won the Nobel Prize."
+
+[MSG$002CD4,62]
+Minase "Poetry, huh? You're more of a romantic than you look."
+
+[MSG$002D2C,115]
+That was just my honest opinion. But I guess maybe people who call themselves magicians are all romantics in a way.
+
+[MSG$002DAC,110]
+Milton's Paradise Lost, Goethe's Faust. Both are about the Devil, and they portray him in an aesthetic manner.
+
+[MSG$002E27,26]
+But to tell you the truth,
+
+[MSG$002E46,80]
+|I thought it would be more fitting to see Saeki reading her black magic book to
+
+[MSG$002E9B,53]
+|the sounds of death metal music, rather than poetry.
+
+[MSG$002EDD,107]
+Saeki "Yeats was an occultist, you know. At one time he was the president of the Order of the Golden Dawn."
+
+[MSG$002F62,33]
+I'd just read in one of the books
+
+[MSG$002F88,92]
+|I'd borrowed yesterday that the Golden Dawn was an occult order that included such renowned
+
+[MSG$002FE9,35]
+|occultists as Mathers and Crowley.
+
+[MSG$003019,63]
+All right, that made sense. Saeki didn't let me down after all.
+
+[MSG$00305D,88]
+I'm sure she was going to tell me that her favorite bands were Napalm Death and Carcass.
+
+[MSG$003161,61]
+Murai "Hey, you're going to do my reading today, aren't you?"
+
+[MSG$0031B9,93]
+At that moment, Motoko Murai appears suddenly, practically shoving me aside to talk to Saeki.
+
+[MSG$003223,60]
+Apparently it's Murai's turn to have her reading done today.
+
+[MSG$003264,62]
+After what happened yesterday, it's pretty thoughtless of her.
+
+[MSG$0032AF,70]
+Saeki "Sorry, I've decided not to do any more readings for a while..."
+
+[MSG$00330F,50]
+Saeki turns down Murai's request with these words.
+
+[MSG$00334E,83]
+Clearly, she's decided to stop because she feels bad about what happened yesterday.
+
+[MSG$0033A6,61]
+|Even if it meant she'd been right, that kind of result would
+
+[MSG$0033E8,38]
+|kill the ardor of any fortune-teller.
+
+[MSG$00341B,113]
+Not only that, but there was some gossip going around that Saeki's reading had somehow caused the whole incident.
+
+[MSG$003499,62]
+Murai "Whaaat, but you told me you'd do my reading yesterday!"
+
+[MSG$0034F1,63]
+Murai "Hey, come on, please! I really don't know what to do..."
+
+[MSG$00354A,40]
+Saeki "That might be true, but still..."
+
+[MSG$00358C,25]
+Murai "Come on...Please!"
+
+[MSG$0035BF,11]
+Saeki "..."
+
+[MSG$0035D7,84]
+Saeki "All right, then. I did promise you, so I guess I'm going to have to keep it."
+
+[MSG$003645,83]
+Saeki concedes to Murai's relentless pushing, and takes out her cards from her bag.
+
+[MSG$0036A5,15]
+Murai "Thanks!"
+
+[MSG$00374A,53]
+Saeki "So what kind of reading do you want me to do?"
+
+[MSG$003799,32]
+Murai "My love life, of course!"
+
+[MSG$0037D3,36]
+Saeki "That never changes, does it?"
+
+[MSG$003811,75]
+Murai "The guy is Asada in Class 2. You know who I'm talking about, right?"
+
+[MSG$003876,103]
+Murai "I'm trying to decide whether or not I should tell him how I feel about him...what do you think?"
+
+[MSG$0038F7,37]
+Saeki "All right, I'll look into it."
+
+[MSG$0039BF,76]
+Saeki shuffles the cards and starts laying them out according to the spread.
+
+[MSG$003A10,93]
+After scrutinizing the cards on her desk, Saeki looks at Murai with a stern look on her face.
+
+[MSG$003A7A,13]
+Murai "Well?"
+
+[MSG$003AA1,24]
+Saeki "It's not good..."
+
+[MSG$003AD3,34]
+Murai "Really? I had a feeling..."
+
+[MSG$003B0F,50]
+Saeki points to a card in front of her and speaks.
+
+[MSG$003B4E,60]
+Saeki "This card represents the present. The inverted moon."
+
+[MSG$003BA4,44]
+Saeki "He already has a girlfriend, you see.
+
+[MSG$003BD5,99]
+In fact they have such a close relationship that there's simply no room for you to move in on him."
+
+[MSG$003C52,14]
+Murai "I see."
+
+[MSG$003C7A,54]
+I can tell from Murai's reaction that Saeki was right.
+
+[MSG$003CBD,30]
+Saeki points to the next card.
+
+[MSG$003CE8,80]
+Saeki "This card shows what will happen to you if you embark on such an action."
+
+[MSG$003D52,92]
+Saeki "Inverted power...Apathy coexists...he will be absolutely indifferent to your actions.
+
+[MSG$003DB3,63]
+At this rate, you'll never be anything more than just friends."
+
+[MSG$003E0C,92]
+Saeki continues to point to her cards. Finally she points to the last one, the results card.
+
+[MSG$003E75,81]
+Saeki "And this card indicates the final outcome. The Hanged Man, right-side-up."
+
+[MSG$003EE0,84]
+Saeki "Even in combination with the other cards, there's no chance of a good result.
+
+[MSG$003F39,51]
+This card means that there's nothing you can do..."
+
+[MSG$004025,22]
+Murai "It can't be..."
+
+[MSG$004055,86]
+Saeki "You'd better not pursue this. All of the cards are against your taking action."
+
+[MSG$0040C5,76]
+Saeki "But even if you decide to tell him anyway, I'm not going to stop you.
+
+[MSG$004116,93]
+A reading is just a reading...sometimes it will come true, and other times it will be wrong."
+
+[MSG$00418D,90]
+Murai "Listen. Isn't there any way you could use your black magic to tear those two apart,
+
+[MSG$0041EC,34]
+or make him fall in love with me?"
+
+[MSG$004228,57]
+Murai is begging Saeki as if she were a god or something.
+
+[MSG$004266,70]
+Or maybe in this case I should say she's a demon, rather than a god...
+
+[MSG$0042B9,93]
+Saeki "That won't be possible. It's true that some types of magic are used for such purposes.
+
+[MSG$00431B,52]
+But there's no guarantee it would work, and besides,
+
+[MSG$004354,50]
+I'm the one who'd have to take on all the risk..."
+
+[MSG$0043A0,64]
+Murai "Well, in that case, can't you just show me how to do it?"
+
+[MSG$0043FA,99]
+Saeki "No. Magic isn't to be trifled with by amateurs who have no knowledge of what they're doing."
+
+[MSG$004477,27]
+Murai "You're just stingy!"
+
+[MSG$0044AC,45]
+Murai whirls around, turning away from Saeki.
+
+[MSG$0044E6,65]
+Unfazed by Murai, Saeki quickly gathers up the cards on her desk.
+
+[MSG$004534,72]
+I'd been quietly watching the whole interaction between Murai and Saeki.
+
+[MSG$004589,53]
+Saeki's explanation made sense, all right. But still,
+
+[MSG$0045C3,73]
+I had my doubts about whether or not she had that level of magical power.
+
+[MSG$004619,41]
+I wasn't anything close to Saeki's level,
+
+[MSG$004647,92]
+but I couldn't deny the fact that I was gradually starting to believe in the power of magic.
+
+[MSG$0046B0,74]
+Since Saeki had a taste for black magic, she probably knew a spell or two.
+
+[MSG$004707,97]
+But I had an urge to find out if the spell I'd mastered was more powerful than whatever she knew.
+
+[MSG$00476D,76]
+I was pretty sure that even Saeki didn't have a book like the one I'd found.
+
+[MSG$0047C6,109]
+Even though I knew I shouldn't go there, I was overcome by the desire to knock the wind out of Saeki's sails.
+
+[MSG$004838,65]
+Saeki and her whole I'm-a-magician act was really pissing me off.
+
+[MSG$004886,32]
+She wasn't even that powerful...
+
+[MSG$0048B3,86]
+Now might be a good time to let Saeki glimpse my power, and intimidate her a little...
+
+[MSG$004916,84]
+Luckily, there was a romance-related spell in the section I'd translated last night.
+
+[MSG$00496F,78]
+It would be perfect for proving whether or not the book of magic was for real.
+
+[MSG$0049CA,103]
+And plus, if I could get Murai on my side as a witness, I'd be able to show Saeki how powerful I was...
+
+[MSG$004A36,45]
+It would be killing two birds with one stone.
+
+[MSG$004A70,12]
+All right...
+
+[MSG$004A9F,53]
+I speak to Murai, who's still begging Saeki for help.
+
+[MSG$004AE1,62]
+Minase "Hey, I can try helping you out with that if you want."
+
+[MSG$004B6B,21]
+Murai "What? Really?"
+
+[MSG$004B9A,73]
+Murai is taken aback by my sudden offer of help, and tries to confirm it.
+
+[MSG$004BF0,41]
+Murai "You can do that, Minase? But how?"
+
+[MSG$004C33,38]
+Minase "Just like Saeki...with magic."
+
+[MSG$004C74,37]
+I turn towards Saeki when I say this.
+
+[MSG$004C9E,47]
+She's looking at me with suspicion in her eyes.
+
+[MSG$004D0C,75]
+Saeki "Minase, you really shouldn't take on something like that on a whim."
+
+[MSG$004D71,97]
+Saeki "Besides, what do you hope to accomplish? Have you been influenced by those library books?"
+
+[MSG$004DEC,55]
+She's dismissing me flat out, and I get a little angry.
+
+[MSG$004E30,105]
+She's just too self-assured, as if there can't possibly be anyone else but her with that kind of ability.
+
+[MSG$004E9E,56]
+Don't think you're the only one who knows about magic...
+
+[MSG$004EE3,67]
+Minase "Hey, I bet I can at least do a better job than you, Saeki."
+
+[MSG$004F40,32]
+I say this to Saeki point-blank.
+
+[MSG$004F6D,42]
+Saeki "I don't know what you intend to do,
+
+[MSG$004F9C,100]
+but don't think you can do anything just because you read a book with some pathetic level of power."
+
+[MSG$00501A,42]
+Minase "Just shut up and watch, will you?"
+
+[MSG$005082,94]
+I say this and go back to my seat. I take out my notes from the book of magic from last night.
+
+[MSG$0050ED,46]
+I select the page containing a relevant spell.
+
+[MSG$005120,33]
+And I start preparing to cast it.
+
+[MSG$005180,64]
+Imari "What do you think you're doing, Minase? Imitating Saeki?"
+
+[MSG$0051DA,53]
+Imari catches sight of what I'm doing and approaches.
+
+[MSG$00521C,47]
+Minase "Keep your mouth shut, will you, Imari?"
+
+[MSG$005265,52]
+Imari "Well, how dare you leave me out of the loop?"
+
+[MSG$00532F,98]
+I borrow scissors and a sheet of paper from Murai, and start cutting the paper into a human shape.
+
+[MSG$005396,37]
+Then I lay the paper doll on my desk.
+
+[MSG$0053C0,44]
+Saeki watches silently, her eyes suspicious.
+
+[MSG$0053F9,50]
+Minase "Okay, now prick your finger with a needle,
+
+[MSG$005430,79]
+and write the first letter of the guy's name in your blood on this paper doll."
+
+[MSG$005499,50]
+Murai "What, do I have to do something like that?"
+
+[MSG$0054E5,53]
+Minase "If you don't want to, we can stop right now."
+
+[MSG$005534,30]
+Murai "All right, I'll do it."
+
+[MSG$00556C,118]
+Murai pricks her index finger with the tip of a safety pin, and writes down a letter on the paper doll with her blood.
+
+[MSG$005678,26]
+Murai "Is this all right?"
+
+[MSG$0056AC,45]
+Minase "That's fine. All right, let's begin."
+
+[MSG$0056F3,70]
+I take the paper doll from her, and utter the following words over it.
+
+[MSG$005746,35]
+Minase "O Uvall, Amon, Astaroth..."
+
+[MSG$005783,39]
+And then I lay it back down on my desk.
+
+[MSG$0057B7,68]
+I take a deep breath, and recite the words I wrote down in my notes.
+
+[MSG$005808,76]
+Minase "Come ye forth, Oriens, Regent of the East. Boul, Regent of the West.
+
+[MSG$005859,71]
+Amemon, Regent of the South. And finally, Eltzen, Regent of the North."
+
+[MSG$0058BB,68]
+Minase "I charge thee in secret, in the name of the Almighty Adonai,
+
+[MSG$005904,78]
+to answer my liege's demands, that thy spirit shall enter this doll herewith."
+
+[MSG$00596C,93]
+Minase "ELOHI, ELOHIM, ELOHEI, SABAOTH, ELION, ISCHIROS, ADONAI, JAH, TETRAGRAMMATON, SADAI!"
+
+[MSG$0059E3,10]
+Saeki "?!"
+
+[MSG$0059FA,76]
+Kaori Saeki is dumbfounded after having watched me complete all these tasks.
+
+[MSG$005A4B,54]
+Seeing the look on her face, I'm filled with smugness.
+
+[MSG$005A8E,56]
+I'll bet Saeki never dreamed I'd use this kind of magic.
+
+[MSG$005AD3,81]
+I continue to intone the spell, and when I've done everything I'm supposed to do,
+
+[MSG$005B29,51]
+I take a deep breath and hand Murai the paper doll.
+
+[MSG$005C10,99]
+Minase "That's it. Now all you have to do is take this and hide it in the guy's shoe or something."
+
+[MSG$005C8D,54]
+Murai "For real? You mean my wish will come true now?"
+
+[MSG$005CDD,24]
+Minase "Probably, yeah."
+
+[MSG$005D0F,119]
+I can't really be sure. But if this doesn't work, then it will mean that that book has no power. For me, it's a gamble.
+
+[MSG$005D8B,92]
+If nothing comes of this, I'll have set myself up for ridicule. But I don't care either way.
+
+[MSG$005DF4,42]
+Murai "I'm going to try it out right now."
+
+[MSG$005E38,23]
+Murai "Thanks, Minase!"
+
+[MSG$005E69,48]
+After thanking me, Murai rushes out of the room.
+
+[MSG$005ECA,43]
+Minase "So what did you think of my magic?"
+
+[MSG$005F0F,43]
+I look straight at Saeki as I ask her this.
+
+[MSG$005F79,11]
+Saeki "..."
+
+[MSG$005F91,53]
+Saeki "Where did you learn to cast a spell like that?
+
+[MSG$005FCB,67]
+I really don't think it's from reading those books in the library."
+
+[MSG$006028,45]
+Minase "Well, hey...I don't really remember."
+
+[MSG$00606F,60]
+Saeki "Didn't you tell me that you didn't believe in magic?"
+
+[MSG$0060C5,84]
+Minase "It was just a diversion for me. I'm pretty indecisive about things, anyway."
+
+[MSG$006133,110]
+Saeki "Even so, you can't expect to get results after blindly performing a ceremony. Magic's not that simple."
+
+[MSG$0061BB,98]
+Saeki "There are complex rituals and protocols to follow...only then can you accomplish anything."
+
+[MSG$006237,69]
+Minase "Aren't you saying that because you're still just a beginner?"
+
+[MSG$006296,15]
+Saeki "Grrr..."
+
+[MSG$0062E3,79]
+I go back to my seat, humming a little to myself as I catch a glimpse of Saeki,
+
+[MSG$006337,48]
+who's practically biting her lip in frustration.
+
+[MSG$006374,94]
+Man, it feels so good. I'd never seen that cool-as-a-cucumber Saeki look so frustrated before.
+
+[MSG$0063D7,52]
+Now if that spell works, it'll be the coup de grace.
+
+[MSG$00644A,70]
+Imari "If you get her hopes up with that stunt you just pulled...well,
+
+[MSG$006495,54]
+don't come running to me if she trashes you later on."
+
+[MSG$0064E5,89]
+Imari, who'd been watching my exchange with Murai, says this with a sigh of exasperation.
+
+[MSG$00654B,24]
+Minase "Oh, just watch."
+
+[MSG$00657D,57]
+Actually, I'm not even sure myself if it's going to work.
+
+[MSG$0065BB,70]
+Just because the first spell worked didn't mean that the second would.
+
+[MSG$00660E,62]
+But anyway, there was nothing I could do now but wait and see.
+
+[MSG$006659,16]
+April 22 - Lunch
+
+[MSG$0066D2,21]
+.....................
+
+[MSG$0066F4,12]
+............
+
+[MSG$00670D,6]
+......
+
+[MSG$0067A4,11]
+Luchtime...
+
+[MSG$0067BC,17]
+Thud, thud, thud!
+
+[MSG$0067DA,110]
+I'm just sitting there at my desk looking off into space as usual, when Murai suddenly comes running up to me.
+
+[MSG$006887,34]
+Murai "Minase! Thank you so much!"
+
+[MSG$0068C3,74]
+As soon as the words are out of Murai's mouth, Saeki turns to stare at me.
+
+[MSG$006912,110]
+Murai has an elated smile on her face as she thanks me over and over, practically throwing her arms around me.
+
+[MSG$00698D,66]
+Minase "Hey, calm down, will you? What the hell happened, anyway?"
+
+[MSG$0069E9,89]
+Murai "Just listen to me! Thanks to you, everything turned out just great with that guy!"
+
+[MSG$006A5C,90]
+Murai "I thought it was hopeless, but what an unexpected twist after you cast that spell!"
+
+[MSG$006AD0,37]
+Minase "Well, good for you, I guess."
+
+[MSG$006B0F,79]
+Murai's excitement is kind of overwhelming, and that's all I can manage to say.
+
+[MSG$006B63,56]
+But I never thought the spell would take hold so fast...
+
+[MSG$006BA8,92]
+Murai "Well, listen to this! Just now, I happened to pass him in the hall, and all of sudden
+
+[MSG$006C09,103]
+|he told me that he was in love with me! Before I could even tell him how I felt! It was unbelievable."
+
+[MSG$006C8A,117]
+Murai "And that's not all! His girlfriend was right next to him, but he blurted it out anyway! Can you believe that?"
+
+[MSG$006D19,70]
+Murai "I never saw anyone look as stunned as she did! Pretty pathetic,
+
+[MSG$006D64,50]
+huh? Getting dumped in front of all those people?"
+
+[MSG$006DB0,79]
+Murai "I can't believe what an evil woman I am...My own beauty terrifies me..."
+
+[MSG$006E19,83]
+Murai has an enthralled look on her face. She's totally in her own world right now.
+
+[MSG$006E79,22]
+Minase "Hey, Murai..."
+
+[MSG$006EA9,59]
+Murai "Oh no you don't, Minase! No use falling for me too!"
+
+[MSG$006EFE,107]
+Murai "Oh, but to think that once again, I've bewitched a man. O God in heaven, please forgive me my sins."
+
+[MSG$006FA7,24]
+So saying, Murai leaves.
+
+[MSG$006FC4,55]
+She's so overjoyed it must've driven her over the edge.
+
+[MSG$00703A,80]
+Saeki "Congratulations, Minase. You must be feeling pretty good about yourself."
+
+[MSG$0070A4,80]
+After Murai leaves, Kaori Saeki comes up to me to deliver this sarcastic remark.
+
+[MSG$0070F9,48]
+But I can clearly see the hostility in her eyes.
+
+[MSG$007136,84]
+Minase "Hey, that was nothing, really. I mean, it could've just been a coincidence."
+
+[MSG$0071A4,22]
+I answer her modestly.
+
+[MSG$0071BF,41]
+Because I know that'll be more effective.
+
+[MSG$0071F5,70]
+Saeki "Grr...Of course it was! It could only have been a coincidence!"
+
+[MSG$007279,64]
+Saeki hurls this last remark at me, and flounces away in a huff.
+
+[MSG$0072C6,89]
+She's pretty shaken up, all right. She's always so cool-headed, and yet here she was now,
+
+[MSG$007324,35]
+irrational and baring her emotions.
+
+[MSG$007386,11]
+Imari "..."
+
+[MSG$00739E,30]
+I feel someone's cold stare...
+
+[MSG$0073C1,53]
+Next thing I know, Imari's standing right next to me.
+
+[MSG$007403,33]
+Minase "What do you want, Imari?"
+
+[MSG$00743E,18]
+Imari "Nothing..."
+
+[MSG$00746A,89]
+That's what she says in reply, but Imari's eyes are like knives, boring right through me.
+
+[MSG$0074D0,46]
+Minase "If you have something to say, say it."
+
+[MSG$007518,76]
+Imari "Well, I hate to kinda splash cold water on your proud moment, but..."
+
+[MSG$00757E,73]
+Imari "I don't know, that kind of thing just doesn't sit well with me..."
+
+[MSG$0075E1,26]
+Minase "What do you mean?"
+
+[MSG$007615,90]
+Imari "You know, trying to manipulate another person's feelings with a curse like that..."
+
+[MSG$007689,62]
+Imari "It's really in poor taste, even if it was just a joke."
+
+[MSG$0076E1,37]
+How rude of her to call it a curse...
+
+[MSG$007713,115]
+Imari "Anyway, try not to get too caught up in weird stuff, will you? Everyone's gonna start looking at you funny."
+
+[MSG$0077A0,109]
+Imari "If they start seeing you as some kind of freak, that'll make me the best friend of a freak, you know."
+
+[MSG$007828,38]
+Minase "Well, thanks for the warning."
+
+[MSG$00789D,10]
+Bell rings
+
+[MSG$0078B4,66]
+Just then the bell rang, signaling the beginning of my next class.
+
+[MSG$0078FB,63]
+At the same time, our classmates start shuffling into the room.
+
+[MSG$007947,36]
+I sit at my desk and start to think.
+
+[MSG$0079F4,43]
+Really, the book's power is unbelievable...
+
+[MSG$007A24,52]
+Now there is no question that its power is for real.
+
+[MSG$007A65,89]
+Yesterday's incident...and what happened just now...They were both undeniably my doing...
+
+[MSG$007ACB,75]
+Absolute power...So people's destinies can actually be twisted so easily...
+
+[MSG$007B23,45]
+After witnessing all this before my own eyes,
+
+[MSG$007B55,95]
+I can understand why those girls from 12 years ago got so obsessed with demons and black magic.
+
+[MSG$007BB9,67]
+Since I can feel myself getting more and more drawn to it myself...
+
+[MSG$007C09,113]
+Still, while some of us revel in the effects of this magic, there are also victims who are suffering from them...
+
+[MSG$007C87,73]
+Even so, if used effectively, this was a highly attractive power to have.
+
+[MSG$007CDD,10]
+Hold on...
+
+[MSG$007CEC,100]
+It's not like I have to use it on others...I could just as easily use it for my own personal profit.
+
+[MSG$007D5D,37]
+If I were to use this magic myself...
+
+[MSG$007D8F,66]
+That's it. If I use it, then I can have any beautiful girl I want.
+
+[MSG$007DD6,60]
+A man's dream come true. No way am I not gonna try this out.
+
+[MSG$007E1F,119]
+For better or for worse, I don't have a girlfriend...Actually, there is just one person who might fit that description.
+
+[MSG$007E9B,113]
+But there's nothing between Imari and me. We're just childhood friends. Here's the evidence: we've never done it!
+
+[MSG$007F39,53]
+All right, why don't I give this power a spin myself?
+
+[MSG$007F73,54]
+Farewell, lonely days. And hello, springtime of youth!
+
+[MSG$007FB6,56]
+Okay, that's decided. Now who should I cast my spell on?
+
+[MSG$008032,31]
+Really, why should I hold back?
+
+[MSG$00805E,73]
+If I'm going after anybody, it should be the most popular girl on campus.
+
+[MSG$0080AC,76]
+And that's Rika Shiraki, No. 1 on all the guys' ''Want to Sleep With'' list.
+
+[MSG$0082BA,113]
+She's brilliant, beautiful and stylish; and on top of that her dad's an executive at a major electronics company.
+
+[MSG$008330,28]
+I've heard that she lives in
+
+[MSG$008351,82]
+|a huge mansion. She's a young woman of impeccable breeding, no question about it.
+
+[MSG$0083A8,60]
+She's in a different class than a certain girl called Imari.
+
+[MSG$0083F1,58]
+But I've never even spoken to Shiraki until the other day.
+
+[MSG$008438,85]
+She might have been out of my league once, but now I have the power to make her mine.
+
+[MSG$00849A,69]
+I don't remember hearing that she's been dating anyone in particular.
+
+[MSG$0084E4,84]
+She's not like those lowly girls around her...neither in breeding nor in upbringing.
+
+[MSG$008545,69]
+This might be my chance to become the first guy she's ever been with!
+
+[MSG$008688,39]
+Minase "Hey, I've got no time to lose!"
+
+[MSG$0086C9,55]
+I get up from my seat and start to leave the classroom.
+
+[MSG$00873F,66]
+Imari "Where do you think you're going? The first bell just rang."
+
+[MSG$00879B,28]
+Minase "I'll be right back."
+
+[MSG$00884D,67]
+That's what I tell her as I leave the room. I head toward the roof.
+
+[MSG$008895,48]
+I'm pretty sure there won't be anyone there now.
+
+[MSG$0088D2,64]
+Farewell Imari...At last I can cut these unsavory ties to you...
+
+[MSG$00891F,113]
+Now that I think about it, it might have been because you were always around that I could never get a girlfriend.
+
+[MSG$008995,54]
+You only have yourself to blame, you know. Ha, ha, ha!
+
+[MSG$0089D8,67]
+I rush up the stairs to the roof, with laughter brimming inside me.
+
+[MSG$008A36,25]
+Quiver, quiver, quiver...
+
+[MSG$008A5C,37]
+On second thought, I think I'll pass.
+
+[MSG$008A86,83]
+Just think what'll happen if I start dating someone. Imari will be sure to shun me.
+
+[MSG$008AE6,48]
+As a matter of fact, she might even get jealous.
+
+[MSG$008B1B,66]
+And if that happens, how the hell am I gonna get up every morning?
+
+[MSG$008B6A,23]
+That just can't happen.
+
+[MSG$008B8E,7]
+Hmmm...
+
+[MSG$008D8D,31]
+That's actually a great idea...
+
+[MSG$008DB9,55]
+If I can use magic to make Imari mine to boss around...
+
+[MSG$008DF5,94]
+Imari will do whatever I say...she won't be able to resist me...she'll be just like a slave...
+
+[MSG$008E8D,24]
+And that would be ideal!
+
+[MSG$008EB2,86]
+Imari as she is right now holds no excitement for me, and she's not the type I go for.
+
+[MSG$008F0D,39]
+So if I just change her to my liking...
+
+[MSG$008F41,46]
+Every morning she'll wake me up with a kiss...
+
+[MSG$008F74,79]
+Wait, or else we could go to bed together everyday...that might not be too bad.
+
+[MSG$008FD0,49]
+We'll be naked together, my skin touching hers...
+
+[MSG$009006,71]
+And then we'd wake up and go to school together. Like a married couple!
+
+[MSG$00905A,78]
+Before any of that can happen, we do have to go to the next level as lovers...
+
+[MSG$0090B5,7]
+Hmmm...
+
+[MSG$0090C9,47]
+Sex with Imari...I've never even considered it.
+
+[MSG$009105,98]
+Since Imari likes dogs and is an animal-lover in general, maybe she'll like doing it doggie-style.
+
+[MSG$00916C,101]
+I'll verbally assault her by saying ''You bitch!'' and keep ramming her from behind, over and over...
+
+[MSG$0091D6,59]
+I'd better get hold of a choke collar and a tail for her...
+
+[MSG$00921E,59]
+Wait, or maybe I'll have more fun ''house-breaking'' her...
+
+[MSG$009266,72]
+I could lash her mercilessly with a whip and drip candle wax onto her...
+
+[MSG$0092B3,111]
+Oh, and let's not forget rope! I'll bind her up like a hunk of boneless ham, and then kick the hell out of her.
+
+[MSG$00932F,92]
+Since I'm always getting it from her, it's going to feel great to get back at her like that.
+
+[MSG$009390,35]
+Ha, ha, ha...how cool will that be?
+
+[MSG$0094B1,39]
+Minase "Hey, I've got no time to lose!"
+
+[MSG$0094F2,55]
+I get up from my seat and start to leave the classroom.
+
+[MSG$009568,66]
+Imari "Where do you think you're going? The first bell just rang."
+
+[MSG$0095C4,28]
+Minase "I'll be right back."
+
+[MSG$009676,67]
+That's what I tell her as I leave the room. I head toward the roof.
+
+[MSG$0096BE,48]
+I'm pretty sure there won't be anyone there now.
+
+[MSG$0096FB,69]
+Just you wait, Imari. Starting tomorrow, you're going to be my slave.
+
+[MSG$009745,11]
+Ha, ha, ha!
+
+[MSG$00975D,67]
+I rush up the stairs to the roof, with laughter brimming inside me.
+
+[MSG$0097AD,18]
+April 22 - Rooftop
+
+[MSG$009846,37]
+At this hour, there's no one up here.
+
+[MSG$009878,31]
+Minase "Okay, no one's around."
+
+[MSG$0098B1,64]
+I make sure I'm alone, and then start preparing for my ceremony.
+
+[MSG$0098FE,109]
+First I cut out a paper doll, like I just did now, take a safety pin from my pocket, and pierce my fingertip.
+
+[MSG$009970,78]
+At the same time I scrawl out an initial with my blood, then intone the spell.
+
+[MSG$0099CB,93]
+Minase "ELOHI, ELOHIM, ELOHEI, SABAOTH, ELION, ISCHIROS, ADONAI, JAH, TETRAGRAMMATON, SADAI!"
+
+[MSG$009A42,96]
+I'm able to finish the spell efficiently. I grip the piece of paper I've just imbued with power.
+
+[MSG$009AAF,21]
+Minase "I'm all set."
+
+[MSG$009ADE,45]
+Minase "Now I just have to give this to her."
+
+[MSG$009B25,73]
+I think about the rosy future that awaits me, and I can't help but smile.
+
+[MSG$009B73,45]
+Long live Black Magic! If this spell works...
+
+[MSG$009BAD,78]
+I lose myself in images of what's to come, then leave the roof, half-skipping.
+
+[MSG$009CB3,65]
+When I return to the classroom, the teacher still hasn't arrived.
+
+[MSG$009CF9,94]
+I'm pretty much out of breath, probably because I ran all the way back. I head toward my seat.
+
+[MSG$009D96,26]
+Imari "Where've you been?"
+
+[MSG$009DCA,25]
+Minase "Nowhere special."
+
+[MSG$009DFD,75]
+I take the piece of paper from my pocket, making sure Imari doesn't see me.
+
+[MSG$009E4D,30]
+And I stare at her in silence.
+
+[MSG$009E78,70]
+Imari "What...what is it? Is there something on my face or something?"
+
+[MSG$009ED8,45]
+Minase "You've got a nose hair sticking out."
+
+[MSG$009F51,21]
+Imari "What? No way!"
+
+[MSG$009F80,90]
+Hearing this, Imari grabs a little mirror from her bag, and frantically searches her face.
+
+[MSG$009FE7,34]
+Imari "Where? Where? Where is it?"
+
+[MSG$00A023,66]
+Without missing a beat, I place the paper doll inside Imari's bag.
+
+[MSG$00A0A4,44]
+Imari "Come on, there isn't anything there!"
+
+[MSG$00A0EA,96]
+Imari yells at me, taking her eyes off the mirror. Looks like she didn't notice what I just did.
+
+[MSG$00A157,51]
+Minase "Sorry, sorry. You know I was just kidding."
+
+[MSG$00A1A4,6]
+Whack!
+
+[MSG$00A250,80]
+Imari "I don't believe you! Besides, I don't have any hairs in my nose, anyway!"
+
+[MSG$00A2BA,52]
+Imari is spitting the words out at me, her face red.
+
+[MSG$00A2FB,33]
+Imari "Look, the teacher's here!"
+
+[MSG$00A336,53]
+I look over just as the teacher enters the classroom.
+
+[MSG$00A378,32]
+I start to head back to my desk.
+
+[MSG$00A3A5,40]
+Minase "Don't fall in love with me now."
+
+[MSG$00A3E7,32]
+That's my parting shot to Imari.
+
+[MSG$00A414,74]
+Imari "As if I would, moron! Do you have some kind of fever or something?"
+
+[MSG$00A49C,75]
+Ha, ha...this is the last day you'll be able to dare speak to me like that.
+
+[MSG$00A4EC,66]
+You don't even know that tomorrow, you'll be groveling at my feet.
+
+[MSG$00A53B,61]
+I rub my cheek where Imari slapped me. I can't stop smirking.
+
+[MSG$00A57D,63]
+Seeing me in this state, the girl next to me looks creeped out.
+
+[MSG$00A657,65]
+When I return to the classroom, the teacher still hasn't arrived.
+
+[MSG$00A6A5,94]
+I'm pretty much out of breath, probably because I ran all the way back. I head toward my seat.
+
+[MSG$00A742,31]
+Imari "Where were you, anyway?"
+
+[MSG$00A77B,17]
+Minase "Nowhere."
+
+[MSG$00A7A6,37]
+I feel the paper doll in my pocket...
+
+[MSG$00A7D8,67]
+Now I just have to stick this in Rika Shiraki's bag after school...
+
+[MSG$00A828,52]
+If I recall, Shiraki belongs to the brass band club.
+
+[MSG$00A861,92]
+She won't be going home right after class. I've got plenty of time to set my plan in motion.
+
+[MSG$00A8FC,35]
+Imari "What are you leering about?"
+
+[MSG$00A939,37]
+I realize that Imari's glaring at me.
+
+[MSG$00A96B,46]
+Minase "Nothing, I'm not leering at anything."
+
+[MSG$00A9B3,82]
+Imari "Don't give me that. You were thinking of something perverted, weren't you?"
+
+[MSG$00AA1F,87]
+Since Imari and I have such a long history, she can always tell when I'm up to no good.
+
+[MSG$00AA7B,40]
+Not only that, but she's way perceptive.
+
+[MSG$00AAA8,56]
+In other words, she can see right through me every time.
+
+[MSG$00AAED,52]
+Minase "What's it to you anyway, what I'm thinking?"
+
+[MSG$00AB3B,48]
+Minase "Besides, Imari, you're a big girl now...
+
+[MSG$00AB70,67]
+Stop hanging around me all the time and find yourself a boyfriend.'
+
+[MSG$00ABFF,69]
+Imari "You...you jerk! Who are you to say something like that to me?"
+
+[MSG$00AC5E,58]
+Imari "You'd never get anything done if it wasn't for me!"
+
+[MSG$00ACB2,32]
+Imari is red-faced and shouting.
+
+[MSG$00ACDF,50]
+Why the hell is she tripping? I was only joking...
+
+[MSG$00AD16,119]
+Oh well, I won't have to listen to her tirades for much longer. If the spell works, then it's ''so long Imari'' for me.
+
+[MSG$00AD92,69]
+All I need is that book, and I can have any girl at my beck and call.
+
+[MSG$00ADE4,37]
+Imari "Okay, the teacher's here now."
+
+[MSG$00AE23,69]
+I look over and see that the teacher is just coming through the door.
+
+[MSG$00AE75,16]
+Minase "See ya."
+
+[MSG$00AEC3,20]
+I return to my seat.
+
+[MSG$00AEE4,54]
+Imari "How dare you say that to me...you dense moron!"
+
+[MSG$00AF34,23]
+April 22 - After School
+
+[MSG$00AFB4,21]
+.....................
+
+[MSG$00AFD6,12]
+............
+
+[MSG$00AFEF,6]
+......
+
+[MSG$00B013,10]
+Bell rings
+
+[MSG$00B0E0,72]
+Imari "Okay, school's out...Of course you're coming to the club meeting,
+
+[MSG$00B12D,52]
+aren't you? Actually, you're coming no matter what."
+
+[MSG$00B17B,79]
+The final bell rings, and Imari comes over to me as I'm getting ready to leave.
+
+[MSG$00B1D7,90]
+Needless to say, I have no choice. I could say no, or I could try to lie my way out of it,
+
+[MSG$00B236,44]
+but she's determined to drag me there today.
+
+[MSG$00B267,75]
+Since I ditched yesterday, I don't have a chance of escaping again today...
+
+[MSG$00B2E2,16]
+Minase "No way."
+
+[MSG$00B30C,28]
+Imari "Uh-uh. Unacceptable."
+
+[MSG$00B342,36]
+Minase "No way, I don't want to go."
+
+[MSG$00B380,15]
+Imari "Denied."
+
+[MSG$00B3A9,55]
+Minase "What a tyrant, I have my rights too, you know!"
+
+[MSG$00B3FA,38]
+Imari "No, you don't have any rights!"
+
+[MSG$00B43A,12]
+Minase "..."
+
+[MSG$00B453,50]
+Apparently, there's no way she's going to give in.
+
+[MSG$00B492,29]
+I come up with a secret plan.
+
+[MSG$00B4BC,19]
+(Pondering...DING!)
+
+[MSG$00B59E,62]
+I grab Imari by the hand, and drag her into the hall by force.
+
+[MSG$00B5E9,58]
+Imari "Hey, hey...wait a minute! Where are you taking me?"
+
+[MSG$00B63D,23]
+Now we're face to face.
+
+[MSG$00B661,24]
+Imari "What's going on?"
+
+[MSG$00B693,34]
+Minase "I really like you, Imari."
+
+[MSG$00B6CF,16]
+(Grabbing Imari)
+
+[MSG$00B6EC,66]
+I grab Imari by the shoulders, and stare into her eyes. Seriously.
+
+[MSG$00B76D,43]
+Imari "Huh?! What's this, all of a sudden?"
+
+[MSG$00B7B2,39]
+Minase "Come on, just close your eyes."
+
+[MSG$00B7F3,34]
+Imari "What for? What's going on?"
+
+[MSG$00B82F,102]
+Imari has no idea what just hit her. She looks like a pigeon that just got blasted with a pea-shooter.
+
+[MSG$00B8A2,42]
+Minase "Never mind, just close your eyes."
+
+[MSG$00B8E6,17]
+Imari "O-Okay..."
+
+[MSG$00B911,16]
+(Heart pounding)
+
+[MSG$00B92E,83]
+Imari blushes as she nods her head. I can feel her heart pounding beneath my hands.
+
+[MSG$00B98E,11]
+Imari "..."
+
+[MSG$00B9A6,65]
+As soon as I see Imari close her eyes, I put my plan into action.
+
+[MSG$00B9F4,19]
+Thud, thud, thud...
+
+[MSG$00BA14,14]
+Imari "Mmm..."
+
+[MSG$00BA3C,11]
+Imari "..."
+
+[MSG$00BA54,47]
+Female student "Excuse me, what are you doing?"
+
+[MSG$00BA9D,27]
+Imari "Huh? Where'd he go?"
+
+[MSG$00BAD2,12]
+Imari "Huh?"
+
+[MSG$00BAF8,57]
+Imari opens her eyes. Red-faced, she looks around wildly.
+
+[MSG$00BB3E,27]
+Imari "Whaaaat? He's gone!"
+
+[MSG$00BB73,59]
+Imari "There was a guy standing right here, where'd he go?"
+
+[MSG$00BBC8,85]
+Imari grabs the girl who just spoke to her, and shakes her as she asks this question.
+
+[MSG$00BC2A,72]
+Female student "Huh? Oh, I saw him racing away at top speed just now..."
+
+[MSG$00BCBE,25]
+Quiver, quiver, quiver...
+
+[MSG$00BCE4,32]
+Imari "I'm going to kill him..."
+
+[MSG$00BD38,56]
+Minase "All right, all right. I just have to go, right?"
+
+[MSG$00BD8A,69]
+Imari "As long as that's clear...Now then, shall we? Vice President?"
+
+[MSG$00BE88,86]
+So saying, Imari grips me by the arm, and starts heading briskly towards the Art Room.
+
+[MSG$00BEEB,16]
+(dragging sound)
+
+[MSG$00BF08,16]
+(dragging sound)
+
+[MSG$00BF25,48]
+Imari "Come on, walk a little faster, will you?"
+
+[MSG$00BF6F,31]
+Female student "Um, excuse me?"
+
+[MSG$00BFA8,25]
+Imari "What do you want?"
+
+[MSG$00BFDB,58]
+Female student "I was just wondering where we're going..."
+
+[MSG$00C02F,58]
+Imari "What do you mean, where? The Art Room, of course--"
+
+[MSG$00C083,13]
+Imari "HUH?!"
+
+[MSG$00C0AA,109]
+Imari whirls around and realizes with horror that she's gripping the hand of a student she doesn't even know.
+
+[MSG$00C124,42]
+Imari "Who...who are you? Where's Minase?"
+
+[MSG$00C168,30]
+Female student "I don't know!"
+
+[MSG$00C1A0,80]
+The girl who's been dragged through the hall by Imari tilts her head helplessly.
+
+[MSG$00C22F,25]
+Quiver, quiver, quiver...
+
+[MSG$00C255,79]
+Imari "I'm going to kill him! When in the world did he change places with her?"
+
+[MSG$00C3CB,93]
+I've escaped Imari's clutches and I'm making my leisurely way down the hall, headed for home.
+
+[MSG$00C435,116]
+I know I'm screwing Imari over, but there just isn't a good enough reason for me to immerse myself in club meetings.
+
+[MSG$00C4AE,22]
+Once a week is enough.
+
+[MSG$00C4C9,96]
+After all, the only benefit of being in a cultural-type club is no one really cares if you skip.
+
+[MSG$00C536,61]
+Besides, soon enough Imari won't be able to rebel against me.
+
+[MSG$00C578,84]
+And when that happens, I'll be free of Imari's control...free to do whatever I want.
+
+[MSG$00C5D9,89]
+If I had nothing better to do, I guess I wouldn't mind going along with Imari's crap, but
+
+[MSG$00C637,65]
+|unfortunately, I'm not going to have much free time on my hands.
+
+[MSG$00C685,85]
+I hurry toward the gates. If I dawdle, there's a chance Imari could capture me again.
+
+[MSG$00C6E7,13]
+Minase "Huh?"
+
+[MSG$00C791,27]
+Nonogusa "Stop it, please!"
+
+[MSG$00C7C6,58]
+Kobayashi "That's enough! Just be quiet and come with me."
+
+[MSG$00C81A,50]
+Female Student "The captain wants to talk to you!"
+
+[MSG$00C866,69]
+Just then, I hear voices. Some girls are headed my way from the hall.
+
+[MSG$00C8B8,48]
+I see two girls dragging a third girl with them.
+
+[MSG$00C8ED,59]
+And this girl is trembling like a frightened little kitten.
+
+[MSG$00C935,79]
+The girl has on a swimsuit. Apparently all three of them are swim team members.
+
+[MSG$00C991,36]
+Our school has a heated indoor pool,
+
+[MSG$00C9BA,64]
+and the swim team is one of the most active of our school clubs.
+
+[MSG$00C9FF,77]
+But the pool's next door to the gym. They're going in the opposite direction.
+
+[MSG$00CA59,92]
+Could this be a form of hazing? I knew there was a lot of that going around in some clubs...
+
+[MSG$00CAC2,50]
+I realize I know the girl they're dragging away...
+
+[MSG$00CAF9,28]
+Her name is Miyuki Nonogusa.
+
+[MSG$00CB22,95]
+We were in the same class back in high school. I used to bully her too, calling her ''Noguso''.
+
+[MSG$00CB86,37]
+(Noguso is someone who shits outside)
+
+[MSG$00CBB8,82]
+Probably because of her personality, she often falls prey to that sort of cruelty.
+
+[MSG$00CC17,79]
+The snotty girl torturing Nonogusa is Shinobu Kobayashi, the swim team captain.
+
+[MSG$00CC6B,90]
+She's a straight-A student. In other words, one of the super show-off girls in our school.
+
+[MSG$00CCD2,71]
+She's accompanied by swim team members wherever she goes.  She's a smug
+
+[MSG$00CD1E,23]
+|nasty witch of a girl.
+
+[MSG$00CD3A,75]
+I wonder if the other girl with her is just one of the members of the team.
+
+[MSG$00CD92,45]
+I start watching them and what they're doing.
+
+[MSG$00CDCC,32]
+Kobayashi "Come on, get inside."
+
+[MSG$00CE06,16]
+Nonogusa "Augh!"
+
+[MSG$00CE54,66]
+The girls open the door to a classroom, and shove Nonogusa inside.
+
+[MSG$00CE9B,29]
+Then they slam the door shut.
+
+[MSG$00CEC5,104]
+I want to know what's going on, so I stand in front of the door, and try to hear what's going on inside.
+
+[MSG$00D0BD,69]
+Now that I've evaded Imari, I head towards' Rika Shiraki's classroom.
+
+[MSG$00D10F,14]
+The door opens
+
+[MSG$00D1A6,30]
+The classroom is empty by now.
+
+[MSG$00D1C9,54]
+I enter the room and start looking for Shiraki's desk.
+
+[MSG$00D20C,50]
+I look at the name tags on the backs of each seat.
+
+[MSG$00D24B,22]
+Minase "Here it is..."
+
+[MSG$00D27B,83]
+I go over to Shiraki's desk and place the paper doll from my pocket inside her bag.
+
+[MSG$00D2DB,56]
+Now all I have to do is wait for the effects to kick in.
+
+[MSG$00D320,25]
+Voice 1 "Please stop it!"
+
+[MSG$00D353,37]
+Voice 2 "Shut up! Just come with us."
+
+[MSG$00D392,50]
+Female Student "The captain wants to talk to you!"
+
+[MSG$00D3DE,69]
+Just then, I hear voices. Some girls are headed my way from the hall.
+
+[MSG$00D430,25]
+Uh-oh, somebody's coming!
+
+[MSG$00D44E,72]
+This room is at the end of the hall. No question, they're headed here...
+
+[MSG$00D4A3,73]
+I jump inside the storage locker for cleaning supplies, next to the door.
+
+[MSG$00D4F1,51]
+It's a tight fit, but there's nowhere else to hide.
+
+[MSG$00D5CA,12]
+Door opening
+
+[MSG$00D5E3,83]
+At the same moment that I go into hiding, the uninvited guests enter the classroom.
+
+[MSG$00D643,44]
+Sigh...They really came at the worst time...
+
+[MSG$00D67C,37]
+April 22 - Brutal Assault on Nonogusa
+
+[MSG$00D6A4,22]
+Voice 1 "No! Stop it!"
+
+[MSG$00D6D4,23]
+Voice 2 "Just shut up!"
+
+[MSG$00D705,53]
+Voice 1 "What do you mean by this? Bringing me here?"
+
+[MSG$00D754,56]
+Voice 1 "If we don't hurry, we'll be late for practice."
+
+[MSG$00D7A7,70]
+Voice 3 "Who cares about practice? Can't you do as your captain says?"
+
+[MSG$00D808,116]
+From inside the classroom, I can hear desks and chairs being tossed around, and the loud voices of the girls inside.
+
+[MSG$00D889,28]
+It all seems very ominous...
+
+[MSG$00D8AA,50]
+No way is this your average friendly club meeting.
+
+[MSG$00D9DF,46]
+I quietly slide open the door and peer inside.
+
+[MSG$00DA1A,120]
+The room is empty, except for the two girls in the corner, both ganging up on a third girl. They're clearly abusing her.
+
+[MSG$00DA97,31]
+Girlfights are a scary thing...
+
+[MSG$00DAC3,41]
+Nonogusa "But what did I ever do to you?"
+
+[MSG$00DB06,54]
+Kobayashi "What you did to me? You know exactly what!"
+
+[MSG$00DB56,77]
+Nonogusa "No, I don't. I don't remember ever doing anything to deserve this!"
+
+[MSG$00DBD8,86]
+The third girl is trembling like a frightened little kitten as she speaks these words.
+
+[MSG$00DC3B,50]
+I realize I know the girl they're dragging away...
+
+[MSG$00DC7A,41]
+The girl they're hazing is Yuki Nonogusa.
+
+[MSG$00DCA8,64]
+She has a swim suit on, she was probably on her way to practice.
+
+[MSG$00DCF5,111]
+We were in the same class back in high school. I used to bully her too, calling her ''Noguso the Booger Girl''.
+
+[MSG$00DD69,37]
+(Noguso is someone who shits outside)
+
+[MSG$00DD9B,64]
+I used to take part in bullying her too, calling her ''Noguso.''
+
+[MSG$00DDE8,79]
+The snotty girl torturing Nonogusa is Shinobu Kobayashi, the swim team captain.
+
+[MSG$00DE44,98]
+She's such an angel in front of the teachers, but a completely ruthless bitch without an audience.
+
+[MSG$00DEAB,42]
+I can't stand people who are so two-faced.
+
+[MSG$00DEE2,61]
+I wonder if the other girl is just a member of the swim team.
+
+[MSG$00DF2C,90]
+Kobayashi "I hear you're going to represent our school in the next meet. Congratulations."
+
+[MSG$00DFA0,67]
+Kobayashi fixes Nonogusa with a cruel stare as she starts to speak.
+
+[MSG$00DFE8,73]
+Nonogusa is trembling with fear. Like a frog who's being eyed by a snake.
+
+[MSG$00E03E,14]
+Nonogusa "..."
+
+[MSG$00E059,59]
+Kobayashi "You must really be feeling good about yourself."
+
+[MSG$00E0AE,16]
+Nonogusa "No..."
+
+[MSG$00E0D8,47]
+Kobayashi "How does it feel to have beaten me?"
+
+[MSG$00E121,52]
+Nonogusa "Oh, please, I don't feel that way at all."
+
+[MSG$00E16F,116]
+Kobayashi "Oh? Really now? So I guess I'm not even worth gloating over...you never saw me as a rival, then, did you?
+
+[MSG$00E1E8,13]
+I see now..."
+
+[MSG$00E20F,29]
+Nonogusa "I never said that!"
+
+[MSG$00E246,35]
+Nonogusa protests, almost in tears.
+
+[MSG$00E276,45]
+Kobayashi "You really piss me off, you know!"
+
+[MSG$00E2BD,91]
+Kobayashi "You didn't even join the team until sophomore year. You're so full of yourself!"
+
+[MSG$00E332,59]
+Kobayashi "I should be in that meet! But because of you..."
+
+[MSG$00E387,75]
+As Kobayashi shouts these words, she starts kicking Nonogusa over and over.
+
+[MSG$00E3DF,38]
+Nonogusa "Ouch...that hurts! Stop it!"
+
+[MSG$00E41F,66]
+Kobayashi "Just quit the team, why don't you? You little eyesore!"
+
+[MSG$00E47B,30]
+Nonogusa "That's too cruel..."
+
+[MSG$00E4B3,79]
+Kobayashi "You just make things harder for the rest of us. Don't you get that?"
+
+[MSG$00E51C,67]
+Nonogusa "What are you talking about? I'm just doing my best to..."
+
+[MSG$00E579,57]
+Kobayashi "That's what's such a pain in the butt for us!"
+
+[MSG$00E5CC,42]
+Kobayashi "So anyway...You'd better quit."
+
+[MSG$00E610,15]
+Nonogusa "..!?"
+
+[MSG$00E62C,27]
+Kobayashi "Quit, got that?"
+
+[MSG$00E661,36]
+Nonogusa "But no...I can't do that."
+
+[MSG$00E69F,43]
+Nonogusa "I have no intention of quitting."
+
+[MSG$00E6E4,52]
+Nonogusa tells Kobayashi this in no uncertain terms.
+
+[MSG$00E725,15]
+Kobayashi "..."
+
+[MSG$00E741,38]
+Kobayashi "Is that right? Fine, then."
+
+[MSG$00E781,77]
+Kobayashi "In that case, I'll make you quit if it takes everything I've got!"
+
+[MSG$00E7E8,28]
+Kobayashi "Mikimoto, ready?"
+
+[MSG$00E81E,73]
+The crony named Mikimoto nods her head and quickly steps behind Nonogusa.
+
+[MSG$00E874,33]
+Nonogusa "What...what are doing?"
+
+[MSG$00E8AF,55]
+Mikimoto grabs the flailing Nonogusa and pins her down.
+
+[MSG$00E8F3,72]
+Then she takes a roll of masking tape and binds Nonogusa, hand and foot.
+
+[MSG$00E940,84]
+Nonogusa frantically tries to escape, but she has no chance against the two of them.
+
+[MSG$00EA43,59]
+Nonogusa "You're so cruel! What are you going to do to me?"
+
+[MSG$00EA98,65]
+In no time, Nonogusa is immobile, and they push her to the floor.
+
+[MSG$00EAE6,73]
+Kobayashi "I'm warning you...if you fight back it's going to be painful."
+
+[MSG$00EB49,75]
+So saying, Kobayashi takes something out of the bag her friend was holding.
+
+[MSG$00EBA1,16]
+Nonogusa "Augh!"
+
+[MSG$00EBCB,62]
+Seeing what Kobayashi has in her hand, Nonogusa yelps in fear.
+
+[MSG$00EC16,37]
+Kobayashi is holding a huge vibrator.
+
+[MSG$00ECC1,32]
+Nonogusa "NO! Somebody, please!"
+
+[MSG$00ECFB,51]
+The instant she sees it, Nonogusa starts screaming.
+
+[MSG$00ED3B,25]
+Kobayashi "Shut up, you!"
+
+[MSG$00ED6E,16]
+Nonogusa ｛gulps｝
+
+[MSG$00EE21,64]
+Kobayashi removes her socks and stuffs them in Nonogusa's mouth.
+
+[MSG$00EE6E,32]
+Kobayashi "Eat my socks, bitch."
+
+[MSG$00EEA8,67]
+Kobayashi "You're going to get a feast down there, too...Ha ha ha!"
+
+[MSG$00EF05,29]
+Nonogusa "(Trying to scream)"
+
+[MSG$00EFC5,16]
+(Gripping sound)
+
+[MSG$00EFE2,77]
+Mikimoto grabs her by the chest, and peels the swimsuit down to her cleavage.
+
+[MSG$00F034,86]
+In that instant, her shapely bust spills out, freed from the confines of the swimsuit.
+
+[MSG$00F097,16]
+Nonogusa "Mmmm!"
+
+[MSG$00F0C1,62]
+Kobayashi "What lovely nipples. I could practically eat them!"
+
+[MSG$00F119,79]
+So saying, Kobayashi grabs both of Nonogusa's nipples and starts twisting them.
+
+[MSG$00F175,71]
+Kobayashi "Hey, Mikimoto, why don't you loosen her up down there, too?"
+
+[MSG$00F1D6,30]
+Mikimoto "All right, Captain."
+
+[MSG$00F20E,55]
+Mikimoto starts rubbing Nonogusa hard between her legs.
+
+[MSG$00F252,22]
+Nonogusa "Ohhh! Augh!"
+
+[MSG$00F282,44]
+Nonogusa begins to writhe from the friction.
+
+[MSG$00F2BB,76]
+Kobayashi "Her nipples are starting to stand up. How's it going down there?"
+
+[MSG$00F321,68]
+Mikimoto "I'm starting to get a reaction in this area too, Captain."
+
+[MSG$00F37F,53]
+Kobayashi "Oh? Then why don't you start peeling her?"
+
+[MSG$00F3CE,97]
+Hearing this, Mikimoto grabs the cloth covering Nonogusa's groin and pushes it to the side, hard.
+
+[MSG$00F4C5,16]
+Nonogusa "AUGH!"
+
+[MSG$00F4EF,40]
+This exposes Nonogusa's puff of a vulva.
+
+[MSG$00F51C,66]
+In the center I can see her pinkish, as-of-yet-unviolated crevice.
+
+[MSG$00F56B,75]
+Kobayashi "Yours hasn't seen much use yet. Don't you masturbate regularly?"
+
+[MSG$00F5D0,18]
+Nonogusa "Augh..."
+
+[MSG$00F5FC,71]
+Kobayashi starts feeling up Nonogusa between the legs with her fingers.
+
+[MSG$00F650,66]
+Kobayashi "You're not really getting wet...Mikimoto? Baby lotion."
+
+[MSG$00F6AC,96]
+Mikimoto does as she's told, fetching some baby lotion from her bag and handing it to Kobayashi.
+
+[MSG$00F719,47]
+Kobayashi "This is some extra service for you."
+
+[MSG$00F762,85]
+Kobayashi starts smearing the baby lotion over the vibrator, heaping it on thoroughly
+
+[MSG$00F7BC,22]
+|with a vulgar motion.
+
+[MSG$00F7DF,31]
+Kobayashi "Okay, here we go..."
+
+[MSG$00F818,18]
+Nonogusa "Augh..."
+
+[MSG$00F844,90]
+With a nasty little smile, Kobayashi grips the vibrator and brings it closer and closer to
+
+[MSG$00F8A3,18]
+|Nonogusa's vulva.
+
+[MSG$00F95B,55]
+You'd never get to see such a sight in a million years.
+
+[MSG$00F997,55]
+I feel guilty, but even so I can't take my eyes off it.
+
+[MSG$00F9DB,75]
+In this situation, I can't butt in or else things will get too complicated.
+
+[MSG$00FA2B,16]
+Sorry, Nonogusa.
+
+[MSG$00FACC,76]
+That's going too far. I've got to stop them or Nonogusa will have to suffer.
+
+[MSG$00FB1D,25]
+I've got to rescue her...
+
+[MSG$00FB43,19]
+But the thing is...
+
+[MSG$00FB63,16]
+My own crotch...
+
+[MSG$00FB80,46]
+Since I've been watching the series of events,
+
+[MSG$00FBB3,66]
+I've gotten an erection...it's clearly visible through my clothes.
+
+[MSG$00FC02,55]
+Hold on, stay clear-headed...If I jump out like this...
+
+[MSG$00FDD0,6]
+Thump!
+
+[MSG$00FDE3,43]
+Minase "Hahaha! Stop right there, you two!"
+
+[MSG$00FE28,72]
+Minase "No one but me can lay a hand on that girl. Don't you know that?"
+
+[MSG$00FE8A,70]
+Kobayashi "What are you talking about? What kind of nonsense is that?"
+
+[MSG$00FEEA,70]
+Kobayashi "Anyway, who do you think you are and where'd you come from?
+
+[MSG$00FF35,35]
+Don't tell me you've been peeping!"
+
+[MSG$00FF72,16]
+Minase "Gulp..."
+
+[MSG$00FF9C,61]
+Mikimoto "Hey, you're right, look at his thing! What a jerk."
+
+[MSG$00FFF3,62]
+Minase "Gulp...I'm going to let you off easy today. Farewell!"
+
+[MSG$0100C4,33]
+.................................
+
+[MSG$0100F2,32]
+I can just see that happening...
+
+[MSG$01011F,16]
+Sorry, Nonogusa.
+
+[MSG$010134,107]
+I'd like nothing better than to save you, but it would be like suicide for me to show myself in this state.
+
+[MSG$0101A4,95]
+I give up on the idea, having no choice, and instead start watching the proceedings in silence.
+
+[MSG$010377,14]
+The door opens
+
+[MSG$010392,24]
+Minase "Hey, stop it..."
+
+[MSG$0103C4,16]
+Kobayashi "Hey!"
+
+[MSG$0103EE,88]
+Kobayashi "We're in the middle of something here! Don't just come barging in like that!"
+
+[MSG$010460,74]
+Minase "Huh? No, you're wrong, it's a mistake! You're the ones who are..."
+
+[MSG$0104C4,63]
+Kobayashi "Augh! He's a voyeur! He came to spy on us changing!"
+
+[MSG$01051D,60]
+Mikimoto "Ugh, he's got an erection! We're gonna get raped!"
+
+[MSG$010573,37]
+Minase "What? Why is this happening?"
+
+[MSG$01062B,33]
+.................................
+
+[MSG$010659,32]
+I can just see that happening...
+
+[MSG$010686,16]
+Sorry, Nonogusa.
+
+[MSG$01069B,107]
+I'd like nothing better than to save you, but it would be like suicide for me to show myself in this state.
+
+[MSG$01070B,95]
+I give up on the idea, having no choice, and instead start watching the proceedings in silence.
+
+[MSG$0107F4,24]
+Nonogusa "Augh...aaaah!"
+
+[MSG$010826,55]
+Nonogusa starts frantically writhing, trying to escape.
+
+[MSG$01086A,55]
+Kobayashi "It's no use, no one's coming. Just give in."
+
+[MSG$010934,90]
+The vibrator inches ever closer to her vulva, until at last the tip is pressed against it.
+
+[MSG$01099B,18]
+Nonogusa "(yelps)"
+
+[MSG$0109C7,103]
+Nonogusa tries to resist entry of this foreign object by putting all her strength in her lower stomach.
+
+[MSG$010A3B,26]
+Kobayashi "Are you ready?"
+
+[MSG$010A6F,24]
+Kobayashi "Here I go..."
+
+[MSG$010AA1,53]
+At the same time she exerts pressure on the vibrator.
+
+[MSG$010AE3,65]
+The huge, glistening tip of the vibrator forces her crevice open.
+
+[MSG$010B31,18]
+Nonogusa "Ugh...."
+
+[MSG$010B5D,92]
+Kobayashi "Now, now...you've got to do better than that or it's going to go all the way in."
+
+[MSG$010BD3,19]
+Slither, slither...
+
+[MSG$010BF3,52]
+Kobayashi "Hahaha...It's going in, it's going in..."
+
+[MSG$010C41,19]
+Slither, slither...
+
+[MSG$010CDA,22]
+Nonogusa "Mmmm! Urgh!"
+
+[MSG$010D0A,52]
+Kobayashi "Oh, my. I think it just tore your hymen."
+
+[MSG$010D58,70]
+Kobayashi "So you were a virgin. Was it wrong of me to do this, then?"
+
+[MSG$010DB8,88]
+Blood starts trickling from the vibrator, which is jammed deep inside Nonogusa's vagina.
+
+[MSG$010E1D,95]
+Kobayashi "But still, it's not everyone who gets an electric orgasm for their very first time!"
+
+[MSG$010E96,32]
+Kobayashi "Lucky you! Hahahaha!"
+
+[MSG$010ED0,23]
+Nonogusa "Ugh...ugh..."
+
+[MSG$010F01,40]
+Kobayashi "Mikimoto, let's get a photo."
+
+[MSG$010F43,24]
+Mikimoto "Yes, Captain."
+
+[MSG$010F75,44]
+Mikimoto has a Polaroid camera in her hands,
+
+[MSG$010FA6,53]
+and snaps a picture of Nonogusa in this vulgar state.
+
+[MSG$01105B,5]
+Snap!
+
+[MSG$0110E0,5]
+Snap!
+
+[MSG$0110F2,92]
+Mikimoto snaps photo after photo, and hands the results spit out by the camera to Kobayashi.
+
+[MSG$01115B,53]
+Kobayashi takes each picture, waving each in the air,
+
+[MSG$011195,68]
+and gazes at the emerging images of Nonogusa in her vulgar position.
+
+[MSG$0111E6,54]
+Kobayashi "I don't know, there's something missing..."
+
+[MSG$011236,68]
+Kobayashi "Mikimoto, why don't you stick something up her ass, too?"
+
+[MSG$011294,24]
+Mikimoto "Yes, Captain."
+
+[MSG$0112C6,97]
+Mikimoto starts rooting around in her bag, and pulls out a travel-size bottle of deodorant spray.
+
+[MSG$011334,26]
+Mikimoto "How about this?"
+
+[MSG$011368,51]
+Kobayashi "It's just the right size and thickness."
+
+[MSG$0113B5,31]
+Kobayashi "Go on, stick it in."
+
+[MSG$011477,118]
+Just as she did before, Mikimoto smears baby lotion all over the spray bottle, and presses it against Nonogusa's anus.
+
+[MSG$0114FA,14]
+Nonogusa "..."
+
+[MSG$011515,84]
+Nonogusa is still in shock from what just happened, and lies there limply in a daze.
+
+[MSG$011576,48]
+Mikimoto "If you strain yourself, it will hurt."
+
+[MSG$0115C0,65]
+Without hesitation, she shoves it straight up Nonogusa's asshole.
+
+[MSG$011687,19]
+Nonogusa "Aaaaaah!"
+
+[MSG$0116B4,81]
+As soon as her ass is pierced, Nonogusa spasms as if she's had an electric shock.
+
+[MSG$011712,20]
+Nonogusa "Mmm! Ugh!"
+
+[MSG$011740,67]
+Nonogusa wriggles desperately, trying to dislodge it from her anus.
+
+[MSG$011788,59]
+And the object protruding from her ass jiggles accordingly.
+
+[MSG$0117D0,42]
+Kobayashi "Hahaha! Such a pathetic sight!"
+
+[MSG$011814,65]
+Kobayashi "I'm sure you'd hate to have anyone see you like this."
+
+[MSG$01186F,59]
+Nonogusa doesn't seem to be able to hear what she's saying;
+
+[MSG$0118AF,89]
+she's staring at the two objects protruding from both sides of her lower body, in a daze.
+
+[MSG$011915,61]
+Mikimoto "Disgusting. Why don't you take a look at yourself?"
+
+[MSG$01196C,77]
+Nonogusa silently listens to their words of ridicule, tears filling her eyes.
+
+[MSG$0119C6,80]
+Kobayashi "Well, we've got some great pictures. You can have one as a keepsake."
+
+[MSG$011AB9,93]
+Looking over each of the photos, Kobayashi selects one and lays it on top of Nonogusa's body.
+
+[MSG$011B23,14]
+Nonogusa "..."
+
+[MSG$011B3E,107]
+Kobayashi "If you don't want these photos circulating all over the place, get your butt off our swim team!"
+
+[MSG$011BC3,31]
+Kobayashi "Let's go, Mikimoto."
+
+[MSG$011BFC,54]
+The two girls loosen the tape that's binding Nonogusa.
+
+[MSG$011C37,59]
+They then start to leave the room, leaving Nonogusa behind.
+
+[MSG$011C9A,44]
+I dash into the classroom next door to hide.
+
+[MSG$011D50,14]
+The door opens
+
+[MSG$011D6B,53]
+Mikimoto "You don't think she'll tell on us, do you?"
+
+[MSG$011DBA,89]
+Kobayashi "Don't worry. As long as we've got these photos, she won't do anything stupid."
+
+[MSG$011E2D,92]
+Kobayashi "Anyway, I want to treat you to something for helping me out. Let's go to a cafe."
+
+[MSG$011EA3,31]
+Mikimoto "What about practice?"
+
+[MSG$011EDC,74]
+Kobayashi "Oh, it won't matter if we're a little late. Come on, let's go."
+
+[MSG$011F40,78]
+Still talking, the two girls walk slowly past the classroom where I've hidden.
+
+[MSG$011F93,54]
+I make sure they're gone, then step out into the hall.
+
+[MSG$011FDC,52]
+I shut the door tight in a rush, and hold my breath.
+
+[MSG$01209A,14]
+The door opens
+
+[MSG$0120B5,53]
+Mikimoto "You don't think she'll tell on us, do you?"
+
+[MSG$012104,89]
+Kobayashi "Don't worry. As long as we've got these photos, she won't do anything stupid."
+
+[MSG$012177,92]
+Kobayashi "Anyway, I want to treat you to something for helping me out. Let's go to a cafe."
+
+[MSG$0121ED,31]
+Mikimoto "What about practice?"
+
+[MSG$012226,74]
+Kobayashi "Oh, it won't matter if we're a little late. Come on, let's go."
+
+[MSG$01228A,59]
+Still talking, the two girls walk slowly past the classroom
+
+[MSG$0122CA,18]
+where I've hidden.
+
+[MSG$0122E9,57]
+Now there's no one in the room but Nonogusa and myself...
+
+[MSG$012331,52]
+I ended up watching the whole thing until the end...
+
+[MSG$012372,117]
+Those damned girls...how could they gang up on Nonogusa and treat her so cruelly? Now that's what you'd call a crime.
+
+[MSG$0123F4,93]
+Although I'm in no position to judge them, since I just stood there and watched them do it...
+
+[MSG$012473,32]
+All right, what should I do now?
+
+[MSG$012498,34]
+Should I help Nonogusa, or else...
+
+[MSG$0124F0,24]
+April 22 - Help Nonogusa
+
+[MSG$012531,52]
+I can't just let them get away with this, I guess...
+
+[MSG$012572,82]
+I should try to get those pictures from them somehow, and give them to Nonogusa...
+
+[MSG$0125C9,63]
+Luckily, I now have the skills to pull off something like that.
+
+[MSG$012630,59]
+As soon as I make my decision, I hurry after the two girls.
+
+[MSG$01267E,55]
+As soon as I make my decision, I slip out of the locker
+
+[MSG$0126BA,65]
+|making sure Nonogusa doesn't notice me, and leave the classroom.
+
+[MSG$012708,65]
+Nonogusa is in out of it, so she doesn't seem to notice that I've
+
+[MSG$01274E,39]
+|stepped out of the locker by the door.
+
+[MSG$012782,64]
+I make sure she doesn't, then I hurry after the other two girls.
+
+[MSG$0127CF,93]
+Kobayashi and Mikimoto enter the swim team's changing room/clubhouse. They emerge soon after.
+
+[MSG$012831,73]
+I watch them leave the school grounds, then sneak into the changing room.
+
+[MSG$012903,8]
+Click...
+
+[MSG$012918,24]
+Minase "Is anyone here?"
+
+[MSG$01294A,93]
+I whisper these words to make sure no one's inside, then I go in and lock the door behind me.
+
+[MSG$0129AC,72]
+At the same time, I lock the door on the other side leading to the pool.
+
+[MSG$0129F9,23]
+Now no one can come in.
+
+[MSG$012A1D,21]
+Then I start working.
+
+[MSG$012A3F,60]
+Those two didn't take their bags with them when they left...
+
+[MSG$012B04,43]
+I search for their lockers and look inside.
+
+[MSG$012B34,83]
+Their lockers aren't locked. Actually, the locks on most of the lockers are broken.
+
+[MSG$012B94,42]
+I take out their bags and start searching.
+
+[MSG$012BCB,36]
+I find what I'm looking for at once.
+
+[MSG$012BFC,78]
+A Polaroid camera and photos. The photos show Nonogusa in a most vulgar light.
+
+[MSG$012C4F,29]
+I put them away in my pocket.
+
+[MSG$012C79,43]
+There's still some film left in the camera.
+
+[MSG$012CA9,88]
+I think I'll use this camera to take photos of those girls in a compromising position...
+
+[MSG$012D0E,76]
+In order to set my plan in motion, I remove their swimsuits from their bags.
+
+[MSG$012D67,56]
+I take a magic marker from my pocket and remove the cap.
+
+[MSG$012DAC,62]
+Minase "Let's see...I think I wrote down the charm somewhere."
+
+[MSG$012E04,72]
+I take my notes from my inner pocket, and find the appropriate talisman.
+
+[MSG$012E59,93]
+Then I turn their swimsuits inside-out, and copy the charm onto the area over their crotches.
+
+[MSG$012EC3,20]
+Scratch...scratch...
+
+[MSG$012EE4,77]
+Inside each circle I draw a triangle formed from lines and the names of gods.
+
+[MSG$012F36,55]
+Around the circle, I write a passage from Genesis 1:28,
+
+[MSG$012F72,116]
+|''And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it''
+
+[MSG$012FEB,10]
+|in Latin.
+
+[MSG$01307E,112]
+When I'm done drawing the charms on both of their swimsuits, I put them back in their bags inside their lockers.
+
+[MSG$0130F3,23]
+I just hope it works...
+
+[MSG$013117,54]
+I borrow the camera, and hide in the storage closet...
+
+[MSG$0131D7,56]
+Now all I have to do is wait for those two to come back.
+
+[MSG$01321C,50]
+I was a little worried that they might not return,
+
+[MSG$013253,78]
+but the fact that they'd left their bags was proof that they were coming back.
+
+[MSG$0132A6,80]
+Besides, I'd heard them say they were going to practice, even if they were late.
+
+[MSG$013303,19]
+I wait patiently...
+
+[MSG$013323,17]
+15 minutes go by.
+
+[MSG$013339,30]
+Suddenly I hear the door open.
+
+[MSG$013364,8]
+Click...
+
+[MSG$013379,79]
+Kobayashi "(Giggles) All right, we're going to switch gears and swim hard now."
+
+[MSG$0133E2,82]
+Mikimoto "Right. You've the top spot to represent our school is as good as yours."
+
+[MSG$01344E,60]
+Mikimoto "I know that little bitch will quit the swim team."
+
+[MSG$0134A4,100]
+Kobayashi "That's her punishment for humiliating me. Now this is just between you and me, got that?"
+
+[MSG$013522,26]
+Mikimoto "Yes, of course."
+
+[MSG$013556,71]
+Still talking, the two girls head for their lockers and start changing.
+
+[MSG$0135AA,40]
+I can hear the rustle of their clothing.
+
+[MSG$0135DF,63]
+After a while, the sounds stop, as if they'd finished changing.
+
+[MSG$013623,40]
+Then I hear their lockers slamming shut.
+
+[MSG$013658,30]
+Quietly I take a peek at them.
+
+[MSG$013769,41]
+Kobayashi "Hey, aren't you a little hot?"
+
+[MSG$0137AC,37]
+Mikimoto "Now that you mention it..."
+
+[MSG$0137EB,49]
+Kobayashi "Ugh...my swimsuit's sticking to me..."
+
+[MSG$013836,22]
+Mikimoto "Uhhh... Oh!"
+
+[MSG$013866,30]
+Mikimoto "(breathing heavily)"
+
+[MSG$01389E,31]
+Kobayashi "(breathing heavily)"
+
+[MSG$0138D7,43]
+I can clearly hear their labored breathing.
+
+[MSG$013907,52]
+Sounds like everything's going according to my plan.
+
+[MSG$013948,44]
+Kobayashi "Hey...I feel a little strange..."
+
+[MSG$01398E,25]
+Mikimoto "Me...me too..."
+
+[MSG$0139C1,23]
+Kobayashi "Mikimoto..."
+
+[MSG$0139F2,69]
+Mikimoto "Stop it, please, Captain! If somebody sees us like this..."
+
+[MSG$013A51,106]
+Kobayashi "Don't worry, I locked the door. Besides, no one will be coming back from practice for a while."
+
+[MSG$013AD5,17]
+Mikimoto "But..."
+
+[MSG$013B00,99]
+Kobayashi "Come on, now, take it off. I'm taking off mine too. This is an order from your captain."
+
+[MSG$013B7D,80]
+I could tell by the sound of it that they were trying to remove their swimsuits.
+
+[MSG$013BD2,85]
+In the midst of this suggestive conversation and the sounds of their heavy breathing,
+
+[MSG$013C2C,47]
+I gulp hard and peer out at what they're doing.
+
+[MSG$013CE4,37]
+Kobayashi "Lick...lick me, Mikimoto!"
+
+[MSG$013D23,16]
+Mikimoto "Mmmm!"
+
+[MSG$013D4D,11]
+Lick, slurp
+
+[MSG$013D65,37]
+Kobayashi "Ahhh! That feels so good!"
+
+[MSG$013DA4,61]
+I see Mikimoto pressing her mouth against Kobayashi's crotch.
+
+[MSG$013DE6,87]
+Kobayashi is enraptured by the sensation. She's trembling all over from the excitement.
+
+[MSG$013E4A,88]
+Kobayashi "Suck some more! Come on, use your tongue...that's right! You're doing great!"
+
+[MSG$013EBC,22]
+Mikimoto "Mmm...ahhh!"
+
+[MSG$013EEC,114]
+Kobayashi "Put your tongue inside. Lick away everything that comes out, will you? Oooh! That's it, you've got it!"
+
+[MSG$013F78,22]
+Slurp, slurp, slurp...
+
+[MSG$013F9B,81]
+Lewd sucking sounds and labored breathing alternate. It's like a depraved melody.
+
+[MSG$013FF1,104]
+The two girls are totally caught up in their own world, engrossed in what they're doing to each other...
+
+[MSG$014066,119]
+I can see that the talisman is working. Two girls...not only that, but in a place like this, without even hesitating...
+
+[MSG$0140E2,77]
+For them to engage in lewd conduct like this! Normally it would never happen.
+
+[MSG$01413C,51]
+Unless of course, these two had done this before...
+
+[MSG$01417C,61]
+Kobayashi "Well? How am I down there? Do you like the taste?"
+
+[MSG$0141D3,85]
+How the hell could it taste good? With that thought in mind, I go on staring at them.
+
+[MSG$014235,89]
+Mikimoto "Yes, it's good. With all that juice flowing out, your pussy is so delicious..."
+
+[MSG$0142A8,60]
+Kobayashi "You're so sweet...Hey, now let's both feel good!"
+
+[MSG$0142FE,92]
+With this suggestion, Kobayashi places Mikimoto under her, and covers her with her own body.
+
+[MSG$0143EF,63]
+Kobayashi "All right...let's rub ourselves against each other!"
+
+[MSG$014448,56]
+Mikimoto "All right. Please, Captain, do what you will."
+
+[MSG$01449A,16]
+Mikimoto "AHHH!"
+
+[MSG$0144C4,67]
+Kobayashi "(giggles) You're so toned down there...it feels so good.
+
+[MSG$01450C,56]
+You must really be aroused. Did it excite you that much,
+
+[MSG$014549,22]
+licking me like that?"
+
+[MSG$014579,23]
+Mikimoto "Yes. Oh! Ah!"
+
+[MSG$0145AA,94]
+Kobayashi and Mikimoto continue to rub up against each other and are in the throes of ecstasy.
+
+[MSG$014615,100]
+At the same time they're pressing their breasts against each other, and their nipples are entangled.
+
+[MSG$014686,73]
+Mikimoto's breasts are mushing under Kobayashi's weight. I watch silently
+
+[MSG$0146D4,48]
+|as those erect nipples are kneaded and twisted.
+
+[MSG$014711,76]
+Kobayashi "That's it! I want you to rub harder against me with your hips..."
+
+[MSG$014777,58]
+Mikimoto "It feels so good, Captain! I can come any time!"
+
+[MSG$0147CB,85]
+Kobayashi "Hold it in a little longer...Let's make ourselves feel even better first!"
+
+[MSG$01483A,27]
+Squish...squish...squish...
+
+[MSG$014862,58]
+So saying, Kobayashi starts grinding her hips even harder.
+
+[MSG$0148A9,17]
+Mikimoto "Ahhhh!"
+
+[MSG$0148D4,52]
+The juice comes gushing out from between their legs.
+
+[MSG$01490D,93]
+It's running together, giving off a squishing sound each time they rub up against each other.
+
+[MSG$01496F,64]
+The juice streams down Mikimoto's ass, and drips onto the floor.
+
+[MSG$0149DF,46]
+Damn...it's making me as horny as all get-out!
+
+[MSG$014A1A,51]
+Watching the two girls is definitely turning me on.
+
+[MSG$014A52,74]
+Who could blame me? After all, they'd just put on that other sensuous show
+
+[MSG$014AA1,51]
+|right before my eyes. How could I not get aroused?
+
+[MSG$014AE1,82]
+But then I remembered I had a job to do, and clutched the Polaroid camera tightly.
+
+[MSG$014B40,88]
+The reason I'm here is to get a picture of what's going on right now, and save Nonogusa.
+
+[MSG$014B9D,96]
+That's what I tell myself as I try to calm my throbbing groin. Slowly I exit the storage locker.
+
+[MSG$014C10,46]
+Damn...it's making me as horny as all get-out!
+
+[MSG$014C4B,112]
+I'd just come a few minutes ago, and here I was, getting another boner from watching these two have intercourse.
+
+[MSG$014CC0,96]
+The sight of two girls entwined in such an erotic way...it was new for me, and so provocative...
+
+[MSG$014D2D,82]
+But then I remembered I had a job to do, and clutched the Polaroid camera tightly.
+
+[MSG$014D8C,88]
+The reason I'm here is to get a picture of what's going on right now, and save Nonogusa.
+
+[MSG$014DE9,57]
+The point will be lost if I don't get the damned picture.
+
+[MSG$014E2F,96]
+That's what I tell myself as I try to calm my throbbing groin. Slowly I exit the storage locker.
+
+[MSG$014E9C,92]
+Luckily for me, the two girls are so lost in their ecstasy that they don't even notice me...
+
+[MSG$014F05,16]
+Now's my chance!
+
+[MSG$014F1A,61]
+I approach the girls, my camera trained on them as I advance.
+
+[MSG$014F64,41]
+Kobayashi "That's right, keep that up..."
+
+[MSG$014FA7,45]
+Mikimoto "Ahhh...mmm...this is unbelievable!"
+
+[MSG$014FEE,53]
+I frame them in my viewfinder, and press the shutter.
+
+[MSG$015122,5]
+Snap!
+
+[MSG$015134,16]
+Mikimoto "Huh?!"
+
+[MSG$01515E,33]
+Kobayashi "Who the hell's there?"
+
+[MSG$015199,70]
+I pull out the photo that's just been spit out, and take another shot.
+
+[MSG$01525F,35]
+Minase "Hey, don't mind me. Go on!"
+
+[MSG$01529C,54]
+Mikimoto "I don't believe it! You're taking pictures?"
+
+[MSG$0152EC,79]
+Kobayashi "How'd you get in here? And what the hell do you think you're doing?"
+
+[MSG$015355,72]
+Still lying vulva-to-vulva and grinding away, the two girls snarl at me.
+
+[MSG$01541D,39]
+Minase "Now, now, calm down, will you?"
+
+[MSG$01545E,120]
+Mikimoto "Captain! Please, stop doing that with your hips. Or else he's going to get another picture of us like this..."
+
+[MSG$0154F0,95]
+Mikimoto's words bring Kobayashi to her senses, and she tries to move away from the other girl.
+
+[MSG$01555C,52]
+Kobayashi "What's going on? I can't stop thrusting!"
+
+[MSG$0155AA,24]
+Mikimoto "No way! AHHH!"
+
+[MSG$0155DC,102]
+Contrary to Kobayashi's will, her body continues to grind relentlessly, in pursuit of further ecstasy.
+
+[MSG$0156CA,41]
+Minase "That's good...just keep that up."
+
+[MSG$01570D,71]
+I egg them on and keep taking pictures until there's no more film left.
+
+[MSG$0157D4,14]
+Snap...snap...
+
+[MSG$0157EF,96]
+Minase "Whew...I got a lot of great pictures. You sure look like a couple of idiots in these..."
+
+[MSG$01592F,35]
+Kobayashi "Give...give them to me!"
+
+[MSG$01596C,16]
+Minase "No way."
+
+[MSG$015996,83]
+Kobayashi "What do you want? If it's money you're after, I'll give you a little..."
+
+[MSG$015A03,33]
+Minase "I don't want your money."
+
+[MSG$015A3E,42]
+Kobayashi "Then what do you want from us?"
+
+[MSG$015AAB,28]
+April 22 - Divine Punishment
+
+[MSG$015ACA,76]
+Minase "You just did something just like this to somebody else, didn't you?"
+
+[MSG$015B30,55]
+I direct my words towards Kobayashi as coldly as I can.
+
+[MSG$015B74,78]
+Kobayashi "What the...? Don't tell me that little bitch put you up to this..."
+
+[MSG$015BDC,74]
+Kobayashi "You wouldn't happen to be responsible for all this, would you?"
+
+[MSG$015C40,31]
+Minase "Good question...anyway,
+
+[MSG$015C64,54]
+if you guys don't want these pictures all over school,
+
+[MSG$015C9F,26]
+you'd better do as I say."
+
+[MSG$015CD3,38]
+Kobayashi "Hold on! Give those to me!"
+
+[MSG$015D13,48]
+Mikimoto "Oh, come on...please, hand them over!"
+
+[MSG$015D6B,79]
+At that moment, it occurs to me that I might as well make them suffer a little.
+
+[MSG$015DBF,45]
+After all, they deserved a little punishment.
+
+[MSG$015DF9,61]
+Minase "Okay, then, I'll think about it if you satisfy me..."
+
+[MSG$015E50,55]
+Kobayashi "All...all right. We'll do anything you ask."
+
+[MSG$015F1E,58]
+I drop my pants and shove my suddenly erect penis at them.
+
+[MSG$015F65,82]
+My balls were ready to explode, after having been exposed to two lurid sex scenes.
+
+[MSG$015FBC,57]
+Damn right they should be the ones to remedy the problem.
+
+[MSG$016002,74]
+Kobayashi and Mikimoto, still caught up in the passion they'd just shared,
+
+[MSG$016051,56]
+force themselves to get up and shuffle towards my penis.
+
+[MSG$016096,54]
+Mikimoto "Whoa...whoa! I can't believe how big it is!"
+
+[MSG$0160E6,110]
+Minase "See, it's all your fault for doing all that stuff in front of me. You'd better take care of me right."
+
+[MSG$01616E,80]
+Kobayashi "But you're really going to give us the pictures if we do you, right?"
+
+[MSG$0161D8,14]
+Minase "Sure."
+
+[MSG$016200,80]
+Hearing my words, both Kobayashi and Mikimoto assault my penis at the same time.
+
+[MSG$0162D5,105]
+They sit me down on a nearby bench, stick their breasts together and then sandwich my penis between them.
+
+[MSG$01634B,59]
+I'm caught between their cleavage. It arouses me even more.
+
+[MSG$016393,78]
+Their elasticity is foreign to me.  It makes chills shoot up and down my cock.
+
+[MSG$0163E6,57]
+It's my first time, and soon I'm trembling with pleasure.
+
+[MSG$01642C,40]
+Minase "Ahhh...hey, that's pretty good."
+
+[MSG$01646E,25]
+Slither, slither, slither
+
+[MSG$016494,103]
+Keeping in time with each other, the girls start rubbing up against my penis by swinging their breasts.
+
+[MSG$016508,109]
+Kobayashi, still swaying, lets a trickle of saliva run down her chin, after which it drops into her cleavage.
+
+[MSG$01657A,55]
+It begins to accumulate there, and spill onto my penis.
+
+[MSG$0165BE,66]
+It provides instant lubrication, and I soon I'm in blissful agony.
+
+[MSG$01660D,27]
+Squish...squish...squish...
+
+[MSG$016635,17]
+Minase "Ohhhh..."
+
+[MSG$016660,54]
+I'm so aroused that I'm ready to ejaculate in a flash.
+
+[MSG$01669B,55]
+I guess I don't have time to wallow in this pleasure...
+
+[MSG$0166DF,32]
+Minase "Hey...I'm gonna come..."
+
+[MSG$01671A,27]
+Squish...squish...squish...
+
+[MSG$016742,88]
+Hearing this, the two girls intensify their fondling, pushing harder with their breasts.
+
+[MSG$0167A7,100]
+Thanks to this, I soon reach unbearable heights of ecstasy, and my body begins to tremble violently.
+
+[MSG$016810,29]
+I won't last much longer now.
+
+[MSG$01683A,35]
+Minase "Damn...I'm gonna come now!"
+
+[MSG$016877,63]
+I hold it in as long as I can, and then let it all out at once.
+
+[MSG$0168C3,14]
+Minase "Ohhh!"
+
+[MSG$016964,19]
+Spurt! Gush! Splat!
+
+[MSG$0169FD,18]
+Kobayashi "Aaaah!"
+
+[MSG$016A29,15]
+Mikimoto "Hey!"
+
+[MSG$016A52,115]
+An unbelievable amount of white liquid is spurting from my penis, which is sticking out from between their breasts.
+
+[MSG$016ACA,60]
+And it comes raining down on Kobayashi and Mikimoto's faces.
+
+[MSG$016B3B,17]
+(Spurting noises)
+
+[MSG$016BD2,89]
+Probably because I'd held it in so long, it didn't stop for what seemed like an eternity.
+
+[MSG$016C30,47]
+I keep releasing gushes of semen over and over,
+
+[MSG$016C64,74]
+and it streams down the two girls' bodies and pools inside their cleavage.
+
+[MSG$016CBB,28]
+Minase "(Breathing heavily)"
+
+[MSG$016CF1,80]
+I'm out of breath as I stare at the two girls, who are now sticky with my semen.
+
+[MSG$016D4E,66]
+Kobayashi "We gave you relief, didn't we? Give us the photos now."
+
+[MSG$016DAA,20]
+Mikimoto "Please..."
+
+[MSG$016DD8,79]
+I pull my penis from between their breasts, pull up my pants and then stand up.
+
+[MSG$016F0F,41]
+Minase "I guess I have no choice...Here."
+
+[MSG$016F52,89]
+I choose the worst picture out of the batch I just took, and toss it at Kobayashi's feet.
+
+[MSG$016FB8,63]
+Kobayashi "What...what the hell? This isn't what we agreed on!"
+
+[MSG$017011,63]
+Minase "Who said anything about giving you all of the pictures?
+
+[MSG$017055,77]
+These are valuable, dammit. You should be grateful that I even gave you one."
+
+[MSG$0170BC,35]
+Kobayashi "You can't be serious..."
+
+[MSG$0170F9,33]
+Kobayashi is stunned by my words.
+
+[MSG$017127,45]
+Minase "You brought it on yourself...See ya!"
+
+[MSG$01716E,22]
+Kobayashi "No...wait!"
+
+[MSG$01719E,58]
+I leave them with those words and beat it out of the room.
+
+[MSG$0171DD,49]
+The girls are both naked and can't come after me.
+
+[MSG$017299,12]
+Door closing
+
+[MSG$0172BA,70]
+I've gotten relief from my pent-up libido, so I'm in a very good mood.
+
+[MSG$017305,55]
+Too bad for those girls, but this is divine punishment.
+
+[MSG$017349,99]
+I make sure the photos are in my pocket, and head back to the school building to look for Nonogusa.
+
+[MSG$0173B9,17]
+April 22 - Photos
+
+[MSG$0174AF,104]
+On my way back to the classroom where she'd been tortured, I spot Nonogusa. She's trudging down the hall
+
+[MSG$017524,80]
+With a totally blank look on her face, she's stumbling along like a sleepwalker.
+
+[MSG$017581,49]
+I stop in front of her, and block Nonogusa's way.
+
+[MSG$0175BF,88]
+Nonogusa tries to go in another direction to avoid me. I stop her by calling out to her.
+
+[MSG$017656,18]
+Minase "Nonogusa."
+
+[MSG$017682,74]
+Nonogusa flinches at the sound of my voice, then fearfully looks up at me.
+
+[MSG$0176D9,35]
+Nonogusa "What...what do you want?"
+
+[MSG$017716,16]
+Minase "Here..."
+
+[MSG$017740,67]
+I take the photos of Nonogusa from my pocket, and hand them to her.
+
+[MSG$017790,13]
+Nonogusa "?!"
+
+[MSG$0177AA,27]
+Nonogusa "But these are..."
+
+[MSG$0177DF,32]
+Nonogusa stares at me, confused.
+
+[MSG$01780C,69]
+Minase "You don't have to worry anymore. I got these back for you..."
+
+[MSG$01786B,39]
+Nonogusa "You did that for me? Minase?"
+
+[MSG$0178AC,44]
+Minase "I couldn't let them do that to you."
+
+[MSG$017924,31]
+Nonogusa "Thank...thank you..."
+
+[MSG$01795D,106]
+Nonogusa's eyes fill with tears as she repeatedly expresses her gratitude to me; she asks me no questions.
+
+[MSG$0179D4,55]
+Minase "I warned those two not to come near you again."
+
+[MSG$017A25,51]
+Nonogusa "I don't know how I can ever thank you..."
+
+[MSG$017A72,46]
+Minase "Don't worry about it. It's all right."
+
+[MSG$017ABA,34]
+Minase "Well, I'm going home now."
+
+[MSG$017AF6,38]
+Nonogusa "Okay...thank you so much..."
+
+[MSG$017B5A,91]
+I make my best effort to be cool, and make a leisurely exit as the Knight in Shining Armor.
+
+[MSG$017BBA,40]
+I'm so cool I almost blow myself away...
+
+[MSG$017BEF,40]
+Nonogusa stares at me as I swagger away.
+
+[MSG$017C24,32]
+I give myself a pat on the back.
+
+[MSG$017C49,66]
+I think that was a productive use of magic, if I do say so myself.
+
+[MSG$017C98,95]
+I guess this means that depending on how you use it, black magic can actually help others, too.
+
+[MSG$017CFC,99]
+As it turned out, I mistreated those two girls, but they did bring it onto themselves, didn't they?
+
+[MSG$017D6C,88]
+I make sure I don't get spotted by Imari as I rush off the school grounds and head home.
+
+[MSG$017DD7,19]
+April 22 - The Deal
+
+[MSG$017DFA,10]
+Hang on...
+
+[MSG$017E09,96]
+If you really think about it, I've got Nonogusa's ultimate vulnerability in the palm of my hand.
+
+[MSG$017E76,76]
+If I use it to my advantage, I might get something really amazing out of it.
+
+[MSG$017EC7,64]
+If I appear in front of Nonogusa right now, she won't refuse me.
+
+[MSG$017F14,33]
+I can always save her afterwards.
+
+[MSG$017F3A,85]
+All I could think about right now was having her give me relief from my pent-up lust.
+
+[MSG$017F9C,97]
+Besides, it would be better for me to get something out of it too, rather than save her for free.
+
+[MSG$01800A,111]
+It's pretty low, taking advantage of her when she's vulnerable, but I convince myself that it's my just reward.
+
+[MSG$01807E,83]
+After all, I'm going to rescue her, so why shouldn't I enjoy myself a little first?
+
+[MSG$0180DE,97]
+I open the door quietly, and slowly approach Nonogusa where she lies in the deserted classroom...
+
+[MSG$0181EE,17]
+Nonogusa "Ugh..."
+
+[MSG$018219,71]
+Nonogusa is still crumpled on the floor where the other girls left her.
+
+[MSG$018265,54]
+She spits out the saliva-drenched sock from her mouth,
+
+[MSG$0182A0,73]
+and rips away the tape binding her arms and legs. Crying all the while...
+
+[MSG$0182F6,68]
+Nonogusa "Ugh...ohhh...how could they...how could they be so cruel?"
+
+[MSG$018354,63]
+Sobbing, Nonogusa tries to extract the vibrator from her vulva.
+
+[MSG$018429,14]
+Nonogusa "Oh!"
+
+[MSG$018451,14]
+It slides out.
+
+[MSG$018464,60]
+There's blood and other bodily fluids all over the vibrator.
+
+[MSG$0184AD,31]
+Nonogusa "Now for this side..."
+
+[MSG$01856F,54]
+So saying, she pulls out the object stuck in her anus.
+
+[MSG$0185AA,95]
+The can of deodorant has been shoved deeply up her ass. But she finally manages to pull it out.
+
+[MSG$018616,27]
+Nonogusa "Oh, please! Ugh!"
+
+[MSG$01864B,59]
+She throws the can that had been up her ass onto the floor.
+
+[MSG$018693,15]
+Clang, clang...
+
+[MSG$0186AF,30]
+Nonogusa "Ugh...ohhh...ugh..."
+
+[MSG$0186E7,68]
+This is when she finally notices I'm there, and turns to look at me.
+
+[MSG$0187B1,23]
+Nonogusa "Who's there?"
+
+[MSG$0187E2,14]
+Our eyes meet.
+
+[MSG$0187F5,55]
+As soon as she sees me, the blood drains from her face.
+
+[MSG$018839,18]
+Nonogusa "Minase!"
+
+[MSG$018865,31]
+She says this when she sees me.
+
+[MSG$018891,43]
+Nonogusa "Don't tell me you were watching?"
+
+[MSG$0188D6,15]
+Minase "I was."
+
+[MSG$0188FF,27]
+I speak quietly and calmly.
+
+[MSG$0189A0,16]
+Nonogusa "Oh..."
+
+[MSG$0189CA,50]
+Hearing this, she lets her head drop and whispers.
+
+[MSG$018A09,92]
+Nonogusa "I see...so I had an audience...Ha, ha, ha! This is really funny, huh? Ha, ha, ha!"
+
+[MSG$018A7F,57]
+She says these words sadly, tears dripping down her face.
+
+[MSG$018AC5,88]
+Nonogusa "If I'd known this was going to happen, I never would've joined the swim team!"
+
+[MSG$018B37,64]
+Nonogusa "After all my hard work...and just look what happened."
+
+[MSG$018B91,17]
+Nonogusa "(sobs)"
+
+[MSG$018BBC,94]
+Nonogusa begins to sob again, desperately trying to wipe away the tears pouring from her eyes.
+
+[MSG$018C27,29]
+Minase "Want me to help you?"
+
+[MSG$018C5E,48]
+I play devil's advocate to the sobbing Nonogusa.
+
+[MSG$018C9B,27]
+Nonogusa "But you can't..."
+
+[MSG$018CD0,110]
+Nonogusa "Now that they have those horrible photos of me, there's nothing we can do. Who knows what they'll do
+
+[MSG$018D43,41]
+|with them if I make any kind of move..."
+
+[MSG$018D86,63]
+Minase "But don't you want to make them pay for what they did?"
+
+[MSG$018DDF,93]
+Nonogusa "Of course I do! Look what they did to me! Nobody in their right mind would just let
+
+[MSG$018E41,27]
+|something like this go..."
+
+[MSG$018E76,103]
+Nonogusa "There's no way that I can make them pay. Kobayashi's got the whole swim team under her thumb.
+
+[MSG$018EE2,71]
+If I tried to get revenge, who knows what they'd do to me next time..."
+
+[MSG$018F43,18]
+Inwardly, I smirk.
+
+[MSG$018F62,37]
+Minase "I'll help you if you want..."
+
+[MSG$018FA1,14]
+Nonogusa "..."
+
+[MSG$018FBC,77]
+Minase "If you want me to, I'll make those two pay for what they did to you!"
+
+[MSG$019023,38]
+Nonogusa "But can you really do that?"
+
+[MSG$019063,29]
+Minase "Yeah, I promise you."
+
+[MSG$01909A,25]
+Minase "And in return..."
+
+[MSG$0190CD,40]
+I let my gaze wash over Nonogusa's body.
+
+[MSG$0190FA,98]
+After witnessing that scene just now, I've gotten to the point where I can barely control my lust.
+
+[MSG$019169,69]
+This is just a transaction. I'll grant her wish if she grants mine...
+
+[MSG$0191BB,83]
+Nonogusa "All right...I'm not going to really care anymore, whatever you do to me."
+
+[MSG$019228,81]
+Nonogusa "If I can get back at those two, I'll even sell my soul to the devil..."
+
+[MSG$019293,79]
+Nonogusa knows exactly what I have in mind, and willingly offers herself to me.
+
+[MSG$0192EF,59]
+Nonogusa "Go ahead, you can have your way with me, Minase."
+
+[MSG$019344,63]
+Nonogusa "Make me forget the horrible things they did to me..."
+
+[MSG$019418,65]
+When I hear her say this, I shove her to the floor in a delirium.
+
+[MSG$019466,59]
+I get on top of her and tug her swim suit down to her legs.
+
+[MSG$01952E,16]
+Nonogusa "Ahhh!"
+
+[MSG$019558,60]
+Massaging Nonogusa's exposed breasts, I suck on her nipples.
+
+[MSG$019599,54]
+I'm enjoying the sensation of her nipples in my mouth.
+
+[MSG$0195DC,34]
+Nonogusa "This is embarrassing..."
+
+[MSG$019618,72]
+Nonogusa whispers this as she turns red, watching me suckle her breasts.
+
+[MSG$01966D,94]
+I run my tongue over her nipples, then start fondling her between the legs with my other hand.
+
+[MSG$0196D8,16]
+Nonogusa "Ahhh!"
+
+[MSG$019702,56]
+With my fingers, I trace along the crevice in her vulva.
+
+[MSG$01973F,50]
+My fingers grasp the protuberance and I fondle it.
+
+[MSG$01977E,43]
+Nonogusa "That...that feels really good..."
+
+[MSG$0197C3,32]
+I can't hold it in any longer...
+
+[MSG$0197F0,71]
+Minase "Is it okay if I put it in you now? I can't hold it in anymore."
+
+[MSG$019851,58]
+Nonogusa "Wait...First I want to see yours too, Minase..."
+
+[MSG$0198A5,34]
+She blushes as she whispers to me.
+
+[MSG$0198D4,83]
+Nonogusa "You saw mine, didn't you? That's why I want you to show me yours, too..."
+
+[MSG$019941,52]
+Nonogusa "Because I've never seen a guy's before..."
+
+[MSG$01998F,19]
+Minase "All right."
+
+[MSG$019A45,83]
+I do my best to restrain myself, and take off my shirt and pants. I stand over her.
+
+[MSG$019AA5,44]
+Then I pull my swollen penis from my shorts.
+
+[MSG$019AD6,73]
+It was bigger and more erect than usual. I could ejaculate at any moment.
+
+[MSG$019B2C,92]
+Revealed before Nonogusa's eyes, the pinkish tip is swollen tight and throbbing in time with
+
+[MSG$019B8D,10]
+|my pulse.
+
+[MSG$019BA4,26]
+Nonogusa "Can I touch it?"
+
+[MSG$019BD8,68]
+Nonogusa asks me timidly, staring right at my huge, throbbing prick.
+
+[MSG$019C29,10]
+I nod yes.
+
+[MSG$019C40,63]
+Nonogusa brings her slender hand closer and closer to my penis.
+
+[MSG$019D05,17]
+Nonogusa "Ahh..."
+
+[MSG$019D30,70]
+She touches my hot, fired-up penis, then closes her fingers around it.
+
+[MSG$019D83,22]
+Nonogusa "It's hot..."
+
+[MSG$019DB3,43]
+After taking in the sensation for a moment,
+
+[MSG$019DE3,80]
+she suddenly starts moving her hand up and down, as if the idea just struck her.
+
+[MSG$019EB9,16]
+Minase "Ohhh..."
+
+[MSG$019EE3,40]
+The sensation makes me tremble all over.
+
+[MSG$019F18,28]
+Nonogusa "Do you like that?"
+
+[MSG$019F4E,77]
+I'm blown away by the stimulation...it's nothing like when I do it to myself.
+
+[MSG$019FA8,31]
+Shlup, shlup, shlup............
+
+[MSG$019FD4,51]
+Nonogusa, is carried away by what she's doing also.
+
+[MSG$01A014,90]
+Thanks to the sweet rhythm of the friction from her hand, my pleasure reaches new heights.
+
+[MSG$01A073,71]
+Since I can't control the stimulation, I'm suddenly ready to ejaculate.
+
+[MSG$01A0BF,23]
+Uh-oh, this isn't good.
+
+[MSG$01A0E3,45]
+Minase "Don't do it so hard, or I'll come..."
+
+[MSG$01A12B,17]
+Minase "Ohhhh..."
+
+[MSG$01A1CF,98]
+I do everything I can to hold it back, but to no avail. I release the torrents of semen inside me.
+
+[MSG$01A23E,15]
+Nonogusa "Huh?"
+
+[MSG$01A2E0,15]
+Ejaculating...!
+
+[MSG$01A2FC,69]
+At that moment, a stream of white liquid spurts onto Nonogusa's face.
+
+[MSG$01A34E,22]
+Shooting out liquid...
+
+[MSG$01A371,83]
+My testicles are pushed upward, and the semen is milked out of them, over and over.
+
+[MSG$01A3C9,73]
+It goes on for quite a while, probably because I was aroused for so long.
+
+[MSG$01A41F,111]
+I stare at my own semen squirting noisily against Nonogusa's face, and give in to the sweet pleasure of it all.
+
+[MSG$01A49B,25]
+Squish, squish, squish...
+
+[MSG$01A4C1,65]
+Nonogusa never stops what she's doing even while I'm ejaculating.
+
+[MSG$01A507,65]
+With every pump of her hands, the semen in my urethra sprays out.
+
+[MSG$01A647,42]
+When I'm finished at last, I heave a sigh.
+
+[MSG$01A676,61]
+I messed up. I actually came before I even got it inside her.
+
+[MSG$01A6C0,31]
+Nonogusa "That was a lot, huh?"
+
+[MSG$01A6F9,73]
+She scoops up some of the semen on her body and licks it with her tongue.
+
+[MSG$01A74F,23]
+Nonogusa "Weird taste."
+
+[MSG$01A780,15]
+Minase "Sorry."
+
+[MSG$01A7A9,72]
+I look at the vast amount of semen I've sprayed her with, and apologize.
+
+[MSG$01A7FE,92]
+Nonogusa "That's all right, it's just my swim suit anyway. I'll get cleaned up in the pool."
+
+[MSG$01A874,28]
+That's kind of gross, too...
+
+[MSG$01A89D,53]
+Nonogusa "Do you want to try it again, the real way?"
+
+[MSG$01A8EC,66]
+She's considerate enough to say this, seeing my still-erect penis.
+
+[MSG$01A933,83]
+It's embarrassing, but even after that massive ejaculation, my prick is still hard.
+
+[MSG$01A993,29]
+Minase "If you don't mind..."
+
+[MSG$01A9CA,27]
+I climb on top of Nonogusa.
+
+[MSG$01AA6F,33]
+Nonogusa "Go ahead, stick it in."
+
+[MSG$01AAAA,41]
+Nonogusa "It's not my first time, but..."
+
+[MSG$01AAED,46]
+Hearing this, I place my penis on her crevice.
+
+[MSG$01AB28,15]
+Minase "Ready?"
+
+[MSG$01AB51,43]
+I see her nod, then thrust my hips forward.
+
+[MSG$01AC02,12]
+Insertion...
+
+[MSG$01AC1B,91]
+Probably because there's still some lotion in there, my penis slips inside her like butter.
+
+[MSG$01AC83,16]
+Nonogusa "Ahhh!"
+
+[MSG$01ACAD,109]
+As I thrust forward, my penis is enveloped by her hot flesh. Since I've just ejaculated, I'm extra-sensitive,
+
+[MSG$01AD1F,46]
+and the intense pleasure nearly blows me away.
+
+[MSG$01AD5A,62]
+I stop thrusting when I penetrate her up the base of my penis.
+
+[MSG$01AD9D,88]
+I can feel her body temperature between my legs. It feels gentle as well as stimulating.
+
+[MSG$01AE02,42]
+Nonogusa "You can move. It won't hurt me."
+
+[MSG$01AE46,24]
+I start grinding slowly.
+
+[MSG$01AE6B,30]
+Nonogusa "Ahhh...ahhh...ahhh!"
+
+[MSG$01AEA3,72]
+Nonogusa's breasts--just the right size--jiggle in time with my thrusts.
+
+[MSG$01AEF0,70]
+I watch the way her breasts move as I continue with my clumsy thrusts.
+
+[MSG$01AF43,63]
+Even though I've just ejaculated, I'm soon ready to come again.
+
+[MSG$01AF8F,27]
+Squish...squish...squish...
+
+[MSG$01AFB7,101]
+Every time our bodies rub together, you can hear the lewd sound of our bodily fluids mixing together.
+
+[MSG$01B029,20]
+Nonogusa "(heaving)"
+
+[MSG$01B057,88]
+Underneath me, Nonogusa is swaying in time to my thrusts, and she lets out a heavy sigh.
+
+[MSG$01B0B4,90]
+I gaze down at her. Suddenly my body's racked with an unbearable desire to let it all out.
+
+[MSG$01B11B,38]
+Minase "Sorry...I'm gonna come now..."
+
+[MSG$01B15B,39]
+I continue grinding as I tell her this.
+
+[MSG$01B18F,51]
+Nonogusa "All right...you can just come inside me."
+
+[MSG$01B1DC,13]
+Minase "Huh?"
+
+[MSG$01B203,53]
+Nonogusa "Go ahead...there's nothing to worry about."
+
+[MSG$01B252,69]
+Nonogusa "You don't have to hold back...let out as much as you want."
+
+[MSG$01B2B2,77]
+As soon as I hear her say this, I'm even more aroused and I come all at once.
+
+[MSG$01B37F,19]
+Ejaculating......!!
+
+[MSG$01B39F,79]
+I jam my hips against her body, and release everything into her deepest depths.
+
+[MSG$01B3FB,16]
+Nonogusa "Ahhh!"
+
+[MSG$01B425,81]
+Nonogusa goes rigid from her first experience of feeling someone come inside her.
+
+[MSG$01B4F6,20]
+Come shooting out...
+
+[MSG$01B517,100]
+At the same time I feel my penis tighten, and after throbbing against her a few times, I continue to
+
+[MSG$01B580,29]
+|release my semen inside her.
+
+[MSG$01B5AA,103]
+When everything that had been pent-up inside of me is finally spent, I slowly remove my penis from her.
+
+[MSG$01B697,87]
+As soon as I pull out, all the semen that's pooled inside her vagina comes pouring out.
+
+[MSG$01B6F3,76]
+It's a lot of semen, and it's all frothy. It drips down and soils the floor.
+
+[MSG$01B74C,28]
+Nonogusa "(heavy breathing)"
+
+[MSG$01B782,45]
+Nonogusa is exhausted, her shoulders heaving.
+
+[MSG$01B7BC,21]
+Nonogusa "Thank you."
+
+[MSG$01B7EB,62]
+So saying, she straightens her swim suit and stands up slowly.
+
+[MSG$01B82E,30]
+I put my uniform back on, too.
+
+[MSG$01B96D,43]
+Nonogusa "I don't know, I feel better now."
+
+[MSG$01B9B2,47]
+I can see that her face does look more relaxed.
+
+[MSG$01B9EE,106]
+Minase "Okay, just like I promised, I'm going to bring those two to justice for treating you so horribly."
+
+[MSG$01BA72,36]
+Nonogusa "What are you going to do?"
+
+[MSG$01BAB0,81]
+Minase "Hey, just wait and see. I'm going to get those photos back for you, too."
+
+[MSG$01BB1B,27]
+I smirk as I tell her this.
+
+[MSG$01BB43,14]
+Nonogusa "..."
+
+[MSG$01BBF8,85]
+Then I leave her there in the classroom. I head toward the swim team's changing room.
+
+[MSG$01BC5A,48]
+I know they're not going to be back for a while.
+
+[MSG$01BC8F,62]
+I approach the changing room, and put my hand on the doorknob.
+
+[MSG$01BCDA,8]
+Click...
+
+[MSG$01BD6B,24]
+Minase "Is anyone here?"
+
+[MSG$01BD9D,93]
+I whisper these words to make sure no one's inside, then I go in and lock the door behind me.
+
+[MSG$01BE07,72]
+At the same time, I lock the door on the other side leading to the pool.
+
+[MSG$01BE54,23]
+Now no one can come in.
+
+[MSG$01BE78,25]
+Then I get right to work.
+
+[MSG$01BE9E,82]
+I search for their lockers and look inside. Their lockers aren't locked. Actually,
+
+[MSG$01BEF5,44]
+the locks on most of the lockers are broken.
+
+[MSG$01BF2E,45]
+I find their bags right inside their lockers.
+
+[MSG$01BF6E,21]
+April 22 - Punishment
+
+[MSG$01BF8B,37]
+Minase "I'll show you how it's done."
+
+[MSG$01BFCA,45]
+So saying, I drop my pants and approach them.
+
+[MSG$01C080,52]
+Kobayashi "What the hell do you think you're doing?"
+
+[MSG$01C0CE,20]
+Mikimoto "No, stop!"
+
+[MSG$01C0FC,66]
+Minase "You just did something like this to Nonogusa, didn't you?"
+
+[MSG$01C158,78]
+Kobayashi "What the...? Don't tell me that little bitch put you up to this..."
+
+[MSG$01C1C0,86]
+Minase "Good question...anyway, if you guys don't want these pictures all over school,
+
+[MSG$01C21B,26]
+you'd better do as I say."
+
+[MSG$01C24F,58]
+So saying, I push my erect penis against Kobayashi's anus.
+
+[MSG$01C28E,107]
+These two are in need of severe punishment. I don't think even what I'm about to do to them will be enough.
+
+[MSG$01C306,28]
+Kobayashi "Not...not there!"
+
+[MSG$01C33C,17]
+Kobayashi "Augh!"
+
+[MSG$01C3E0,64]
+Without hesitation, I force my swollen penis up her narrow anus.
+
+[MSG$01C42D,16]
+(shoving noises)
+
+[MSG$01C44A,17]
+Kobayashi "Augh!"
+
+[MSG$01C475,51]
+Kobayashi shudders as she tries to endure the pain.
+
+[MSG$01C4AD,115]
+Kobayashi's so hot inside I feel like I'm going to burn myself. It's a nice, tight fit and it makes me even harder.
+
+[MSG$01C52D,102]
+Minase "Hey, let's see some action from your groin. Or else you're going to be all lonely down there."
+
+[MSG$01C5AD,43]
+Kobayashi "Augh! Take...take it out of me!"
+
+[MSG$01C5F2,74]
+Minase "But I just put it in. You've got to do a little better than that."
+
+[MSG$01C656,42]
+So saying, I start moving my penis slowly.
+
+[MSG$01C68D,41]
+Kobayashi "Stop...stop moving like that!"
+
+[MSG$01C6D0,16]
+(shoving noises)
+
+[MSG$01C6ED,43]
+Mikimoto "Stop doing that to her...please!"
+
+[MSG$01C732,53]
+Kobayashi "Augh! Augh! I can't...I can't hold it in!"
+
+[MSG$01C80A,7]
+Splash!
+
+[MSG$01C81E,16]
+Mikimoto "Augh!"
+
+[MSG$01C848,15]
+Kobayashi "NO!"
+
+[MSG$01C871,63]
+The stimulation causes Kobayashi to lose control of her bowels.
+
+[MSG$01C8BD,56]
+A hot spray gushes out from between the two girls' legs,
+
+[MSG$01C8FA,74]
+and the steaming liquid splashes Mikimoto's body before soiling the floor.
+
+[MSG$01C951,21]
+Kobayashi "No way..."
+
+[MSG$01C980,82]
+Kobayashi is red-faced; she tries to endure the humiliation of what just happened.
+
+[MSG$01C9DF,44]
+Minase "Oh, man. What a tough clean-up job."
+
+[MSG$01CA25,73]
+I whisper this nonsense as I continue to mercilessly ram Kobayashi's ass.
+
+[MSG$01CA7B,29]
+Kobayashi "Augh! Ohhh! Augh!"
+
+[MSG$01CAB2,21]
+Mikimoto "(grunting)"
+
+[MSG$01CAE1,110]
+With each thrust, Kobayashi and Mikimoto's body rub against each other, and this starts to make Mikimoto pant.
+
+[MSG$01CB5C,27]
+Squish...squish...squish...
+
+[MSG$01CBFD,49]
+Mikimoto "Ahhh...that's good...that feels great!"
+
+[MSG$01CC48,41]
+Kobayashi "Augh! Hey, my butt feels hot!"
+
+[MSG$01CC8B,61]
+The two girls start moaning with pleasure each time I thrust.
+
+[MSG$01CCCD,81]
+Despite all her protests, even Kobayashi starts to enjoy being rammed up the ass.
+
+[MSG$01CD2B,60]
+Every time I pull out, my penis gets squeezed by her rectum,
+
+[MSG$01CD6C,39]
+and it's enough to take my breath away.
+
+[MSG$01CDA0,70]
+The unbearably tight quarters get me ready to come almost immediately.
+
+[MSG$01CDF3,39]
+Mikimoto "I'm...I'm going to come now."
+
+[MSG$01CE34,26]
+Kobayashi "Me...me too..."
+
+[MSG$01CE68,29]
+Minase "I'm gonna come, too."
+
+[MSG$01CE9F,85]
+Greedily, all three of us ram our bodies against each other, and climax in one burst.
+
+[MSG$01CF01,23]
+Squish! Squish! Squish!
+
+[MSG$01CF25,33]
+Kobayashi "AHHH! I'm gonna come!"
+
+[MSG$01CF60,27]
+Mikimoto "I can't hold it!"
+
+[MSG$01CF95,16]
+Minase "Ohhh..."
+
+[MSG$01D038,70]
+At the moment of ejaculation, I pull my penis out of Kobayashi's anus.
+
+[MSG$01D08B,18]
+Kobayashi "Ugh..."
+
+[MSG$01D130,34]
+Glub, glub, glub...squish! squish!
+
+[MSG$01D15F,83]
+All three of us climax at the same time, and we lie there, trembling with pleasure.
+
+[MSG$01D1B7,75]
+Drunk with ecstasy from all the stimulation, I come all over the two girls.
+
+[MSG$01D20F,45]
+Kobayashi's ass is soon soiled with my semen.
+
+[MSG$01D241,59]
+Each another shot of my come hits her, Kobayashi convulses.
+
+[MSG$01D289,18]
+Minase "(heaving)"
+
+[MSG$01D2B5,87]
+I'm panting as I stare at the two girls, now sticky with the fluids I've just released.
+
+[MSG$01D319,48]
+Kobayashi "Hey...now give us back those photos."
+
+[MSG$01D363,72]
+As I start to put my pants back on, Kobayashi whispers to me, exhausted.
+
+[MSG$01D3B8,77]
+Kobayashi "Come on, we went this far for you, so you should be okay with it."
+
+[MSG$01D41F,41]
+Minase "I guess I have no choice...Here."
+
+[MSG$01D4EB,89]
+I choose the worst picture out of the batch I just took, and toss it at Kobayashi's feet.
+
+[MSG$01D551,42]
+Kobayashi "Just one? What about the rest?"
+
+[MSG$01D595,90]
+Minase "You got a problem with this? You should be thankful I'm even giving you one back!"
+
+[MSG$01D609,35]
+Kobayashi "I don't believe this..."
+
+[MSG$01D646,33]
+Kobayashi is stunned by my words.
+
+[MSG$01D674,45]
+Minase "You brought it on yourself...See ya!"
+
+[MSG$01D6BB,21]
+Kobayashi "No, wait!"
+
+[MSG$01D6EA,58]
+I leave them with those words and beat it out of the room.
+
+[MSG$01D729,49]
+The girls are both naked and can't come after me.
+
+[MSG$01D802,42]
+Moron, as if I'd hand them over so easily!
+
+[MSG$01D839,44]
+Sorry, girls, but this is divine punishment.
+
+[MSG$01D86A,46]
+I decide to hold onto the photos as insurance.
+
+[MSG$01D8A5,71]
+As long as no one else gets their hands on them it should be all right,
+
+[MSG$01D8F1,64]
+and if I want to enjoy them privately, then I have the right to.
+
+[MSG$01D936,75]
+I'm just going to let them squirm with fear. That's just what they deserve.
+
+[MSG$01D98E,88]
+I take the photos from my pocket, and separate Nonogusa's from Kobayashi and Mikimoto's.
+
+[MSG$01D9EB,46]
+I intended to give Nonogusa her photos back...
+
+[MSG$01DA26,34]
+But then I stop and think it over.
+
+[MSG$01DA55,49]
+Who says I have to just hand them over like that?
+
+[MSG$01DA8B,81]
+Photos like these aren't easy to come by. I might as well keep some for myself...
+
+[MSG$01DAE9,72]
+I then pick out a few of the best photos and put them away in my pocket.
+
+[MSG$01DB36,44]
+I'm sure she won't notice a few are missing.
+
+[MSG$01DB6F,17]
+April 22 - Photos
+
+[MSG$01DC65,98]
+On my way back to the classroom where she'd been tortured, I spot Nonogusa trudging down the hall.
+
+[MSG$01DCD4,83]
+She has a totally blank look on her face, she's stumbling along like a sleepwalker.
+
+[MSG$01DD34,62]
+But as soon as she sees me, she comes running in my direction.
+
+[MSG$01DDB1,18]
+Nonogusa "Minase!"
+
+[MSG$01DDDD,41]
+Nonogusa "The photos...did you get them?"
+
+[MSG$01DE20,52]
+Minase "Oh yeah, I got them back, just like I said."
+
+[MSG$01DE6E,33]
+Hearing this, her face brightens.
+
+[MSG$01DECE,31]
+Nonogusa "For real? Thank you!"
+
+[MSG$01DF07,14]
+Minase "Here."
+
+[MSG$01DF2F,61]
+I take Nonogusa's photos from my pocket and hand them to her.
+
+[MSG$01DF79,21]
+Nonogusa "Thank you!"
+
+[MSG$01DFDA,18]
+Nonogusa "Wait..."
+
+[MSG$01E006,65]
+Nonogusa's face darkens a little as she looks through the photos.
+
+[MSG$01E054,30]
+Nonogusa "Weren't there more?"
+
+[MSG$01E08C,33]
+Damn...don't tell me she noticed?
+
+[MSG$01E0BA,36]
+Minase "Yeah, that's all I found..."
+
+[MSG$01E0F8,66]
+I frantically try to keep my composure. Maybe I took too many out?
+
+[MSG$01E147,39]
+Nonogusa "Oh, really? Well, thank you."
+
+[MSG$01E188,43]
+Nonogusa doesn't look completely convinced,
+
+[MSG$01E1B8,51]
+She puts them away in her pocket and bows her head.
+
+[MSG$01E1F8,59]
+Minase "And I warned those two not to come near you again."
+
+[MSG$01E24D,18]
+Nonogusa "Okay..."
+
+[MSG$01E279,34]
+Minase "Okay, I'm going home now."
+
+[MSG$01E2B5,14]
+Nonogusa "..."
+
+[MSG$01E2F4,52]
+I avert my eyes from Nonogusa's gaze, and hurry off.
+
+[MSG$01E335,95]
+That was close. I have a feeling she's onto me, but it's too late for me to give them back now.
+
+[MSG$01E399,70]
+Oh well, as long as no one else sees them there shouldn't be any harm.
+
+[MSG$01E3EC,84]
+I make sure I don't get spotted by Imari as I rush off school grounds and head home.
+
+[MSG$01E44D,21]
+April 22 - Night/Home
+
+[MSG$01E576,79]
+As soon as I get home, I head for my room and set the Book of Magic on my desk.
+
+[MSG$01E5D8,50]
+I head to my room and hide the photos in a drawer.
+
+[MSG$01E60F,82]
+If Imari ever finds them there'll be hell to pay. So I lock the drawer to be safe.
+
+[MSG$01E66E,85]
+After I've had dinner and taken a shower, I sit at my desk and open my Book of Magic.
+
+[MSG$01E6C8,65]
+I still haven't translated even a third of the Book of Magic yet.
+
+[MSG$01E792,52]
+I start translating, just as I had the previous day.
+
+[MSG$01E7CB,53]
+Now I know without a doubt that this book is genuine.
+
+[MSG$01E80D,82]
+As I head deeper into the book, I find more and more powerful and alluring spells.
+
+[MSG$01E864,81]
+I turn the pages like a person obsessed as I search for the most effective spell.
+
+[MSG$01E8C2,63]
+I'm looking for information on that ceremony from 12 years ago.
+
+[MSG$01E90E,111]
+My gut tells me that this ceremony is the most powerful and exalted one in the whole book. I'm convinced it is.
+
+[MSG$01E98A,59]
+Turning the pages, I look for the page about that ceremony.
+
+[MSG$01E9CA,61]
+Although I'm also anxious to get into the core of the book...
+
+[MSG$01EA14,116]
+After I've turned a good number of pages and scanned numerous subject headings, I finally find what I'm looking for.
+
+[MSG$01EB0D,108]
+At first I just notice that there are small stains here and there on the page that I haven't seen elsewhere.
+
+[MSG$01EB7E,40]
+I read the title at the top of the page.
+
+[MSG$01EBB3,29]
+Minase "Gate-Opening Ritual?"
+
+[MSG$01EBEA,46]
+There's something written in Latin at the top.
+
+[MSG$01EC25,71]
+"intrate per angustam portam quia lata porta et spatiosa via quae ducit
+
+[MSG$01EC71,50]
+|ad perditionem et multi sunt qui intrant per eam.
+
+[MSG$01ECB0,84]
+quam angusta porta et arta via quae ducit ad vitam et pauci sunt qui in veniunt eam.
+
+[MSG$01ED11,71]
+adtendite a falsis prophetis qui veniunt ad vos in vestimentis ovium in
+
+[MSG$01ED5D,35]
+|trinsecus autem sunt lupi rapaces.
+
+[MSG$01ED8D,77]
+''Enter ye in at the strait gate: for wide is the gate, and broad is the way,
+
+[MSG$01EDDF,68]
+|that leadeth to destruction, and many there be which go in thereat:
+
+[MSG$01EE30,106]
+Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
+
+[MSG$01EE9F,106]
+|Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravenous wolves.''
+
+[MSG$01EF16,46]
+And below that, the text explained the ritual.
+
+[MSG$01EF51,49]
+''Thou shalt open the gates if thou hast courage.
+
+[MSG$01EF87,55]
+And I shall summon for thee a powerful army of wraiths,
+
+[MSG$01EFC3,58]
+|and thou shalt command them. And I shall bestow upon thee
+
+[MSG$01F002,65]
+|the power to do as you wish. In the name of the Father, the Son,
+
+[MSG$01F048,59]
+and the Holy Ghost, thou shalt become the Lord of Hell...''
+
+[MSG$01F090,37]
+Minase "This is it...it's got to be!"
+
+[MSG$01F0CF,35]
+It was a spell to summon a demon...
+
+[MSG$01F0F7,62]
+Clearly, it was for a different purpose than the other spells.
+
+[MSG$01F142,40]
+If this really was the page in question,
+
+[MSG$01F16F,93]
+then these stains are probably blood. And they're also proof that this was the last ritual...
+
+[MSG$01F1D9,59]
+I immediately start reading about this Gate-Opening Ritual.
+
+[MSG$01F221,78]
+I can see that there are all these methods and liturgies for summoning demons.
+
+[MSG$01F274,68]
+A ritual to open the gate to the Underworld, and summon the Devil...
+
+[MSG$01F2C5,76]
+It's a fact that those students from 12 years ago died during this ritual...
+
+[MSG$01F316,55]
+What on earth happened that day, and what did they see?
+
+[MSG$01F352,40]
+Right now I don't have the least idea...
+
+[MSG$01F387,41]
+I start summarizing the page, bit by bit.
+
+[MSG$01F3BD,86]
+I can see that the page covers everything from how to draw the symbols for the ritual,
+
+[MSG$01F418,36]
+to a list of the relevant liturgies,
+
+[MSG$01F441,33]
+and finally the necessary chants.
+
+[MSG$01F46F,90]
+The symbol is a basic diagram of a circle and a triangle; it has God's name written on it.
+
+[MSG$01F4CE,69]
+It's the same one I found written on the floor of that basement room.
+
+[MSG$01F520,96]
+The ritual was carried out according to this book. If that's the case, then did the ritual fail?
+
+[MSG$01F585,54]
+Or else, could the instructions in this book be wrong?
+
+[MSG$01F5C8,59]
+Well, I wasn't going to find out just by thinking about it.
+
+[MSG$01F608,85]
+The ritual was held 12 years ago, and the result was what I'd seen in the basement...
+
+[MSG$01F662,29]
+That's all I know for a fact.
+
+[MSG$01F704,97]
+I immersed myself in translating everything about the ritual, and making a set of detailed notes.
+
+[MSG$01F772,86]
+If what the book claimed was true, then one could obtain the greatest power and wisdom
+
+[MSG$01F7CD,18]
+|there ever was...
+
+[MSG$01F7EC,62]
+The Forbidden Fruit...that's exactly the kind of power it was.
+
+[MSG$01F837,36]
+And if I could get my hands on it...
+
+[MSG$01F860,111]
+I might be able to command the kind of power and wisdom that would make this book of magic seem like nothing...
+
+[MSG$01F8DC,91]
+I lose all rationale with this thought, and continue my work, not even stopping to sleep...
+
+[MSG$01F944,21]
+.....................
+
+[MSG$01F966,12]
+............
+
+[MSG$01F97F,6]
+......

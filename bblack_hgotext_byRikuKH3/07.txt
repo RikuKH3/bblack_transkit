@@ -1,0 +1,7894 @@
+﻿#Size=190439
+
+[MSG$000150,20]
+Show her the drawing
+
+[MSG$000181,24]
+No, don't show it to her
+
+[MSG$0001BE,7]
+Give up
+
+[MSG$0001EA,13]
+It's horrible
+
+[MSG$000214,10]
+It's great
+
+[MSG$000243,13]
+Climax inside
+
+[MSG$00026D,25]
+Try to take the penis out
+
+[MSG$0002AB,15]
+Used protection
+
+[MSG$0002D7,21]
+Didn't use protection
+
+[MSG$000311,18]
+Tell her the truth
+
+[MSG$000340,12]
+Lie about it
+
+[MSG$000371,18]
+Say it's not a lie
+
+[MSG$0003A0,18]
+Don't say anything
+
+[MSG$000580,18]
+April 26 - Morning
+
+[MSG$000687,18]
+Imari "Wake up..."
+
+[MSG$0006B3,23]
+Imari "Rise and shine!"
+
+[MSG$0006E4,43]
+Imari "Hey, you should keep your promises!"
+
+[MSG$000729,26]
+Imari "Come on, hurry up!"
+
+[MSG$00075D,9]
+Shakes...
+
+[MSG$000773,57]
+Imari "You know I came here later than usual to be nice."
+
+[MSG$0007C6,64]
+Imari "Wake up will you? How can you sleep this much on Sunday?"
+
+[MSG$000820,8]
+Shake...
+
+[MSG$000835,14]
+Imari "Aaagh!"
+
+[MSG$00085D,38]
+Imari "Okay, let's see if this works."
+
+[MSG$000936,6]
+Bam...
+
+[MSG$000949,16]
+Imari "Wake up!"
+
+[MSG$000A0C,6]
+Bam...
+
+[MSG$000A1F,16]
+Imari "Wake up!"
+
+[MSG$000A49,30]
+Imari keeps punching my futon.
+
+[MSG$000A6C,67]
+I'm wrapped inside my futon, taking punishment like a punching bag.
+
+[MSG$000ABC,34]
+I can't keep sleeping like this...
+
+[MSG$000AEB,53]
+Unable to tolerate Imari's attacks, I open my eyes...
+
+[MSG$000BE1,16]
+Minase "Ummm..."
+
+[MSG$000C0B,29]
+Imari "You're finally awake!"
+
+[MSG$000C42,55]
+Minase "What? Today's Sunday. There's no school today."
+
+[MSG$000C93,42]
+I say this to Imari while rubbing my eyes.
+
+[MSG$000CC2,34]
+Maybe she forgot today's Sunday...
+
+[MSG$000CE9,38]
+I guess that's possible in her case...
+
+[MSG$000D1C,27]
+Imari "Don't you remember?"
+
+[MSG$000D51,36]
+Imari says it with a surprised look.
+
+[MSG$000D82,26]
+Minase "What do you mean?"
+
+[MSG$000DB6,34]
+Imari "You promised me, remember?"
+
+[MSG$000DF2,26]
+What is she talking about?
+
+[MSG$000E11,58]
+Come to think of it, she's not wearing her school uniform,
+
+[MSG$000E50,51]
+So I guess she's not taking me to school after all.
+
+[MSG$000E90,19]
+Minase "A promise?"
+
+[MSG$000EF0,11]
+Arrrgh.....
+
+[MSG$000F08,36]
+I don't know, but she seems angry...
+
+[MSG$000F39,65]
+Imari "I went through so much trouble just to look nice today!!!"
+
+[MSG$000F94,65]
+Holy cow, she's wearing make-up. I'm surprised she even owns any.
+
+[MSG$000FDA,69]
+I thought she was the type of person who would never buy cosmetics...
+
+[MSG$00102C,11]
+Arrrgh.....
+
+[MSG$001044,30]
+Oh no, she's about to explode!
+
+[MSG$001067,26]
+I need to calm her down...
+
+[MSG$00108E,86]
+Minase "Well, you are looking feminine and pretty, so don't ruin it by getting angry."
+
+[MSG$0010FE,50]
+After she hears my words, she comes to her senses.
+
+[MSG$00113D,15]
+Imari "Ummm..."
+
+[MSG$001166,57]
+Imari sounds pretty frustrated as she tries to calm down.
+
+[MSG$0011DF,29]
+Imari "I guess you're right."
+
+[MSG$001216,35]
+Minase "Hey, show me a happy face."
+
+[MSG$001286,15]
+Imari "Hehehe."
+
+[MSG$0012AF,104]
+Imari tries to laugh, but her face is twitching and is scary. She thinks she looks light-hearted, but...
+
+[MSG$001324,79]
+While looking at her freaky smile, I get out of bed and start changing clothes.
+
+[MSG$001411,11]
+Changing...
+
+[MSG$001429,56]
+I get the clothes out of the closet and start to change.
+
+[MSG$00146E,62]
+Imari is dressed up, but I guess I can wear regular clothes...
+
+[MSG$0014B1,40]
+But did I promise to take her someplace?
+
+[MSG$001586,39]
+Minase "So where are we going, anyway?"
+
+[MSG$00165F,5]
+Bam!!
+
+[MSG$001671,36]
+I was knocked out by Imari's fist...
+
+[MSG$0016A2,22]
+April 26 - School Zone
+
+[MSG$0017B8,79]
+Several minutes later, Imari and I were walking along the path we usually take.
+
+[MSG$00180C,42]
+This is no different than any other day...
+
+[MSG$001843,53]
+Imari is still angry that I forgot about our promise.
+
+[MSG$001885,66]
+I guess it's not a bad idea to spend some quality time with Imari,
+
+[MSG$0018CC,60]
+and forget about all the bad things that have been going on.
+
+[MSG$00190D,39]
+Plus it's a good way for me to relax...
+
+[MSG$001941,76]
+Minase "I just forgot since I was sleepy. Of course I remember our promise."
+
+[MSG$0019A7,45]
+Imari "Liar! It's written all over your face!
+
+[MSG$0019EE,60]
+Imari "I was trying to decide what to wear since yesterday!"
+
+[MSG$001A44,70]
+Minase "I wasn't told what we're going to do. If you called yesterday,
+
+[MSG$001A8F,32]
+I could've been all ready to go.
+
+[MSG$001AC9,81]
+Imari "If I called you, you probably would've came up with some excuse not to go.
+
+[MSG$001B34,86]
+Well, maybe she's right. I was really tired yesterday, so I probably would've said no.
+
+[MSG$001B8F,60]
+After all, on Sundays I want to relax and not do anything...
+
+[MSG$001BD8,31]
+Minase "So where are we going?"
+
+[MSG$001C11,22]
+Imari "It's a secret."
+
+[MSG$001C41,10]
+Strange...
+
+[MSG$001C50,76]
+I hope she's not thinking of taking me to one of those marketing shows where
+
+[MSG$001CA1,45]
+they try and sell you pots or rug cleaners...
+
+[MSG$001CDB,65]
+Minase "Can't you just tell me? I'll go wherever you want me to."
+
+[MSG$001D36,36]
+Imari "You'll find out soon enough."
+
+[MSG$001D74,72]
+I'll find out soon enough... That means I won't know until we get there.
+
+[MSG$001DC9,37]
+So I gave up and just followed Imari.
+
+[MSG$001DF3,81]
+We're walking down a path that is very familiar. It's the path leading to school.
+
+[MSG$001E51,46]
+Was there some hip new club in this direction?
+
+[MSG$001E84,55]
+We're roughly in the opposite direction of the station.
+
+[MSG$001EC8,47]
+Then we pass by the front gate of the school...
+
+[MSG$002021,7]
+Bump...
+
+[MSG$002035,50]
+I bump into Imari as she suddenly comes to a halt.
+
+[MSG$0020F8,42]
+Minase "Ouch... Why did you suddenly stop?
+
+[MSG$00213C,19]
+Imari "We're here."
+
+[MSG$002169,15]
+Minase "Where?"
+
+[MSG$002192,13]
+Imari "Here."
+
+[MSG$0021B9,40]
+We're at the front gate of our school...
+
+[MSG$0021E6,31]
+This is not exactly hip or new.
+
+[MSG$002212,29]
+Minase "This is...our school.
+
+[MSG$002249,25]
+Imari "Yeah, our school."
+
+[MSG$00227C,23]
+Minase "I'm leaving..."
+
+[MSG$0022AD,22]
+Imari "Wait a minute!"
+
+[MSG$0022DD,10]
+Grab......
+
+[MSG$0022F4,39]
+Imari grabs my shirt as I try to leave.
+
+[MSG$002328,52]
+Minase "Why do I have to come to school on a Sunday?
+
+[MSG$002376,59]
+Imari "What's wrong? Too cool to go to school on a Sunday?"
+
+[MSG$0023CB,81]
+Minase "This isn't cool at all! I want to forget about school on a day like this!
+
+[MSG$002436,62]
+Imari "Say what you want. When you go out into the real world,
+
+[MSG$002479,53]
+you're gonna wish you had spent more time in school!"
+
+[MSG$0024C8,83]
+Minase "I'll be the judge of that. Besides, I don't feel that way at all right now.
+
+[MSG$002535,37]
+Imari "Just be quiet and get inside!"
+
+[MSG$002574,9]
+Enters...
+
+[MSG$00258A,43]
+Imari drags me along and enters the school.
+
+[MSG$002662,47]
+Minase "No! I'd rather stay home than be here!"
+
+[MSG$0026AB,57]
+Imari "You can stay home all you want after you graduate.
+
+[MSG$0026E9,60]
+These are your years of freedom. Every second is important."
+
+[MSG$0027D0,7]
+Grab...
+
+[MSG$0027E4,116]
+Imari drags me along to the staff room to borrow keys for the art room. We then head for the art room at full speed.
+
+[MSG$002865,19]
+April 26 - Art room
+
+[MSG$0028FF,17]
+The door opens...
+
+[MSG$00291D,60]
+Imari and I enter the vacant art room.  It's deathly silent.
+
+[MSG$002A06,40]
+Minase "Aren't we gonna get in trouble?"
+
+[MSG$002A48,46]
+Imari "Don't worry. I already have permission.
+
+[MSG$002A90,64]
+Then Imari begins to prepare the supplies like she usually does.
+
+[MSG$002ADD,46]
+Imari "Okay, let's get cracking on your piece.
+
+[MSG$002B10,68]
+You never show up for meetings, so I made some time for us to work."
+
+[MSG$002B6E,67]
+Imari "We have plenty of time today, we can get so much work done!"
+
+[MSG$002BCB,54]
+Minase "You know we can't get that much accomplished!"
+
+[MSG$002C1B,28]
+Imari "Why do you say that?"
+
+[MSG$002C51,36]
+Minase "Because I'll procrastinate."
+
+[MSG$002CC2,16]
+Imari "Great..."
+
+[MSG$002CEC,12]
+Imari sighs.
+
+[MSG$002D05,52]
+Imari "You know, I'm helping you out because I care.
+
+[MSG$002D3E,47]
+If you don't take it seriously, I'll be angry."
+
+[MSG$002D87,52]
+I would never ask her to do me any favors like this.
+
+[MSG$002DFB,35]
+Imari "Here, take out your canvas."
+
+[MSG$002E38,21]
+Minase "All right..."
+
+[MSG$002E8B,33]
+I do what Imari says unwillingly.
+
+[MSG$002EB9,47]
+I take out the canvas and place it on an easel.
+
+[MSG$002F72,60]
+Man, what a horrible piece of work. I want to cover my eyes.
+
+[MSG$002FB3,76]
+If I keep looking at this piece, my desire to do work will drop to new lows.
+
+[MSG$00300C,39]
+Imari "Hey, how much did you get done?"
+
+[MSG$00304D,54]
+That's right, I haven't shown this piece to Imari yet.
+
+[MSG$003088,12]
+How could I?
+
+[MSG$0030A1,65]
+I feel bad for Imari who has to pose for this sorry piece of art.
+
+[MSG$0030EF,7]
+Hmmm...
+
+[MSG$003123,21]
+Minase "All right..."
+
+[MSG$003152,34]
+I decided to show her the drawing.
+
+[MSG$003179,26]
+She's gonna see it anyway.
+
+[MSG$003198,35]
+I might as well get it over with...
+
+[MSG$0031C8,55]
+Minase "I hope you don't faint because of my skills..."
+
+[MSG$003219,47]
+Imari "It's that good? I can't wait to see it!"
+
+[MSG$003262,70]
+Imari "I wonder what it looks like... I hope you made me look cute..."
+
+[MSG$0032C2,43]
+Imari seems to be filled with high hopes...
+
+[MSG$0032F2,37]
+She just might suffer a heart attack.
+
+[MSG$0033C4,27]
+Minase "Here, take a look."
+
+[MSG$0033F9,17]
+Reveals canvas...
+
+[MSG$003417,33]
+So, I showed the canvas to Imari.
+
+[MSG$003478,20]
+Imari "Aaaarrghhh!!"
+
+[MSG$0034A6,38]
+Imari looks at the drawing and faints.
+
+[MSG$0034D9,27]
+Oh well, I don't blame her.
+
+[MSG$0034F9,53]
+Most people would be shocked to see this kind of art.
+
+[MSG$003546,38]
+Minase "No! I can't show this to her!"
+
+[MSG$003586,40]
+There's no way I can show this to her...
+
+[MSG$00365B,72]
+Imari "What? You have to show it to me! I want to give you some advice!"
+
+[MSG$0036BD,33]
+Minase "I don't want any advice."
+
+[MSG$0036F8,31]
+Imari "We have a problem then."
+
+[MSG$003731,24]
+I'm ashamed of this art!
+
+[MSG$00374E,27]
+Let's see, what can I do...
+
+[MSG$003776,70]
+I refused to show it to her until now, but I guess I have no choice...
+
+[MSG$0037C1,55]
+I don't think I can hide it from her for the whole day.
+
+[MSG$003846,31]
+I guess I'll have to give up...
+
+[MSG$00386A,62]
+Plus I don't think I'll ever be able to draw a decent picture.
+
+[MSG$0038B5,59]
+If I keep on hiding it from her, she'll definitely kill me.
+
+[MSG$0038F5,55]
+If sees it after a big fight, she might die from shock.
+
+[MSG$003939,40]
+It's best to show it to her right now...
+
+[MSG$00396E,21]
+Minase "All right..."
+
+[MSG$00399D,99]
+Minase "If you want to see it that much, I'll show it to you. But don't tell me I didn't warn you."
+
+[MSG$003A1A,44]
+Imari "You're exaggerating. Is it that good?
+
+[MSG$003A60,40]
+Minase "Is it good? It's mind-boggling."
+
+[MSG$003AA2,105]
+Minase "If you're worried, you might want to wear a diaper. You might wet yourself after you take a look.
+
+[MSG$003B25,41]
+Imari "Well, that should be interesting."
+
+[MSG$003B68,22]
+Minase "Here it is..."
+
+[MSG$003B98,43]
+I fearfully revealed the canvas to Imari...
+
+[MSG$003BD0,18]
+Swallows saliva...
+
+[MSG$003BEF,20]
+Imari "Let's see..."
+
+[MSG$003C1D,15]
+Imari "Wha...!"
+
+[MSG$003C46,26]
+Imari's eyes are blinking.
+
+[MSG$003C6D,11]
+Blinking...
+
+[MSG$003CB8,25]
+Imari "Hi...Hiyaaargghh!"
+
+[MSG$003CEB,41]
+Imari faints after looking at my drawing.
+
+[MSG$003D19,22]
+Maybe she wet herself.
+
+[MSG$003D3C,24]
+Well, I don't blame her.
+
+[MSG$003D59,62]
+If I were in her position, I probably would've lost it, too...
+
+[MSG$003DD7,37]
+Imari "You think this looks like me?"
+
+[MSG$003E16,16]
+Minase "Well..."
+
+[MSG$003E40,32]
+What can I say, I tried my best.
+
+[MSG$003E6D,40]
+Imari "How could you draw me like this?"
+
+[MSG$003EE2,63]
+Imari "Great...I feel really dumb for taking my time to model."
+
+[MSG$003F3B,53]
+Imari sighs. It looks like she has tears in her eyes.
+
+[MSG$003F7D,39]
+Minase "Well you were the model, so..."
+
+[MSG$004056,5]
+Bam!!
+
+[MSG$004068,55]
+After hearing what I had to say, Imari smacked me down.
+
+[MSG$0040DF,35]
+Imari "You really suck at drawing!"
+
+[MSG$00411C,36]
+Minase "I tried my best you know..."
+
+[MSG$00415A,49]
+I rubbed my cheek while I offered my explanation.
+
+[MSG$004198,35]
+Imari "You really tried your best?"
+
+[MSG$0041D5,58]
+Minase "Give me a break. I'm just not as good as you are."
+
+[MSG$004229,92]
+Imari "It doesn't matter if you're good or bad. What matters is if you're trying your best."
+
+[MSG$00429F,66]
+Imari "If you're trying your best, you can tell by looking at it."
+
+[MSG$0042FB,16]
+Minase "Really?"
+
+[MSG$004325,15]
+Imari "Really."
+
+[MSG$00434E,109]
+Imari "Anyway, I'll teach you how to draw from the very beginning. Let's try to finish the groundwork today."
+
+[MSG$0043D5,17]
+Minase "Whaaatt?"
+
+[MSG$004400,20]
+That's impossible...
+
+[MSG$004421,33]
+Imari "We're running out of time.
+
+[MSG$004447,54]
+Plus you can't submit this kind of thing to the show."
+
+[MSG$004497,48]
+Imari "You should thank me for being the model."
+
+[MSG$0044E1,41]
+Minase "I think the likeness is there..."
+
+[MSG$004524,39]
+I said it while looking at the drawing.
+
+[MSG$004558,28]
+Imari "Stop joking with me!"
+
+[MSG$00458E,68]
+Imari "Okay, let's begin. I think you should start from the basics."
+
+[MSG$0045EC,36]
+Minase "I have to do it over again?"
+
+[MSG$00462A,18]
+Imari "Of course."
+
+[MSG$004656,52]
+Minase "But you're not wearing your school uniform."
+
+[MSG$0046D7,29]
+Imari "Huh? Wha..? Darn it!!"
+
+[MSG$00470E,47]
+Yes, I was drawing Imari in her school uniform.
+
+[MSG$004742,50]
+Imari is not wearing her school uniform right now.
+
+[MSG$004779,39]
+But it seems she forgot about all that.
+
+[MSG$0047AD,31]
+Minase "What are you gonna do?"
+
+[MSG$0047E6,44]
+Imari "I got it, just hold on for a second."
+
+[MSG$004850,51]
+And so Imari went into the art supply storage room.
+
+[MSG$004890,26]
+Then five minutes later...
+
+[MSG$0048B7,13]
+Door opens...
+
+[MSG$004903,31]
+Minase "What took you so long?"
+
+[MSG$00493C,14]
+Imari "Sorry."
+
+[MSG$004964,41]
+Imari comes out wearing a school uniform.
+
+[MSG$00499A,32]
+Minase "Where did you get that?"
+
+[MSG$0049D4,92]
+Imari "It was left behind by one of the graduate students. There were two or three uniforms,
+
+[MSG$004A35,36]
+but I could only fit into this one."
+
+[MSG$004AA5,68]
+Imari "But they must've made their skirt shorter. I hope it's okay."
+
+[MSG$004B03,54]
+The skirt was indeed very short, and if she bent down,
+
+[MSG$004B3E,35]
+you could probably see her panties.
+
+[MSG$004B6E,53]
+Imari "I don't feel right with my panties exposed..."
+
+[MSG$004BBD,26]
+Minase "It's no big deal."
+
+[MSG$004C23,49]
+Imari "It's a matter of being comfortable, okay?"
+
+[MSG$004C6E,59]
+Minase "Yeah, I might be sick if I see your dirty panties."
+
+[MSG$004D5B,4]
+Bam!
+
+[MSG$004D6C,33]
+Imari "My panties are not dirty!"
+
+[MSG$004DA7,30]
+Minase "I was just kidding..."
+
+[MSG$004DDF,39]
+Imari "Stop fooling and start drawing."
+
+[MSG$004E20,32]
+And so Imari sat in front of me.
+
+[MSG$004ECA,36]
+Imari "Hey, are my panties showing?"
+
+[MSG$004F08,39]
+Imari asks me as if it's bothering her.
+
+[MSG$004F3C,34]
+Minase "Don't worry. They're not."
+
+[MSG$004F78,39]
+No, her panties were showing all right.
+
+[MSG$004FAC,62]
+But I pretended I didn't know, and put the charcoal on canvas.
+
+[MSG$004FF7,49]
+Imari "Don't get too tense. Just relax and draw."
+
+[MSG$005042,87]
+Imari "Capture the entire outline, and pick up the lines while you look at the balance.
+
+[MSG$00509E,40]
+You try reproducing the lines perfectly,
+
+[MSG$0050CB,35]
+and that's what you're doing wrong.
+
+[MSG$005108,47]
+I listen to her advice and draw very carefully.
+
+[MSG$005144,12]
+Drawing.....
+
+[MSG$00515D,46]
+I was absorbed in drawing her with the pencil.
+
+[MSG$005198,12]
+Drawing.....
+
+[MSG$0051B1,34]
+Hmm...I'm doing pretty good today.
+
+[MSG$0051E0,67]
+After I listened to her advice, I seem to be drawing much better...
+
+[MSG$005228,73]
+I don't think I could draw this on my own. Thanks Imari, I appreciate it.
+
+[MSG$0052FB,12]
+Drawing.....
+
+[MSG$005314,12]
+Drawing.....
+
+[MSG$00532D,77]
+Under Imari's guidance, I spent the entire morning drawing her on the canvas.
+
+[MSG$005387,35]
+Imari "You're getting much better."
+
+[MSG$0053C4,41]
+After a while, Imari looks at the canvas.
+
+[MSG$0053FA,37]
+I guess it's much better than before.
+
+[MSG$005424,47]
+I'm not ashamed to show this to other people...
+
+[MSG$005460,27]
+April 26 - Imari's lunchbox
+
+[MSG$00551D,39]
+Imari "Okay, let's take a lunch break."
+
+[MSG$00555F,23]
+That's what Imari said.
+
+[MSG$00557B,45]
+I look at the time, and it's a bit past noon.
+
+[MSG$0055B5,88]
+Minase "Ugh, what are we gonna do? The cafeteria is closed, and we don't have any food."
+
+[MSG$005627,36]
+Imari "Look. I prepared some lunch."
+
+[MSG$005665,43]
+Imari takes a wrapped lunch out of her bag.
+
+[MSG$005695,63]
+When the covering is removed, I can see it's in a girly basket.
+
+[MSG$0056E1,49]
+She also takes a thermos bottle out from the bag.
+
+[MSG$005717,56]
+Imari opens the basket, and there are sandwiches inside.
+
+[MSG$0057D9,56]
+Imari "I put a lot of effort in making this, so eat up."
+
+[MSG$00582B,38]
+Minase "What? You made this yourself?"
+
+[MSG$00586B,55]
+Imari "How rude! I'm really good at cooking, you know."
+
+[MSG$0058BC,93]
+Now that I think about it, Imari does cook when Yukiko is away, and she's a pretty good cook.
+
+[MSG$005926,34]
+Imari "I have a little more food."
+
+[MSG$005962,27]
+Imari opens the Tupperware.
+
+[MSG$005982,39]
+Inside are sausages, eggs, and a salad.
+
+[MSG$0059B6,50]
+Imari "This is an octopus, and this one's a star."
+
+[MSG$005A02,84]
+Imari points to the sausage shaped like an octopus, and a carrot shaped like a star.
+
+[MSG$005A5B,103]
+If your mom was still making your lunch, it'd be the kind of silly food you'd get to bring to a picnic.
+
+[MSG$005ACF,66]
+Imari "I also have tea. The thermos kept it nice and warm for us."
+
+[MSG$005B2B,41]
+Imari takes a cup and pours some hot tea.
+
+[MSG$005B61,27]
+Imari "Come on, have some!"
+
+[MSG$005B96,47]
+I grabbed a cute-looking girly fork in my hand.
+
+[MSG$005BD2,39]
+Minase "Let's see if this is poisoned."
+
+[MSG$005C13,25]
+Imari "You're very rude."
+
+[MSG$005C46,62]
+I take a sandwich from the basket and shove it down my throat.
+
+[MSG$005C91,11]
+Swallows...
+
+[MSG$005CA9,11]
+Munching...
+
+[MSG$005CC1,22]
+It tastes pretty good.
+
+[MSG$005CDC,29]
+She really knows what I like.
+
+[MSG$005D06,86]
+She can cook, does housework, pretty good looking. She's kind of popular in class too.
+
+[MSG$005D61,44]
+If she had better boobs and a personality...
+
+[MSG$005D9A,22]
+Imari "So, how is it?"
+
+[MSG$005DEA,27]
+Minase "Oh, it's horrible!"
+
+[MSG$005E1F,43]
+Imari "Whaaat? No way! I tasted it before."
+
+[MSG$005E64,18]
+Minase "Horrible."
+
+[MSG$005E90,9]
+Eating...
+
+[MSG$005EA6,20]
+Minase "It's gross."
+
+[MSG$005ED4,9]
+Eating...
+
+[MSG$005EEA,33]
+Minase "This is really horrible!"
+
+[MSG$005F25,9]
+Eating...
+
+[MSG$005F3B,13]
+Gets angry...
+
+[MSG$005F55,43]
+Imari "If you don't like it, don't eat it!"
+
+[MSG$005F9A,42]
+Imari takes the fork right out of my hand.
+
+[MSG$005FC9,28]
+I should stop teasing her...
+
+[MSG$005FF2,42]
+Minase "I'm just kidding. It's delicious!"
+
+[MSG$006036,20]
+Imari "You're mean!"
+
+[MSG$00606F,23]
+Minase "This is great."
+
+[MSG$0060A0,25]
+Imari "Really? I'm glad."
+
+[MSG$0060D3,52]
+Imari seems to be really happy after one compliment.
+
+[MSG$006114,48]
+Minase "Well, I guess you are a girl after all."
+
+[MSG$00615E,33]
+Imari "What do you mean by that?"
+
+[MSG$006199,89]
+Minase "Whether it's art or cooking, you're good at these kind of detail-oriented things.
+
+[MSG$00620C,25]
+Imari "What? (giggle)..."
+
+[MSG$00623F,55]
+Imari's lips are loosened after hearing my compliments.
+
+[MSG$006283,63]
+Imari "I tried very hard, you know. I tried hard to cook better
+
+[MSG$0062C7,65]
+|since you were eating cheap ramen whenever Yukiko wasn't around.
+
+[MSG$006322,17]
+Minase "I see..."
+
+[MSG$00634D,27]
+That's so typical of her...
+
+[MSG$006375,11]
+Eating.....
+
+[MSG$00638D,18]
+Bite...Eating.....
+
+[MSG$0063AC,20]
+Bite...Munching.....
+
+[MSG$0063CD,47]
+I try to satiate my hunger by stuffing my face.
+
+[MSG$006401,54]
+Imari is watching me eat with a sense of satisfaction.
+
+[MSG$006444,36]
+Imari "You should eat some carrots."
+
+[MSG$006482,68]
+Somehow, I've managed to eat everything but the star-shaped carrots.
+
+[MSG$0064D3,16]
+Minase "I know."
+
+[MSG$0064FD,7]
+Stab...
+
+[MSG$006511,43]
+Imari "But you're eating all the sausages!"
+
+[MSG$006556,32]
+Minase "Am I?  I didn't notice."
+
+[MSG$006590,21]
+Imari "Unbelievable!"
+
+[MSG$0065BF,36]
+....................................
+
+[MSG$0065F0,27]
+...........................
+
+[MSG$006618,21]
+.....................
+
+[MSG$00663A,12]
+............
+
+[MSG$0066F2,16]
+Minase "Phew..."
+
+[MSG$00671C,57]
+Imari and I finished most of the food and drank some tea.
+
+[MSG$00675A,52]
+I'm very full. I think I ate twice as much as Imari.
+
+[MSG$00679B,54]
+Minase "I'm full. I think I ate about ten sandwiches."
+
+[MSG$0067EB,31]
+Imari "Twelve. I only ate five.
+
+[MSG$006824,71]
+Imari "But I'm glad I made so many. I was worried they'd be leftovers."
+
+[MSG$006885,40]
+I can't believe she actually kept track.
+
+[MSG$0068BA,38]
+Minase "I'm full and really sleepy..."
+
+[MSG$0068FA,59]
+If I were home right now, I could nap for an hour or two...
+
+[MSG$006942,59]
+Imari "What are you talking about? Let's get back to work."
+
+[MSG$006997,17]
+Minase "Great..."
+
+[MSG$0069C2,55]
+We finished lunch, and I got back to work on my canvas.
+
+[MSG$006A06,20]
+April 26 - Afternoon
+
+[MSG$006A9A,12]
+Drawing.....
+
+[MSG$006AB3,21]
+Minase "So sleepy..."
+
+[MSG$006AE2,12]
+Drawing.....
+
+[MSG$006AFB,24]
+Minase "Sleepy, sleepy."
+
+[MSG$006B2D,38]
+Imari "Stop talking and keep drawing!"
+
+[MSG$006B6D,28]
+Minase "Fine, fine, fine..."
+
+[MSG$006BA3,18]
+This is torture...
+
+[MSG$006CA4,36]
+....................................
+
+[MSG$006CD5,27]
+...........................
+
+[MSG$006CFD,21]
+.....................
+
+[MSG$006D1F,12]
+............
+
+[MSG$006DB5,36]
+I kept drawing for a very long time.
+
+[MSG$006DE6,52]
+Minase "Done...I think this turned out pretty well."
+
+[MSG$006E34,57]
+After hearing what I said, Imari moves from her position.
+
+[MSG$006E72,39]
+She then looks at the finished product.
+
+[MSG$006EA6,36]
+Imari "Wow, I knew you could do it!"
+
+[MSG$006EE4,71]
+She seems very satisfied. I guess she was a big help to me after all...
+
+[MSG$006FD7,37]
+Imari "Now we just need to color it."
+
+[MSG$007016,41]
+Right...It's still far from being done...
+
+[MSG$007044,43]
+This is where things get to be a real pain.
+
+[MSG$00707C,69]
+Imari "Oh, look at the time. I guess we can't do any coloring now..."
+
+[MSG$0070DB,5]
+Yes!!
+
+[MSG$0070ED,29]
+I agreed by nodding absently.
+
+[MSG$00710F,74]
+I don't know if it's because I worked so hard, but I'm really tired out...
+
+[MSG$007166,52]
+Imari "All right then, I guess that's it for today."
+
+[MSG$0071B4,28]
+I nodded again at her words.
+
+[MSG$0071DD,55]
+Minase "What a shame...I was just getting on a roll..."
+
+[MSG$00722E,51]
+Imari "Really? We can still work more if you want."
+
+[MSG$00727B,28]
+I shook my head and refused.
+
+[MSG$0072A4,73]
+Minase "Don't be ridiculous! Besides, you've done enough for me already."
+
+[MSG$007307,21]
+Imari "I don't mind."
+
+[MSG$007336,68]
+Minase "I do! I have to get home and rest...I have school tomorrow."
+
+[MSG$007394,30]
+Imari "Well, if you say so..."
+
+[MSG$0073F0,63]
+I forced her to end today's lesson, and we prepared to go home.
+
+[MSG$00743C,60]
+I put away the canvas, locked the door, and left the room...
+
+[MSG$007485,26]
+April 26 - On the way home
+
+[MSG$0075B2,53]
+Imari and I left the school and started walking home.
+
+[MSG$0075EC,88]
+It's a weird feeling to be heading home from school on a Sunday wearing regular clothes.
+
+[MSG$007651,33]
+Imari "I had a great time today."
+
+[MSG$00768C,43]
+Minase "Was it fun modeling for that long?"
+
+[MSG$0076D1,54]
+Imari "Of course. I was looking at you while you drew,
+
+[MSG$00770C,38]
+and I'm very happy to be drawn by you.
+
+[MSG$00774C,60]
+I don't see how it can be fun, it just sounds painful to me.
+
+[MSG$007795,74]
+Imari "If we work when we're on break for the holidays, we can finish it."
+
+[MSG$0077F9,39]
+Minase "We're doing this on a holiday?"
+
+[MSG$00783A,92]
+Imari "Well, it needs to be colored. So I'm going to sacrifice my holidays to help you out."
+
+[MSG$0078B0,9]
+Nooooo...
+
+[MSG$0078C6,44]
+Imari "Don't worry, you know you can do it."
+
+[MSG$00790C,41]
+I drooped my shoulders in disappointment.
+
+[MSG$007942,34]
+My holidays are gonna be ruined...
+
+[MSG$007969,36]
+I get chills just thinking about it.
+
+[MSG$00799A,59]
+I tried to talk her out of it, but I guess it was no use...
+
+[MSG$0079DA,40]
+And then, I finally arrived at my house.
+
+[MSG$007A0F,52]
+Imari "Thanks for coming with me today. It was fun."
+
+[MSG$007A5D,31]
+It was not fun at all for me...
+
+[MSG$007A81,102]
+But thanks to Imari, I was able to forget about that Book of Spells. So in a way, it was a good thing.
+
+[MSG$007AF4,15]
+Minase "Seeya."
+
+[MSG$007B1D,31]
+Imari "Yeah, see you tomorrow."
+
+[MSG$007B56,27]
+April 26 - Yukiko and Saeki
+
+[MSG$007C05,47]
+After I saying good-bye, I head up to my house.
+
+[MSG$007C41,13]
+Opens door...
+
+[MSG$007CD7,34]
+Minase "Huh? The door's unlocked."
+
+[MSG$007D13,15]
+Is Yukiko home?
+
+[MSG$007D27,40]
+She would never leave the door unlocked.
+
+[MSG$007D5C,20]
+Minase "I'm home..."
+
+[MSG$007D8A,16]
+Minase "Hmm...?"
+
+[MSG$007DB4,51]
+There are many pairs of shoes in the entranceway...
+
+[MSG$007DEC,33]
+But they're mostly men's shoes...
+
+[MSG$007E1A,79]
+One...two...There are three pairs of men's shoes and one pair of women's shoes.
+
+[MSG$007E76,90]
+Are they friends of my sister's? But she's never really brought guy friends over before...
+
+[MSG$007EDD,42]
+Minase "Sister! You invited your friends?"
+
+[MSG$007F21,42]
+I remove my shoes and walk into the house.
+
+[MSG$007FB9,51]
+I look into my sister's room, but no one's there...
+
+[MSG$007FF9,20]
+But I hear noises...
+
+[MSG$00801A,59]
+I'm confused as I arrive in front of the door to my room...
+
+[MSG$008062,56]
+Just like I thought, the sounds are coming from my room.
+
+[MSG$0080A7,64]
+I hear lots of noise from the room, both male and female voices.
+
+[MSG$0080F4,39]
+But what would be happening in my room?
+
+[MSG$008128,66]
+Being very suspicious, I turn the doorknob and push the door open.
+
+[MSG$00817D,28]
+My sister's room was closed.
+
+[MSG$0081A6,20]
+But I hear noises...
+
+[MSG$0081C7,64]
+I hear lots of noise from the room, both male and female voices.
+
+[MSG$008214,66]
+Being very suspicious, I turn the doorknob and push the door open.
+
+[MSG$008303,13]
+Opens door...
+
+[MSG$00831D,21]
+Saeki "Welcome home."
+
+[MSG$00834C,51]
+I'm greeted by a familiar voice as I open the door.
+
+[MSG$00838C,18]
+Minase "Wha...!!!"
+
+[MSG$0083B8,41]
+I was shocked to see what was going on...
+
+[MSG$008491,19]
+Yukiko "Ngg...Ugh!"
+
+[MSG$0084BE,39]
+Inoue "Hey! Move your hips a bit more!"
+
+[MSG$0084FF,10]
+Banging...
+
+[MSG$008516,98]
+The sound of flesh banging against flesh can be heard, sweat and other body fluids are everywhere.
+
+[MSG$008585,74]
+My sister was being violated in all three holes...mouth, vagina, and anus.
+
+[MSG$0085DC,54]
+Saeki "Where were you? We came over to have some fun."
+
+[MSG$00862C,52]
+Saeki is laughing at what is taking place before us.
+
+[MSG$00866D,70]
+Saeki "I got bored, so we were just having some fun with your sister."
+
+[MSG$0086CD,27]
+Yukiko "Unn!...Ngg...Ahhh!"
+
+[MSG$008702,48]
+My sister stops sucking on the guy's huge penis.
+
+[MSG$008737,52]
+A thick white liquid comes pouring out of her mouth.
+
+[MSG$008778,63]
+Inoue "Yo, Minase. We're having loads of fun with your sister."
+
+[MSG$0087D1,57]
+Inoue was talking while having his penis deep in her ass.
+
+[MSG$008817,86]
+Saeki "(giggle)...Despite her age, your sister was still a virgin. Did you know that?"
+
+[MSG$008887,53]
+Saeki "You made her into a real woman. Right, Inoue?"
+
+[MSG$0088D7,55]
+Inoue "Your sister did pretty good for her first time."
+
+[MSG$008928,56]
+Inoue "I already came inside her three times. Hahahaha!"
+
+[MSG$00897A,28]
+Yukiko "He...Help...Taki..."
+
+[MSG$0089B0,60]
+My sister tried to call my name. Her whole body was shaking.
+
+[MSG$0089F9,50]
+Man 1 "Hey, I haven't climaxed yet. Keep sucking!"
+
+[MSG$008A45,13]
+Yukiko "Ngg!"
+
+[MSG$008A6C,58]
+The man violently sticks his penis into my sister's mouth.
+
+[MSG$008AB3,42]
+Minase "Stop it! Get away from my sister!"
+
+[MSG$008AF7,42]
+I yelled at the men roughing up my sister.
+
+[MSG$008BCE,106]
+Saeki "It's no use. They're my slaves. They'll keep on doing her and doing her until I tell them to stop."
+
+[MSG$008C53,37]
+Minase "Then do it!  Make them stop!"
+
+[MSG$008C92,50]
+Saeki "No. Why do I have to take orders from you?"
+
+[MSG$008CDE,14]
+Minase "What?"
+
+[MSG$008D06,44]
+Saeki "If you want me to listen, ask nicely.
+
+[MSG$008D37,75]
+If you want someone to do you a favor, you should always ask them politely.
+
+[MSG$008D9C,16]
+Minase "Grrr..."
+
+[MSG$008DC6,41]
+What a nasty bitch...She's changed a lot.
+
+[MSG$008E78,31]
+Man 1 "Oh...I'm about to come!"
+
+[MSG$008EB1,33]
+The man was about to ejaculate...
+
+[MSG$008EDF,15]
+Yukiko "Nnnn!!"
+
+[MSG$008F08,46]
+Man 1 "I'm gonna come. Suck up my cock juice!"
+
+[MSG$008F50,12]
+Man 1 "Ugh!"
+
+[MSG$008FFF,21]
+The man ejaculates...
+
+[MSG$009021,76]
+While Saeki and I exchanged words, one of the men climaxed inside her mouth.
+
+[MSG$009072,63]
+A white liquid shoots out from between her mouth and his penis.
+
+[MSG$009137,30]
+Yukiko "Kgh!!...Ggh...Ugh...!"
+
+[MSG$00916F,90]
+My sister spits out the penis, and lots of thick white liquid comes pouring out her mouth.
+
+[MSG$0091D6,72]
+One of the men keeps ejaculating on her, messing up her face and hair...
+
+[MSG$00922B,44]
+Man 1 "Oh man...I did it again. Disgusting."
+
+[MSG$009271,62]
+Inoue "You came again? You suffer from premature ejaculation!"
+
+[MSG$0092C9,61]
+Man 1 "What can I say? She's really good for her first time."
+
+[MSG$009320,34]
+Man 2 "I...I'm gonna come, too..."
+
+[MSG$00935C,60]
+The man underneath my sister groaned while shaking his hips.
+
+[MSG$0093A5,51]
+Inoue "What, you too? Then I might as well climax."
+
+[MSG$0093F2,17]
+Yukiko "N...no!!"
+
+[MSG$00941D,37]
+Saeki "What are you gonna do, Minase?
+
+[MSG$009447,75]
+If you leave her like this, they'll screw her until every hole is useless."
+
+[MSG$0094AC,17]
+Minase "Shit...!"
+
+[MSG$0094D7,23]
+Inoue "I'm gonna come!"
+
+[MSG$009508,21]
+Man 2 "Argh, me too!"
+
+[MSG$0095C0,17]
+The men climax...
+
+[MSG$0095DE,17]
+The men climax...
+
+[MSG$0095FC,53]
+Yukiko "Nuggg!! It's inside. It's coming inside me!!"
+
+[MSG$00964B,87]
+My sister shakes and desperately tried to endure while the two men climaxed inside her.
+
+[MSG$0096AF,41]
+Saeki "Oh my...They all came inside her."
+
+[MSG$0096F2,43]
+Saeki "Poor girl. Sprayed by cock juice..."
+
+[MSG$009737,30]
+Inoue "Phew...That was great."
+
+[MSG$00976F,50]
+The two men pulled their penises out of my sister.
+
+[MSG$009827,26]
+Cock juice spilling out...
+
+[MSG$00984E,58]
+At the same time, large quantities of cock juice spill out
+
+[MSG$00988D,33]
+from my sister's pussy and ass...
+
+[MSG$0098BB,35]
+Saeki "Now, what are you gonna do?"
+
+[MSG$0098F8,68]
+Saeki "If I don't stop them, they'll keep on violating your sister."
+
+[MSG$009956,20]
+Minase "O...Okay..."
+
+[MSG$009984,60]
+As humiliating as it was, I bowed to Saeki. I had no choice.
+
+[MSG$0099CD,32]
+Minase "Please. Make them stop."
+
+[MSG$009AA7,51]
+Saeki "Ahahahaha...All right. I'll make them stop."
+
+[MSG$009AF4,73]
+Saeki "But on one condition. If you can satisfy me, we'll leave quietly."
+
+[MSG$009B57,17]
+Minase "Satisfy?"
+
+[MSG$009BB5,35]
+Saeki "You dummy. Fuck me. Get it?"
+
+[MSG$009BF2,20]
+Minase "Right here?"
+
+[MSG$009C20,74]
+Saeki "Of course. I want to do it right here. Are you gonna do it or not?"
+
+[MSG$009C84,22]
+Minase "I'll do it..."
+
+[MSG$009CB4,51]
+I bit my lip and unwillingly followed her commands.
+
+[MSG$009CF4,46]
+Saeki "Heh...Fine. Now take off your clothes."
+
+[MSG$009D3C,14]
+Minase "....."
+
+[MSG$009D57,49]
+I put my hands to my hips and pull down my pants.
+
+[MSG$009D95,42]
+Saeki "Look at that, it's hard as a rock!"
+
+[MSG$009DD9,77]
+Saeki "You got excited watching your sister get violated? You're pathetic..."
+
+[MSG$009E40,16]
+Minase "Grrr..."
+
+[MSG$009E6A,31]
+Saeki laughs at my erect penis.
+
+[MSG$009E8E,115]
+Even if she really is only my cousin, I wasn't happy about removing my underwear and exposing my penis to Yukiko...
+
+[MSG$009F0E,58]
+Saeki "Heh...It's amazing. I'm embarrassed to look at it."
+
+[MSG$009F62,57]
+Saeki "It looks like you're ready for insertion already."
+
+[MSG$009FB5,43]
+Minase "Shut up! Let's get this over with."
+
+[MSG$009FFA,24]
+Saeki "Slow down. Geez."
+
+[MSG$00A02C,28]
+Saeki starts to approach me.
+
+[MSG$00A055,36]
+Saeki "Okay, put this blindfold on."
+
+[MSG$00A093,62]
+Saeki takes out a cloth material that looks like black ribbon.
+
+[MSG$00A0DE,31]
+Minase "What's that thing for?"
+
+[MSG$00A117,65]
+Saeki "It's embarrassing to do it in front of your sister, right?
+
+[MSG$00A15D,63]
+This is going to help you feel good without worrying about it."
+
+[MSG$00A1B6,47]
+Saeki then tightens the blindfold over my eyes.
+
+[MSG$00A26F,21]
+Minase "I can't see!"
+
+[MSG$00A29E,48]
+The black ribbon is covering my field of vision.
+
+[MSG$00A2DB,77]
+Saeki "Having sex without being able to see can be quite erotic. Heh, heh..."
+
+[MSG$00A342,35]
+I can only follow Saeki's commands.
+
+[MSG$00A372,37]
+I can feel her moving in front of me.
+
+[MSG$00A39C,19]
+Then I just wait...
+
+[MSG$00A3BC,34]
+Saeki "Okay, I'm all set to go..."
+
+[MSG$00A3F8,31]
+Minase "Yeah, but I can't see."
+
+[MSG$00A431,61]
+I can hear Saeki in front of me, but I don't know what to do.
+
+[MSG$00A47B,51]
+Saeki "Do I have to do everything? Right this way."
+
+[MSG$00A4C8,48]
+A soft hand grabs my penis and shows me the way.
+
+[MSG$00A505,38]
+Saeki "Now, lean your hips forward..."
+
+[MSG$00A545,18]
+Moving his hips...
+
+[MSG$00A564,51]
+The head of my penis touches a warm piece of flesh.
+
+[MSG$00A59C,46]
+And then, I move my hips forward cautiously...
+
+[MSG$00A5D7,12]
+Insertion...
+
+[MSG$00A5F0,53]
+I can feel the head of my penis entering her crevice.
+
+[MSG$00A632,18]
+Voice "Unn...Unn!"
+
+[MSG$00A65E,31]
+Then I hear a voice from below.
+
+[MSG$00A68A,34]
+Minase "What? What is that sound?"
+
+[MSG$00A6C6,58]
+Saeki "It's nothing. Hurry up and push it all the way in."
+
+[MSG$00A71A,27]
+I ram my penis deep inside.
+
+[MSG$00A742,12]
+Insertion...
+
+[MSG$00A75B,14]
+Minase "Aagh!"
+
+[MSG$00A783,48]
+I can feel the warmth and stickiness down below.
+
+[MSG$00A7B8,24]
+That feeling excites me.
+
+[MSG$00A7DD,13]
+Voice "Unnn!"
+
+[MSG$00A804,28]
+Saeki "Now, move your hips."
+
+[MSG$00A83A,26]
+I did what she told me to.
+
+[MSG$00A861,18]
+Moving his hips...
+
+[MSG$00A880,56]
+Her vagina is very wet and feels good every time I move.
+
+[MSG$00A8C5,60]
+I start thrusting quickly, since I want to get it over with.
+
+[MSG$00A906,47]
+Sounds of sex can be heard throughout the room.
+
+[MSG$00A942,21]
+Voice "Un...Unn...!!"
+
+[MSG$00A971,63]
+Something's not right. I hear some strange voice underneath me.
+
+[MSG$00A9BD,36]
+Minase "Saeki, remove my blindfold."
+
+[MSG$00A9FB,45]
+Saeki "Be quiet. Just keep moving your hips."
+
+[MSG$00AA42,7]
+Stab...
+
+[MSG$00AA56,30]
+I feel something sting my arm.
+
+[MSG$00AA81,29]
+Minase "Ouch! What was that?"
+
+[MSG$00AAB8,59]
+Saeki "It'll make you feel good. Try not to think so hard."
+
+[MSG$00AB0D,48]
+I start to feel dizzy from the shot she gave me.
+
+[MSG$00AB4A,44]
+I feel out of it, but I keep moving my hips.
+
+[MSG$00AB7B,42]
+The drug must be messing with my judgment.
+
+[MSG$00ABB2,24]
+Minase "Ha...Ha...Ha..."
+
+[MSG$00ABE4,12]
+Thrusting...
+
+[MSG$00ABFD,27]
+I keep on moving my hips...
+
+[MSG$00AC25,38]
+Saeki "That's good. It's almost time."
+
+[MSG$00AC65,35]
+Saeki "I'll remove your blindfold."
+
+[MSG$00ACA2,25]
+Saeki "Take a good look."
+
+[MSG$00ACD5,20]
+Removes blindfold...
+
+[MSG$00ACF6,36]
+I can now see without the blindfold.
+
+[MSG$00AD1F,42]
+I was at a loss of words after what I saw.
+
+[MSG$00ADD2,26]
+Yukiko "Unn!...Un...Unn!!"
+
+[MSG$00AE06,21]
+Minase "Yu...Yukiko?"
+
+[MSG$00AE35,67]
+It was my sister underneath me, her huge boobs jumping up and down.
+
+[MSG$00AE7D,38]
+She was gagged, so she couldn't speak.
+
+[MSG$00AEB0,25]
+Penis being pulled out...
+
+[MSG$00AED6,39]
+My penis slipped out of Yukiko's pussy.
+
+[MSG$00AF0A,36]
+Saeki "Ahahahahaha. You're pathetic.
+
+[MSG$00AF33,62]
+Grunting like that while doing your own sister. I'm impressed.
+
+[MSG$00AF8B,17]
+Minase "N..no..."
+
+[MSG$00AFB6,49]
+I tried to escape, but I couldn't stop thrusting.
+
+[MSG$00AFF4,70]
+Yukiko must be drugged also, since she is moving her hips frantically.
+
+[MSG$00B0C0,17]
+Yukiko "Puah...!"
+
+[MSG$00B0EB,38]
+Saeki loosened the gag from my sister.
+
+[MSG$00B11E,40]
+Lots of saliva pours out from her mouth.
+
+[MSG$00B153,38]
+Yukiko "Hiiii...Good...Thrust harder!"
+
+[MSG$00B193,18]
+Minase "Yukiko..."
+
+[MSG$00B1BF,39]
+I couldn't believe what my sister said.
+
+[MSG$00B1EB,34]
+I guess she's really feeling it...
+
+[MSG$00B21A,55]
+Yukiko and I couldn't do anything to stop this madness.
+
+[MSG$00B256,29]
+We both crave the pleasure...
+
+[MSG$00B280,18]
+The phone rings...
+
+[MSG$00B29F,24]
+The phone rings again...
+
+[MSG$00B2C4,26]
+Now, the phone is ringing.
+
+[MSG$00B2EB,25]
+The phone is picked up...
+
+[MSG$00B311,12]
+Saeki "Yes?"
+
+[MSG$00B337,59]
+Saeki "Minase is right in front of me, thrusting his hips."
+
+[MSG$00B38C,34]
+Saeki starts talking on the phone.
+
+[MSG$00B3BB,50]
+Saeki "Wha? It's sex! He's having sex.  Bye, now."
+
+[MSG$00B407,21]
+Hangs up the phone...
+
+[MSG$00B429,35]
+Saeki hangs up the phone violently.
+
+[MSG$00B459,86]
+Saeki "I answered the phone since you were busy. The caller was shocked. Heh heh heh!"
+
+[MSG$00B4C9,42]
+I listen to Saeki while thrusting my hips.
+
+[MSG$00B500,30]
+I wonder who the caller was...
+
+[MSG$00B523,35]
+But that's not important right now.
+
+[MSG$00B553,45]
+Minase "Unnn! If I keep moving my hips, I..."
+
+[MSG$00B59A,22]
+Yukiko "I can't stop!"
+
+[MSG$00B5CA,32]
+I feel like I'm about to climax.
+
+[MSG$00B5F7,39]
+Minase "Ah, Yukiko. I'm about to come!"
+
+[MSG$00B638,48]
+After that, my sister tries very hard to resist.
+
+[MSG$00B675,49]
+Yukiko "Please, not inside. Shoot it outside me!"
+
+[MSG$00B6C0,28]
+Minase "But I can't stop..."
+
+[MSG$00B6F6,32]
+Yukiko "No, please take it out!"
+
+[MSG$00B730,32]
+Yukiko keeps on moving her hips.
+
+[MSG$00B755,35]
+Somehow, things aren't working out.
+
+[MSG$00B785,40]
+Saeki "It's okay, Minase. Do it inside."
+
+[MSG$00B7C7,57]
+Saeki "Look, your sister wants it despite what she says."
+
+[MSG$00B81A,25]
+Saeki whispers in my ear.
+
+[MSG$00B840,24]
+I can't hold it anymore.
+
+[MSG$00B89D,55]
+I listen to Saeki, and kept on moving inside my sister.
+
+[MSG$00B8DE,47]
+I don't care anymore. I'm enjoying this moment.
+
+[MSG$00B912,38]
+Plus, I don't think I can pull it out.
+
+[MSG$00B945,33]
+Minase "I'm gonna do it, Yukiko!"
+
+[MSG$00B980,12]
+Yukiko "No!"
+
+[MSG$00B9A6,67]
+I ignored my sister as she shook her head, and climaxed inside her.
+
+[MSG$00BAE8,14]
+Ejaculating...
+
+[MSG$00BB03,18]
+Yukiko "It's hot!"
+
+[MSG$00BB2F,35]
+Inoue "Wow, he really came inside!"
+
+[MSG$00BB6C,21]
+Liquid pouring out...
+
+[MSG$00BB8E,50]
+I kept my penis deep inside, and kept ejaculating.
+
+[MSG$00BBC5,67]
+It could've been the drug, but I felt good for a long, long time...
+
+[MSG$00BC15,57]
+Saeki "Amazing. You're really coming inside your sister."
+
+[MSG$00BC68,48]
+Saeki "And you're filling her up. Unbelievable."
+
+[MSG$00BCB2,19]
+Minase "Ha...Ha..."
+
+[MSG$00BCDF,20]
+Yukiko "Aa..aaaaa.."
+
+[MSG$00BD0D,54]
+I pulled out my penis slowly from my exhausted sister.
+
+[MSG$00BDC9,22]
+White cum pours out...
+
+[MSG$00BDEC,41]
+White cum pours out from Yukiko's vagina.
+
+[MSG$00BE2D,47]
+I try very hard to pull my penis out of Yukiko.
+
+[MSG$00BE69,25]
+But it isn't that simple.
+
+[MSG$00BE87,73]
+My lower body kept moving naturally, and Yukiko won't let go of my penis.
+
+[MSG$00BEDD,55]
+Saeki "Now, do it inside her, Minase. Let yourself go."
+
+[MSG$00BF2E,41]
+Saeki kept talking while smacking my ass.
+
+[MSG$00BF64,24]
+Yukiko "No, not inside."
+
+[MSG$00BF96,75]
+She says that, but her vagina gets very tight and won't let go of my penis.
+
+[MSG$00BFE6,43]
+When I try to pull it out, she tightens up.
+
+[MSG$00C01E,24]
+Minase "I'm gonna come!"
+
+[MSG$00C050,22]
+I was about to climax.
+
+[MSG$00C0FC,16]
+Yukiko "Annnnn!"
+
+[MSG$00C126,85]
+When I was about to explode, I pushed my sister away from me and pulled my penis out.
+
+[MSG$00C188,13]
+Minase "Ugh!"
+
+[MSG$00C2A1,30]
+White cum comes pouring out...
+
+[MSG$00C2CC,55]
+White cum pours all over my sister's boobs and stomach.
+
+[MSG$00C310,27]
+Yukiko "It's... so much..."
+
+[MSG$00C345,51]
+My sister was looking at the cum covering her body.
+
+[MSG$00C37D,105]
+It could've been the drug, but I shot out over her for a long time. I felt the orgasm for the whole time.
+
+[MSG$00C3F3,19]
+Cum shooting out...
+
+[MSG$00C413,61]
+The white cum sticks to my sister's body, and won't come off.
+
+[MSG$00C45D,25]
+Saeki "Ah, what a waste."
+
+[MSG$00C490,20]
+Juice flowing out...
+
+[MSG$00C502,101]
+Saeki "That's a lot of juice. You got pretty excited just from doing your sister? You must be crazy."
+
+[MSG$00C581,19]
+Minase "Ha...Ha..."
+
+[MSG$00C5AE,22]
+Yukiko "Aa...aaaaa..."
+
+[MSG$00C5DE,64]
+After I finally stopped ejaculating, I lowered my head in shame.
+
+[MSG$00C6CB,95]
+Saeki "Thanks for giving us a great show. I'm satisfied, so I guess I'll let you go for today."
+
+[MSG$00C744,23]
+Saeki "Okay, let's go."
+
+[MSG$00C775,61]
+Everyone leaves the room after being given the word by Saeki.
+
+[MSG$00C7BF,80]
+Saeki "This is a warning. If you ever get in our way, you're gonna pay big time.
+
+[MSG$00C814,15]
+Remember that."
+
+[MSG$00C861,18]
+The door closes...
+
+[MSG$00C880,22]
+Saeki leaves the room.
+
+[MSG$00C9D3,58]
+Yukiko and I are left in my room, covered in cock juice...
+
+[MSG$00CA1A,12]
+Minase "..."
+
+[MSG$00CA33,20]
+This is a nightmare.
+
+[MSG$00CA54,51]
+After Saeki leaves, I begin to loose consciousness.
+
+[MSG$00CB0D,36]
+....................................
+
+[MSG$00CB3E,27]
+...........................
+
+[MSG$00CB66,21]
+.....................
+
+[MSG$00CB88,12]
+............
+
+[MSG$00CBA1,25]
+Voice "Come on, wake up."
+
+[MSG$00CBD5,10]
+Shaking...
+
+[MSG$00CBEC,16]
+Voice "Wake up!"
+
+[MSG$00CC17,19]
+Minase "U..Uuuu..."
+
+[MSG$00CC44,15]
+Minase "Imari?"
+
+[MSG$00CC6D,29]
+I finally begin to come to...
+
+[MSG$00CC97,34]
+I shake my head to clear it a bit.
+
+[MSG$00CCC6,38]
+I open my eyes slowly and look around.
+
+[MSG$00CDAC,26]
+Takashiro "Are you awake?"
+
+[MSG$00CDE1,47]
+In front of me is not Imari, but Ms. Takashiro.
+
+[MSG$00CE1D,25]
+Minase "Ms. Takashiro..."
+
+[MSG$00CE50,82]
+Takashiro "I called your house, but I heard a woman's voice saying strange things,
+
+[MSG$00CEA7,19]
+so I stopped by..."
+
+[MSG$00CED5,84]
+I then remembered everything that happened, and looked in Ms. Takashiro's direction.
+
+[MSG$00CF36,16]
+Minase "Shit..."
+
+[MSG$00CF60,61]
+My sister is on the bed unconscious, covered in cock juice...
+
+[MSG$00CFA2,34]
+This isn't a dream. It was real...
+
+[MSG$00CFD1,40]
+Takashiro "You did it with your Yukiko?"
+
+[MSG$00D014,38]
+Ms. Takashiro asks me very cautiously.
+
+[MSG$00D03F,19]
+I reply by nodding.
+
+[MSG$00D05F,63]
+Takashiro "Why don't you go take shower and clean yourself up?"
+
+[MSG$00D0B9,72]
+Takashiro "Plus it's somewhat uncomfortable talking to you like this..."
+
+[MSG$00D11C,25]
+I looked down at my body.
+
+[MSG$00D13A,58]
+I cover my privates quickly. I forgot I was still naked...
+
+[MSG$00D181,56]
+Takashiro "I'll take care of your sister. You should try
+
+[MSG$00D1BE,51]
+and forget about all this. It's for your own good."
+
+[MSG$00D29C,29]
+Then I went to take a shower.
+
+[MSG$00D2BE,47]
+I cover myself with hot water to relax my mind.
+
+[MSG$00D2F2,63]
+I quickly shower up, change my clothes, and go back to my room.
+
+[MSG$00D3BA,106]
+Ms. Takashiro put clothes on my sister and let her sleep in my room. She also cleaned up my sister's room.
+
+[MSG$00D463,53]
+Takashiro "I tried to lie to her about what happened,
+
+[MSG$00D49D,50]
+but I don't know how she'll react, so be careful."
+
+[MSG$00D4E9,89]
+Good...If my sister still remembered the incident, I don't know if I could live with her.
+
+[MSG$00D54F,98]
+Takashiro "I want to know the details. This person who answered the phone...that was Saeki, right?
+
+[MSG$00D5CB,13]
+Minase "Yes."
+
+[MSG$00D5F2,34]
+Takashiro "What exactly happened?"
+
+[MSG$00D62E,43]
+I told her what happened once I got home...
+
+[MSG$00D67F,75]
+Takashiro "I see...so that's what happened. What a terrible thing to do..."
+
+[MSG$00D6E4,66]
+Takashiro "But I wonder what could've made her do such a thing..."
+
+[MSG$00D740,74]
+I wanted to know, too. It's true, Saeki is a real freak about Black Magic.
+
+[MSG$00D797,53]
+She had her little witch coven or whatever at school.
+
+[MSG$00D7D1,65]
+But she's changed so much...as if she's possessed by the devil...
+
+[MSG$00D81F,31]
+Takashiro "I checked out Saeki.
+
+[MSG$00D843,51]
+She gathered some people interested in Black Magic,
+
+[MSG$00D87B,35]
+and started a secret club of sorts.
+
+[MSG$00D8B9,49]
+They were copying what took place 12 years ago...
+
+[MSG$00D8F7,105]
+Takashiro "She recently rented an apartment, and she's practically obsessed with the idea of Black Magic.
+
+[MSG$00D965,55]
+Of course, up until now she's just been playing games."
+
+[MSG$00D9B6,112]
+Takashiro "But if she gained possession of that evil book and its power, something terrible is going to happen."
+
+[MSG$00DA40,33]
+Ms. Takashiro thinks very deeply.
+
+[MSG$00DA6E,91]
+Takashiro "Let's contact Saeki tomorrow and see what we can do. We must get back that book.
+
+[MSG$00DACE,31]
+Plus, I want to see her powers.
+
+[MSG$00DB0D,75]
+Takashiro "I see...so that's what happened. What a terrible thing to do..."
+
+[MSG$00DB72,43]
+Takashiro "I guess I underestimated her..."
+
+[MSG$00DBB7,104]
+Takashiro "I did some research on Dr. Kitami, but she's not listed anywhere with the professorial staff,
+
+[MSG$00DC24,55]
+and she has no personal history of any kind registered.
+
+[MSG$00DC75,51]
+Minase "Then how did she get a job at our college?"
+
+[MSG$00DCC2,90]
+Takashiro "I don't know...She probably used some kind of magic power to disguise herself."
+
+[MSG$00DD36,103]
+Takashiro "But you know, one of my friends who is familiar with this subject did some research for me."
+
+[MSG$00DDB7,51]
+Takashiro "I found out several interesting things."
+
+[MSG$00DE04,19]
+Minase "Like what?"
+
+[MSG$00DE31,76]
+Takashiro "Reika Kitami became known by several dilettantes three years ago.
+
+[MSG$00DE82,22]
+She was very popular."
+
+[MSG$00DEB2,61]
+Takashiro "She was paying a lot of money to purchase books on
+
+[MSG$00DEF4,39]
+|Black Magic and certain old documents.
+
+[MSG$00DF20,94]
+She even went to the British museum to look through some their collection of ancient records."
+
+[MSG$00DF99,72]
+Takashiro "She was a young oriental woman, so she was very conspicuous."
+
+[MSG$00DFFB,102]
+Takashiro "Rumors say that she created a cult group claiming to be an offshoot of the Catholic Church,
+
+[MSG$00E066,28]
+and it had great influence."
+
+[MSG$00E09C,75]
+Takashiro "Later on, she joined a secret society named ''Prieure de Sion,''
+
+[MSG$00E0EC,50]
+and then just appeared at our college a year ago."
+
+[MSG$00E138,47]
+Minase "This Dr. Kitami... Who is she, really?"
+
+[MSG$00E181,62]
+Takashiro "I don't know. But she's no ordinary campus doctor."
+
+[MSG$00E1D9,41]
+Takashiro "I don't know what she's up to,
+
+[MSG$00E207,83]
+but I'm sure this is somehow related to the events that occurred twelve years ago."
+
+[MSG$00E274,83]
+Takashiro "But with all her wealth and power, I wonder why she came to this school.
+
+[MSG$00E2CC,33]
+There's got to be some reason..."
+
+[MSG$00E307,33]
+Ms. Takashiro thinks very deeply.
+
+[MSG$00E335,63]
+Takashiro "Let's contact Saeki tomorrow and see what we can do.
+
+[MSG$00E379,28]
+We must get back that book."
+
+[MSG$00E3AF,45]
+Takashiro "We can deal with Dr. Kitami later.
+
+[MSG$00E3E1,41]
+I'll try to find out some more about her.
+
+[MSG$00E40F,57]
+We can't approach her without knowing who she really is."
+
+[MSG$00E462,60]
+Ms. Takashiro stops talking, and is about to leave the room.
+
+[MSG$00E4AB,40]
+Takashiro "You just stay where you are."
+
+[MSG$00E4ED,95]
+Takashiro "Forget about what happened and get some sleep. You'll feel better tomorrow morning."
+
+[MSG$00E566,27]
+And so, Ms. Takashiro left.
+
+[MSG$00E5B2,45]
+I wonder if I'll really feel better tomorrow.
+
+[MSG$00E5EC,74]
+There's a chance that something terrible could be waiting for me tomorrow.
+
+[MSG$00E63B,74]
+With this uneasy feeling in my gut, I don't think I'll ever feel better...
+
+[MSG$00E692,87]
+I haven't been able to wake up from the nightmare that started in that basement room...
+
+[MSG$00E76F,18]
+..................
+
+[MSG$00E78E,12]
+............
+
+[MSG$00E7A7,6]
+......
+
+[MSG$00E7C1,18]
+April 26 - Shiraki
+
+[MSG$00E7E3,16]
+Voice "Wake up."
+
+[MSG$00E80D,23]
+Voice "Please wake up."
+
+[MSG$00E83E,9]
+Shakes...
+
+[MSG$00E854,24]
+Voice "Minase, wake up."
+
+[MSG$00E886,14]
+Voice "......"
+
+[MSG$00E8A1,66]
+After a short time, I felt someone crawling into my futon with me.
+
+[MSG$00E8F0,50]
+Imari? Is this some crazy new way of waking me up?
+
+[MSG$00E92F,7]
+Grab...
+
+[MSG$00E943,19]
+Then she hugs me...
+
+[MSG$00E963,41]
+I feel her boobs pushing against by body.
+
+[MSG$00E991,23]
+That's pretty daring...
+
+[MSG$00E9B5,56]
+Wait, something's wrong...Imari's boobs aren't this big!
+
+[MSG$00E9FA,22]
+Removing bed sheets...
+
+[MSG$00EA1D,10]
+Falling...
+
+[MSG$00EA34,16]
+Shiraki "Kyaaa!"
+
+[MSG$00EADA,21]
+Minase "Who's there?"
+
+[MSG$00EB09,49]
+I throw the futon aside and wake up with a start.
+
+[MSG$00EB3F,32]
+But I'm the only one on the bed.
+
+[MSG$00EB6C,29]
+Minase "There's nobody here!"
+
+[MSG$00EBA3,44]
+It can't be...I know I heard a female voice.
+
+[MSG$00EC0F,18]
+Shiraki "Ouuch..."
+
+[MSG$00EC3B,55]
+I hear a voice from under the bed, and a woman gets up.
+
+[MSG$00EC77,41]
+I guess she fell off the bed pretty hard.
+
+[MSG$00ECAD,17]
+Minase "Shiraki?"
+
+[MSG$00ECD8,25]
+Shiraki "Good morning..."
+
+[MSG$00ED0B,59]
+It was Rika Shiraki, the girl I banged in the storage room.
+
+[MSG$00ED4B,89]
+She was wearing regular clothes instead of her school uniform. But why is she in my room?
+
+[MSG$00EDB1,26]
+Minase "Why are you here?"
+
+[MSG$00EDE5,22]
+Shiraki "Why? Well..."
+
+[MSG$00EE15,53]
+Shiraki "Yukiko asked me to come in and wake you up."
+
+[MSG$00EE64,28]
+Minase "That crazy woman..."
+
+[MSG$00EE9A,37]
+She probably let her in just for fun.
+
+[MSG$00EEC4,52]
+I try to leave the room so I can go complain to her.
+
+[MSG$00EF05,31]
+Shiraki "She went out already."
+
+[MSG$00EF3E,7]
+Damn...
+
+[MSG$00EF52,40]
+Minase "And what did you come here for?"
+
+[MSG$00EF94,58]
+I was tearing at my hair as I asked the fidgeting Shiraki.
+
+[MSG$00EFD3,61]
+Glancing over at the clock, I saw it was still early morning.
+
+[MSG$00F01D,35]
+Shiraki "Well...I like you Minase."
+
+[MSG$00F05A,75]
+Shiraki "We're lovers, and it's Sunday, so I wanted for us to be together."
+
+[MSG$00F0BF,75]
+Shiraki "But you haven't asked me out or called me ever since that time..."
+
+[MSG$00F124,77]
+Shiraki "That's why I came over here. I asked one of my friends in your class
+
+[MSG$00F176,28]
+|to look up your address..."
+
+[MSG$00F1AC,43]
+Still fidgeting, Shiraki spoke emotionally.
+
+[MSG$00F1E4,37]
+Shiraki "Hey, did I do something bad?
+
+[MSG$00F20E,51]
+Maybe you don't have any feelings for me at all..."
+
+[MSG$00F25B,49]
+This is not good. She has fallen in love with me.
+
+[MSG$00F291,60]
+She doesn't realize that I lied about my feelings for her...
+
+[MSG$00F2DA,76]
+I guess I still have to deal with the consequences of that book after all...
+
+[MSG$00F333,19]
+Minase "You see..."
+
+[MSG$00F360,61]
+I wanted to explain it to her, but I didn't know what to say.
+
+[MSG$00F3AA,84]
+I couldn't say it was because of Black Magic. First, I don't think she'd believe me.
+
+[MSG$00F40B,60]
+She's serious about me. That means she won't change her mind
+
+[MSG$00F44C,48]
+|even if her friends try and talk her out of it.
+
+[MSG$00F489,31]
+Well, I don't exactly hate her.
+
+[MSG$00F4B5,82]
+But this isn't some relationship that started naturally. I made her my love slave,
+
+[MSG$00F50C,32]
+how could I accept her feelings?
+
+[MSG$00F539,28]
+Shiraki "You don't like me?"
+
+[MSG$00F56F,48]
+Shiraki asks me looking like she's about to cry.
+
+[MSG$00F5AC,21]
+I have to tell her...
+
+[MSG$00F5C6,24]
+That I don't like her...
+
+[MSG$00F5E3,66]
+If I don't do something now, it's gonna be even harder later on...
+
+[MSG$00F632,40]
+Minase "That's not true. I do like you."
+
+[MSG$00F674,59]
+Somehow, my words were different than what I actually felt.
+
+[MSG$00F6B4,46]
+I have no idea why I said something like that.
+
+[MSG$00F6EF,65]
+But I knew that she'd be unhappy if I only said I ''like'' her...
+
+[MSG$00F73D,33]
+Shiraki "I'm happy to hear that."
+
+[MSG$00F778,50]
+Shiraki seemed happy from the bottom of her heart.
+
+[MSG$00F7AF,33]
+Why does it have to be like this?
+
+[MSG$00F7DD,65]
+Normally, this would be a good thing, but I'm not happy at all...
+
+[MSG$00F82B,7]
+Hugs...
+
+[MSG$00F8E2,13]
+Minase "Hey!"
+
+[MSG$00F909,48]
+Shiraki hugs me and we both fall toward the bed.
+
+[MSG$00F93E,30]
+Then she offers herself to me.
+
+[MSG$00F969,71]
+Shiraki "Do what you want to me. I don't mind giving myself up to you."
+
+[MSG$00F9CA,61]
+Shiraki "I want you to show me that you truly love me. So..."
+
+[MSG$00FA23,37]
+Shiraki says this while blushing red.
+
+[MSG$00FA4D,31]
+I can hear her breathing heavy.
+
+[MSG$00FA79,64]
+Shiraki "Ever since that day, I think about you and masturbate."
+
+[MSG$00FAD3,55]
+Shiraki "Even now, I'm so excited just talking to you."
+
+[MSG$00FB24,49]
+Shiraki "Please...do me. Let's have sex all day."
+
+[MSG$00FB6F,41]
+At her words, I lose control of myself.
+
+[MSG$00FBA5,17]
+Minase "Shiraki!"
+
+[MSG$00FBD0,27]
+I cover her body with mine.
+
+[MSG$00FBF8,48]
+I decided to drown my unhappiness with pleasure.
+
+[MSG$00FC2D,49]
+Then I can put all the bad things out of my mind.
+
+[MSG$00FC6B,86]
+She still has her clothes on, but I bury my face in her chest. Then I enjoy her scent.
+
+[MSG$00FCCE,23]
+Minase "Smells good..."
+
+[MSG$00FCFF,36]
+Then I start removing her clothes...
+
+[MSG$00FD30,79]
+She looks good in a school uniform, but she looks great in her regular clothes.
+
+[MSG$00FD84,39]
+Her stylish clothes match her attitude.
+
+[MSG$00FDB8,42]
+I'm pretty clumsy as I remove her clothes.
+
+[MSG$00FDE7,61]
+She doesn't resist, and just watches me take off her clothes.
+
+[MSG$00FEBA,59]
+After I remove some of her clothes, I can see her lingerie.
+
+[MSG$00FEFA,62]
+Compared to what she was wearing, her lingerie is really sexy.
+
+[MSG$00FF45,38]
+Minase "Woah, that's kind of kinky..."
+
+[MSG$00FF85,91]
+Her neatly dressed image on the outside and her sexy underwear makes for a real contrast...
+
+[MSG$00FFED,29]
+Shiraki "I hope you like it."
+
+[MSG$010025,37]
+Shiraki says that with embarrassment.
+
+[MSG$010057,19]
+Minase "I like it."
+
+[MSG$010084,50]
+Then I touch her boobs, and play around with them.
+
+[MSG$0100C3,17]
+Shiraki "Annn..."
+
+[MSG$0100EE,54]
+Shiraki's boobs almost stand up every time I rub them.
+
+[MSG$010129,54]
+I enjoy the feel of her boobs, and caress them slowly.
+
+[MSG$01016C,69]
+Minase "Okay, I'll lick your cunt, so move your ass in my direction."
+
+[MSG$0101CB,35]
+She nods, and crosses over my body.
+
+[MSG$010277,40]
+I stroke her ass and remove her panties.
+
+[MSG$0102AC,33]
+I see her cunt juice pouring out.
+
+[MSG$0102DA,27]
+She strokes my crotch area.
+
+[MSG$010302,61]
+I stick out my tongue and place my mouth up against her slit.
+
+[MSG$01034C,17]
+Shiraki "Hyaaa!!"
+
+[MSG$010377,32]
+She screams and her body shakes.
+
+[MSG$0103A4,64]
+I keep moving my tongue inside her, and caress her with my lips.
+
+[MSG$0103E9,37]
+I can really taste her bodily fluids.
+
+[MSG$01041B,23]
+Shiraki "Hagh...Aan..!"
+
+[MSG$01044C,48]
+I make slurping sounds and keep using my tongue.
+
+[MSG$010481,39]
+Occasionally, I swallow her cunt juice.
+
+[MSG$0104B5,41]
+As I stimulate her, she reacts intensely.
+
+[MSG$0104E3,42]
+I keep doing her as I enjoy the situation.
+
+[MSG$01051A,34]
+Shiraki "I want to suck on yours."
+
+[MSG$0105CF,78]
+She trembles as she enjoys herself, and removes my pajama pants and underwear.
+
+[MSG$010622,34]
+Then she starts to stroke my cock.
+
+[MSG$010651,30]
+Sounds from the crotch area...
+
+[MSG$01067C,72]
+Sounds from the privates of both of us can be heard throughout the room.
+
+[MSG$0106C9,65]
+We stimulate each other, and it reaches the peak of excitement...
+
+[MSG$010717,33]
+Shiraki "Hahh..hah..hah..hahhh.."
+
+[MSG$010752,31]
+Shiraki "No..I'm gonna climax!"
+
+[MSG$01078B,41]
+So I keep stimulating her sensitive spot.
+
+[MSG$0107B9,41]
+Soon, she is unable to bear the pleasure.
+
+[MSG$0107EF,33]
+Shiraki "I'm coming! I'm coming!"
+
+[MSG$01082A,16]
+Shiraki "Nnnnn!"
+
+[MSG$0108CD,10]
+Squirts...
+
+[MSG$0108E4,45]
+Then a clear liquid squirts from her opening.
+
+[MSG$01091E,13]
+Minase "Wah!"
+
+[MSG$010945,36]
+My face gets covered in that liquid.
+
+[MSG$010976,38]
+Shiraki "Aah! No... It's great! Urrr!"
+
+[MSG$0109B6,19]
+Liquid pours out...
+
+[MSG$0109D6,47]
+I get covered in liquid, as if being pissed on.
+
+[MSG$010A0A,58]
+Her body convulses, and liquid keeps pouring out from her.
+
+[MSG$010A51,31]
+Shiraki "Hahh...hah...hahhh..."
+
+[MSG$010B03,85]
+After a while, still basking the pleasure, she is breathing heavy in utter amazement.
+
+[MSG$010B65,41]
+My body was covered with her cunt juices.
+
+[MSG$010B9B,34]
+Shiraki "Sorry, I climaxed first."
+
+[MSG$010BD7,33]
+Shiraki "Kyaa! Did I wet on you?"
+
+[MSG$010C12,47]
+She's saying that while looking at my wet body.
+
+[MSG$010C4E,31]
+Minase "Aah...I'm soaking wet."
+
+[MSG$010C87,34]
+I wipe off her juice from my face.
+
+[MSG$010CAE,63]
+It's cold. The liquid soaking into my clothes became very cold.
+
+[MSG$010CFA,42]
+Shiraki "I'm sorry. I'll wipe it all off."
+
+[MSG$010D3E,44]
+Minase "It's okay. I'm gonna change anyway."
+
+[MSG$010E15,24]
+I remove my wet clothes.
+
+[MSG$010E32,47]
+She had already removed my pants and underwear.
+
+[MSG$010E6E,32]
+Minase "Okay, now it's my turn."
+
+[MSG$010EA8,16]
+Shiraki "Kyaaa!"
+
+[MSG$010F4E,44]
+I lie on top of her and spread out her legs.
+
+[MSG$010F87,47]
+Shiraki "No, if you spread me out that much..."
+
+[MSG$010FD0,35]
+Her face is red with embarrassment.
+
+[MSG$011000,56]
+Minase "You don't have to be embarrassed at this point."
+
+[MSG$011052,25]
+Minase "Okay, here goes."
+
+[MSG$011085,19]
+Shiraki "Go ahead."
+
+[MSG$0110B2,39]
+I stick my cock inside her very slowly.
+
+[MSG$01115F,12]
+Insertion...
+
+[MSG$011178,15]
+Shiraki "Haan!"
+
+[MSG$0111A1,49]
+It brings out an intense stimulation in my penis.
+
+[MSG$0111DF,51]
+And just like that, I start to feel so much better.
+
+[MSG$011217,45]
+Enjoying the moment, I started to eat her up.
+
+[MSG$011251,14]
+Intercourse...
+
+[MSG$01126C,45]
+Sounds and fluids are flowing from our union.
+
+[MSG$01129E,34]
+Shiraki's vagina felt really good.
+
+[MSG$0112C5,66]
+Even if I have no feelings for her, banging her feels fantastic...
+
+[MSG$011314,45]
+Shiraki "Great! Your cock feels really good!"
+
+[MSG$01135C,28]
+Shiraki is really into this.
+
+[MSG$01137D,37]
+I was enjoying these feelings myself.
+
+[MSG$0113AF,71]
+Shiraki "I'm all yours. We're going to be together from now on. Hahhh!"
+
+[MSG$011410,32]
+Minase "Yeah! You belong to me."
+
+[MSG$01144A,44]
+Shiraki "You can have me whenever you want!"
+
+[MSG$011490,51]
+Minase "Yeah, I'll do you whenever you want me to."
+
+[MSG$0114DD,33]
+I began to thrust my hips faster.
+
+[MSG$01150B,54]
+Shiraki "Haaan! It's inside, it's really deep inside!"
+
+[MSG$01155B,53]
+She keeps up with me, as if she's used to having sex.
+
+[MSG$01159D,10]
+Banging...
+
+[MSG$0115B4,44]
+We bang our hips, and start to reach climax.
+
+[MSG$0115ED,27]
+Minase "I'm about to come."
+
+[MSG$011622,57]
+As I say it, I'm holding back the feeling of ejaculation.
+
+[MSG$011668,34]
+Shiraki "You can do it inside me."
+
+[MSG$0116A4,16]
+Minase "Really?"
+
+[MSG$0116CE,26]
+Shiraki "Yeah, I guess..."
+
+[MSG$011702,49]
+My come was already reaching the tip of my penis.
+
+[MSG$011738,21]
+I can't pull out now.
+
+[MSG$01175A,24]
+Minase "Ah, I'm coming!"
+
+[MSG$01178C,34]
+I moved my hips forward as I come.
+
+[MSG$0118AD,14]
+Ejaculating...
+
+[MSG$0118C8,79]
+I stick in my cock as deep as I can and shoot hot cock juice inside her uterus.
+
+[MSG$011924,24]
+Shiraki "Hau! Nn..Nnnn!"
+
+[MSG$011956,60]
+She thrusts out her hips and tries to suck in my cock juice.
+
+[MSG$01199F,18]
+Cum pouring out...
+
+[MSG$0119BE,63]
+I climax inside her and shot lots of juice inside her uterus...
+
+[MSG$011A0A,22]
+Shiraki "It's warm..."
+
+[MSG$011A3A,61]
+She was fascinated with all the juice pouring out inside her.
+
+[MSG$011A84,65]
+She was very innocent until the other day, and look at her now...
+
+[MSG$011ACA,29]
+Is this because of that book?
+
+[MSG$011B45,26]
+Minase "Hah..hah..hahhh.."
+
+[MSG$011B79,53]
+I was dead tired, but I still had my cock inside her.
+
+[MSG$011BBB,42]
+Minase "You're not worried I came inside?"
+
+[MSG$011BFF,53]
+I got my breathing under control as I asked her this.
+
+[MSG$011C41,14]
+Shiraki "Why?"
+
+[MSG$011C69,38]
+Minase "Why? What if you get pregnant?
+
+[MSG$011CA9,60]
+I may be stupid, but I know what happens if you come inside.
+
+[MSG$011CF2,38]
+Shiraki "If it's yours, I don't mind."
+
+[MSG$011D32,41]
+Shiraki "I don't mind if I get pregnant."
+
+[MSG$011D76,14]
+Minase "Wha!?"
+
+[MSG$011D9F,23]
+I'm at a loss of words.
+
+[MSG$011DC3,44]
+Shiraki "So you can come inside every time."
+
+[MSG$011E0A,71]
+At her words, I get excited and my cock begins to get erect inside her.
+
+[MSG$011E5E,46]
+Shiraki "Your cock is getting hard inside me?"
+
+[MSG$011EA6,31]
+Minase "I want to do it again."
+
+[MSG$011EDF,80]
+Shiraki "You can do it as many times as you like. That's why I came over today."
+
+[MSG$011F49,34]
+She smiles and her cheeks are red.
+
+[MSG$011F78,14]
+Minase "Shit!"
+
+[MSG$011FA0,48]
+I was slowly digging a deeper hole for myself...
+
+[MSG$011FD5,57]
+No matter what I feel, my body can't escape from Shiraki.
+
+[MSG$012013,60]
+I did this to myself, and I was beginning to lose control...
+
+[MSG$0120AD,20]
+Moving inside her...
+
+[MSG$0120CE,51]
+I started to move my cock inside her sticky vagina.
+
+[MSG$012106,87]
+Her tight vagina and the stickiness of the juice inside provide me with great pleasure.
+
+[MSG$01216A,43]
+For my cock, the feeling is sweet as sugar.
+
+[MSG$01219A,73]
+I'm getting more excited than the first time as I keep thrusting my hips.
+
+[MSG$0121F0,10]
+Banging...
+
+[MSG$012207,61]
+As I ram my cock deep, the liquid inside keeps squirting out.
+
+[MSG$012251,47]
+Shiraki "Haaan! Aan! Deep, it's going in deep!"
+
+[MSG$01229A,115]
+Every time I bang her, the tip of my cock touches the opening of the uterus. Her body twitches every time I thrust.
+
+[MSG$01231A,53]
+As I keep doing her, I felt the urge to climax again.
+
+[MSG$01235C,34]
+Minase "I think I'm coming again."
+
+[MSG$012398,17]
+Shiraki "Me too."
+
+[MSG$0123C3,42]
+Minase "I'll shoot it all over your face."
+
+[MSG$012407,45]
+Shiraki "Okay. Let me taste your cock juice!"
+
+[MSG$01244E,33]
+I pull my cock out of her vagina.
+
+[MSG$0124F5,19]
+Cock pulling out...
+
+[MSG$012515,21]
+Liquid pouring out...
+
+[MSG$012537,39]
+Thick liquid pours out from her vagina.
+
+[MSG$01256B,70]
+I place my cock in front of her face, and start stroking it violently.
+
+[MSG$01263A,39]
+She uses her hand to caress her vagina.
+
+[MSG$012666,44]
+She starts moving her hand inside her pussy.
+
+[MSG$01269F,36]
+Her hand moving inside her vagina...
+
+[MSG$0126D0,120]
+As I keep stroking, my cum and her cunt juice become a lubricant, and they rub against each other as they make a noises.
+
+[MSG$01274D,43]
+I can't hold it any longer. I have to come.
+
+[MSG$012785,21]
+Minase "Here I come."
+
+[MSG$0127B4,40]
+Shiraki "Do it! Shoot all over my face!"
+
+[MSG$0127F6,15]
+Minase "Guuuk!"
+
+[MSG$01281F,15]
+And suddenly...
+
+[MSG$0128CC,17]
+The door opens...
+
+[MSG$0128EA,53]
+Suddenly the door opens, and someone enters the room.
+
+[MSG$012924,68]
+There are only two people I know who enter my room without knocking.
+
+[MSG$012975,59]
+And one of them happens to be my sister, who just went out.
+
+[MSG$0129B5,16]
+So that means...
+
+[MSG$012A4E,21]
+Imari "Good morning."
+
+[MSG$012A7E,26]
+Imari "You're up early..."
+
+[MSG$012AB3,29]
+Imari "...this... morning..."
+
+[MSG$012B67,15]
+It was Imari...
+
+[MSG$012B7B,81]
+I have my cock pointed at Shiraki's face, and I'm looking in Imari's direction...
+
+[MSG$012BD9,41]
+Imari is shocked to see what is going on.
+
+[MSG$012C0F,54]
+I keep stroking my cock in front of  Shiraki's face...
+
+[MSG$012C4A,46]
+Shiraki is looking at me as she masturbates...
+
+[MSG$012C85,20]
+I have to stop it...
+
+[MSG$012CA6,34]
+I have to stop stroking my cock...
+
+[MSG$012CD5,6]
+But...
+
+[MSG$012CE8,24]
+I think it's too late...
+
+[MSG$012D0D,15]
+Minase "Uaaaa!"
+
+[MSG$012E28,36]
+But I was at the point of no return.
+
+[MSG$012E51,43]
+I tried to hold it in, but it was no use...
+
+[MSG$012E89,28]
+Shiraki "Aaaan! I'm coming!"
+
+[MSG$012EBF,20]
+Juice pouring out...
+
+[MSG$012EE0,93]
+Imari and I were looking at each other, as I shot loads of white cum all over Shiraki's face.
+
+[MSG$012F42,94]
+Shiraki was also getting off, trembling violently as she was getting covered in my cock juice.
+
+[MSG$012FAD,19]
+Minase "Ah..ahhh.."
+
+[MSG$013053,65]
+At times like these, I'm somehow able to shoot out tons of cum...
+
+[MSG$013099,25]
+Plus it was very thick...
+
+[MSG$0130BF,21]
+Shooting out juice...
+
+[MSG$0130E1,78]
+Juice that shoots out from the tip of my cock covers Shiraki's face and mouth.
+
+[MSG$013134,38]
+Then, the ejaculating finally stops...
+
+[MSG$0131E0,20]
+Shiraki "N...Ngg..."
+
+[MSG$01320E,37]
+Shiraki is drinking up my cock juice.
+
+[MSG$013240,7]
+Gulp...
+
+[MSG$013254,22]
+Shiraki "Delicious..."
+
+[MSG$013284,50]
+Then she gulps down the rest of the white semen...
+
+[MSG$013341,29]
+Then it becomes very quiet...
+
+[MSG$013453,30]
+Things aren't looking so good!
+
+[MSG$01347E,54]
+Things don't seem too good between Imari and myself...
+
+[MSG$0134B9,22]
+Volatile atmosphere...
+
+[MSG$0134DC,51]
+Just when I was having fun, Imari had to show up...
+
+[MSG$013514,24]
+What wonderful timing...
+
+[MSG$013531,61]
+I don't think any kind of excuse will work in this situation.
+
+[MSG$01357B,40]
+Imari just stood there in utter shock...
+
+[MSG$0135B0,28]
+Imari "What are you doing!?"
+
+[MSG$0135E6,65]
+After watching the entire act take place, Imari suddenly screams.
+
+[MSG$013634,44]
+Minase "What do you mean, what...This is..."
+
+[MSG$01367A,42]
+I stopped trying to explain the situation.
+
+[MSG$0136A9,58]
+If I say something, I'm just gonna make things even worse.
+
+[MSG$0136F0,42]
+I should prepare to get pummeled by Imari.
+
+[MSG$01371F,52]
+I don't think she'll let me off with just a beating.
+
+[MSG$013760,50]
+But for her to see us like this, that's a no-no...
+
+[MSG$013797,66]
+It's impossible for us to go on with our lives like we had before.
+
+[MSG$0137DE,29]
+She definitely despises me...
+
+[MSG$013808,64]
+Words such as pervert, sex maniac, and brute comes to my mind...
+
+[MSG$0138F5,20]
+Imari "(Sniffle)..."
+
+[MSG$013923,40]
+But Imari looks like she's about to cry.
+
+[MSG$013950,20]
+Wait, is she crying?
+
+[MSG$013971,53]
+Imari "Hah...(Sob)...I even made lunch for us today!"
+
+[MSG$0139C0,48]
+Imari "You promised it would be today...(Sob)...
+
+[MSG$0139F5,28]
+I was looking forward it..."
+
+[MSG$013A2C,27]
+Imari talks while crying...
+
+[MSG$013A54,69]
+Imari hardly cries at all. She doesn't ever cry in front of people...
+
+[MSG$013AA6,9]
+Sunday...
+
+[MSG$013AB4,52]
+Now I remember, she did say something about today...
+
+[MSG$013AF5,60]
+With Shiraki showing up suddenly, I totally forgot about it.
+
+[MSG$013B36,66]
+But Imari didn't oversleep, made lunch, and came all dressed up...
+
+[MSG$013B85,50]
+I disappointed her. In this worst case scenario...
+
+[MSG$013BC4,25]
+Imari "I feel so stupid!"
+
+[MSG$013BF8,4]
+Bam!
+
+[MSG$013C09,86]
+Imari screams, takes a wrapped package out of her bag, and slams it against the floor.
+
+[MSG$013C64,69]
+The package is smashed, and sandwiches can be seen from the wreckage.
+
+[MSG$013CB6,67]
+Imari "You're a jerk, Minase! I never want to see your face again!"
+
+[MSG$013D8F,4]
+Bam!
+
+[MSG$013DA0,67]
+After Imari finishes screaming, she slams the door shut and leaves.
+
+[MSG$013DF0,12]
+Minase "..."
+
+[MSG$013E09,35]
+I was struck dumb with amazement...
+
+[MSG$013E31,49]
+It's the first time I've seen Imari that angry...
+
+[MSG$013EA2,23]
+Shiraki "Who was that?"
+
+[MSG$013ED3,59]
+Shiraki asks me, as if the answer is very important to her.
+
+[MSG$013F1B,33]
+Minase "Nobody. Just a friend..."
+
+[MSG$013F56,56]
+I explained it to Shiraki as I got things under control.
+
+[MSG$013FCE,31]
+Shiraki "But she looked angry."
+
+[MSG$014008,35]
+Minase "We do this all the time..."
+
+[MSG$014045,68]
+But I knew today was a different from anything that happened before.
+
+[MSG$01408E,103]
+Usually she would forgive and forget after a day or so, but it looks like this time won't be so easy...
+
+[MSG$014135,49]
+Shiraki "Wait, are you going out with that girl?"
+
+[MSG$014180,52]
+Shiraki looks at me with an uneasy look on her face.
+
+[MSG$0141B9,39]
+I thought for a while before I replied.
+
+[MSG$0141ED,70]
+Minase "No, but we've known each other forever. We never even kissed."
+
+[MSG$01424D,47]
+Minase "I only do this kind of thing with you."
+
+[MSG$014296,75]
+I betrayed Imari, but I was feeling something very serious towards Shiraki.
+
+[MSG$0142EE,32]
+I can't depend on Imari anymore.
+
+[MSG$014313,50]
+And I'm beginning to replace Imari with Shiraki...
+
+[MSG$014352,19]
+Shiraki "Minase..."
+
+[MSG$01437F,36]
+Well, no use crying over spilt milk.
+
+[MSG$0143A8,74]
+There's no way for me to get things with Imari back the way they were... *
+
+[MSG$0143FD,55]
+Plus Imari and I never had anything special between us.
+
+[MSG$014441,15]
+I made up mind.
+
+[MSG$01445D,44]
+I don't care if it's Black Magic or a curse.
+
+[MSG$01448E,48]
+Shiraki will love me. That's all there is to it.
+
+[MSG$0144CB,18]
+The phone rings...
+
+[MSG$0144EA,24]
+The phone rings again...
+
+[MSG$01450F,40]
+Suddenly, I notice the phone is ringing.
+
+[MSG$01453C,18]
+I don't answer it.
+
+[MSG$01455B,32]
+Shiraki "The phone's ringing..."
+
+[MSG$014595,30]
+Minase "Don't worry about it."
+
+[MSG$0145CD,36]
+Minase "Come on, let's do it again."
+
+[MSG$01460B,38]
+Shiraki "Yes! Make love to me more..."
+
+[MSG$01464B,13]
+Shiraki nods.
+
+[MSG$014665,51]
+The phone rings for a while, then becomes silent...
+
+[MSG$0146A5,57]
+I decide to forget everything and make love to Shiraki...
+
+[MSG$014784,14]
+Shiraki "Hau!"
+
+[MSG$0147AC,48]
+I keep licking Shiraki's body and reach her ass.
+
+[MSG$0147E9,28]
+Minase "Stick your ass out."
+
+[MSG$01489B,20]
+Shiraki "Like this?"
+
+[MSG$0148C9,47]
+Shraki seems puzzled as she sticks her ass out.
+
+[MSG$014905,48]
+In front of me is her beautiful, curvaceous ass.
+
+[MSG$01493A,41]
+I place my hand on her ass and stroke it.
+
+[MSG$014970,60]
+Minase "You said before that you masturbate everyday right?"
+
+[MSG$0149C6,14]
+Shiraki "Yes."
+
+[MSG$0149EE,39]
+Minase "Do you play with your asshole?"
+
+[MSG$014AA8,47]
+I then stick my middle finger up her tight ass.
+
+[MSG$014ADC,80]
+I stuck my cock in it the other day. I haven't played with her ass today at all.
+
+[MSG$014B39,15]
+Shiraki "Aaan!"
+
+[MSG$014B62,54]
+Shiraki's body trembles as I put my finger up her ass.
+
+[MSG$014B9D,40]
+I feel her warmth with my middle finger.
+
+[MSG$014BD2,39]
+Minase "What a reaction. It's amazing."
+
+[MSG$014C13,14]
+Shiraki "Yes."
+
+[MSG$014C3B,46]
+Shiraki replied honestly with some hesitation.
+
+[MSG$014C76,58]
+Minase "You're very bold despite your honor student look."
+
+[MSG$014CCA,23]
+I laughed very lightly.
+
+[MSG$014CEE,46]
+Shiraki "But...but that's what you taught me."
+
+[MSG$014D36,35]
+Shiraki replied with embarrassment.
+
+[MSG$014D5E,77]
+She must really like sex after getting banged in both holes and masturbating.
+
+[MSG$014DB8,37]
+Minase "You're pretty good at sex..."
+
+[MSG$014DF7,13]
+I teased her.
+
+[MSG$014E11,13]
+Shiraki "No!"
+
+[MSG$014E38,40]
+Shiraki's face turns red and she panics.
+
+[MSG$014E6D,41]
+Minase "Now, let's test out your skills."
+
+[MSG$014F28,27]
+I put my cock near her ass.
+
+[MSG$014F50,29]
+Shiraki "Is it going inside?"
+
+[MSG$014F87,20]
+Minase "Here we go."
+
+[MSG$014FB5,28]
+I slowly push it up her ass.
+
+[MSG$015057,12]
+Insertion...
+
+[MSG$015070,30]
+Tip of my cock enters her ass.
+
+[MSG$01509B,17]
+Shiraki "Haaaah!"
+
+[MSG$0150C6,43]
+I slowly stick it into her tight asshole...
+
+[MSG$0150FE,35]
+It goes in smoother than last time.
+
+[MSG$01512E,28]
+Minase "It's in there deep."
+
+[MSG$015164,42]
+Shiraki "Yes. I feel your cock in my ass."
+
+[MSG$0151A8,28]
+Minase "Can I start moving?"
+
+[MSG$0151DE,23]
+Shiraki "Take it slow."
+
+[MSG$01520F,49]
+I then start to move slowly inside her tight ass.
+
+[MSG$01524D,14]
+Shiraki "Hau!"
+
+[MSG$015275,53]
+Shiraki trembles from the painful feeling in her ass.
+
+[MSG$0152B7,10]
+Banging...
+
+[MSG$0152CE,60]
+Every time I go in and out, her asshole seems to scrunch up,
+
+[MSG$01530F,25]
+and I start to go numb...
+
+[MSG$015335,46]
+Minase "It's great...your ass...Unbelievable."
+
+[MSG$01537D,71]
+Maybe I'm getting better at this, since I'm moving smoothly up her ass.
+
+[MSG$0153D1,23]
+I start to move faster.
+
+[MSG$0153F5,46]
+Shiraki "Good! It's good! It's inside my ass!"
+
+[MSG$01543D,37]
+She was really feeling it in her ass.
+
+[MSG$015467,56]
+She tries to take it in deeper by tightening up her ass.
+
+[MSG$0154AC,64]
+I'm reaching climax, she's doing a great job tightening her ass.
+
+[MSG$0154F9,32]
+Minase "No...I'm about to come."
+
+[MSG$015533,44]
+Shiraki "Great. You can shoot it up my ass."
+
+[MSG$015579,26]
+Minase "Okay, I'm coming!"
+
+[MSG$0155AD,44]
+Shiraki "Do it! Shoot lots of it up my ass!"
+
+[MSG$0156E5,21]
+Shooting white cum...
+
+[MSG$015707,40]
+I was shaking due to the great pleasure,
+
+[MSG$015734,44]
+and I shot plenty of white semen up her ass.
+
+[MSG$01576D,48]
+Shiraki "Guuah! It's flowing, it's flowing out!"
+
+[MSG$0157B7,24]
+White cum flowing out...
+
+[MSG$0157DC,39]
+Shiraki "Wow, it's still coming out..."
+
+[MSG$01581D,52]
+I shot tons of semen, and it still kept pouring out.
+
+[MSG$015856,65]
+She tightens up her ass to get every drop of cock juice inside...
+
+[MSG$0158A4,63]
+After I stop ejaculating, I pull my cock out of her ass slowly.
+
+[MSG$015969,14]
+Pulling out...
+
+[MSG$015984,17]
+Shiraki "Phew..."
+
+[MSG$0159AF,20]
+Juice pouring out...
+
+[MSG$0159D0,32]
+Hot, steamy juice pours out from
+
+[MSG$0159F5,18]
+|both her holes...
+
+[MSG$015A14,29]
+Shiraki "Hah...hah...hahh..."
+
+[MSG$015A4B,54]
+I climaxed so many times, but I'm still not satisfied.
+
+[MSG$015A8E,62]
+I need more to forget about everything that happened before...
+
+[MSG$015AD1,57]
+I'll bang Shiraki until there's nothing left inside me...
+
+[MSG$015B17,36]
+Minase "Can you still do some more?"
+
+[MSG$015B55,29]
+Shiraki "Yes, I can do more."
+
+[MSG$015B8C,40]
+Shiraki "But are you all right, Minase?"
+
+[MSG$015BCE,96]
+Minase "Worry about yourself. I'm gonna see how many times I can shoot off without pulling out."
+
+[MSG$015C48,16]
+Shiraki "Kyaaa!"
+
+[MSG$015C72,27]
+I grabbed hold of her body.
+
+[MSG$015CAF,24]
+April 26 - Ms. Takashiro
+
+[MSG$015D51,31]
+Our bodies are very compatible.
+
+[MSG$015D75,63]
+I banged over and over again, only occasionally taking a break.
+
+[MSG$015DC1,98]
+Other than the time I was resting, my cock was always erect. I'm pretty happy with my sex drive...
+
+[MSG$015E30,41]
+Eventually, we both lost consciousness...
+
+[MSG$015E66,21]
+The doorbell rings...
+
+[MSG$015E88,27]
+The doorbell rings again...
+
+[MSG$015EB0,27]
+The doorbell rings again...
+
+[MSG$015ED8,15]
+Minase "Unn..."
+
+[MSG$015F01,27]
+The doorbell rings again...
+
+[MSG$015F29,25]
+Minase "What the hell..."
+
+[MSG$015F5C,27]
+The doorbell rings again...
+
+[MSG$015F84,27]
+The doorbell rings again...
+
+[MSG$015FAC,23]
+Minase "So annoying..."
+
+[MSG$016059,32]
+I lift my head and open my eyes.
+
+[MSG$01607E,38]
+Shiraki is lying in front of me naked.
+
+[MSG$0160B1,56]
+I must've fallen asleep with my cock still inside her...
+
+[MSG$0160EE,36]
+I pulled out my cock from her pussy.
+
+[MSG$01611F,18]
+Juice flows out...
+
+[MSG$01613E,51]
+Large amounts of semen pours out, forming a pool...
+
+[MSG$01617E,32]
+The doorbell is still ringing...
+
+[MSG$0161AB,20]
+Shiraki "Nn, nnnn.."
+
+[MSG$01620C,17]
+Shiraki wakes up.
+
+[MSG$01622A,26]
+Shiraki "I...fell asleep."
+
+[MSG$01625E,21]
+The doorbell rings...
+
+[MSG$016280,72]
+I put on my clothes, not being able to ignore the sound of the doorbell.
+
+[MSG$0162D5,79]
+Minase "Someone's here. I'll go take a look. Put on your clothes just in case."
+
+[MSG$01633E,13]
+Shiraki nods.
+
+[MSG$016358,52]
+After I put on my clothes, I rush to the front door.
+
+[MSG$016415,21]
+The doorbell rings...
+
+[MSG$016437,30]
+The doorbell is still ringing.
+
+[MSG$016462,28]
+Minase "Yes, just a minute."
+
+[MSG$0164E9,13]
+Opens door...
+
+[MSG$016503,20]
+I unlocked the door.
+
+[MSG$0165A7,25]
+Minase "Ms. Takashiro..."
+
+[MSG$0165DA,43]
+Ms. Takashiro is standing outside the door.
+
+[MSG$01660A,17]
+I let her inside.
+
+[MSG$016628,72]
+Takashiro "If you're here, you shouldn't leave a guest waiting outside."
+
+[MSG$01668A,36]
+She says this with a disgusted look.
+
+[MSG$0166B3,44]
+Well, she should be happy I even answered...
+
+[MSG$0166EC,84]
+Takashiro "I called you several times. But I couldn't get through, so I stopped by."
+
+[MSG$01675A,35]
+Minase "I'm sorry. I was sleeping."
+
+[MSG$016797,36]
+Takashiro "I see. Then that's fine."
+
+[MSG$0167D5,17]
+The door opens...
+
+[MSG$0167F3,69]
+The door to my room opens, and Shiraki comes out wearing her clothes.
+
+[MSG$01689C,33]
+Shiraki "Minase, I'm going home."
+
+[MSG$0168D7,25]
+Minase "Okay. Take care."
+
+[MSG$01690A,42]
+Shiraki passes right by us on the way out.
+
+[MSG$016939,70]
+When she passes Ms. Takashiro, Shiraki bows her head. Then she leaves.
+
+[MSG$0169E2,15]
+Takashiro "..."
+
+[MSG$0169FE,66]
+Takashiro "That was Rika Shiraki right? She's popular among boys."
+
+[MSG$016A5A,35]
+Takashiro "You had sex with her..."
+
+[MSG$016A97,36]
+She says this while sniffing around.
+
+[MSG$016AC8,12]
+Minase "..."
+
+[MSG$016AE1,25]
+I don't know what to say.
+
+[MSG$016B07,71]
+Takashiro "You two are old enough, so I don't have much to say, but..."
+
+[MSG$016B68,38]
+Takashiro "You used protection right?"
+
+[MSG$016BA8,27]
+We didn't use protection...
+
+[MSG$016BF0,39]
+Minase "Of course I used protection..."
+
+[MSG$016C31,9]
+I lied...
+
+[MSG$016C3F,51]
+I came inside her so many times. Protection my ass.
+
+[MSG$016C77,74]
+But Shiraki said I could do it inside, so I don't think there's a problem.
+
+[MSG$016CCE,24]
+Takashiro "All right..."
+
+[MSG$016D00,45]
+Takashiro "You young people usually care more
+
+[MSG$016D32,52]
+|about enjoying yourselves than using protection..."
+
+[MSG$016D8B,33]
+Minase "I didn't use protection."
+
+[MSG$016DC6,20]
+I told her honestly.
+
+[MSG$016DDF,58]
+I did pull out several times, but I didn't use protection.
+
+[MSG$016E26,55]
+But Shiraki said I didn't have to use protection, so...
+
+[MSG$016E6A,91]
+Takashiro "Just as I thought...You know where to by condoms and how to put them on, right?"
+
+[MSG$016EDF,51]
+Minase "But Shiraki said I didn't have to use one."
+
+[MSG$016F2D,38]
+Takashiro "You're being irresponsible.
+
+[MSG$016F58,63]
+There's no time for regrets if something happens.  You got it?"
+
+[MSG$016FB2,22]
+Minase "Yes, ma'am..."
+
+[MSG$016FE3,25]
+Oh well, I was scolded...
+
+[MSG$017009,44]
+Takashiro "I see...so you were with Shiraki.
+
+[MSG$01703A,66]
+I thought you were going out with Imari, but maybe I was wrong..."
+
+[MSG$017096,46]
+Ms. Takashiro seemed to be talking to herself.
+
+[MSG$0170C9,43]
+But suddenly, Ms. Takashiro turned to me...
+
+[MSG$017101,63]
+Takashiro "Did you get involved with her because of that book?"
+
+[MSG$01715A,9]
+Oh boy...
+
+[MSG$017168,20]
+She's really good...
+
+[MSG$0171A9,27]
+Minase "Yes, that's right."
+
+[MSG$0171DE,24]
+Takashiro "You used it?"
+
+[MSG$017210,13]
+Minase "Yes."
+
+[MSG$017237,78]
+Takashiro "What have you done? I can't believe you did such a terrible thing!"
+
+[MSG$01729F,38]
+Takashiro "I knew something was wrong.
+
+[MSG$0172CA,92]
+You couldn't possibly get a popular girl like Shiraki to like you without using that power."
+
+[MSG$017340,38]
+She's right, but I'm kind of pissed...
+
+[MSG$01737E,25]
+Minase "I didn't use it."
+
+[MSG$0173B1,15]
+Takashiro "..."
+
+[MSG$0173CD,19]
+Takashiro "Really?"
+
+[MSG$0173FA,13]
+Minase "Yes."
+
+[MSG$017421,69]
+Takashiro "But isn't it unnatural for you and Shiraki to be together?
+
+[MSG$01746B,48]
+I haven't heard a single rumor about you two..."
+
+[MSG$0174B5,68]
+Takashiro "Actually... I didn't think you two even knew each other."
+
+[MSG$017513,29]
+Minase "Well...Not really..."
+
+[MSG$01754A,84]
+Takashiro "You two don't have anything in common, so how did you guys get together?"
+
+[MSG$0175B8,97]
+Minase "Just because we're not in the same class, doesn't mean we don't have anything in common."
+
+[MSG$017633,24]
+Takashiro "For example?"
+
+[MSG$017665,49]
+Minase "Well, we both walk the same street home?"
+
+[MSG$0176B0,46]
+Takashiro "You go home with Imari, don't you?"
+
+[MSG$0176F8,32]
+Minase "We're in the same club?"
+
+[MSG$017732,54]
+Takashiro "You're in the art club.  She's not, right?"
+
+[MSG$017782,75]
+Minase "We live near each other and we've know each other for a long time?"
+
+[MSG$0177E8,25]
+Takashiro "That's Imari."
+
+[MSG$01781C,12]
+Minase "..."
+
+[MSG$017835,40]
+Takashiro "Why don't you just admit it?"
+
+[MSG$017877,19]
+Minase "I'm sorry."
+
+[MSG$0178A4,87]
+I told her everything. Ms. Takashiro is just like Imari. She can see through my lies...
+
+[MSG$017908,28]
+Takashiro "Ha, I knew it..."
+
+[MSG$01793E,44]
+Minase "Is there a way to remove the spell?"
+
+[MSG$017984,37]
+I ask her with some fear in my voice.
+
+[MSG$0179AE,78]
+The book had many ways of using the spell, but nothing about how to remove it.
+
+[MSG$017A09,17]
+Takashiro "No..."
+
+[MSG$017A34,27]
+She answered without pause.
+
+[MSG$017A5C,110]
+Takashiro "It's a basic concept of black magic. If you use it, you have to face the consequences. You get it?"
+
+[MSG$017AE4,19]
+Minase "Sort of..."
+
+[MSG$017B11,101]
+Takashiro "Just like you can't undo what's you've done, Black Magic is nearly impossible to reverse."
+
+[MSG$017B90,76]
+Takashiro "There are great risks involved when using the powers of darkness.
+
+[MSG$017BE1,16]
+It's not a game.
+
+[MSG$017BF6,52]
+You can't just quit just because you don't like it."
+
+[MSG$017C44,99]
+Takashiro "That's why there are many people who follow Black Magic down the path of destruction..."
+
+[MSG$017CC1,24]
+Minase "Then Shiraki..."
+
+[MSG$017CF3,74]
+Takashiro "I don't know. Maybe the magic will lose its effect by tomorrow.
+
+[MSG$017D42,35]
+Or maybe it will never be removed."
+
+[MSG$017D7F,55]
+Takashiro "That's what you get for playing with magic."
+
+[MSG$017DD0,23]
+Minase "It can't be..."
+
+[MSG$017E01,61]
+Very harsh words...but it's all my fault. I made this happen.
+
+[MSG$017E4B,93]
+Takashiro "Let's just see what happens. If nothing happens, I'll find a way to deal with it."
+
+[MSG$017EC3,27]
+Minase "Thank you so much."
+
+[MSG$017EF8,30]
+Takashiro "One other thing..."
+
+[MSG$017F49,38]
+Takashiro "I checked out Saeki and..."
+
+[MSG$017F89,31]
+Minase "Did you find anything?"
+
+[MSG$017FC3,62]
+Takashiro "She gathered some people interested in Black Magic,
+
+[MSG$018006,35]
+and started a secret club of sorts.
+
+[MSG$018044,49]
+They were copying what took place 12 years ago...
+
+[MSG$018082,105]
+Takashiro "She recently rented an apartment, and she's practically obsessed with the idea of Black Magic.
+
+[MSG$0180F0,55]
+Of course, up until now she's just been playing games."
+
+[MSG$018141,112]
+Takashiro "But if she gained possession of that evil book and its power, something terrible is going to happen."
+
+[MSG$0181CB,33]
+Ms. Takashiro thinks very deeply.
+
+[MSG$0181F9,94]
+Takashiro "Let's contact Saeki tomorrow and see what we can do. We must get back that book. s.
+
+[MSG$01825C,29]
+Plus, I want to see her power
+
+[MSG$018299,45]
+Takashiro "I did some research on Dr. Kitami,
+
+[MSG$0182CB,114]
+but she's not listed anywhere with the professorial staff, and she has no personal history of any kind registered.
+
+[MSG$018357,51]
+Minase "Then how did she get a job at our college?"
+
+[MSG$0183A4,90]
+Takashiro "I don't know...She probably used some kind of magic power to disguise herself."
+
+[MSG$018418,103]
+Takashiro "But you know, one of my friends who is familiar with this subject did some research for me."
+
+[MSG$018499,51]
+Takashiro "I found out several interesting things."
+
+[MSG$0184E6,19]
+Minase "Like what?"
+
+[MSG$018513,76]
+Takashiro "Reika Kitami became known by several dilettantes three years ago.
+
+[MSG$018564,22]
+She was very popular."
+
+[MSG$018594,58]
+Takashiro "She was paying a lot of money to purchase books
+
+[MSG$0185D3,48]
+|books on Black Magic and certain old documents.
+
+[MSG$018608,94]
+She even went to the British museum to look through some their collection of ancient records."
+
+[MSG$018681,72]
+Takashiro "She was a young oriental woman, so she was very conspicuous."
+
+[MSG$0186E3,102]
+Takashiro "Rumors say that she created a cult group claiming to be an offshoot of the Catholic Church,
+
+[MSG$01874E,28]
+and it had great influence."
+
+[MSG$018784,75]
+Takashiro "Later on, she joined a secret society named ''Prieure de Sion,''
+
+[MSG$0187D4,50]
+and then just appeared at our college a year ago."
+
+[MSG$018820,47]
+Minase "This Dr. Kitami... Who is she, really?"
+
+[MSG$018869,62]
+Takashiro "I don't know. But she's no ordinary campus doctor."
+
+[MSG$0188C1,41]
+Takashiro "I don't know what she's up to,
+
+[MSG$0188EF,50]
+but I'm sure this is somehow related to the events
+
+[MSG$018926,32]
+that occurred twelve years ago."
+
+[MSG$018960,83]
+Takashiro "But with all her wealth and power, I wonder why she came to this school.
+
+[MSG$0189B8,33]
+There's got to be some reason..."
+
+[MSG$0189F3,33]
+Ms. Takashiro thinks very deeply.
+
+[MSG$018A21,63]
+Takashiro "Let's contact Saeki tomorrow and see what we can do.
+
+[MSG$018A65,28]
+We must get back that book."
+
+[MSG$018A9B,45]
+Takashiro "We can deal with Dr. Kitami later.
+
+[MSG$018ACD,41]
+I'll try to find out some more about her.
+
+[MSG$018AFB,57]
+We can't approach her without knowing who she really is."
+
+[MSG$018B4E,53]
+Ms. Takashiro stops talking, and gets ready to leave.
+
+[MSG$018B90,40]
+Takashiro "You just stay where you are."
+
+[MSG$018BD2,82]
+Takashiro "Get some rest. It looks like we're going to be busy starting tomorrow."
+
+[MSG$018C3E,20]
+Minase "Uh, okay..."
+
+[MSG$018C90,21]
+She opens the door...
+
+[MSG$018CB2,27]
+And so, Ms. Takashiro left.
+
+[MSG$018D5E,51]
+I return to my room to sit down.  I feel exhausted.
+
+[MSG$018D9E,17]
+Minase "Hahhh..."
+
+[MSG$018DC9,57]
+I'm feeling totally drained both physically and mentally.
+
+[MSG$018E0F,27]
+A lot has happened today...
+
+[MSG$018E2F,42]
+About Ms. Takashiro, Shiraki, and Imari...
+
+[MSG$018E66,45]
+I miss when I was bored day in and day out...
+
+[MSG$018EA0,68]
+I look at the floor, and there's the lunch box that Imari brought...
+
+[MSG$018EF1,59]
+I then grab the sandwiches from the lunch box and eat them.
+
+[MSG$018F39,21]
+Minase "Delicious..."
+
+[MSG$018F68,21]
+I muttered to myself.
+
+[MSG$019005,21]
+.....................
+
+[MSG$019027,15]
+...............
+
+[MSG$019043,6]
+......
+
+[MSG$01905D,18]
+April 26 - Morning
+
+[MSG$019077,18]
+Imari "Wake up..."
+
+[MSG$0190A3,23]
+Imari "Rise and shine!"
+
+[MSG$0190D4,43]
+Imari "Hey, you should keep your promises!"
+
+[MSG$019119,26]
+Imari "Come on, hurry up!"
+
+[MSG$01914D,9]
+Shakes...
+
+[MSG$019163,57]
+Imari "You know I came here later than usual to be nice."
+
+[MSG$0191B6,64]
+Imari "Wake up will you? How can you sleep this much on Sunday?"
+
+[MSG$019210,8]
+Shake...
+
+[MSG$019225,14]
+Imari "Aaagh!"
+
+[MSG$01924D,38]
+Imari "Okay, let's see if this works."
+
+[MSG$019326,6]
+Bam...
+
+[MSG$019339,16]
+Imari "Wake up!"
+
+[MSG$0193FC,6]
+Bam...
+
+[MSG$01940F,16]
+Imari "Wake up!"
+
+[MSG$019439,30]
+Imari keeps punching my futon.
+
+[MSG$01945C,67]
+I'm wrapped inside my futon, taking punishment like a punching bag.
+
+[MSG$0194AC,34]
+I can't keep sleeping like this...
+
+[MSG$0194DB,53]
+Unable to tolerate Imari's attacks, I open my eyes...
+
+[MSG$0195D1,16]
+Minase "Ummm..."
+
+[MSG$0195FB,29]
+Imari "You're finally awake!"
+
+[MSG$019632,55]
+Minase "What? Today's Sunday. There's no school today."
+
+[MSG$019683,42]
+I say this to Imari while rubbing my eyes.
+
+[MSG$0196B2,34]
+Maybe she forgot today's Sunday...
+
+[MSG$0196D9,38]
+I guess that's possible in her case...
+
+[MSG$01970C,27]
+Imari "Don't you remember?"
+
+[MSG$019741,36]
+Imari says it with a surprised look.
+
+[MSG$019772,26]
+Minase "What do you mean?"
+
+[MSG$0197A6,34]
+Imari "You promised me, remember?"
+
+[MSG$0197E2,50]
+Now that she mentions it, I do remember something.
+
+[MSG$019821,48]
+I guess I did make plans for today with Imari...
+
+[MSG$01985E,70]
+But I also have to meet Ms. Kitami later, so I can't keep on sleeping.
+
+[MSG$0198A9,47]
+Anyway, I have to act like it's a normal day...
+
+[MSG$0198E5,47]
+Imari "Don't tell me you forgot about today..."
+
+[MSG$01992E,22]
+Her body is shaking...
+
+[MSG$019951,51]
+Her body shakes harder, she's at the boiling point.
+
+[MSG$019991,60]
+Imari "I went to so much trouble just to look nice today!!!"
+
+[MSG$0199E7,65]
+Holy cow, she's wearing make-up. I'm surprised she even owns any.
+
+[MSG$019A2D,69]
+I thought she was the type of person who would never buy cosmetics...
+
+[MSG$019A7F,35]
+Her body is trembling with anger...
+
+[MSG$019AAF,30]
+Oh no, she's about to explode!
+
+[MSG$019AD2,26]
+I need to calm her down...
+
+[MSG$019AF9,86]
+Minase "Well, you are looking feminine and pretty, so don't ruin it by getting angry."
+
+[MSG$019B6A,50]
+After she hears my words, she comes to her senses.
+
+[MSG$019BA9,15]
+Imari "Ummm..."
+
+[MSG$019BD3,57]
+Imari sounds pretty frustrated as she tries to calm down.
+
+[MSG$019C19,29]
+Imari "I guess you're right."
+
+[MSG$019C50,35]
+Minase "Hey, show me a happy face."
+
+[MSG$019CC0,15]
+Imari "Hehehe."
+
+[MSG$019CE9,61]
+Imari tries to laugh, but her face is twitching and is scary.
+
+[MSG$019D2B,42]
+She thinks she looks light-hearted, but...
+
+[MSG$019D62,79]
+While looking at her freaky smile, I get out of bed and start changing clothes.
+
+[MSG$019E4F,11]
+Changing...
+
+[MSG$019E67,56]
+I get the clothes out of the closet and start to change.
+
+[MSG$019EA4,56]
+Imari is dressed up, but I'll just wear regular clothes.
+
+[MSG$019EE9,75]
+I'm only gonna be hanging out with Imari. It's not like a date or anything.
+
+[MSG$019F39,68]
+Imari probably doesn't know it, but I'm about to betray her, anyway.
+
+[MSG$01A02A,23]
+Imari "Okay, let's go."
+
+[MSG$01A05B,14]
+Minase "Okay."
+
+[MSG$01A083,22]
+April 26 - School Zone
+
+[MSG$01A148,79]
+Several minutes later, Imari and I were walking along the path we usually take.
+
+[MSG$01A1A4,77]
+I put my hand in my pocket to make sure I had the drug I got from Ms. Kitami.
+
+[MSG$01A1F6,44]
+I need to get Imari to drink this somehow...
+
+[MSG$01A227,35]
+I guess it should be pretty easy...
+
+[MSG$01A257,74]
+But until I have a chance, I better not let Imari get suspicious at all...
+
+[MSG$01A2AE,31]
+Minase "So where are we going?"
+
+[MSG$01A2E7,22]
+Imari "It's a secret."
+
+[MSG$01A317,33]
+I wonder where she's taking me...
+
+[MSG$01A33D,57]
+I've been following her, but she hasn't told me anything.
+
+[MSG$01A383,52]
+So far, we're walking the way we walk every morning.
+
+[MSG$01A3C4,32]
+Minase "Can't you just tell me?"
+
+[MSG$01A3FE,36]
+Imari "You'll find out soon enough."
+
+[MSG$01A43C,110]
+I'll find out soon enough... That means I won't know until we get there. So I gave up and just followed Imari.
+
+[MSG$01A4B7,48]
+We're walking down a path that is very familiar.
+
+[MSG$01A4EC,32]
+It's the path leading to school.
+
+[MSG$01A519,46]
+Was there some hip new club in this direction?
+
+[MSG$01A54C,55]
+We're roughly in the opposite direction of the station.
+
+[MSG$01A614,47]
+Then we pass by the front gate of the school...
+
+[MSG$01A6E9,7]
+Bump...
+
+[MSG$01A6FD,50]
+I bump into Imari as she suddenly comes to a halt.
+
+[MSG$01A7C0,15]
+Minase "Ouch...
+
+[MSG$01A7E9,35]
+Minase "Why did you suddenly stop?"
+
+[MSG$01A826,19]
+Imari "We're here."
+
+[MSG$01A853,15]
+Minase "Where?"
+
+[MSG$01A87C,13]
+Imari "Here."
+
+[MSG$01A8A3,40]
+We're at the front gate of our school...
+
+[MSG$01A8D0,31]
+This is not exactly hip or new.
+
+[MSG$01A8FC,29]
+Minase "This is...our school.
+
+[MSG$01A933,25]
+Imari "Yeah, our school."
+
+[MSG$01A966,47]
+Minase "Huh? Is this your idea of a good date?"
+
+[MSG$01A9AF,38]
+Imari "Who said we're going on a date?
+
+[MSG$01A9DA,58]
+I'm going to help you create a work of art, you lazy bum!"
+
+[MSG$01AA2E,83]
+Imari "But since we're wearing regular clothes, I guess we could call it a date..."
+
+[MSG$01AACE,56]
+Imari "Did you really want to go out on a date with me?"
+
+[MSG$01AB20,45]
+Imari spoke with a strange smile on her face.
+
+[MSG$01AB5A,26]
+Minase "Don't be silly..."
+
+[MSG$01AB8E,30]
+I avert my eyes as I say this.
+
+[MSG$01ABEC,81]
+Imari "Whatever! But it's kind of fun to have a date at a school. Hey, let's go."
+
+[MSG$01AC57,40]
+Imari is giggling and in high spirits...
+
+[MSG$01AC8C,98]
+Normally I'd try to get out of this, but today is different. Until I can get her to take the drug,
+
+[MSG$01ACF3,41]
+I'll have to listen to whatever she says.
+
+[MSG$01AD29,99]
+Besides, since the school is pretty much empty, it's the perfect place to do what I need to do...
+
+[MSG$01AE2A,36]
+I follow Imari and enter the school.
+
+[MSG$01AE5B,95]
+Then we go to the staff room to borrow the keys to the art room. We then head for the art room.
+
+[MSG$01AEC7,19]
+April 26 - Art room
+
+[MSG$01AF61,13]
+Opens door...
+
+[MSG$01AF7B,60]
+Imari and I enter the vacant art room.  It's deathly silent.
+
+[MSG$01B048,40]
+Minase "Aren't we gonna get in trouble?"
+
+[MSG$01B08B,46]
+Imari "Don't worry. I already have permission.
+
+[MSG$01B0D3,64]
+Then Imari begins to prepare the supplies like she usually does.
+
+[MSG$01B120,46]
+Imari "Okay, let's get cracking on your piece.
+
+[MSG$01B153,68]
+You never show up for meetings, so I made some time for us to work."
+
+[MSG$01B1B1,67]
+Imari "We have plenty of time today, we can get so much work done!"
+
+[MSG$01B20E,55]
+Minase "But I never asked you to do all this for me..."
+
+[MSG$01B25F,17]
+Imari "Hahhhh..."
+
+[MSG$01B28A,12]
+Imari sighs.
+
+[MSG$01B2A3,52]
+Imari "You know, I'm helping you out because I care.
+
+[MSG$01B2DC,47]
+If you don't take it seriously, I'll be angry."
+
+[MSG$01B325,35]
+Imari "Here, take out your canvas."
+
+[MSG$01B362,21]
+Minase "All right..."
+
+[MSG$01B3B5,33]
+I do what Imari says unwillingly.
+
+[MSG$01B3E3,47]
+I take out the canvas and place it on an easel.
+
+[MSG$01B49C,60]
+Man, what a horrible piece of work. I want to cover my eyes.
+
+[MSG$01B4DD,78]
+If I keep looking at this piece, my desire to do work will drop to new lows. *
+
+[MSG$01B5D6,39]
+Imari "Hey, how much did you get done?"
+
+[MSG$01B617,23]
+Can I show this to her?
+
+[MSG$01B63B,40]
+I haven't shown this piece to Imari yet.
+
+[MSG$01B670,67]
+I feel sorry for Imari who has to pose for this sorry piece of art.
+
+[MSG$01B6C0,52]
+I have to do this today without her looking at it...
+
+[MSG$01B6F9,35]
+Then I won't ever have to show her.
+
+[MSG$01B729,75]
+Minase "I'll show it to you on our way home. I want this to be a surprise."
+
+[MSG$01B78E,34]
+If I we go home at all, that is...
+
+[MSG$01B7BD,55]
+Imari "If I don't see it, I can't give you any advice."
+
+[MSG$01B80E,39]
+Minase "Don't worry, I did a good job."
+
+[MSG$01B84F,45]
+Imari "But you still didn't color it at all."
+
+[MSG$01B896,42]
+Minase "I'll have this finished up today."
+
+[MSG$01B8DA,31]
+Imari "Really? All right then."
+
+[MSG$01B913,26]
+Imari believed my words...
+
+[MSG$01B93A,26]
+Imari "Okay, let's begin."
+
+[MSG$01B96E,52]
+Minase "But you're not wearing your school uniform."
+
+[MSG$01B9BC,29]
+Imari "Huh? Wha..? Darn it!!"
+
+[MSG$01B9F3,47]
+Yes, I was drawing Imari in her school uniform.
+
+[MSG$01BA27,50]
+Imari is not wearing her school uniform right now.
+
+[MSG$01BA5E,39]
+But it seems she forgot about all that.
+
+[MSG$01BA92,72]
+Of course, with this sloppy drawing, it doesn't matter what she wears...
+
+[MSG$01BAE7,31]
+Minase "What are you gonna do?"
+
+[MSG$01BB20,44]
+Imari "I got it, just hold on for a second."
+
+[MSG$01BB8A,51]
+And so Imari went into the art supply storage room.
+
+[MSG$01BBCA,26]
+Then five minutes later...
+
+[MSG$01BBF1,13]
+Door opens...
+
+[MSG$01BC3D,31]
+Minase "What took you so long?"
+
+[MSG$01BC76,14]
+Imari "Sorry."
+
+[MSG$01BC9E,40]
+Imari came out wearing a school uniform.
+
+[MSG$01BCD3,32]
+Minase "Where did you get that?"
+
+[MSG$01BD0D,92]
+Imari "It was left behind by one of the graduate students. There were two or three uniforms,
+
+[MSG$01BD6E,36]
+but I could only fit into this one."
+
+[MSG$01BDAC,68]
+Imari "But they must've made their skirt shorter. I hope it's okay."
+
+[MSG$01BE0A,54]
+The skirt was indeed very short, and if she bent down,
+
+[MSG$01BE45,35]
+you could probably see her panties.
+
+[MSG$01BE75,53]
+Imari "I don't feel right with my panties exposed..."
+
+[MSG$01BEC4,26]
+Minase "It's no big deal."
+
+[MSG$01BEF8,49]
+Imari "It's a matter of being comfortable, okay?"
+
+[MSG$01BF43,59]
+Minase "Yeah, I might be sick if I see your dirty panties."
+
+[MSG$01C030,4]
+Bam!
+
+[MSG$01C041,33]
+Imari "My panties are not dirty!"
+
+[MSG$01C07C,30]
+Minase "I was just kidding..."
+
+[MSG$01C0B4,46]
+Imari "Stop fooling around and start drawing."
+
+[MSG$01C179,32]
+And so Imari sat in front of me.
+
+[MSG$01C1A6,36]
+Imari "Hey, are my panties showing?"
+
+[MSG$01C1E4,39]
+Imari asks me as if it's bothering her.
+
+[MSG$01C218,34]
+Minase "Don't worry. They're not."
+
+[MSG$01C254,39]
+No, her panties were showing all right.
+
+[MSG$01C288,58]
+But I pretended I didn't know, and put charcoal on canvas.
+
+[MSG$01C2CF,62]
+Imari "Well, let's do our best. We have plenty of time today."
+
+[MSG$01C327,68]
+I get the creeps just thinking about having to do this all day long.
+
+[MSG$01C370,87]
+I have to do something about this. But as long as Imari is watching, I can't slack off.
+
+[MSG$01C3D4,45]
+I pretend like I'm drawing to kill some time.
+
+[MSG$01C40E,10]
+Drawing...
+
+[MSG$01C425,63]
+But trying to kill time by pretending to draw is a real pain...
+
+[MSG$01C469,13]
+I'm so bored.
+
+[MSG$01C483,35]
+Minase "Why don't we take a break?"
+
+[MSG$01C4C0,30]
+Imari "Nope. We just started."
+
+[MSG$01C4F8,50]
+Damn...If I don't find a way to give her the drug,
+
+[MSG$01C52F,40]
+this torture is never, ever gonna end...
+
+[MSG$01C564,10]
+Drawing...
+
+[MSG$01C57B,45]
+I move my hand and try to relieve my boredom.
+
+[MSG$01C5B5,48]
+I think for a second and look at Imari's crotch.
+
+[MSG$01C5EA,68]
+I keep staring at it to keep myself awake, and begin a rough sketch.
+
+[MSG$01C63B,57]
+From here, I can clearly see every detail of her panties.
+
+[MSG$01C679,54]
+I concentrate on drawing while looking at her panties.
+
+[MSG$01C6BC,10]
+Drawing...
+
+[MSG$01C6D3,49]
+Imari "Hey, have you been looking at my panties?"
+
+[MSG$01C71E,38]
+Minase "No. Look, I'm moving my hand."
+
+[MSG$01C7DB,10]
+Drawing...
+
+[MSG$01C7F2,10]
+Drawing...
+
+[MSG$01C809,63]
+I kept drawing her crotch on the canvas for the entire morning.
+
+[MSG$01C855,16]
+Minase "Phew..."
+
+[MSG$01C87F,30]
+I sigh and put down my pencil.
+
+[MSG$01C8AA,21]
+It looks pretty good.
+
+[MSG$01C8C4,71]
+I'm surprised, but it looks like there are some things I can draw well.
+
+[MSG$01C918,28]
+April 26 - Imari's lunch box
+
+[MSG$01C9D6,57]
+Imari "Look at the time! Okay, let's take a lunch break."
+
+[MSG$01CA29,23]
+That's what Imari said.
+
+[MSG$01CA45,45]
+I look at the time, and it's a bit past noon.
+
+[MSG$01CA7F,88]
+Minase "Ugh, what are we gonna do? The cafeteria is closed, and we don't have any food."
+
+[MSG$01CAF1,36]
+Imari "Look. I prepared some lunch."
+
+[MSG$01CB2F,43]
+Imari takes a wrapped lunch out of her bag.
+
+[MSG$01CB5F,63]
+When the covering is removed, I can see it's in a girly basket.
+
+[MSG$01CBAB,49]
+She also takes a thermos bottle out from the bag.
+
+[MSG$01CBE1,56]
+Imari opens the basket, and there are sandwiches inside.
+
+[MSG$01CCAB,56]
+Imari "I put a lot of effort in making this, so eat up."
+
+[MSG$01CCFD,38]
+Minase "What? You made this yourself?"
+
+[MSG$01CD3D,55]
+Imari "How rude! I'm really good at cooking, you know."
+
+[MSG$01CD8E,96]
+Now that I think about it, Imari does cook when my sister is away, and she's a pretty good cook.
+
+[MSG$01CDFB,34]
+Imari "I have a little more food."
+
+[MSG$01CE37,27]
+Imari opens the Tupperware.
+
+[MSG$01CE57,39]
+Inside are sausages, eggs, and a salad.
+
+[MSG$01CE8B,50]
+Imari "This is an octopus, and this one's a star."
+
+[MSG$01CED7,84]
+Imari points to the sausage shaped like an octopus, and a carrot shaped like a star.
+
+[MSG$01CF30,103]
+If your mom was still making your lunch, it'd be the kind of silly food you'd get to bring to a picnic.
+
+[MSG$01CFA4,66]
+Imari "I also have tea. The thermos kept it nice and warm for us."
+
+[MSG$01D000,60]
+Imari opens the thermos. Hot steam rises up from the bottle.
+
+[MSG$01D049,55]
+Yes! I can put the drug inside and have her drink it...
+
+[MSG$01D085,43]
+If it's hot, the drug will mix in easily...
+
+[MSG$01D0BD,43]
+I take the drug out from my pocket quietly.
+
+[MSG$01D0F5,20]
+Imari "Bon appetit."
+
+[MSG$01D123,39]
+Minase "Let's see if this is poisoned."
+
+[MSG$01D164,25]
+Imari "You're very rude."
+
+[MSG$01D197,62]
+I take a sandwich from the basket and shove it down my throat.
+
+[MSG$01D1E2,11]
+Swallows...
+
+[MSG$01D1FA,11]
+Munching...
+
+[MSG$01D212,22]
+It tastes pretty good.
+
+[MSG$01D22D,29]
+She really knows what I like.
+
+[MSG$01D24F,55]
+I bet she woke up early in the morning to make these...
+
+[MSG$01D293,22]
+Imari "So, how is it?"
+
+[MSG$01D2C3,26]
+Minase "It's pretty good."
+
+[MSG$01D2F7,11]
+Munching...
+
+[MSG$01D30F,29]
+Imari "I'm glad you like it."
+
+[MSG$01D346,18]
+Swallow...Munch...
+
+[MSG$01D365,16]
+Stab...Crunch...
+
+[MSG$01D382,47]
+I try to satiate my hunger by stuffing my face.
+
+[MSG$01D3B6,54]
+Imari is watching me eat with a sense of satisfaction.
+
+[MSG$01D3F9,36]
+Imari "You should eat some carrots."
+
+[MSG$01D437,68]
+Somehow, I've managed to eat everything but the star-shaped carrots.
+
+[MSG$01D488,16]
+Minase "I know."
+
+[MSG$01D4B2,7]
+Stab...
+
+[MSG$01D4C6,43]
+Imari "But you're eating all the sausages!"
+
+[MSG$01D50B,32]
+Minase "Am I?  I didn't notice."
+
+[MSG$01D545,21]
+Imari "Unbelievable!"
+
+[MSG$01D574,36]
+....................................
+
+[MSG$01D5A5,27]
+...........................
+
+[MSG$01D5CD,21]
+.....................
+
+[MSG$01D5EF,12]
+............
+
+[MSG$01D659,16]
+Minase "Phew..."
+
+[MSG$01D684,52]
+I'm very full. I think I ate twice as much as Imari.
+
+[MSG$01D6C5,54]
+Minase "I'm full. I think I ate about ten sandwiches."
+
+[MSG$01D716,32]
+Imari "Twelve. I only ate five."
+
+[MSG$01D750,71]
+Imari "But I'm glad I made so many. I was worried they'd be leftovers."
+
+[MSG$01D7B1,40]
+I can't believe she actually kept track.
+
+[MSG$01D7E6,26]
+Imari "You want some tea?"
+
+[MSG$01D81A,45]
+Imari asked me while holding out the thermos.
+
+[MSG$01D854,14]
+Minase "Sure."
+
+[MSG$01D87C,43]
+As I nod, she pours hot water into the cup.
+
+[MSG$01D8B4,62]
+Two cups of steaming hot tea have been prepared in an instant.
+
+[MSG$01D8FF,15]
+April 26 - Drug
+
+[MSG$01D995,13]
+Imari "Here."
+
+[MSG$01D9BC,31]
+This might be my only chance...
+
+[MSG$01D9E8,30]
+Minase "Hey, look behind you."
+
+[MSG$01DA20,24]
+Imari "Huh, what is it?"
+
+[MSG$01DA52,27]
+Imari quickly turns around.
+
+[MSG$01DA7A,111]
+I used the oldest trick in the book to create a distraction, now I've got to place the drug inside Imari's cup.
+
+[MSG$01DAEE,71]
+This is the one chance I'm gonna have to slip this drug into her tea. *
+
+[MSG$01DB40,41]
+I quickly drop the drug into Imari's cup.
+
+[MSG$01DB76,13]
+Drops drug...
+
+[MSG$01DC09,73]
+Inside the teacup, it melts in an instant, and small bubbles can be seen.
+
+[MSG$01DC5F,31]
+Imari "I don't see anything..."
+
+[MSG$01DC98,29]
+Imari then turns back around.
+
+[MSG$01DCC2,21]
+Knocks over teacup...
+
+[MSG$01DD5D,15]
+Teacup falls...
+
+[MSG$01DD79,16]
+Tea pours out...
+
+[MSG$01DD96,23]
+Imari "I spilled it..."
+
+[MSG$01DDC7,7]
+Damn...
+
+[MSG$01DDDB,102]
+Imari knocked over the teacup filled with the drug.  She bumped it with her hand as she turned around.
+
+[MSG$01DE46,50]
+And now that hot tea is spilling all over my hand.
+
+[MSG$01DF24,19]
+Minase "Gyaa! Hot!"
+
+[MSG$01DF51,43]
+Imari "Sorry about that. I'll wipe it off."
+
+[MSG$01DFBA,68]
+What the hell? Don't tell me she knocked it over because she knew...
+
+[MSG$01E003,118]
+While Imari is cleaning up the spill, I pour a fresh cup of tea for her. And I place the drug into her tea once again.
+
+[MSG$01E086,22]
+Drops drug into tea...
+
+[MSG$01E126,57]
+It's not gonna be funny if she knocks over this one, too.
+
+[MSG$01E164,45]
+I only got two tablets of this stupid drug...
+
+[MSG$01E19E,42]
+Imari "You poured me a fresh one. Thanks."
+
+[MSG$01E273,69]
+After cleaning up the mess, she takes the cup and sips several times.
+
+[MSG$01E2C5,15]
+She drank it...
+
+[MSG$01E2E1,67]
+Without knowing what was inside, she drank the entire cup of tea...
+
+[MSG$01E3AE,25]
+Imari "Hahhh...I'm full."
+
+[MSG$01E3E1,51]
+Imari puts down the empty cup, and looks satisfied.
+
+[MSG$01E419,84]
+Now, I just have to wait until the drug takes effect, and then contact Ms. Kitami...
+
+[MSG$01E47A,55]
+Imari "Well, since we're full, let's get back to work."
+
+[MSG$01E4CB,40]
+Imari cleans up and gets up to her feet.
+
+[MSG$01E59F,13]
+Imari "Wha!?"
+
+[MSG$01E5C6,46]
+Imari suddenly staggers and loses her balance.
+
+[MSG$01E5F9,29]
+She is also rubbing her eyes.
+
+[MSG$01E623,82]
+Imari "Something feels funny...My head feels dizzy, and the room is getting dim...
+
+[MSG$01E68F,34]
+Imari "No...I'm about to faint..."
+
+[MSG$01E6CB,68]
+While still standing, Imari tries very hard to maintain her balance.
+
+[MSG$01E71C,18]
+Imari "Ah, I'm..."
+
+[MSG$01E748,13]
+She faints...
+
+[MSG$01E786,25]
+She drops to the floor...
+
+[MSG$01E7AC,68]
+After staggering for a while, she finally falls down to the floor...
+
+[MSG$01E7FD,15]
+Minase "Imari."
+
+[MSG$01E826,22]
+Minase "Hey, wake up!"
+
+[MSG$01E856,16]
+He shakes her...
+
+[MSG$01E873,27]
+I keep on shaking her body.
+
+[MSG$01E893,48]
+But it doesn't look like she's going to come to.
+
+[MSG$01E8D0,27]
+It must've been the drug...
+
+[MSG$01E8F0,46]
+I don't think she'll be waking up for a while.
+
+[MSG$01E9A8,88]
+I leave Imari lying on the floor, and quickly go to the public phone on the first floor.
+
+[MSG$01EA05,37]
+I dial the number Ms. Kitami gave me.
+
+[MSG$01EA37,16]
+Phone ringing...
+
+[MSG$01EA54,22]
+Phone ringing again...
+
+[MSG$01EA77,19]
+Someone picks up...
+
+[MSG$01EA97,19]
+Kitami "Who is it?"
+
+[MSG$01EAC4,44]
+I hear Ms. Kitami's voice from the receiver.
+
+[MSG$01EAFD,37]
+Minase "This is Minase. I'm all set."
+
+[MSG$01EB3C,47]
+Kitami "Good job. And where are you right now?"
+
+[MSG$01EB85,23]
+Minase "I'm on campus."
+
+[MSG$01EBB6,35]
+Kitami "Okay, I'll be right there."
+
+[MSG$01EBF3,41]
+Minase "I'll be waiting in the art room."
+
+[MSG$01EC36,25]
+Then I hang up the phone.
+
+[MSG$01EC5C,99]
+I return to the art room where Imari lies unconscious, and wait patiently for Ms. Kitami to arrive.
+
+[MSG$01ED48,39]
+.......................................
+
+[MSG$01ED7C,30]
+..............................
+
+[MSG$01EDA7,21]
+.....................
+
+[MSG$01EDC9,12]
+............
+
+[MSG$01EDE2,13]
+Door opens...
+
+[MSG$01EE78,40]
+Ms. Kitami arrived in about ten minutes.
+
+[MSG$01EEE0,28]
+Kitami "Thanks for waiting."
+
+[MSG$01EF16,22]
+Minase "Ms. Kitami..."
+
+[MSG$01EFC2,38]
+Kitami "She's sleeping like a baby..."
+
+[MSG$01F002,41]
+Ms. Kitami smiles while looking at Imari.
+
+[MSG$01F038,66]
+Kitami "Okay, carry her over to my car. I have it parked outside."
+
+[MSG$01F094,33]
+Minase "What if someone sees us?"
+
+[MSG$01F0CF,114]
+Kitami "What are you talking about? I'm a doctor, remember? It's my job to help out students who are unconscious."
+
+[MSG$01F15B,8]
+I see...
+
+[MSG$01F170,28]
+Kitami "Come on, carry her."
+
+[MSG$01F1A6,13]
+Minase "Huh?"
+
+[MSG$01F1CD,36]
+Kitami "Don't you get it? Hurry up."
+
+[MSG$01F20B,24]
+April 26 - Welcome party
+
+[MSG$01F2B7,68]
+I carry Imari unwillingly, and leave the art room with Ms. Kitami...
+
+[MSG$01F308,72]
+Then the car carrying the three of us heads towards Saeki's apartment...
+
+[MSG$01F35D,17]
+The door opens...
+
+[MSG$01F3F7,61]
+Still carrying Imari, I reach the room that Saeki is renting.
+
+[MSG$01F441,58]
+Even though Imari's just a girl, she's still pretty heavy.
+
+[MSG$01F488,70]
+I lay Imari down by the entrance, and breathe heavily with exhaustion.
+
+[MSG$01F50E,86]
+Kitami "You're pretty weak...Where's all that energy you have when it's time for sex?"
+
+[MSG$01F57E,55]
+Maybe I'm getting weaker because I have too much sex...
+
+[MSG$01F5BA,37]
+But that's also Ms. Kitami's fault...
+
+[MSG$01F643,21]
+Saeki "What's wrong?"
+
+[MSG$01F672,39]
+Saeki comes out wearing a clerical robe
+
+[MSG$01F6A6,16]
+Saeki "Imari..."
+
+[MSG$01F6D0,60]
+Saeki looks over Imari lying on the floor and says her name.
+
+[MSG$01F719,31]
+Minase "Saeki, get her inside."
+
+[MSG$01F752,18]
+Saeki "All right."
+
+[MSG$01F7A2,56]
+Saeki calls out for Kurimoto to help carry Imari inside.
+
+[MSG$01F7E7,92]
+Kitami "Okay, we have what we need. Now we just wait for the time of the ritual to begin..."
+
+[MSG$01F85D,54]
+Kitami "We're going to have a welcome party for Imari.
+
+[MSG$01F898,68]
+She's an important person, so we have to entertain her courteously."
+
+[MSG$01F98A,20]
+Ms. Kitami smiles...
+
+[MSG$01F9AB,63]
+I'm kind of worried about what they're planning to do to Imari.
+
+[MSG$01F9EF,59]
+We've been friends since childhood. I know her very well...
+
+[MSG$01FA37,32]
+But there's no turning back now.
+
+[MSG$01FA5C,55]
+I shake my head to clear out all these dark thoughts...
+
+[MSG$01FB24,19]
+Imari "Nn...nnn..."
+
+[MSG$01FB51,24]
+Kitami "You're awake..."
+
+[MSG$01FB83,19]
+Imari "Dr. Kitami?"
+
+[MSG$01FBB0,45]
+Imari "Why are you here? Wait... where am I?"
+
+[MSG$01FBF7,43]
+Imari "I think I was in the art room and...
+
+[MSG$01FC27,37]
+Oh, I ate lunch with Minase, then..."
+
+[MSG$01FCDF,36]
+Imari "Oh no! Where are my clothes?"
+
+[MSG$01FD1D,48]
+Imari realizes she's only wearing her underwear.
+
+[MSG$01FD5A,28]
+Imari struggles to get free.
+
+[MSG$01FD7B,37]
+But she realizes that she can't move.
+
+[MSG$01FDAD,21]
+Imari "What is this?"
+
+[MSG$01FDDC,46]
+Imari's hands and feet are bound very tightly.
+
+[MSG$01FE17,53]
+She struggles very hard to get free, but it's no use.
+
+[MSG$01FE59,73]
+Kitami "No matter how hard you think about it, you won't find an answer."
+
+[MSG$01FEBC,49]
+Imari "What do you mean? Why are you doing this?"
+
+[MSG$01FF07,25]
+Imari "Please let me go!"
+
+[MSG$01FF3A,36]
+Kitami "I'm afraid I can't do that."
+
+[MSG$01FF78,32]
+Imari "Minase...Where's Minase?"
+
+[MSG$01FFB2,25]
+Kitami "He's right here."
+
+[MSG$01FFE5,62]
+She pointed out where I was, and I stepped out of the shadows.
+
+[MSG$020030,38]
+Imari "Minase, help me...She's crazy!"
+
+[MSG$020070,54]
+Imari asked for my help as I came out of the darkness.
+
+[MSG$0200AB,41]
+Kitami "It's no use asking for his help."
+
+[MSG$0200EE,12]
+Imari "Why?"
+
+[MSG$020114,46]
+Kitami "Minase...was the one who drugged you."
+
+[MSG$02015C,55]
+Kitami "You see, you're here right now because of him."
+
+[MSG$0201AD,13]
+Imari "Liar!"
+
+[MSG$0201D4,41]
+Imari is shocked at what Ms. Kitami said.
+
+[MSG$02020A,49]
+Kitami "Minase betrayed you, and sold you to me."
+
+[MSG$020255,21]
+Imari "That's a lie!"
+
+[MSG$020284,31]
+Kitami "Why don't you ask him?"
+
+[MSG$0202BD,26]
+Imari "It's a lie, right?"
+
+[MSG$020311,26]
+Minase "It's not a lie..."
+
+[MSG$020345,57]
+I told Imari with a cold, expressionless look on my face.
+
+[MSG$020383,73]
+As I look at Imari, the way I deceived her still weighs on my conscience.
+
+[MSG$0203D9,39]
+But I try very hard to be cold-hearted.
+
+[MSG$020405,95]
+Imari will understand who I really am soon enough. Then this pain I feel inside will be gone...
+
+[MSG$020471,22]
+Imari "It can't be..."
+
+[MSG$0204AC,12]
+Minase "..."
+
+[MSG$0204C5,37]
+Imari "Hey, tell me it's a lie. Hey!"
+
+[MSG$020504,12]
+Minase "..."
+
+[MSG$02051D,22]
+Imari "Say something!"
+
+[MSG$02054D,95]
+Kitami "Maybe it's better for you not to ask. If you find out the truth, you'll be torn apart."
+
+[MSG$0205C6,53]
+Imari "Watch your mouth! Minase is not a bad person!"
+
+[MSG$020615,59]
+Kitami "You're so cute. But if he isn't a part of all this,
+
+[MSG$020655,24]
+why doesn't he deny it?"
+
+[MSG$020687,55]
+Kitami "Hey, Minase. Why don't you tell her the truth?"
+
+[MSG$0206D8,42]
+Ms. Kitami whispers to me while chuckling.
+
+[MSG$02070F,50]
+Minase "It's not a lie. I did it all by myself..."
+
+[MSG$02075B,24]
+I told Imari everything.
+
+[MSG$020778,66]
+If she understands my true nature, then she'll give up for sure...
+
+[MSG$0207C7,22]
+Imari "It can't be..."
+
+[MSG$0207F7,68]
+Imari looks at me in disbelief, as if she's been sentenced to death.
+
+[MSG$020840,54]
+In her eyes, I can see that she no longer trusts me...
+
+[MSG$020883,61]
+Betrayed by the one she trusted, and brought to this place...
+
+[MSG$0208C5,43]
+Now she finds out she's being held captive.
+
+[MSG$0208F5,51]
+Imari's face betrays just how hurt she really is...
+
+[MSG$020935,60]
+Imari "No...This is a dream. It's some kind of nightmare..."
+
+[MSG$02098B,50]
+Imari "I want to wake up...from this nightmare..."
+
+[MSG$0209D7,43]
+Kitami "Nope. I'm afraid all this is real."
+
+[MSG$020A1C,67]
+Kitami "Just give yourself to me. Then you don't have to suffer..."
+
+[MSG$020A79,65]
+Imari "What are you planning to do? Are you going to beat me up?"
+
+[MSG$020AD4,17]
+Kitami "Maybe..."
+
+[MSG$020B78,34]
+Imari "No! Let me go, you whacko!"
+
+[MSG$020BB4,71]
+Kitami "Don't worry, I won't steal your virginity. At least not yet..."
+
+[MSG$020C15,47]
+Imari "Liar! I can't believe anything you say!"
+
+[MSG$020C5E,77]
+Kitami "Relax. I'll give you this to show you I'm not lying. It's a present."
+
+[MSG$020D16,21]
+Imari "What is that?"
+
+[MSG$020D45,78]
+Imari looks at the item Ms. Kitami has in her hand and opens her eyes in fear.
+
+[MSG$020DA0,31]
+It was a metal chastity belt...
+
+[MSG$020DCC,102]
+The crotch area of the belt is covered with a metal plate, and the clasp has a very strong lock on it.
+
+[MSG$020E37,69]
+Also, it was designed with gutters so that fluids can flow out of it.
+
+[MSG$020E89,59]
+Kitami "With this thing on, you can protect your virginity.
+
+[MSG$020EC9,45]
+Who knows, Minase might try to attack you..."
+
+[MSG$020F10,57]
+Ms. Kitami plays with the chastity belt and smiles at me.
+
+[MSG$020F56,46]
+Imari "What are you gonna do with that thing?"
+
+[MSG$020F9F,49]
+Kitami "I'm going to make you wear it, of course.
+
+[MSG$020FD5,70]
+Before I take your virginity, this is going to protect you real well."
+
+[MSG$021035,61]
+Kitami "It's a bit uncomfortable, but you'll get used to it."
+
+[MSG$02108C,42]
+Imari "No! Don't make me wear that thing!"
+
+[MSG$0210D0,83]
+Kitami "I'm sorry, but you have to wear it. But while you do, you can't masturbate.
+
+[MSG$021128,63]
+So I'm going to let you have lots of fun before you put it on."
+
+[MSG$021181,28]
+Imari "No! I don't want it!"
+
+[MSG$0211B7,66]
+Kitami "Heh heh...I wonder how long you'll be able to say that..."
+
+[MSG$021214,118]
+Kitami "Humans are very weak against greed in all its forms... Anyone can be honest if they are stuffed with pleasure.
+
+[MSG$02128F,39]
+Especially young people like yourself."
+
+[MSG$0212D0,82]
+Kitami "You'll be slobbering from your vagina and asking for pleasure in no time."
+
+[MSG$02133C,25]
+Imari "I don't think so!"
+
+[MSG$02136F,91]
+Kitami "What is the use of bluffing? You're always masturbating at home, right? Heh heh..."
+
+[MSG$0213E4,16]
+Imari "I'm not!"
+
+[MSG$02140E,63]
+Kitami "It's unnatural for a woman your age to not masturbate."
+
+[MSG$021468,27]
+Imari "I don't masturbate!"
+
+[MSG$02149D,48]
+Kitami "You shouldn't lie. Saeki, hand me that."
+
+[MSG$0214E7,68]
+Saeki hands over what looks to be a hypodermic needle to Ms. Kitami.
+
+[MSG$021538,33]
+Imari "What are you going to do?"
+
+[MSG$021573,54]
+Kitami "I'll give you a drug that'll make you honest."
+
+[MSG$0215C3,37]
+Ms. Kitami tears off Imari's panties.
+
+[MSG$02167E,26]
+Imari's panties tearing...
+
+[MSG$0216A5,29]
+Imari "No! Don't look at me!"
+
+[MSG$0216DC,79]
+Imari tries to cover up her vagina, but with her body tied up, it's impossible.
+
+[MSG$021738,75]
+Kitami "Don't worry. You'll be doing many more embarrassing things soon..."
+
+[MSG$02179D,60]
+Ms. Kitami takes the hypodermic needle and approaches Imari.
+
+[MSG$0217E6,32]
+Imari "No! She's gonna kill me!"
+
+[MSG$021820,41]
+Imari struggles when she sees the needle.
+
+[MSG$021856,74]
+Kitami "How rude...It's just an aphrodisiac. You'll feel very, very good."
+
+[MSG$0218BA,19]
+Imari "No, no, no!"
+
+[MSG$0218E7,87]
+Imari tries to resist, but the sharp needle gets closer and closer to her exposed skin.
+
+[MSG$0219D4,7]
+Stab...
+
+[MSG$0219E8,15]
+Imari "Khaaaa!"
+
+[MSG$021A11,86]
+After the needle goes into her skin, Imari convulses and her back arches back sharply.
+
+[MSG$021A74,66]
+Then the fluid inside the needle slowly gets pushed into her body.
+
+[MSG$021AC3,23]
+Kitami "It's all done."
+
+[MSG$021B7D,61]
+Imari "Hin...Egu...Why do I have to go through this torture?"
+
+[MSG$021BD4,55]
+Imari sobs and sheds tears as the needle is pulled out.
+
+[MSG$021C10,74]
+She was out of her mind with all these things happening one after another.
+
+[MSG$021C67,37]
+Kitami "You'll be feeling it soon..."
+
+[MSG$021CA6,33]
+Imari "No...I feel very strange!"
+
+[MSG$021CE1,42]
+Imari may have realized what was going on.
+
+[MSG$021D10,50]
+She was trying to escape the feeling by fidgeting.
+
+[MSG$021D4F,96]
+Kitami "Heh heh...Something big is going to happen. I'd love to see your reaction when it does."
+
+[MSG$021E42,32]
+Imari "This...what is going on?"
+
+[MSG$021E7C,51]
+Imari was confused about was happening to her body.
+
+[MSG$021EB4,45]
+It was like her body was moving on its own...
+
+[MSG$021EEE,64]
+Imari "No, no...I'm being watched...but I'm feeling so...ahaaa."
+
+[MSG$021F48,91]
+With her body tied up, she's unconsciously trying to pleasure herself by wiggling her hips.
+
+[MSG$021FA8,43]
+But, she can't be satisfied with just that.
+
+[MSG$021FE0,73]
+Kitami "Well? You want to do it right? You just can't get enough, right?"
+
+[MSG$022043,26]
+Imari "No! It's not true!"
+
+[MSG$022077,62]
+But her vagina is soaking wet, and her hips won't stop moving.
+
+[MSG$0220C2,31]
+Kitami "She's very stubborn..."
+
+[MSG$0220FB,41]
+Ms. Kitami strokes Imari's vagina softly.
+
+[MSG$022131,14]
+Imari "Kuuun!"
+
+[MSG$022159,92]
+Just a soft stroke, and Imari's body is twitching and bending backwards with great pleasure.
+
+[MSG$0221C2,43]
+Liquid from is pouring out from her vagina.
+
+[MSG$0221FA,59]
+Kitami "Well? You're feeling very excited now, aren't you?"
+
+[MSG$02224F,36]
+Imari "I can't take this anymore..."
+
+[MSG$02228D,40]
+Saliva was pouring out of Imari's mouth.
+
+[MSG$0222C2,27]
+Imari "Help me...Minase..."
+
+[MSG$0222F7,59]
+Imari looked at me with vacant eyes, and asked for my help.
+
+[MSG$022337,55]
+But I can't do anything until she's sexually satisfied.
+
+[MSG$02237B,81]
+Plus Imari was showing me things I never even imagined, and I was very excited...
+
+[MSG$0223D9,62]
+Kitami "Why don't you be honest? You can't hold it in forever.
+
+[MSG$02241C,54]
+The more you hold back, the more excited you'll feel."
+
+[MSG$0224BD,36]
+Imari "No! I can't take it anymore!"
+
+[MSG$0224FB,32]
+Imari reveals her true feelings.
+
+[MSG$022520,39]
+Ms. Kitami smiles as she watches Imari.
+
+[MSG$022554,47]
+Kitami "I'll ask you again, do you masturbate?"
+
+[MSG$02259D,30]
+Imari "I do! I do masturbate!"
+
+[MSG$0225D5,45]
+I guess Imari has no choice but to give in...
+
+[MSG$02260F,31]
+Kitami "How do you masturbate?"
+
+[MSG$022648,24]
+Imari "With my fingers."
+
+[MSG$02267B,47]
+Kitami "I see. You don't use any toys, do you?"
+
+[MSG$0226C4,29]
+Imari "I don't use any toys."
+
+[MSG$0226FB,46]
+Kitami "And how many times do you masturbate?"
+
+[MSG$022743,35]
+Imari "About three times a week..."
+
+[MSG$022780,101]
+Kitami "You're masturbating quite a lot. And you had the nerve to say you don't masturbate at all..."
+
+[MSG$0227FF,29]
+Imari "No, don't say that..."
+
+[MSG$022836,69]
+Imari is forced to confess all her embarrassing acts to Ms. Kitami...
+
+[MSG$022888,40]
+Imari doesn't sound like her usual self.
+
+[MSG$0228B5,69]
+The Imari I knew would never say some of the things she's saying now.
+
+[MSG$022907,104]
+Kitami "Thanks you for being so open with me. Now, I'll let you climax over and over again as a reward."
+
+[MSG$022989,39]
+Imari "Do me! I can't take it anymore!"
+
+[MSG$0229CA,105]
+Kitami "Take it easy. I'm afraid I can't take your virginity, so you'll just have to take it up the ass."
+
+[MSG$022A4D,43]
+Imari "No, give it to me in my pussy, too!"
+
+[MSG$022A92,48]
+Kitami "Don't worry, I'll play with that later."
+
+[MSG$022B2D,37]
+Ms. Kitami starts to put some type of
+
+[MSG$022B57,35]
+|lotion on the tip of her vibrator.
+
+[MSG$022B87,65]
+After coating the vibrator, she touches it near Imari's pink ass.
+
+[MSG$022BD5,22]
+Kitami "Here we go..."
+
+[MSG$022C05,69]
+The tip of the vibrator touches her ass, and it slowly enters inside.
+
+[MSG$022CE0,12]
+Insertion...
+
+[MSG$022CF9,14]
+Imari "Unaaa!"
+
+[MSG$022D21,53]
+Imari's body trembles violently and writhes in agony.
+
+[MSG$022D5B,78]
+While pushing the vibrator up her ass, Ms. Kitami plays with Imari's clitoris.
+
+[MSG$022DB6,13]
+Imari "Kuaa!"
+
+[MSG$022DDD,65]
+Being pleasured in two holes at once, Imari was really turned on.
+
+[MSG$022E23,51]
+I never thought I would ever see Imari like this...
+
+[MSG$022E63,37]
+Imari "My butt...my butt feels good!"
+
+[MSG$022EA2,80]
+With the vibrator moving inside her ass little by little, Imari keeps twitching.
+
+[MSG$022EFF,68]
+Imari "Amazing. This is so much better than masturbating on my own!"
+
+[MSG$022F5D,72]
+Kitami "Feels good, right? I'll let you enjoy this feeling from now on."
+
+[MSG$022FBF,49]
+Kitami "Of course, Minase will help out as well."
+
+[MSG$02300A,48]
+Imari "Ah...Aah! It's good, give it to me more!"
+
+[MSG$023054,81]
+Imari screams, with ecstasy on her face. She doesn't know what's in stor for her.
+
+[MSG$0230B2,38]
+While watching her, I take out my cock
+
+[MSG$0230DD,39]
+and begin stroking it without thinking.
+
+[MSG$023111,29]
+Minase "Hah...hah...hahhh..."
+
+[MSG$023148,15]
+Masturbating...
+
+[MSG$023164,44]
+Imari "Ah...ah! No, I'm coming, I'm coming!"
+
+[MSG$0231AA,45]
+Kitami "Let Minase watch you climax in full."
+
+[MSG$0231F1,51]
+Ms. Kitami then stroked Imari's clitoris violently.
+
+[MSG$023231,46]
+Imari "Ah, look Minase! I'm going to explode!"
+
+[MSG$023279,27]
+Imari "Ah! Ah! I'm coming!"
+
+[MSG$0232AE,67]
+Imari convulsed violently, and a hot liquid shot out of her crotch.
+
+[MSG$023377,23]
+She starts squirting...
+
+[MSG$02339B,22]
+Liquid shooting out...
+
+[MSG$0233BE,45]
+Imari climaxes and urinates at the same time.
+
+[MSG$0233F8,47]
+Imari "Hee! No...it's leaking..it won't stop.."
+
+[MSG$023441,10]
+Leaking...
+
+[MSG$023458,54]
+Maybe she was saving it up, but it just wouldn't stop.
+
+[MSG$02349B,52]
+And in an instant, a puddle is forming on the floor.
+
+[MSG$023555,28]
+Imari "Hah...hah...hahhh..."
+
+[MSG$02358B,86]
+After things have settled down, Imari is in utter bewilderment, staring up in the air.
+
+[MSG$0235EE,68]
+Kitami "Now, I'll attach that chastity belt just like I promised..."
+
+[MSG$02364C,65]
+Ms. Kitami places the metal chastity belt against Imari's crotch.
+
+[MSG$02369A,66]
+The Inner part of the belt has a thin tube attached for excretion.
+
+[MSG$0236E1,39]
+It's placed in Imari's urinary opening.
+
+[MSG$023715,17]
+Imari "What? No!"
+
+[MSG$023740,59]
+Kitami "It might hurt at first, but you'll get used to it."
+
+[MSG$023795,37]
+The chastity belt is placed on Imari.
+
+[MSG$023850,14]
+Imari "Higii!"
+
+[MSG$023878,62]
+Imari screams after having a foreign object enter her urethra.
+
+[MSG$02393C,19]
+Urine shoots out...
+
+[MSG$02395C,87]
+The tube opens up her urethra, and Imari shoots out the urine remaining in her bladder.
+
+[MSG$0239B8,72]
+Urine shoots out from the small hole in the belt, forming a perfect arc.
+
+[MSG$023A0D,24]
+Imari "Higu...it hurts!"
+
+[MSG$023A3F,25]
+Kitami "Endure the pain."
+
+[MSG$023A72,50]
+After Ms. Kitami places the belt on, she locks it.
+
+[MSG$023AB1,47]
+Kitami "Good. Now it won't come off so easily."
+
+[MSG$023B73,21]
+Imari "Hee...Haah..."
+
+[MSG$023BA2,53]
+Imari doesn't like it, but she looks at my direction.
+
+[MSG$023BE4,72]
+Kitami "You want to stick that big thing inside Imari, don't you Minase?
+
+[MSG$023C31,65]
+You're stroking your erect cock...Not exactly proper behavior..."
+
+[MSG$023C8D,67]
+Ms. Kitami saw me caressing my cock, and started to make fun of me.
+
+[MSG$023CDD,55]
+Kitami "But she's mine. You can't stick it inside her."
+
+[MSG$023D2E,16]
+Minase "I..I..."
+
+[MSG$023D58,58]
+I try to complain while bending forward, stroking my cock.
+
+[MSG$023D97,48]
+With all the excitement, I was about to explode.
+
+[MSG$023DD4,55]
+Kitami "Well, well. You're pretty good with that thing.
+
+[MSG$023E10,54]
+All right, I'll let you teach her the scent of a man."
+
+[MSG$023EDD,56]
+Ms. Kitami unties Imari, and makes her sit on the floor.
+
+[MSG$023F22,64]
+Kitami "Okay, I want you to shoot your feelings all over her..."
+
+[MSG$023F7C,25]
+Imari "Hah..hah..hahhh.."
+
+[MSG$023FAF,53]
+Imari is half conscious, sitting on the floor limply.
+
+[MSG$023FF1,80]
+I look at Imari's naked body, and stroke myself very hard to shoot out my sperm.
+
+[MSG$02404E,11]
+Stroking...
+
+[MSG$024066,27]
+Minase "Imari, I'm coming!"
+
+[MSG$02409B,34]
+Imari "What? Where are you going?"
+
+[MSG$0240D7,13]
+Minase "Aah!"
+
+[MSG$0241F0,28]
+White cum is shooting out...
+
+[MSG$024219,71]
+My body shakes as I shoot out plenty of thick liquid onto Imari's body.
+
+[MSG$02426D,21]
+Imari "No! It's hot!"
+
+[MSG$02429C,20]
+Juice pouring out...
+
+[MSG$0242BD,41]
+My cock juice covers her face and body...
+
+[MSG$0242F3,59]
+I squeezed out every drop of my semen and covered her body.
+
+[MSG$0243B5,30]
+Minase "Hah...hah...hahhhh..."
+
+[MSG$0243ED,74]
+I was surprised with the amount of cock juice that covered Imari's body...
+
+[MSG$024444,86]
+The juice flows down and around Imari's curves, and fills the room with a strong odor.
+
+[MSG$0244A7,92]
+Kitami "Minase released all this just for you. Look, it's thick and there's plenty of it..."
+
+[MSG$02451D,15]
+Imari "For me?"
+
+[MSG$024546,63]
+Imari is confused, and rubs the cock juice all over her body...
+
+[MSG$024592,63]
+Imari "Aah..it's hot. Minase's sperm is all over my body...aah"
+
+[MSG$0245EB,85]
+Kitami "Heh, heh...I'll clean up that body covered with Minase's dirty cock juice..."
+
+[MSG$0246D3,61]
+Then Saeki and other members, who had been watching all this,
+
+[MSG$024715,43]
+walked up and lined up in front of Imari...
+
+[MSG$02474D,45]
+Kitami "Okay, let's all help clean up Imari."
+
+[MSG$024794,27]
+Then the three members nod.
+
+[MSG$0247BC,83]
+Kitami "Imari, you're one of us from now on...Accept this our on our behalf...Nnn!"
+
+[MSG$024829,69]
+Saeki, Amatsuki, and Kurimoto put pressure near their lower abdomens.
+
+[MSG$0248F4,19]
+Liquid comes out...
+
+[MSG$024914,27]
+Liquid comes pouring out...
+
+[MSG$02493C,109]
+The four of them release clear yellowish liquid from their crotches, spraying down as it covers Imari's body.
+
+[MSG$0249B6,18]
+Imari "Haaahhh..."
+
+[MSG$0249E2,70]
+Imari is completely entranced while being covered with the hot liquid.
+
+[MSG$024A35,44]
+Their urine is washing my cock juice away...
+
+[MSG$024A6E,73]
+Kitami "You're one of us now...Let us all enjoy ourselves from now on..."
+
+[MSG$024AD1,64]
+And so, this banquet of madness continued late into the night...
+
+[MSG$024B99,18]
+..................
+
+[MSG$024BB8,12]
+............
+
+[MSG$024BD1,6]
+......
+
+[MSG$024BEB,19]
+April 26 - Morning 
+
+[MSG$024C0E,16]
+Voice "Wake up."
+
+[MSG$024C38,23]
+Voice "Please wake up."
+
+[MSG$024C69,9]
+Shakes...
+
+[MSG$024C7F,24]
+Voice "Minase, wake up."
+
+[MSG$024CB1,14]
+Voice "......"
+
+[MSG$024CCC,66]
+After a short time, I felt someone crawling into my futon with me.
+
+[MSG$024D1B,50]
+Imari? Is this some crazy new way of waking me up?
+
+[MSG$024D5A,7]
+Grab...
+
+[MSG$024D6E,19]
+Then she hugs me...
+
+[MSG$024D8E,41]
+I feel her boobs pushing against by body.
+
+[MSG$024DBC,23]
+That's pretty daring...
+
+[MSG$024DE0,56]
+Wait, something's wrong...Imari's boobs aren't this big!
+
+[MSG$024E25,22]
+Removing bed sheets...
+
+[MSG$024EC4,10]
+Falling...
+
+[MSG$024EDB,16]
+Shiraki "Kyaaa!"
+
+[MSG$024F05,21]
+Minase "Who's there?"
+
+[MSG$024F34,49]
+I throw the futon aside and wake up with a start.
+
+[MSG$024F6A,32]
+But I'm the only one on the bed.
+
+[MSG$024F97,29]
+Minase "There's nobody here!"
+
+[MSG$024FCE,44]
+It can't be...I know I heard a female voice.
+
+[MSG$02503A,18]
+Shiraki "Ouuch..."
+
+[MSG$025066,55]
+I hear a voice from under the bed, and a woman gets up.
+
+[MSG$0250A2,41]
+I guess she fell off the bed pretty hard.
+
+[MSG$0250D8,17]
+Minase "Shiraki?"
+
+[MSG$025103,25]
+Shiraki "Good morning..."
+
+[MSG$025136,59]
+It was Rika Shiraki, the girl I banged in the storage room.
+
+[MSG$025176,87]
+She was wearing regular clothes instead of a school uniform. But why is she in my room?
+
+[MSG$0251DA,26]
+Minase "Why are you here?"
+
+[MSG$02520E,22]
+Shiraki "Why? Well..."
+
+[MSG$02523E,58]
+Shiraki "Your sister asked me to come in and wake you up."
+
+[MSG$025292,28]
+Minase "That crazy woman..."
+
+[MSG$0252C8,37]
+She probably let her in just for fun.
+
+[MSG$0252F2,58]
+I try to leave the room so I can go complain to my sister.
+
+[MSG$025339,39]
+Shiraki "Your sister went out already."
+
+[MSG$02537A,7]
+Damn...
+
+[MSG$02538E,40]
+Minase "And what did you come here for?"
+
+[MSG$0253D0,58]
+I was tearing at my hair as I asked the fidgeting Shiraki.
+
+[MSG$02540F,61]
+Glancing over at the clock, I saw it was still early morning.
+
+[MSG$025459,35]
+Shiraki "Well...I like you Minase."
+
+[MSG$025496,75]
+Shiraki "We're lovers, and it's Sunday, so I wanted for us to be together."
+
+[MSG$0254FB,75]
+Shiraki "But you haven't asked me out or called me ever since that time..."
+
+[MSG$025560,77]
+Shiraki "That's why I came over here. I asked one of my friends in your class
+
+[MSG$0255B2,28]
+|to look up your address..."
+
+[MSG$0255E8,43]
+Still fidgeting, Shiraki spoke emotionally.
+
+[MSG$025620,37]
+Shiraki "Hey, did I do something bad?
+
+[MSG$02564A,51]
+Maybe you don't have any feelings for me at all..."
+
+[MSG$025697,49]
+This is not good. She has fallen in love with me.
+
+[MSG$0256CD,60]
+She doesn't realize that I lied about my feelings for her...
+
+[MSG$025716,55]
+I guess the spell I used was still affecting Shiraki...
+
+[MSG$02575A,12]
+Minase "..."
+
+[MSG$025773,74]
+I scratched my head and tried to figure out what I should do with Shiraki.
+
+[MSG$0257CA,55]
+Somehow, I didn't care about Shiraki as much as before.
+
+[MSG$025806,69]
+This isn't true love. Plus she might wake up from my spell anytime...
+
+[MSG$025850,56]
+I have no intention of being in a relationship with her.
+
+[MSG$025895,45]
+But I can't just be cruel and kick her out...
+
+[MSG$0258C7,100]
+I guess I'll just use her to satisfy my sexual needs. She came to me, so I don't have to refuse her.
+
+[MSG$025938,63]
+If I say some sappy things, she'll have sex with me for sure...
+
+[MSG$02597C,51]
+It's not a bad idea to use her and then dump her...
+
+[MSG$0259BC,28]
+Shiraki "You don't like me?"
+
+[MSG$0259F2,48]
+Shiraki asks me looking like she's about to cry.
+
+[MSG$025A2F,86]
+Minase "That's not true. It's just that we did something terrible and I'm embarrassed.
+
+[MSG$025A8A,65]
+I didn't know what I would do if you hated me because of that..."
+
+[MSG$025AE5,77]
+Agh...I feel like I'm gonna vomit after hearing the sappy crap I just said...
+
+[MSG$025B3F,55]
+Minase "I feel that you're an important person...and...
+
+[MSG$025B90,40]
+She's just like a brain-dead sex doll...
+
+[MSG$025BC5,20]
+Minase "I love you."
+
+[MSG$025BF3,52]
+I look at Shiraki and talk totally out of character.
+
+[MSG$025C34,23]
+Shiraki "Wha...really?"
+
+[MSG$025C65,14]
+Minase "Yeah."
+
+[MSG$025C8D,50]
+Shiraki's face was red and she looked embarrassed.
+
+[MSG$025CC4,36]
+She doesn't know my true feelings...
+
+[MSG$025CF5,36]
+Shiraki "I'm so happy to hear that!"
+
+[MSG$025D33,7]
+Hugs...
+
+[MSG$025DC3,13]
+Minase "Hey!"
+
+[MSG$025DEA,79]
+Shiraki hugs me and we both fall toward the bed. Then she offers herself to me.
+
+[MSG$025E46,68]
+Shiraki "Do what you want to me. I don't mind giving myself to you."
+
+[MSG$025EA4,37]
+Shiraki says this while blushing red.
+
+[MSG$025ECE,31]
+I can hear her breathing heavy.
+
+[MSG$025EFA,64]
+Shiraki "Ever since that day, I think about you and masturbate."
+
+[MSG$025F54,55]
+Shiraki "Even now, I'm so excited just talking to you."
+
+[MSG$025FA5,49]
+Shiraki "Please...do me. Let's have sex all day."
+
+[MSG$025FF0,83]
+Shiraki's just a nymphomaniac... I can't believe this is the same Shiraki I knew...
+
+[MSG$026048,77]
+Her little fan club would piss in their pants if they ever saw her like this.
+
+[MSG$02609A,99]
+Because of my Black Magic, Shiraki is lost in pleasure. She has no control over what is going on...
+
+[MSG$02610A,37]
+Minase "You better keep your word..."
+
+[MSG$026149,31]
+I decided to get on top of her.
+
+[MSG$02616D,88]
+She still has her clothes on, but I bury my face in her chest. Then I enjoyed her scent.
+
+[MSG$0261D2,23]
+Minase "Smells good..."
+
+[MSG$026203,36]
+Then I start removing her clothes...
+
+[MSG$026234,79]
+She looks good in a school uniform, but she looks great in her regular clothes.
+
+[MSG$026288,39]
+Her stylish clothes match her attitude.
+
+[MSG$0262BC,104]
+I'm pretty clumsy as I remove her clothes. She doesn't resist, and just watches me take off her clothes.
+
+[MSG$0263BA,50]
+While removing her clothes, I plan my next move.
+
+[MSG$0263F1,60]
+It's not a bad idea to just force her to do things my way...
+
+[MSG$02643A,51]
+I'll try to take Shiraki to see Ms. Kitami today...
+
+[MSG$02647A,89]
+If Shiraki doesn't want to leave me, then it's better for her to join Ms. Kitami's group.
+
+[MSG$0264D8,79]
+I'm sure Shiraki won't have any problem getting along with the other members...
+
+[MSG$026534,38]
+I remove the top layer of her clothes.
+
+[MSG$026567,27]
+I can see her lingerie now.
+
+[MSG$026587,62]
+Compared to what she was wearing, her lingerie is really sexy.
+
+[MSG$0265D2,44]
+Minase "You're underwear is pretty kinky..."
+
+[MSG$026618,91]
+Her neatly dressed image on the outside and her sexy underwear makes for a real contrast...
+
+[MSG$026680,29]
+Shiraki "I hope you like it."
+
+[MSG$0266B7,37]
+Shiraki says that with embarrassment.
+
+[MSG$0266E9,19]
+Minase "I like it."
+
+[MSG$026716,50]
+Then I touch her boobs, and play around with them.
+
+[MSG$026755,17]
+Shiraki "Annn..."
+
+[MSG$026780,54]
+Shiraki's boobs almost stand up every time I rub them.
+
+[MSG$0267BB,54]
+I enjoy the feel of her boobs, and caress them slowly.
+
+[MSG$0267FE,16]
+Shiraki "Kyaaa!"
+
+[MSG$0268A4,44]
+I lie on top of her and spread out her legs.
+
+[MSG$0268DD,47]
+Shiraki "No, if you spread me out that much..."
+
+[MSG$026926,35]
+Her face is red with embarrassment.
+
+[MSG$026956,56]
+Minase "You don't have to be embarrassed at this point."
+
+[MSG$0269A8,54]
+And so I stick out my tongue and kiss her pink vagina.
+
+[MSG$0269EB,15]
+Shiraki "Kuun!"
+
+[MSG$026A14,54]
+As my tongue enters her vagina, she quivers and moans.
+
+[MSG$026A57,10]
+Licking...
+
+[MSG$026A6E,49]
+I enjoy Shiraki's reaction and keep sucking hard.
+
+[MSG$026AAC,42]
+I can taste her bodily fluids in my mouth.
+
+[MSG$026ADB,42]
+While I suck, my tongue licks her labia...
+
+[MSG$026B12,48]
+Shiraki "Haan! Your tongue is moving inside me!"
+
+[MSG$026B5C,40]
+I use my hand to play with her clitoris.
+
+[MSG$026B91,85]
+With her sensitive spot being touched, she writhes by twisting her body side to side.
+
+[MSG$026BF3,35]
+Shiraki "Hau...It feels so good..."
+
+[MSG$026C30,21]
+Liquid pouring out...
+
+[MSG$026C52,44]
+Hot liquid starts pouring out of her vagina.
+
+[MSG$026C83,30]
+She must be really feeling it.
+
+[MSG$026CAE,26]
+Shiraki "I'm coming! Hee!"
+
+[MSG$026CE2,78]
+I stimulate her clitoris with my mouth and stick my finger up into her vagina.
+
+[MSG$026D3D,29]
+Finger entering the vagina...
+
+[MSG$026D67,42]
+Shiraki "I can't! I'm coming, I'm coming!"
+
+[MSG$026E24,10]
+Squirts...
+
+[MSG$026E3B,13]
+Minase "Wah!"
+
+[MSG$026E62,63]
+Shiraki's body convulses and she squirts out some clear liquid.
+
+[MSG$026EA6,26]
+She went rather quickly...
+
+[MSG$026EC5,40]
+My face is soaking wet with her liquids.
+
+[MSG$026F72,24]
+Shiraki "Hah...hahhh..."
+
+[MSG$026FA4,36]
+Minase "We're just getting started."
+
+[MSG$026FE2,35]
+I wipe off the liquid from my face,
+
+[MSG$02700A,43]
+and I stick my cock inside her very slowly.
+
+[MSG$0270BB,12]
+Insertion...
+
+[MSG$0270D4,15]
+Shiraki "Haan!"
+
+[MSG$0270FD,110]
+Shiraki, who was relaxing comfortably for a moment, bends her body over backwards with the sudden stimulation.
+
+[MSG$027178,59]
+As my cock enters her vagina, her juices start pouring out.
+
+[MSG$0271C0,49]
+It brings out an intense stimulation in my penis.
+
+[MSG$0271F6,51]
+And just like that, I start to feel so much better.
+
+[MSG$027236,45]
+Enjoying the moment, I started to eat her up.
+
+[MSG$027270,14]
+Intercourse...
+
+[MSG$02728B,45]
+Sounds and fluids are flowing from our union.
+
+[MSG$0272BD,34]
+Shiraki's vagina felt really good.
+
+[MSG$0272EC,45]
+Shiraki "Great! Your cock feels really good!"
+
+[MSG$027333,28]
+Shiraki is really into this.
+
+[MSG$027354,35]
+I was enjoying that feeling myself.
+
+[MSG$027384,71]
+Shiraki "I'm all yours. We're going to be together from now on. Hahhh!"
+
+[MSG$0273E5,55]
+Minase "Yeah. I'll bang you as many times as you like."
+
+[MSG$027436,44]
+Shiraki "You can have me whenever you like!"
+
+[MSG$02747C,51]
+Minase "Yeah, I'll do you whenever you want me to."
+
+[MSG$0274C9,33]
+I began to thrust my hips faster.
+
+[MSG$0274F7,48]
+Shiraki "Haan! Inside, it's really deep inside!"
+
+[MSG$027541,10]
+Banging...
+
+[MSG$027558,44]
+We bang our hips, and start to reach climax.
+
+[MSG$027591,27]
+Minase "I'm about to come."
+
+[MSG$0275C6,57]
+As I say it, I'm holding back the feeling of ejaculation.
+
+[MSG$02760C,17]
+Shiraki "Me too."
+
+[MSG$027637,42]
+Minase "I'll shoot it all over your face."
+
+[MSG$02767B,45]
+Shiraki "Okay. Let me taste your cock juice!"
+
+[MSG$0276C2,33]
+I pull my cock out of her vagina.
+
+[MSG$02776C,75]
+I place my cock in front of her face, and start stroking my cock violently.
+
+[MSG$0277C4,39]
+She uses her hand to caress her vagina.
+
+[MSG$0277F8,36]
+Her hand moving inside her vagina...
+
+[MSG$027829,120]
+As I keep stroking, my cum and her cunt juice become a lubricant, and they rub against each other as they make a noises.
+
+[MSG$0278AE,43]
+I can't hold it any longer. I have to come.
+
+[MSG$0278E6,21]
+Minase "Here I come."
+
+[MSG$027915,40]
+Shiraki "Do it! Do it all over my face!"
+
+[MSG$027957,15]
+Minase "Guuuk!"
+
+[MSG$027980,15]
+And suddenly...
+
+[MSG$027A2D,17]
+The door opens...
+
+[MSG$027A4B,53]
+Suddenly the door opens, and someone enters the room.
+
+[MSG$027A85,68]
+There are only two people I know who enter my room without knocking.
+
+[MSG$027AD6,59]
+And one of them happens to be my sister, who just went out.
+
+[MSG$027B16,16]
+So that means...
+
+[MSG$027BAF,21]
+Imari "Good morning."
+
+[MSG$027BDE,26]
+Imari "You're up early..."
+
+[MSG$027C12,29]
+Imari "...this... morning..."
+
+[MSG$027CC5,15]
+It was Imari...
+
+[MSG$027CD9,81]
+I have my cock pointed at Shiraki's face, and I'm looking in Imari's direction...
+
+[MSG$027D37,41]
+Imari is shocked to see what is going on.
+
+[MSG$027D6D,54]
+I keep stroking my cock in front of  Shiraki's face...
+
+[MSG$027DA8,46]
+Shiraki is looking at me as she masturbates...
+
+[MSG$027DE3,44]
+Imari freezes at the sight of us having sex.
+
+[MSG$027E1C,16]
+Why is she here?
+
+[MSG$027E39,50]
+But I came before I had time to think any further.
+
+[MSG$027E78,15]
+Minase "Uaaaa!"
+
+[MSG$027F93,28]
+Shiraki "Aaaan! I'm coming!"
+
+[MSG$027FC9,20]
+Juice pouring out...
+
+[MSG$027FEA,91]
+Imari and I were looking at each other, as I shot loads of white cum all over Imari's face.
+
+[MSG$02804A,94]
+Shiraki was also getting off, trembling violently as she was getting covered in my cock juice.
+
+[MSG$0280B5,20]
+Minase "Ah..ahhhh.."
+
+[MSG$02815C,65]
+At times like these, I'm somehow able to shoot out tons of cum...
+
+[MSG$0281A2,25]
+Plus it was very thick...
+
+[MSG$0281C8,21]
+Shooting out juice...
+
+[MSG$0281EA,78]
+Juice that shoots out from the tip of my cock covers Shiraki's face and mouth.
+
+[MSG$02823D,38]
+Then, the ejaculating finally stops...
+
+[MSG$0282E9,20]
+Shiraki "N...Ngg..."
+
+[MSG$028317,37]
+Shiraki is drinking up my cock juice.
+
+[MSG$028349,7]
+Gulp...
+
+[MSG$02835D,22]
+Shiraki "Delicious..."
+
+[MSG$02838D,50]
+Then she gulps down the rest of the white semen...
+
+[MSG$02844A,29]
+Then it becomes very quiet...
+
+[MSG$02855C,30]
+Things aren't looking so good!
+
+[MSG$028587,54]
+Things don't seem too good between Imari and myself...
+
+[MSG$0285C2,22]
+Volatile atmosphere...
+
+[MSG$0285E5,51]
+Just when I was having fun, Imari had to show up...
+
+[MSG$02861D,24]
+What wonderful timing...
+
+[MSG$028642,58]
+She should've just left, but Imari ended up standing there
+
+[MSG$028681,28]
+|and watching us have sex...
+
+[MSG$0286AA,54]
+It's really her fault for entering without knocking...
+
+[MSG$0286ED,28]
+Imari "What are you doing!?"
+
+[MSG$028723,65]
+After watching the entire act take place, Imari suddenly screams.
+
+[MSG$028771,68]
+I didn't even bother trying to explain the situation. I just sighed.
+
+[MSG$0287BA,48]
+It's impossible for me to make something up now.
+
+[MSG$0287F7,30]
+Minase "We were having sex..."
+
+[MSG$02882F,32]
+That's all I could say to Imari.
+
+[MSG$02885C,44]
+I can't believe we were caught having sex...
+
+[MSG$028895,49]
+Imari is definitely pissed. She's gonna flip out.
+
+[MSG$0288CB,40]
+No, I'm definitely gonna get pummeled...
+
+[MSG$0289A0,20]
+Imari "(Sniffle)..."
+
+[MSG$0289CE,40]
+But Imari looks like she's about to cry.
+
+[MSG$0289FB,20]
+Wait, is she crying?
+
+[MSG$028A1C,53]
+Imari "Hah...(Sob)...I even made lunch for us today!"
+
+[MSG$028A6B,76]
+Imari "You promised it would be today...(Sob)...I was looking forward it..."
+
+[MSG$028AD1,27]
+Imari talks while crying...
+
+[MSG$028AF9,69]
+Imari hardly cries at all. She doesn't ever cry in front of people...
+
+[MSG$028B4B,9]
+Sunday...
+
+[MSG$028B59,52]
+Now I remember, she did say something about today...
+
+[MSG$028B92,60]
+With Shiraki showing up suddenly, I totally forgot about it.
+
+[MSG$028BDB,66]
+But Imari didn't oversleep, made lunch, and came all dressed up...
+
+[MSG$028C2A,50]
+I disappointed her. In this worst case scenario...
+
+[MSG$028C69,25]
+Imari "I feel so stupid!"
+
+[MSG$028C9C,4]
+Bam!
+
+[MSG$028CAD,86]
+Imari screams, takes a wrapped package out of her bag, and slams it against the floor.
+
+[MSG$028D08,69]
+The package is smashed, and sandwiches can be seen from the wreckage.
+
+[MSG$028D5A,67]
+Imari "You're a jerk, Minase! I never want to see your face again!"
+
+[MSG$028DDB,4]
+Bam!
+
+[MSG$028DEC,67]
+After Imari finishes screaming, she slams the door shut and leaves.
+
+[MSG$028E3C,12]
+Minase "..."
+
+[MSG$028E55,28]
+I was staring at the door...
+
+[MSG$028E76,49]
+It's the first time I've seen Imari that angry...
+
+[MSG$028EB4,65]
+I'm working under Ms. Kitami now, and I'm trying to betray Imari,
+
+[MSG$028EFA,28]
+but her look of shock was...
+
+[MSG$028FA7,23]
+Shiraki "Who was that?"
+
+[MSG$028FD8,59]
+Shiraki asks me, as if the answer is very important to her.
+
+[MSG$029020,33]
+Minase "Nobody. Just a friend..."
+
+[MSG$02905B,56]
+I explained it to Shiraki as I got things under control.
+
+[MSG$0290A0,31]
+Shiraki "But she looked angry."
+
+[MSG$0290D9,35]
+Minase "We do this all the time..."
+
+[MSG$029116,68]
+But I knew today was a different from anything that happened before.
+
+[MSG$02915F,103]
+Usually she would forgive and forget after a day or so, but it looks like this time won't be so easy...
+
+[MSG$0291D3,66]
+She definitely hates me now...I know I hurt her feelings big time.
+
+[MSG$029255,49]
+Shiraki "Wait, are you going out with that girl?"
+
+[MSG$0292A0,48]
+Shiraki asks me with an uneasy look on her face.
+
+[MSG$0292DD,70]
+Minase "No, but we've known each other forever. We never even kissed."
+
+[MSG$02933D,47]
+Minase "I only do this kind of thing with you."
+
+[MSG$029386,19]
+Shiraki "Minase..."
+
+[MSG$0293B3,28]
+I say it without hesitating.
+
+[MSG$0293DC,23]
+I have to betray Imari.
+
+[MSG$0293F8,117]
+Sooner or later, something like this would have happened, no matter what. It just came a bit sooner than I thought...
+
+[MSG$02947A,50]
+But now, I'm know what I have to do about Imari...
+
+[MSG$0294B9,36]
+Minase "Come on, let's do it again."
+
+[MSG$0294F7,38]
+Shiraki "Yes! Make love to me more..."
+
+[MSG$029537,13]
+Shiraki nods.
+
+[MSG$029551,42]
+I decided to make love to Shiraki again...
+
+[MSG$029621,14]
+Shiraki "Hau!"
+
+[MSG$029649,48]
+I keep licking Shiraki's body and reach her ass.
+
+[MSG$029686,28]
+Minase "Stick your ass out."
+
+[MSG$029738,20]
+Shiraki "Like this?"
+
+[MSG$029766,48]
+Shiraki seems puzzled as she sticks her ass out.
+
+[MSG$0297A3,48]
+In front of me is her beautiful, curvaceous ass.
+
+[MSG$0297D8,41]
+I place my hand on her ass and stroke it.
+
+[MSG$02980E,61]
+Minase "You said before that you masturbate everyday, right?"
+
+[MSG$029865,15]
+Shiraki "Yeah."
+
+[MSG$02988E,40]
+Minase "Did you play with your asshole?"
+
+[MSG$029949,47]
+I then stuck my middle finger up her tight ass.
+
+[MSG$02997D,80]
+I stuck my cock in it the other day. I haven't played with her ass today at all.
+
+[MSG$0299DA,15]
+Shiraki "Aaan!"
+
+[MSG$029A03,54]
+Shiraki's body trembles as I put my finger up her ass.
+
+[MSG$029A46,40]
+I feel her warmth with my middle finger.
+
+[MSG$029A7B,64]
+Minase "What a reaction. So you did play with this hole as well?
+
+[MSG$029AD5,32]
+Shiraki "Yes. I played with it."
+
+[MSG$029B0F,46]
+Shiraki replied honestly with some hesitation.
+
+[MSG$029B4A,57]
+Minase "You're a nympho despite your honor student look."
+
+[MSG$029B9D,23]
+I laughed very lightly.
+
+[MSG$029BC1,46]
+Shiraki "But...but that's what you taught me."
+
+[MSG$029C09,35]
+Shiraki replied with embarrassment.
+
+[MSG$029C31,77]
+She must really like sex after getting banged in both holes and masturbating.
+
+[MSG$029C8B,37]
+Minase "You're pretty good at sex..."
+
+[MSG$029CCA,13]
+I teased her.
+
+[MSG$029CE4,13]
+Shiraki "No!"
+
+[MSG$029D0B,40]
+Shiraki's face turns red and she panics.
+
+[MSG$029D40,41]
+Minase "Now, let's test out your skills."
+
+[MSG$029DFB,27]
+I put my cock near her ass.
+
+[MSG$029E23,29]
+Shiraki "Is it going inside?"
+
+[MSG$029E5A,20]
+Minase "Here we go."
+
+[MSG$029E88,28]
+I slowly push it up her ass.
+
+[MSG$029F2A,12]
+Insertion...
+
+[MSG$029F43,34]
+The tip of my cock enters the ass.
+
+[MSG$029F72,17]
+Shiraki "Haaaah!"
+
+[MSG$029F9D,43]
+I slowly stick it into her tight asshole...
+
+[MSG$029FD5,35]
+It goes in smoother than last time.
+
+[MSG$02A005,28]
+Minase "It's in there deep."
+
+[MSG$02A03B,42]
+Shiraki "Yes. I feel your cock in my ass."
+
+[MSG$02A07F,28]
+Minase "Can I start moving?"
+
+[MSG$02A0B5,16]
+Shiraki "Yes..."
+
+[MSG$02A0DF,41]
+I start to thrust violently into her ass.
+
+[MSG$02A115,49]
+Shiraki "Hau! If you move that violently...Aaan!"
+
+[MSG$02A160,53]
+Shiraki trembles from the extreme feeling in her ass.
+
+[MSG$02A1A2,10]
+Banging...
+
+[MSG$02A1B9,60]
+Every time I go in and out, her asshole seems to scrunch up,
+
+[MSG$02A1FA,25]
+and I start to go numb...
+
+[MSG$02A220,46]
+Minase "It's great...your ass...Unbelievable."
+
+[MSG$02A268,71]
+Maybe I'm getting better at this, since I'm moving smoothly up her ass.
+
+[MSG$02A2BC,23]
+I start to move faster.
+
+[MSG$02A2E0,46]
+Shiraki "Good! It's good! It's inside my ass!"
+
+[MSG$02A328,37]
+She was really feeling it in her ass.
+
+[MSG$02A352,56]
+She tries to take it in deeper by tightening up her ass.
+
+[MSG$02A397,63]
+I'm reaching climax, as she does a good job tightening her ass.
+
+[MSG$02A3E3,32]
+Minase "No...I'm about to come."
+
+[MSG$02A41D,44]
+Shiraki "Great. You can shoot it up my ass."
+
+[MSG$02A463,24]
+Minase "Ok, I'm coming!"
+
+[MSG$02A495,44]
+Shiraki "Do it! Shoot lots of it up my ass!"
+
+[MSG$02A5CD,21]
+Shooting white cum...
+
+[MSG$02A5EF,85]
+I was shaking due to the great pleasure, and I shot plenty of white semen up her ass.
+
+[MSG$02A651,48]
+Shiraki "Guuah! It's flowing, it's flowing out!"
+
+[MSG$02A69B,24]
+White cum flowing out...
+
+[MSG$02A6C0,39]
+Shiraki "Wow, it's still coming out..."
+
+[MSG$02A701,52]
+I shot tons of semen, and it still kept pouring out.
+
+[MSG$02A73A,65]
+She tightens up her ass to get every drop of cock juice inside...
+
+[MSG$02A788,63]
+After I stop ejaculating, I pull my cock out of her ass slowly.
+
+[MSG$02A84D,14]
+Pulling out...
+
+[MSG$02A868,17]
+Shiraki "Phew..."
+
+[MSG$02A893,20]
+Juice pouring out...
+
+[MSG$02A8B4,47]
+Hot, steamy juice pours out from her asshole...
+
+[MSG$02A8F0,30]
+Shiraki "Hah...hah...hahhh..."
+
+[MSG$02A928,57]
+I put on my shirt while watching Shiraki pant like a dog.
+
+[MSG$02A966,53]
+I'm ready to take Shiraki over to Ms. Kitami's place.
+
+[MSG$02A9A8,27]
+Minase "Okay, get dressed."
+
+[MSG$02A9DD,24]
+Shiraki "Wha...already?"
+
+[MSG$02AA0F,51]
+Shiraki "It's okay...we have lots of time today..."
+
+[MSG$02AA5C,72]
+Shiraki watches me changing, and looks like she still wants more loving.
+
+[MSG$02AAB1,64]
+Minase "Let's go somewhere else. I'll take you to a nice place."
+
+[MSG$02AB0B,22]
+Shiraki "Wha...where?"
+
+[MSG$02AB3B,41]
+Shiraki questions me with an uneasy look.
+
+[MSG$02AB71,52]
+Minase "Come and find out. I'm sure you'll like it."
+
+[MSG$02AC3E,10]
+I chuckle.
+
+[MSG$02AC55,67]
+I'm sure Shiraki's gonna like what I have in mind and Ms. Kitami...
+
+[MSG$02AC9D,67]
+After having experienced sex, Shiraki will be easy prey for them...
+
+[MSG$02ACED,54]
+I put clothes on Shiraki, and head to the apartment...
+
+[MSG$02AD30,28]
+April 26 - Saeki's apartment
+
+[MSG$02ADD3,29]
+Shiraki "What is this place?"
+
+[MSG$02AE86,64]
+Shiraki and I walk through the halls of the apartment complex...
+
+[MSG$02AED3,91]
+Minase "A friend of mine is renting one of the rooms here. I'm sure you'll be surprised..."
+
+[MSG$02AF48,34]
+Then I stand in front of the door.
+
+[MSG$02AF77,18]
+Rings door bell...
+
+[MSG$02AF96,21]
+Amatsuki "Who is it?"
+
+[MSG$02AFC5,17]
+Minase "It's me."
+
+[MSG$02AFF0,51]
+Amatsuki "Oh, it's you Minase. Wait just a second."
+
+[MSG$02B03D,21]
+The door is unlocked.
+
+[MSG$02B05F,13]
+Opens door...
+
+[MSG$02B079,43]
+I open the door and go inside with Shiraki.
+
+[MSG$02B151,31]
+Shiraki "What? It's so dark..."
+
+[MSG$02B18A,117]
+The room is dark as usual. It's kind of obvious there's something up, since the windows are covered with black cloth.
+
+[MSG$02B204,53]
+The candles are the only thing illuminating the room.
+
+[MSG$02B246,54]
+Minase "Don't worry. There's nothing to be afraid of."
+
+[MSG$02B296,46]
+Shiraki snuggles up to me, very uncomfortable.
+
+[MSG$02B328,22]
+Amatsuki "Who is she?"
+
+[MSG$02B358,82]
+Amatsuki is wearing a clerical robe.  She asks me this while looking over Shiraki.
+
+[MSG$02B3B7,47]
+Minase "She's Rika Shiraki, our newest member."
+
+[MSG$02B400,36]
+Amatsuki "Really? Nice to meet you."
+
+[MSG$02B43E,47]
+Shiraki bows to Amatsuki without having a clue.
+
+[MSG$02B47A,40]
+Minase "Where are Saeki and the others?"
+
+[MSG$02B4BC,47]
+Amatsuki "They're in the back having some fun."
+
+[MSG$02B505,78]
+As I listen closely, I can hear women panting and gasping from the other room.
+
+[MSG$02B558,40]
+I take Shiraki and head into the back...
+
+[MSG$02B58D,25]
+April 26 - Room of ritual
+
+[MSG$02B649,105]
+As I enter the room, it smells like a church, but that scent is mixed with sweat and other bodily fluids.
+
+[MSG$02B6BF,15]
+Shiraki "What?"
+
+[MSG$02B6E8,23]
+Shiraki "What is this?"
+
+[MSG$02B719,69]
+Shiraki sees what is taking place.  She is at a total loss for words.
+
+[MSG$02B80E,37]
+Saeki "Haaa! I'm coming, I'm coming!"
+
+[MSG$02B84D,38]
+Kurimoto "Ah...Aahhh...good...deeper!"
+
+[MSG$02B88D,75]
+Three women were on top of the magic circle, banging their bodies together.
+
+[MSG$02B8E5,52]
+Ms. Kitami's huge penis was thrusting into Kurimoto,
+
+[MSG$02B91E,92]
+while Saeki and Kurimoto were licking each other's tongues and sucking on each other's lips.
+
+[MSG$02B97F,80]
+In Saeki's pussy and ass, there were two huge vibrators shoved in by Ms. Kitami.
+
+[MSG$02B9DC,31]
+Shiraki "What is this, Minase?"
+
+[MSG$02BA15,69]
+I ignored Shiraki and kept watching what was going on in front of me.
+
+[MSG$02BA67,60]
+Kitami "I'm coming... I'll let it out inside you, Kurimoto."
+
+[MSG$02BABD,64]
+Ms. Kitami slid in and out really fast, pumping inside Kurimoto.
+
+[MSG$02BB0A,71]
+Kurimoto "Yeah, do it. Do it inside. Shoot your thick semen inside me!"
+
+[MSG$02BB6B,47]
+Kitami "That's the spirit. Now you too, Saeki."
+
+[MSG$02BBB4,48]
+Ms. Kitami listened to what Kurimoto had to say,
+
+[MSG$02BBE9,86]
+and now she is increasing her thrusting speed as they get closer and closer to climax.
+
+[MSG$02BC4C,80]
+Ms. Kitami grabs both vibrators from Saeki's quivering holes and yanks them out.
+
+[MSG$02BD32,21]
+Saeki "Ah..ah..heee!"
+
+[MSG$02BD71,70]
+Saeki climaxes, and urinates in Kurimoto's direction at the same time.
+
+[MSG$02BDC4,26]
+Kurimoto "Heee..it's hot!"
+
+[MSG$02BDF8,56]
+Trembling, Kurimoto lets the clear liquid wash over her.
+
+[MSG$02BE43,60]
+Saeki keeps coming, and sprays at Ms. Kitami from her pussy.
+
+[MSG$02BE84,62]
+Ms. Kitami lets the clear liquid wash over her, and convulses.
+
+[MSG$02BECF,20]
+Kitami "I'm coming!"
+
+[MSG$02BF86,14]
+They climax...
+
+[MSG$02BFA1,59]
+Ms. Kitami trembles, and climaxes inside Kurimoto's vagina.
+
+[MSG$02BFE9,65]
+Kurimoto "Guuu! It's coming inside...hot juice is filling me up!"
+
+[MSG$02C044,31]
+Kitami "There's more...Look..."
+
+[MSG$02C07D,81]
+Still ejaculating inside Kurimoto, Ms. Kitami leans back and pulls out her penis.
+
+[MSG$02C0DB,16]
+Kitami "Nnnn..."
+
+[MSG$02C18E,26]
+Cock juice shooting out...
+
+[MSG$02C1B5,54]
+Ms. Kitami's penis is still shooting out white liquid,
+
+[MSG$02C1F0,42]
+covering both Saeki and Kurimoto's bodies.
+
+[MSG$02C227,17]
+Saeki "It's hot!"
+
+[MSG$02C252,39]
+Kurimoto "Amazing...there's so much..."
+
+[MSG$02C293,25]
+Cock juice pouring out...
+
+[MSG$02C2B9,50]
+Kitami "Heh...lots of good cock juice shot out..."
+
+[MSG$02C305,66]
+Ms. Kitami calmly looks over all the white fluids that spewed out.
+
+[MSG$02C34C,76]
+Saeki and Kurimoto are exhausted after finally being released by Ms. Kitami.
+
+[MSG$02C3A5,58]
+Shiraki's legs are weak from watching their performance...
+
+[MSG$02C48C,20]
+Kitami "Who is she?"
+
+[MSG$02C4BA,63]
+Ms. Kitami approaches us.  Her penis is still sticky and erect.
+
+[MSG$02C506,53]
+Minase "I'm thinking she can be our newest member..."
+
+[MSG$02C588,38]
+Kitami "Oh, you must be Rika Shiraki."
+
+[MSG$02C5C8,48]
+Ms. Kitami smiles and looks Shiraki up and down.
+
+[MSG$02C5FD,39]
+It looks like Ms. Kitami likes Shiraki.
+
+[MSG$02C631,38]
+Kitami "I'll be happy to take you in."
+
+[MSG$02C671,68]
+Shiraki "What is all this Minase? I have no clue what's going on..."
+
+[MSG$02C6CF,34]
+Shiraki looks terrified as whines.
+
+[MSG$02C6FE,97]
+Minase "You'll just be doing just what you saw a minute ago. You will do anything for me, right?"
+
+[MSG$02C779,24]
+Shiraki "But this is..."
+
+[MSG$02C7AB,49]
+Shiraki "Wait, why does Ms. Kitami have a penis?"
+
+[MSG$02C7F7,57]
+Shiraki's eyes have finally locked on Ms. Kitami's penis.
+
+[MSG$02C83D,72]
+Kitami "Oh, does this bother you? But you'll get used to it, Shiraki..."
+
+[MSG$02C89F,37]
+Ms. Kitami decides to attack Shiraki.
+
+[MSG$02C8D1,17]
+Shiraki "Kyaaaa!"
+
+[MSG$02C978,71]
+Shiraki tries to resist, but she is taken down by Saeki and the others.
+
+[MSG$02C9CC,70]
+Kitami "Stop struggling. I'm going to give you some serious pleasure."
+
+[MSG$02CA2C,20]
+Shiraki "No...no..."
+
+[MSG$02CA5A,57]
+Kitami "Heh, heh...You'll be begging for more very soon."
+
+[MSG$02CAAD,42]
+Kitami "Saeki, hand me the you know what."
+
+[MSG$02CAF1,64]
+Saeki picks up something and gives it immediately to Ms. Kitami.
+
+[MSG$02CB3E,55]
+It's a ball-like capsule three centimeters in diameter.
+
+[MSG$02CB7A,54]
+Ms. Kitami gently places it up against Shiraki's slit.
+
+[MSG$02CBBD,79]
+Kitami "There's a powerful drug inside. With this drug, sex will feel amazing."
+
+[MSG$02CC26,68]
+Then Ms. Kitami carefully pushes the ball up against Shiraki's slit.
+
+[MSG$02CD00,41]
+Shiraki "Don't put that thing inside me!"
+
+[MSG$02CD43,64]
+Kitami "Don't be like that. Relax, I'm pushing it inside now..."
+
+[MSG$02CD9D,60]
+Ms. Kitami ignores her and shoves it hard up, into her slit.
+
+[MSG$02CDE6,14]
+Shiraki "Hya!"
+
+[MSG$02CE97,45]
+The ball makes a wet sound as it goes inside.
+
+[MSG$02CED1,84]
+Kitami "Heh, heh...I'll shove it all the way up inside you and then crush the ball."
+
+[MSG$02CF3F,58]
+Ms. Kitami puts her huge penis up against Shiraki's pussy.
+
+[MSG$02CF86,32]
+Shiraki "Ah...please stop it..."
+
+[MSG$02CFC0,66]
+Kitami "You're gonna be begging for more very soon. Here we go..."
+
+[MSG$02D01C,15]
+Shiraki "Heee!"
+
+[MSG$02D0CE,84]
+The head of her penis, with its pinkish color, launches deep inside Shiraki's pussy.
+
+[MSG$02D12F,91]
+The round capsule is shoved further inside, pushed deeper as her penis goes all the way in.
+
+[MSG$02D197,111]
+As her penis enters, the capsule is caught between the wall of Shiraki's uterus and head of Ms. Kitami's penis.
+
+[MSG$02D20B,20]
+It's crushed inside.
+
+[MSG$02D22C,55]
+Shiraki "Hee! Something is overflowing from inside me!"
+
+[MSG$02D27D,81]
+Kitami "Your mucous membrane will absorb the drug and you'll start to feel good."
+
+[MSG$02D2E8,54]
+Ms. Kitami starts to thrust her hips with great force.
+
+[MSG$02D32B,10]
+Banging...
+
+[MSG$02D342,25]
+Shiraki "Ah..an..so big!"
+
+[MSG$02D375,75]
+Each time her huge penis goes in and out, the aphrodisiac inside drips out.
+
+[MSG$02D3C5,98]
+Ms. Kitami's penis is one size bigger than mine. I'm sure it's something of a stretch for Shiraki.
+
+[MSG$02D434,43]
+Kitami "Good, this hole is nice and tight."
+
+[MSG$02D479,71]
+Shiraki "No...it feels funny. You're not Minase, but it feels so good."
+
+[MSG$02D4DA,80]
+Shiraki hates it at first, but she starts to move her hips with some hesitation.
+
+[MSG$02D537,81]
+Kitami "I think the drug is beginning to take effect. This'll get very exciting."
+
+[MSG$02D5A2,36]
+Shiraki "Afu...I feel great! Great!"
+
+[MSG$02D5E0,10]
+Banging...
+
+[MSG$02D5F7,78]
+Every time they slap their hips together, liquid sprays out from between them.
+
+[MSG$02D652,61]
+Kitami "Heh, heh...What do you like more?  Mine or Minase's?"
+
+[MSG$02D6A9,41]
+Shiraki "No...don't ask me such a thing!"
+
+[MSG$02D6EC,79]
+Kitami "I guess with the drug inside, it feels really good. I'm about to come."
+
+[MSG$02D755,10]
+Banging...
+
+[MSG$02D76C,107]
+As Ms. Kitami increases her speed, Shiraki curls her lip and tries to prevent herself from reaching climax.
+
+[MSG$02D7E4,43]
+Shiraki "No! If you do me so hard I...Nnn!"
+
+[MSG$02D829,51]
+Kitami "I'm coming! Come and climax along with me."
+
+[MSG$02D876,18]
+Shiraki "Ah...no!"
+
+[MSG$02D8A2,103]
+Ms. Kitami thrusts her penis real deep inside Shiraki. Shiraki then leans back, bending over backwards.
+
+[MSG$02D916,55]
+Shiraki "Look Minase. I'm coming..ah..aah, I'm coming!"
+
+[MSG$02D9E0,19]
+They climax hard...
+
+[MSG$02DA00,77]
+They both feel ecstasy peak at the same time, and slap their bodies together.
+
+[MSG$02DA52,52]
+Thick white liquid shoots out from Shiraki's vagina.
+
+[MSG$02DA93,50]
+Shiraki "Hau! A lot...there's so much coming out!"
+
+[MSG$02DADF,21]
+Liquid pouring out...
+
+[MSG$02DB01,94]
+Ms. Kitami's hips twitch, and she shoots cock juice over and over again into Shiraki's vagina.
+
+[MSG$02DB6C,101]
+Kitami "Haahhh..Thanks a lot. I shot plenty of cock juice, so you might become pregnant. Heh, heh..."
+
+[MSG$02DBEB,50]
+Ms. Kitami then pulled out her penis from Shiraki.
+
+[MSG$02DCA3,14]
+Pulling out...
+
+[MSG$02DCBE,52]
+Thick creamy liquid pours out from Shiraki's vagina.
+
+[MSG$02DCFF,58]
+Shiraki "No...it's pouring out...but it's not Minase's..."
+
+[MSG$02DD53,38]
+Shiraki said it with such a sad voice.
+
+[MSG$02DD86,54]
+It was her first time taking in sperm other than mine.
+
+[MSG$02DDC1,61]
+But I'm sure she'll get banged by tons of people from now on.
+
+[MSG$02DE0B,75]
+And then, Shiraki was forced to sit in the middle of the room by herself...
+
+[MSG$02DEF4,65]
+Kitami "Now, it's time to do the ritual so you can be one of us."
+
+[MSG$02DF4F,38]
+Shiraki "What? What are you gonna do?"
+
+[MSG$02DF8F,48]
+We gathered around Shiraki, who was still naked.
+
+[MSG$02DFCC,52]
+Kitami "Let's all give a warm welcome to Shiraki..."
+
+[MSG$02E01A,67]
+With Ms. Kitami's signal, we all put pressure in our lower abdomen.
+
+[MSG$02E06A,41]
+Kitami "Te in nostro collegio accipio..."
+
+[MSG$02E0AD,16]
+Kitami "Nnnn..."
+
+[MSG$02E0D7,58]
+Ms. Kitami said...''You shall become one of us'' in Latin,
+
+[MSG$02E116,48]
+and urinated on Shiraki's body with great force.
+
+[MSG$02E1DC,12]
+Urinating...
+
+[MSG$02E1F5,17]
+Shiraki "Kyaaaa!"
+
+[MSG$02E220,49]
+We all followed her lead and urinated on Shiraki.
+
+[MSG$02E25E,12]
+Urinating...
+
+[MSG$02E277,21]
+Shiraki "Pha...no..."
+
+[MSG$02E2A6,36]
+Kitami "Hey, you should enjoy this."
+
+[MSG$02E2E4,22]
+Shiraki "Upu...hin..."
+
+[MSG$02E314,66]
+Yellowish liquid arced through the air and covered Shiraki's body.
+
+[MSG$02E363,53]
+It was like we were peeing on some bug on the ground,
+
+[MSG$02E39D,43]
+when we aimed for Shiraki's face and chest.
+
+[MSG$02E3D5,68]
+Everyone seemed to enjoy doing it, they had smiles on their faces...
+
+[MSG$02E426,36]
+Strange world...Everyone's insane...
+
+[MSG$02E457,42]
+But then I realized I was smiling as well.
+
+[MSG$02E48E,75]
+The adrenaline was rushing into my brain, and I was more excited than ever.
+
+[MSG$02E4DE,22]
+I'm one of them too...
+
+[MSG$02E501,65]
+It's like ''Paradise Lost''... I can't go back to Eden anymore...
+
+[MSG$02E5CC,65]
+Kitami "Now, let's really start the welcome party for Shiraki..."
+
+[MSG$02E627,73]
+They light incense that induces lust, and we all turn into sexual beasts.
+
+[MSG$02E675,42]
+The party continues late into the night...
+
+[MSG$02E6AC,97]
+I had sex over and over again, with everyone, and became intoxicated with the night's insanity...
+
+[MSG$02E795,18]
+..................
+
+[MSG$02E7B4,12]
+............
+
+[MSG$02E7CD,6]
+......

@@ -1,0 +1,157 @@
+﻿#Size=4384
+
+[MSG$000322,21]
+Bible Black Main Menu
+
+[MSG$000343,41]
+Starts the game from previous save point.
+
+[MSG$000378,30]
+Start the game from beginning.
+
+[MSG$0003A2,36]
+Look at graphics or listen to music.
+
+[MSG$0003D2,61]
+Erases all extras, endings, and other info you have unlocked.
+
+[MSG$00041B,15]
+Exits the game.
+
+[MSG$000431,9]
+Load Data
+
+[MSG$000457,8]
+New Game
+
+[MSG$00047C,6]
+Extras
+
+[MSG$00049F,10]
+Clear Data
+
+[MSG$0004C6,9]
+Exit Game
+
+[MSG$00051A,10]
+Clear data
+
+[MSG$000530,21]
+Erase all saved data.
+
+[MSG$000551,27]
+Erase saved CG and endings.
+
+[MSG$000578,29]
+Erase the info you have read.
+
+[MSG$0005A1,20]
+Return to main menu.
+
+[MSG$0005C8,16]
+Clear Saved data
+
+[MSG$0005F5,35]
+Clear Picture data and Ending data.
+
+[MSG$000635,15]
+Clear skip flag
+
+[MSG$000661,19]
+Return to main menu
+
+[MSG$0006BF,13]
+Initial Start
+
+[MSG$0006D8,33]
+Start the game from the prologue.
+
+[MSG$000705,37]
+Skip the prologue and start the game.
+
+[MSG$000736,20]
+Return to Main Menu.
+
+[MSG$00075D,14]
+Start Prologue
+
+[MSG$000788,19]
+Start Skip Prologue
+
+[MSG$0007B8,16]
+Return main menu
+
+[MSG$000971,22]
+BibleBlack -Main menu-
+
+[MSG$000B97,45]
+This will end the current game. Are you sure?
+
+[MSG$000BFC,22]
+Thank you for playing.
+
+[MSG$000C4E,10]
+Clear Data
+
+[MSG$000C9B,27]
+Erase saved CG and endings.
+
+[MSG$000CBE,13]
+Are you sure?
+
+[MSG$000D07,23]
+FINAL CHECK
+
+[MSG$000D26,37]
+This will erase saved CG and endings.
+
+[MSG$000D53,20]
+Are you really sure?
+
+[MSG$000DA3,29]
+Erasing saved CG and endings.
+
+[MSG$000DC8,26]
+Press any key to continue.
+
+[MSG$000E03,29]
+Erase the info you have read.
+
+[MSG$000E28,13]
+Are you sure?
+
+[MSG$000E71,23]
+FINAL CHECK
+
+[MSG$000E90,39]
+This will erase the info you have read.
+
+[MSG$000EBF,20]
+Are you really sure?
+
+[MSG$000F0F,31]
+Erasing the info you have read.
+
+[MSG$000F36,26]
+Press any key to continue.
+
+[MSG$000F87,21]
+Erase all saved data.
+
+[MSG$000FA4,13]
+Are you sure?
+
+[MSG$000FED,23]
+FINAL CHECK
+
+[MSG$00100C,31]
+This will erase all saved data.
+
+[MSG$001033,20]
+Are you really sure?
+
+[MSG$001083,23]
+Erasing all saved data.
+
+[MSG$0010A2,26]
+Press any key to continue.

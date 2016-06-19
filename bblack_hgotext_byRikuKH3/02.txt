@@ -1,0 +1,2842 @@
+﻿#Size=77825
+
+[MSG$00012C,33]
+Choose to have your fortune told.
+
+[MSG$00016A,15]
+Flat-out refuse
+
+[MSG$00019E,9]
+Play dumb
+
+[MSG$0001C4,35]
+Just go along with the conversation
+
+[MSG$00020C,16]
+Play even dumber
+
+[MSG$000239,35]
+Just go along with the conversation
+
+[MSG$000281,47]
+Go to the nurse's office because you're worried
+
+[MSG$0002CD,37]
+Decide not to give it another thought
+
+[MSG$000317,18]
+Try talking to her
+
+[MSG$000346,19]
+Pull back the sheet
+
+[MSG$00037E,23]
+Cover her up right away
+
+[MSG$0003B2,22]
+Ejaculate all over Ito
+
+[MSG$0005D1,18]
+April 21 - Morning
+
+[MSG$00066C,18]
+Voice "Wake up..."
+
+[MSG$000698,27]
+Voice "Come on, wake up..."
+
+[MSG$0006CD,36]
+Ugh...it's so noisy I can't sleep...
+
+[MSG$0006FE,24]
+Voice "Wake up, I said!"
+
+[MSG$000730,25]
+Rustle, rustle, rustle...
+
+[MSG$0007E6,26]
+Minase "5 more minutes..."
+
+[MSG$00081A,29]
+Imari "Don't be such a baby!"
+
+[MSG$000851,72]
+Imari "Just once a week, I wish you'd try to get up before I come over!"
+
+[MSG$0008B3,41]
+I can hear her muttering right in my ear.
+
+[MSG$0008E1,23]
+Of course I ignore her.
+
+[MSG$00097E,82]
+Imari "Now get yourself out of bed. Otherwise I'll have to take drastic measures."
+
+[MSG$0009EA,12]
+Minase "..."
+
+[MSG$000A03,65]
+Imari "Oh, so you're determined to sleep, are you? Okay, then..."
+
+[MSG$000A5E,96]
+Imari "I'm going to count to 3. If you're not up by then, I'm going to give you an Imari Punch!"
+
+[MSG$000AD8,16]
+How retarded....
+
+[MSG$000AED,74]
+I sleep on. I'm too drowsy to pay any attention to her childish threats...
+
+[MSG$000B44,14]
+Imari "One..."
+
+[MSG$000B6C,14]
+Imari "Two..."
+
+[MSG$000B94,16]
+Imari "Three..."
+
+[MSG$000BBE,20]
+Imari "IMARI PUNCH!"
+
+[MSG$000C84,4]
+BAM!
+
+[MSG$000C95,14]
+Minase "Augh!"
+
+[MSG$000CBD,66]
+I feel the shock of the punch and unbelievable pain in my stomach.
+
+[MSG$000D04,117]
+She'd attacked me with more destructive force than anyone could imagine from a deceptive name like ''Imari Punch''...
+
+[MSG$000D86,10]
+Ow...Ouch!
+
+[MSG$000D9D,19]
+It hurts like hell.
+
+[MSG$000DBD,15]
+Minase "Ugh..."
+
+[MSG$000E5F,77]
+I've gone past the point of waking up and have slipped into sleep once again.
+
+[MSG$000EB9,12]
+Minase "..."
+
+[MSG$000ED2,57]
+Imari "Hey, how long are you gonna fake sleep like that?"
+
+[MSG$000F25,28]
+Imari "I know you're awake."
+
+[MSG$000F5B,17]
+Imari "Hey, you!"
+
+[MSG$000F86,24]
+Imari starts shaking me.
+
+[MSG$000FAB,12]
+Minase "..."
+
+[MSG$000FC4,28]
+Then she peers into my face.
+
+[MSG$000FED,42]
+Imari "Ugh! You've rolled your eyes back."
+
+[MSG$001031,29]
+Imari "That's going too far!"
+
+[MSG$001068,22]
+Rustle, rustle, rustle
+
+[MSG$00108B,72]
+Imari "Hey, I'm sorry, okay? Please wake up! Or we're going to be late!"
+
+[MSG$0010ED,3]
+...
+
+[MSG$0010FD,6]
+......
+
+[MSG$001110,9]
+.........
+
+[MSG$001177,26]
+April 21 - Going to School
+
+[MSG$001276,15]
+Minase "Ugh..."
+
+[MSG$00129F,48]
+I rub my stomach, exaggerating my pain, and gag.
+
+[MSG$0012D4,37]
+Of course it's all an act for Imari..
+
+[MSG$001306,42]
+Imari "Oh, come on, you know you're okay."
+
+[MSG$00134B,62]
+Imari "I said I was sorry, all right? Stop sulking, will you?"
+
+[MSG$0013A3,31]
+Imari looks at me with concern.
+
+[MSG$0013CF,59]
+Minase "You could be a little gentler when you wake me up."
+
+[MSG$001424,55]
+Minase "But how else can I get you out of bed, Minase?"
+
+[MSG$001475,50]
+Minase "So you're just gonna try to kill me, huh?"
+
+[MSG$0014C1,120]
+If she keeps waking me up so violently, there'll come a morning when I really won't be able to get out of bed...forever.
+
+[MSG$001546,39]
+Imari "I've apologized numerous times!"
+
+[MSG$001587,84]
+Minase "It's not a matter of apologizing. I thought my insides were going to burst."
+
+[MSG$0015F5,57]
+Imari "Well, it's your fault for being so uncooperative!"
+
+[MSG$001648,90]
+Now she's defiant. But she's right, I do depend on her to get me out of bed every morning,
+
+[MSG$0016A7,46]
+so I'm not really in any position to complain.
+
+[MSG$0016E2,79]
+If I piss her off to the point where she won't come over to wake me up anymore,
+
+[MSG$001736,49]
+then I'm sure to be late for class every morning.
+
+[MSG$00176C,43]
+That's one thing I just can't let happen...
+
+[MSG$0017A4,67]
+Minase "Well, as long as you're more gentle with me in the future."
+
+[MSG$001801,53]
+Imari "Then make sure you get up when I tell you to."
+
+[MSG$001850,91]
+I didn't think it would do any good to argue further, so we walked on to school in silence.
+
+[MSG$001909,22]
+April 21 - School Gate
+
+[MSG$0019A6,34]
+We passed through the school gate.
+
+[MSG$0019CD,42]
+There aren't that many other students yet.
+
+[MSG$001A04,39]
+I'm pretty sure Ito hasn't arrived yet.
+
+[MSG$001A89,18]
+April 21 - Lockers
+
+[MSG$001B1A,77]
+I took a look at the spot in front of the lockers where I'd buried the stone,
+
+[MSG$001B6C,49]
+but I couldn't even remember where it was myself.
+
+[MSG$001BAA,50]
+While I'm changing my shoes, I check Ito's locker.
+
+[MSG$001BE1,38]
+Just as I thought, she's not here yet.
+
+[MSG$001C47,27]
+Imari "What are you doing?"
+
+[MSG$001C7C,17]
+Minase "Nothing."
+
+[MSG$001CA7,32]
+I grab my shoes and put them on.
+
+[MSG$001D2B,19]
+Ito "Good morning."
+
+[MSG$001D58,26]
+Imari "Hey, good morning."
+
+[MSG$001D8D,54]
+Just at that moment, Mika Ito arrives. Perfect timing!
+
+[MSG$001DC8,21]
+Speak of the devil...
+
+[MSG$001DEA,60]
+I watch her out of the corner of my eye as she greets Imari.
+
+[MSG$001E33,60]
+But at a glance, I can't see anything different about her...
+
+[MSG$001E7C,30]
+Hell, nothing happened to her.
+
+[MSG$001E9F,65]
+The book had been so suggestive...this was kind of anticlimactic.
+
+[MSG$001EE5,85]
+Or could it be that it was going to take some time for the spell to show its effects?
+
+[MSG$001F47,25]
+Imari "Let's go, Minase."
+
+[MSG$001F7A,21]
+Minase "Oh, right..."
+
+[MSG$001FA9,94]
+Out of the corner of my eye I watch Ito changing her shoes, as Imari and I climb the stairs...
+
+[MSG$002065,20]
+April 21 - Classroom
+
+[MSG$002104,14]
+(Door opening)
+
+[MSG$00211F,60]
+There are a few students in the classroom, Saeki among them.
+
+[MSG$002168,79]
+I guess she just got here. She's taking her textbooks and stuff out of her bag.
+
+[MSG$0021C4,43]
+Imari goes around greeting the other girls.
+
+[MSG$0021F4,36]
+I walk past her towards my own desk.
+
+[MSG$002225,54]
+Mika Ito arrives in class not long after Imari and me.
+
+[MSG$002268,105]
+I set my bag on my desk, and start killing time until class in my absent-minded way, just as I always do.
+
+[MSG$0022DE,44]
+The magic book is inside the bag on my desk.
+
+[MSG$00230F,54]
+I should've just left it at home, since it's so heavy.
+
+[MSG$00234A,118]
+But for some reason I wanted to keep it close at hand, so I brought it with me. I hang the bag on the side of my desk.
+
+[MSG$0023CD,87]
+Hardly any of the guys are here yet. Having nothing else to do, I look around the room.
+
+[MSG$002431,91]
+I glance over at Saeki and see that she's got some cards or something laid out on her desk.
+
+[MSG$002491,59]
+She's up to one of her suspicious-looking operations again.
+
+[MSG$0024D1,40]
+I decide to watch her, to pass the time.
+
+[MSG$002582,52]
+Minase "First magic, now it's fortune-telling, huh?"
+
+[MSG$0025D0,41]
+They were tarot cards, not playing cards.
+
+[MSG$0025FE,83]
+Saeki was in the middle of setting them out in some mysterious pattern on her desk.
+
+[MSG$00265E,40]
+Saeki "Do you have a problem with that?"
+
+[MSG$0026A0,61]
+Minase "What can you find out from cards like those, anyway?"
+
+[MSG$0026F7,26]
+My tone is half-insulting.
+
+[MSG$00271E,38]
+Saeki "Oh, I can find out anything..."
+
+[MSG$00275E,103]
+Saeki "Would you like me to read your fortune, perhaps? My readings are quite well-received, you know."
+
+[MSG$0027DF,109]
+How pathetic is she, to sell herself like that? You're supposed to leave it to others to give you a good rep.
+
+[MSG$002851,23]
+Not toot your own horn.
+
+[MSG$002875,64]
+Anyway, ''Fortunetellers are sometimes correct, sometimes not.''
+
+[MSG$0028BA,111]
+She probably just says the most non-committal, vague things to people, then deludes herself that she was right.
+
+[MSG$002956,33]
+Minase "Okay, then, let's do it."
+
+[MSG$002991,63]
+I decide to go along with Saeki's game so I can kill some time.
+
+[MSG$0029D5,63]
+I want to see if her ''well-received'' predictions really work.
+
+[MSG$002A21,53]
+Saeki "All right...what kind of reading do you want?"
+
+[MSG$002A70,61]
+Saeki "Your love life, your aspirations...I can do anything."
+
+[MSG$002AC7,60]
+Minase "Can you predict the outcome of something I've done?"
+
+[MSG$002B1D,51]
+Saeki "Of course, that would be no trouble at all."
+
+[MSG$002B6A,34]
+Saeki "So what is it you've done?"
+
+[MSG$002BA6,111]
+Of course it's the Book of Magic. But after our conversation yesterday, I can't spill the whole story to Saeki.
+
+[MSG$002C22,31]
+Minase "Do I have to tell you?"
+
+[MSG$002C5B,72]
+Saeki "No, it doesn't matter. The cards will read what's in your heart."
+
+[MSG$002CBD,81]
+Saeki gathers up the cards scattered across her desk, and starts to shuffle them.
+
+[MSG$002D1B,30]
+Saeki "Siras, Etar,  Besanar."
+
+[MSG$002D53,75]
+After murmuring these words Saeki lays out the cards with a practiced hand.
+
+[MSG$002E34,52]
+Saeki "All right, I'm going to do your reading now."
+
+[MSG$002E82,45]
+Saeki gazes at the cards with a serious face.
+
+[MSG$002EBC,79]
+The cards are laid out in an orderly fashion. They all sport colorful patterns.
+
+[MSG$002F10,75]
+I'm sure they all convey some kind of meaning, but I'm completely clueless.
+
+[MSG$002F68,30]
+Saeki "This is you right now."
+
+[MSG$002FA0,33]
+Saeki points to one of the cards.
+
+[MSG$002FCE,27]
+Saeki "The world inverted."
+
+[MSG$003003,80]
+Saeki "You're struggling inside, You don't know what should be your next move...
+
+[MSG$003058,60]
+But no matter what you decide to do, you must move forward."
+
+[MSG$0030AE,43]
+Saeki "But you mustn't let your guard down.
+
+[MSG$0030DE,90]
+Any mistakes on your part and you'll be dragged down into the darkness, just like that..."
+
+[MSG$003152,87]
+The next card Saeki points at shows a man walking with a bundle and a cane in one hand.
+
+[MSG$0031AE,35]
+It's been flipped over upside down.
+
+[MSG$0031DE,99]
+Saeki "This is the obstacle you'll encounter if you decide to take that action. The Fool inverted."
+
+[MSG$00325B,57]
+Saeki "It will capture you, and you could be swept away."
+
+[MSG$003299,114]
+It's implying that there will be times when you lose sight of who you are, and opt for a foolish course of action.
+
+[MSG$003325,108]
+The next card Saeki pointed to had a picture of an angel, armed with a bow & arrow, descending from the sky.
+
+[MSG$003396,61]
+The angel was taking aim at a man and a woman standing below.
+
+[MSG$0033E0,62]
+Saeki "This card indicates your profit. The Lovers' position."
+
+[MSG$003438,82]
+Saeki "You'll find yourself drowning in it...you're going to lose yourself in it."
+
+[MSG$00348F,58]
+It's not clear if that's the right path for you to follow,
+
+[MSG$0034CE,46]
+but it will bring you comfort and pleasure..."
+
+[MSG$003516,40]
+Saeki points at the last remaining card.
+
+[MSG$00354B,87]
+Saeki "And this card shows what end you'll come to. The Tower of Destruction position."
+
+[MSG$0035BC,84]
+Saeki "You have no option but to leave it all to fate. The point is not to fight it.
+
+[MSG$003615,72]
+If you decide to do this, you need to make a decision you won't regret."
+
+[MSG$003677,53]
+Saeki "The tower represents what you've accomplished.
+
+[MSG$0036B1,67]
+You are standing on top of the tower, preparing for your next goal.
+
+[MSG$0036F9,51]
+But if you're not careful, you're going to fall..."
+
+[MSG$003746,95]
+Even after she'd analyzed all of the cards, it still wasn't clear to me what the results meant.
+
+[MSG$0037B2,33]
+Minase "So? What does that mean?'
+
+[MSG$0037ED,70]
+Saeki "It's obscure, because the cards have cancelled out the answer."
+
+[MSG$00384D,114]
+Saeki "To put it simply, there are both merits and demerits in either path. In other words, it will be up to you."
+
+[MSG$0038D9,45]
+Minase "Well, that's pretty vague, isn't it?"
+
+[MSG$003920,70]
+Just as I thought, there wasn't much to this fortune-telling business.
+
+[MSG$00396B,65]
+It was exactly what I'd expected, but I'm still halfway appalled.
+
+[MSG$0039B9,55]
+Still, in a way Saeki's reading was close to the truth.
+
+[MSG$0039F5,60]
+Even so, you couldn't say her answers weren't non-committal.
+
+[MSG$003A49,27]
+Minase "Thanks, I'll pass."
+
+[MSG$003A7E,24]
+Saeki "Oh? What a pity."
+
+[MSG$003AB0,91]
+The last thing I need is to have someone predict my future by haphazardly laying out cards.
+
+[MSG$003B10,85]
+I'm not bragging or anything, but I've never even drawn my fortune on New Year's Day.
+
+[MSG$003B72,82]
+Saeki "Well, I'm not going to force you. But let me know if you change your mind."
+
+[MSG$003BDE,29]
+Minase "I'll think about it."
+
+[MSG$003CB4,24]
+Ito "Move it, will you?"
+
+[MSG$003CE6,52]
+Ito "Hey, can you do my reading like you always do?"
+
+[MSG$003D34,104]
+As soon as I'm done talking to Saeki, Mika Ito jumps into view as if I'd kept her waiting all this time.
+
+[MSG$003DA1,76]
+Looks like Saeki was right when she mentioned how popular her readings were.
+
+[MSG$003DFA,13]
+Saeki "Sure."
+
+[MSG$003E21,107]
+Saeki gathers the cards toward her, shuffles them neatly, and lays them out on her desk, picture side down.
+
+[MSG$003F16,31]
+Saeki "All right, pick a card."
+
+[MSG$003F4F,31]
+Ito points to one of the cards.
+
+[MSG$003F73,20]
+Saeki turns it over.
+
+[MSG$003F94,69]
+There's a picture of an angel descending to earth, blowing a trumpet.
+
+[MSG$003FDE,41]
+And this card is in the reverse position.
+
+[MSG$004014,11]
+Saeki "..."
+
+[MSG$00402C,11]
+Ito "Well?"
+
+[MSG$004051,27]
+Saeki "The Judge inverted."
+
+[MSG$004086,10]
+Ito "And?"
+
+[MSG$0040AA,49]
+Saeki "Something bad might happen to you soon..."
+
+[MSG$0040F5,73]
+Saeki "It will be cruel. It might cause you to suffer public humiliation.
+
+[MSG$004143,50]
+And there's no way for you to escape this fate..."
+
+[MSG$00418F,40]
+Ito "What...what are you talking about?"
+
+[MSG$0041D1,50]
+Hearing Saeki's words, Ito starts to look nervous.
+
+[MSG$004210,44]
+Saeki's words startle me, too, for a moment.
+
+[MSG$004249,70]
+If her prediction comes true, Ito will suffer some kind of misfortune.
+
+[MSG$004294,67]
+And that misfortune just might be the spell that I had cast on her.
+
+[MSG$0042DC,13]
+But surely...
+
+[MSG$0042F6,113]
+Saeki "Don't worry about it too much. All I did was give you a straight reading of what I sensed from the cards."
+
+[MSG$004381,40]
+So saying, Saeki tries to calm down Ito.
+
+[MSG$004443,25]
+Ding, dong, ding, dong...
+
+[MSG$004469,29]
+Just then, the bell went off.
+
+[MSG$004493,106]
+Saeki puts away her cards, and the students who'd been milling around her desk go back to their own seats.
+
+[MSG$00450A,28]
+I head back to my seat, too.
+
+[MSG$004533,47]
+Still, Saeki's readings were pretty intriguing.
+
+[MSG$004567,106]
+If that magic I'd performed yesterday did take effect, then Saeki's readings weren't necessarily untrue...
+
+[MSG$0045DE,49]
+At any rate, I decide to keep an eye out for Ito.
+
+[MSG$00461C,20]
+Then class begins...
+
+[MSG$00468E,16]
+April 21 - Class
+
+[MSG$004725,73]
+1st class, 2nd class, and 3rd class all go by without anything happening.
+
+[MSG$00477B,97]
+I've been checking out Ito after every class, but I haven't noticed anything different about her.
+
+[MSG$0047E9,44]
+Then just as my 4th class is about to end...
+
+[MSG$00481A,46]
+...I can see Ito's behavior start to change...
+
+[MSG$004855,100]
+Just a few minutes before, she'd been copying down what the professor had written on the blackboard,
+
+[MSG$0048BE,102]
+when all of a sudden she started hanging her head, like she was enduring something with all her might.
+
+[MSG$004931,70]
+She's trembling slightly. Her face is flushed; her breathing is heavy.
+
+[MSG$00497C,104]
+Her eyes are vacant and disoriented. She looks as if she's not paying any attention at all to the class.
+
+[MSG$0049F1,34]
+Is she feeling sick, or something?
+
+[MSG$004A20,24]
+Or is it something else?
+
+[MSG$004A45,24]
+I stare intently at Ito.
+
+[MSG$004A62,106]
+The others haven't noticed anything different about Ito. The guy right behind her is sleeping at his desk.
+
+[MSG$004AD1,41]
+I guess I'm the only one who's noticed...
+
+[MSG$004BB5,25]
+Ito "(breathing heavily)"
+
+[MSG$004BE8,70]
+I can hear Ito's labored breathing blended with the professor's voice.
+
+[MSG$004C33,55]
+Ito looks even worse now. Her face is shiny with sweat,
+
+[MSG$004C6F,66]
+Her mouth is flapping open and closed as if she's oxygen-deprived.
+
+[MSG$004CBE,104]
+That was when I see it...Ito's thin hand, no longer gripping her pencil, had slid down below her desk...
+
+[MSG$004D2B,54]
+and she's restlessly groping herself between the legs.
+
+[MSG$004D6E,55]
+No matter how you looked at it, it was a bizarre sight.
+
+[MSG$004DAA,78]
+Not something a decent person would do in a classroom, let alone during class.
+
+[MSG$004E05,30]
+The magic was taking effect...
+
+[MSG$004E28,65]
+As much as I hated to believe it, there was no other explanation.
+
+[MSG$004E76,99]
+Even if you couldn't hold yourself back, you wouldn't normally do that during class. Not only that,
+
+[MSG$004EDE,76]
+but Ito just wasn't the kind of girl who'd do something like that in public,
+
+[MSG$004FD6,4]
+Thud
+
+[MSG$004FE7,44]
+At that moment, Mika Ito suddenly stands up.
+
+[MSG$005020,34]
+I have a bad feeling about this...
+
+[MSG$005047,16]
+Don't tell me...
+
+[MSG$005064,58]
+Teacher "What's the matter, Ito? You're not feeling well?"
+
+[MSG$0050B9,108]
+Seeing Ito standing on wobbly feet, the professor stops the lecture and calls out to her in a worried voice.
+
+[MSG$00512A,43]
+There's no question that Ito isn't herself.
+
+[MSG$005162,83]
+Still standing, Ito doesn't say a word, She seems to be trying to resist something.
+
+[MSG$0051BA,44]
+Her eyes are unfocused and wander aimlessly.
+
+[MSG$0051F3,59]
+Teacher "If you don't feel well, go to the nurse's office."
+
+[MSG$005248,64]
+She seems to have heard his voice. Ito starts stumbling forward.
+
+[MSG$00528D,106]
+She walks unsteadily towards the front of the room, as if she were sleepwalking or possessed by something.
+
+[MSG$005304,21]
+Drip...drip...drip...
+
+[MSG$005326,12]
+Minase "..."
+
+[MSG$00533F,89]
+I notice that Ito is dripping something onto the floor, leaving little stains behind her.
+
+[MSG$0053A5,70]
+A closer look told me that it was coming from deep within her skirt...
+
+[MSG$0053F0,74]
+I look even closer and see that a clear fluid is oozing down her thighs...
+
+[MSG$005447,108]
+Teacher "What's the matter, Ito? You can go to the nurse's office, or would you rather go home for the day?"
+
+[MSG$0054CD,76]
+The professor speaks to Ito, who has stopped still in front of the platform.
+
+[MSG$005526,33]
+Ito "I can't hold it in anymore!"
+
+[MSG$005561,84]
+Ito cries out suddenly, then she grabs her uniform with both hands and tears it off.
+
+[MSG$00563A,8]
+Pop, pop
+
+[MSG$00564F,54]
+The buttons on her uniform pop off and fly in the air.
+
+[MSG$005692,37]
+Teacher "Hey, what's wrong with you?"
+
+[MSG$0056D1,100]
+The professor is taken aback by Ito's sudden action and can only stand there stupidly, watching her.
+
+[MSG$00573A,90]
+The students watching Ito are also watching her in a daze, with their mouths hanging open.
+
+[MSG$0057A1,61]
+I'm the only one in this classroom who knows what's going on.
+
+[MSG$0057EB,22]
+No doubt about it now.
+
+[MSG$005806,70]
+Mika Ito is the unfortunate victim of the spell I'd cast last night...
+
+[MSG$005851,50]
+she was being forced into this insane performance.
+
+[MSG$005890,35]
+Watching what was happening to Ito,
+
+[MSG$0058B8,105]
+I was finally convinced that the magical spell was working. Or rather, I had no choice but to believe it.
+
+[MSG$00592E,23]
+Ito "(Heavy breathing)"
+
+[MSG$00595F,69]
+Ito had torn off her top, and was now ripping the hook off her skirt.
+
+[MSG$0059A9,60]
+And the minute she lets go, the skirt tumbles to the ground.
+
+[MSG$005A7B,9]
+Rustle...
+
+[MSG$005A91,29]
+That's when the uproar began.
+
+[MSG$005AB3,89]
+You could see what had been hidden by the skirt. Her small white panties are now exposed.
+
+[MSG$005B19,88]
+And her crotch is visibly wet, so that part of her undergarment is sticking to her body.
+
+[MSG$005B76,100]
+And if you look at her white legs, there's a clear liquid oozing down from her thighs to her ankles.
+
+[MSG$005BE7,49]
+And yet Ito doesn't even try to hide any of this.
+
+[MSG$005C1D,64]
+And then, as though putting on a show, she tears off her blouse.
+
+[MSG$005CF3,72]
+In the midst of all this insanity, the professor stands there in a daze.
+
+[MSG$005D40,85]
+He stands rigidly, as if possessed by something holding him back, unable to stop Ito.
+
+[MSG$005DA2,68]
+Ito has stripped down to her underwear, and looks over at the class.
+
+[MSG$005DEB,100]
+Smiling lewdly, she takes hold of the pure white bra concealing her breasts and shoves it downwards.
+
+[MSG$005EE5,78]
+And then her highly elastic breasts are freed from the constraints of her bra.
+
+[MSG$005F40,101]
+Her breasts are revealed, and they look pretty good, thrusting forward...and they're sharply pointed.
+
+[MSG$005FAA,49]
+Her nipples are standing upright from excitement.
+
+[MSG$005FE8,43]
+I hear the sound of someone gulping deeply.
+
+[MSG$006018,84]
+Some of the girls are covering their eyes, but the boys are staring intently at Ito.
+
+[MSG$006079,35]
+This is almost like a strip show...
+
+[MSG$0060A9,49]
+No one tries to stop Ito; everyone's an onlooker.
+
+[MSG$0060DF,35]
+Or rather, no one CAN stop her now.
+
+[MSG$006117,44]
+Ito looks out at her classmates, and smirks.
+
+[MSG$006148,55]
+At this point there's no trace left of the Ito we know.
+
+[MSG$00618C,73]
+She puts her hands on her last shred of modesty...her lily-white panties.
+
+[MSG$0061DA,36]
+There's no one who can stop her now.
+
+[MSG$00620B,85]
+Then Ito begins to gyrate her hips, letting her panties slide down around her ankles.
+
+[MSG$006265,52]
+She even has a smile on her face as she does this...
+
+[MSG$0062A6,79]
+Ito removes her panties from her ankles and tosses it towards the nearest desk.
+
+[MSG$00638B,8]
+Splat...
+
+[MSG$0063A0,93]
+The white cloth is smeared with her disgusting fluids. There's a sound when it hits the desk.
+
+[MSG$006402,75]
+The male student sitting there looks at what's stuck on his desk in a daze.
+
+[MSG$00645A,44]
+By now Ito is wearing nothing but her socks.
+
+[MSG$006493,109]
+There's no longer anything to hide the area between her legs. Everything's exposed to this crowd of students.
+
+[MSG$006505,96]
+Her vulva appears unused and it's still a rosy color. But it's unbelievably damp and glistening.
+
+[MSG$006572,79]
+Seeing this, some of the boys begin writhing in excitement. Who can blame them?
+
+[MSG$0065C6,104]
+A classmate of the opposite sex suddenly goes naked before their eyes...no way can they not get excited.
+
+[MSG$00663B,42]
+Ito "Well? Do you find my body beautiful?"
+
+[MSG$00667F,38]
+Ito says this while breathing heavily.
+
+[MSG$0066B2,79]
+More than the boys or anyone else...Mika Ito is the most excited person of all.
+
+[MSG$006706,61]
+She seems to be enjoying what's going on to an insane degree.
+
+[MSG$006748,78]
+It's like she's made some kind of breakthrough, and she's being manipulated...
+
+[MSG$0067A3,39]
+Ito "Look at me...look at all of me..."
+
+[MSG$0067E4,40]
+So saying, Ito squats down on the floor.
+
+[MSG$006819,38]
+And slowly, she spreads her legs wide.
+
+[MSG$0068C8,57]
+Unabashedly, she exposes her sticky, wet vulva to us all.
+
+[MSG$00690E,75]
+Her labia had been shut tight, but when she spreads her legs it gapes open.
+
+[MSG$006966,113]
+The male students can't take their eyes off this. They're all excited, while the girls cower at the sight of Ito.
+
+[MSG$0069E4,16]
+She's lost it...
+
+[MSG$0069F9,32]
+No way is she in her right mind.
+
+[MSG$006A26,85]
+Ito can sense that all eyes are on her private parts, and she smiles in satisfaction.
+
+[MSG$006A88,45]
+Slowly, she places her hand between her legs.
+
+[MSG$006AC2,14]
+Ito "(laughs)"
+
+[MSG$006AEA,98]
+Then she coats her fingers with her own bodily secretions, and starts rubbing the crevice with her
+
+[MSG$006B51,29]
+|sticky fingers, up and down.
+
+[MSG$006B7B,79]
+Right away, you can hear the squishing noise this makes all over the classroom.
+
+[MSG$006BD7,15]
+Ito "(moaning)"
+
+[MSG$006C00,82]
+Rubbing herself between her legs, Ito moans in pleasure, her face full of ecstasy.
+
+[MSG$006C57,31]
+She's totally in her own world.
+
+[MSG$006C83,65]
+The sight of this sends adrenaline pumping throughout our brains.
+
+[MSG$006CC9,65]
+It's not like anything that happens when you're watching a video.
+
+[MSG$006D17,58]
+A classmate you know well is sitting just a few feet away,
+
+[MSG$006D56,69]
+naked and with her legs spread wide, and she's masturbating intently.
+
+[MSG$006DA8,45]
+Of course, there's no mosaic hiding anything.
+
+[MSG$006DE2,114]
+This is a once-in-a-lifetime experience...no, it would never, ever happen to a student under normal circumstances.
+
+[MSG$006EDA,14]
+Ito "(grunts)"
+
+[MSG$006F02,33]
+Ito lets out a grunt and shivers.
+
+[MSG$006F28,89]
+She stops rubbing herself between her legs and slowly inserts her fingers into her vulva.
+
+[MSG$006F8E,11]
+Ito "Ahhh!"
+
+[MSG$006FB3,75]
+She sighs heavily as her two fingers dig down into the depths of her labia.
+
+[MSG$00700B,15]
+Ito "(moaning)"
+
+[MSG$007034,86]
+As her fingers grow accustomed to this action, they begin to move with more intensity.
+
+[MSG$007097,27]
+Squish...squish...squish...
+
+[MSG$0070BF,46]
+Each time her two fingers sink all the way in,
+
+[MSG$0070F2,90]
+there's a gush of fluid from between the lips of her labia, and it drips down her fingers.
+
+[MSG$007151,103]
+And each time this happens, you can hear the repulsive ''squish, squish'' sound all over the classroom.
+
+[MSG$0071C5,64]
+Gradually, Ito begins to move her hips in time with her fingers.
+
+[MSG$00720A,67]
+The sight of Ito frantically thrusting out her hips in an effort to
+
+[MSG$007252,54]
+|gain even more pleasure was indescribably disgusting.
+
+[MSG$007295,50]
+Ito "I'm coming...I'm coming...I'm going to come!"
+
+[MSG$0072E1,97]
+Finally, in a desperate attempt to capture the moment of her climax, she speeds up her fingering.
+
+[MSG$00734F,16]
+Ito "(grunting)"
+
+[MSG$007379,78]
+Her hands and her hips move faster, and you can tell she's approaching climax.
+
+[MSG$0073D4,17]
+Ito "I'm coming!"
+
+[MSG$0073FF,58]
+She screams as whitish fluid spurts from between her legs.
+
+[MSG$00743E,47]
+She's actually all steamed up from her ecstasy.
+
+[MSG$007503,17]
+Ito "(screaming)"
+
+[MSG$00752E,37]
+And with a loud scream, she climaxes.
+
+[MSG$007560,25]
+Squish, squish, squish...
+
+[MSG$007586,115]
+Ito expels a spray of ejaculate from between her legs as she climaxes. And then there's a spray of yellowish fluid,
+
+[MSG$0075FE,22]
+gushing out in an arc.
+
+[MSG$007621,103]
+There's so much and it's so forceful that the spray catches some of the male students in the front row.
+
+[MSG$00768D,40]
+Steam rises as it darkens their clothes.
+
+[MSG$0076C2,47]
+As she continues to lose control of her bowels,
+
+[MSG$0076F6,76]
+Ito begins to tremble and finally collapses on the floor. She's unconscious.
+
+[MSG$0077C8,25]
+There's a long silence...
+
+[MSG$0077EE,60]
+The class is dumbfounded by the spectacle before their eyes.
+
+[MSG$00782F,21]
+Nobody tries to move.
+
+[MSG$007851,51]
+There's a faint smell of urine in the silent class.
+
+[MSG$007889,86]
+And in a strange way, it lends a raw sense of reality to this utterly fantastic scene.
+
+[MSG$0078EC,105]
+After a long silence, the professor, who'd been frozen like a statue, finally finds his voice and speaks.
+
+[MSG$007962,92]
+Teacher "H-hey. Somebody put her clothes back on. We're carrying her to the nurse's office."
+
+[MSG$0079D8,54]
+As if that were their signal, the class stirs at last.
+
+[MSG$007A1B,35]
+Some of the girls rush over to Ito.
+
+[MSG$007A4B,102]
+I could see there was still some liquid trickling out from between Ito's legs, even as she lay limply,
+
+[MSG$007AB6,42]
+still unconscious, but at least covered...
+
+[MSG$007BD0,16]
+April 21 - Lunch
+
+[MSG$007C67,79]
+Student A "Did you see Ito's thing? I jerked off just thinking about it. Damn."
+
+[MSG$007CD0,94]
+Student B "I never dreamed she was the kind of girl who'd do something as disgusting as that."
+
+[MSG$007D49,59]
+All during lunch, you could hear everyone talking about it.
+
+[MSG$007D91,75]
+A lot of the students were in such shock that they'd gone home for the day.
+
+[MSG$007DE1,46]
+And the rest of the class was still all abuzz.
+
+[MSG$007E1C,108]
+Trying to look out for Ito, the professor instructed us in no uncertain terms to keep the incident a secret,
+
+[MSG$007E8D,61]
+and we were not to talk about it to anyone outside the class.
+
+[MSG$007ED7,119]
+But there was no way everyone would keep such a secret. It was only a matter of time before it was all over the school.
+
+[MSG$007F53,73]
+What happened was just too huge to be buried...impossible to keep secret.
+
+[MSG$007FA9,81]
+Afterwards, Ito was carried off to the nurse's office by Saeki and the professor.
+
+[MSG$007FFF,37]
+She was probably still resting there.
+
+[MSG$008031,38]
+What would she think once she woke up?
+
+[MSG$008064,70]
+Not only did she take off all her clothes and masturbate during class,
+
+[MSG$0080AF,52]
+she even came and peed in front of everyone as well.
+
+[MSG$0080F0,101]
+With such a load to carry, there's no question that her days at this school will only be a dark hell.
+
+[MSG$008162,48]
+There are a lot of people who were once popular,
+
+[MSG$008197,86]
+but who were instantly branded as losers just because they peed their pants at school.
+
+[MSG$0081FA,91]
+When you consider that, I realize that I may have done a terrible thing to poor Mika Ito...
+
+[MSG$00825A,101]
+It wasn't Ito's fault. It was just her bad luck that she'd been the best candidate for my experiment.
+
+[MSG$0082CC,55]
+But now that it was done, there was nothing I could do.
+
+[MSG$008310,52]
+It wouldn't help any if I apologized after the fact,
+
+[MSG$008349,84]
+and probably no one would believe me anyway if I told them I'd done it with a spell.
+
+[MSG$0083A2,45]
+I wasn't sure if even Saeki would believe it.
+
+[MSG$0083DC,57]
+Anyhow, I never dreamed it would turn out the way it did.
+
+[MSG$008422,64]
+But my only consolation was the fact that it wasn't 100% certain
+
+[MSG$008467,56]
+|that Ito's actions were caused by just the magic spell.
+
+[MSG$0084A4,69]
+You couldn't rule out the possibility that it was just a coincidence.
+
+[MSG$0084F6,70]
+I mean, it would be too convenient to be true if that were the case...
+
+[MSG$008541,34]
+No one knew that better than me...
+
+[MSG$008570,84]
+But that's what I decide to tell myself. I'm never going to tell anybody about this.
+
+[MSG$0085D1,83]
+The same goes for that book, and the magic...no one will ever know about it but me.
+
+[MSG$008631,99]
+I should probably take this as a lesson, and try not to go near that book anymore if I can help it.
+
+[MSG$0086A1,102]
+I better stop myself before I mess up and cause irreparable damage next time, or I'll really be sorry.
+
+[MSG$008714,98]
+Still, I did have a feeling that after seeing what happened today, there was no way I'd be able to
+
+[MSG$00877B,31]
+|keep my hands off that book...
+
+[MSG$0087A7,80]
+If that book was for real, then that meant its tremendous power could be mine...
+
+[MSG$008836,44]
+Imari "Hey...what do you think of all that?"
+
+[MSG$00887C,100]
+I'm sitting there lost in thought, when Imari  comes up to me with an unsettled face to ask me this.
+
+[MSG$0088ED,39]
+I stop thinking and look over at Imari.
+
+[MSG$008921,88]
+Imari saw the whole thing too. Some of the guys started swapping rumors in a joking way,
+
+[MSG$00897E,37]
+Most of the girls are still in shock.
+
+[MSG$0089B0,102]
+It's not as though Imari and Ito were ever that close, but I guess Imari was still worrying about her.
+
+[MSG$008A23,27]
+I don't know how to answer.
+
+[MSG$008A6B,24]
+Minase "About all what?"
+
+[MSG$008A9D,25]
+I deliberately play dumb.
+
+[MSG$008AC3,35]
+I make an effort to just be myself.
+
+[MSG$008AEB,71]
+There'd be trouble if Imari, with all her perceptiveness, found me out.
+
+[MSG$008B3F,54]
+Imari "What do you mean...I mean, what just happened."
+
+[MSG$008B8F,73]
+Ito "You know, when Mika... you know...she did, uh, that thing just now."
+
+[MSG$008C12,24]
+Minase "About all what?"
+
+[MSG$008C44,19]
+I play even dumber.
+
+[MSG$008C96,33]
+Imari "You know! Uh...uh...uh..."
+
+[MSG$008CD1,13]
+Minase "Huh?"
+
+[MSG$008CF8,11]
+Imari "..."
+
+[MSG$008D10,22]
+Imari starts to blush.
+
+[MSG$008D2B,57]
+I wonder if it's really that embarrassing for her to say?
+
+[MSG$008DA3,25]
+Tremble, tremble, tremble
+
+[MSG$008DC9,20]
+No, wait, she's mad!
+
+[MSG$008DEA,59]
+Imari "You know what I'm talking about, drop the dumb act!"
+
+[MSG$008ED8,6]
+Crack!
+
+[MSG$008EEB,62]
+There's a gust of air, and Imari's hand smacks across my face.
+
+[MSG$008F36,14]
+Minase "Augh!"
+
+[MSG$008F90,25]
+Imari "Oh, are you okay?"
+
+[MSG$008FC3,20]
+I'm not okay at all.
+
+[MSG$008FE4,52]
+Imari "Sorry. You shouldn't mess with me like that."
+
+[MSG$009032,51]
+Minase "Never mind. So what were we talking about?"
+
+[MSG$00907F,54]
+Rubbing my stinging cheek, I advance the conversation.
+
+[MSG$0090BA,46]
+At least she's cleared the air by slapping me.
+
+[MSG$0090F5,65]
+Imari "Oh. You know, about Mika. You were watching, weren't you?"
+
+[MSG$009155,49]
+Minase "Well, what do you think about it, Imari?"
+
+[MSG$0091A1,79]
+Imari "I know something's way wrong. Mika's just not the kind of person who can
+
+[MSG$0091F5,46]
+|do something like that in front of everyone."
+
+[MSG$009230,74]
+True, anyone would agree that what Mika Ito just did was completely crazy.
+
+[MSG$00927F,104]
+I know it's not the kind of impulsive action that could conceivably be ascribed to exhaustion or stress.
+
+[MSG$0092F4,43]
+Imari "I just know there's something else."
+
+[MSG$009339,95]
+Imari "Someone must've threatened her...I'm sure something made her do it. Don't you think so?"
+
+[MSG$0093B3,14]
+Minase "Yeah."
+
+[MSG$0093DB,116]
+But although I have a pretty good idea what the cause of Ito's inexplicable behavior was, I can't tell her anything.
+
+[MSG$00945C,85]
+Imari "But it's despicable, don't you think? Making a girl do something like that..."
+
+[MSG$0094FD,88]
+Imari "If it were me, I'd be so devastated I'd commit suicide. No, wait, I think I might
+
+[MSG$00955A,33]
+|just kill whoever did it to me."
+
+[MSG$009595,73]
+Imari clenches her fist tightly and trembles with anger as she says this.
+
+[MSG$0095E3,78]
+It looks as though Imari is pretty much convinced that someone intimidated Ito
+
+[MSG$009636,25]
+|into doing what she did.
+
+[MSG$00965C,101]
+Of course, she had no way of knowing that the person responsible was standing  right in front of her.
+
+[MSG$0096C6,54]
+It was so awkward for me to listen to Imari like this.
+
+[MSG$009709,71]
+She was right about one thing, that for the one who did the actual act,
+
+[MSG$009755,50]
+it was something you'd want to kill yourself over.
+
+[MSG$009794,87]
+If Ito remembered everything she did, she'd probably be highly agitated from the shock.
+
+[MSG$0097F8,87]
+No, she's a girl, and she exposed herself like that. It wouldn't be farfetched to think
+
+[MSG$009854,45]
+|she might commit suicide, like Imari said...
+
+[MSG$00988E,69]
+And if something like that came to pass, I could be the one to blame.
+
+[MSG$0098E0,68]
+But even if that were true, it probably wasn't a crime to use magic.
+
+[MSG$009929,96]
+There was no proof, and even if I turned myself in, they'd only escort me to the nearest asylum.
+
+[MSG$009996,42]
+Even so, I felt remorse for what I'd done.
+
+[MSG$0099C5,83]
+All I could do was pray that Ito didn't remember anything that had just happened...
+
+[MSG$009A57,59]
+Imari "Hey, what's going on? You're like, lost in thought."
+
+[MSG$009AAC,38]
+Imari's voice brings me back to earth.
+
+[MSG$009AFF,5]
+Thump
+
+[MSG$009B11,22]
+I get up from my seat.
+
+[MSG$009B34,26]
+Imari "What's the matter?"
+
+[MSG$009B68,57]
+Minase "Sorry, I just remembered something I have to do."
+
+[MSG$009BBB,26]
+I hurry away from my desk.
+
+[MSG$009BE2,33]
+Imari "Hey, where are you going?"
+
+[MSG$009C1D,20]
+Minase "To the can."
+
+[MSG$009C4B,83]
+I brush Imari off with the first lie that comes to my mind and leave the classroom.
+
+[MSG$009CAB,68]
+Imari "But you just went, didn't you? Hey...hey, are you listening?"
+
+[MSG$009D09,20]
+Imari "Oh, come on!"
+
+[MSG$009E10,39]
+I head straight for the nurse's office.
+
+[MSG$009E44,65]
+I run into Saeki in front of the nurse's office as she's leaving.
+
+[MSG$009E8A,76]
+I guess Saeki was worried about Ito, too, and came to see how she was doing.
+
+[MSG$009EE3,50]
+She has an even darker expression on her face now.
+
+[MSG$009F1A,44]
+She doesn't even notice me as she passes by.
+
+[MSG$009F53,74]
+Maybe she's feeling guilty for having given Ito such an ominous reading...
+
+[MSG$009FAA,113]
+Even if it meant she'd been right, no one would be happy after witnessing Ito's act; of course she'd be in shock.
+
+[MSG$00A020,20]
+I felt the same way.
+
+[MSG$00A041,54]
+I open the door to the nurse's office and peer inside.
+
+[MSG$00A0D5,25]
+April 21 - Nurse's Office
+
+[MSG$00A181,74]
+It's completely silent inside, and there doesn't seem to be anyone around.
+
+[MSG$00A1D8,31]
+I wonder if the nurse is out...
+
+[MSG$00A1FC,56]
+But I know for sure that this is where they brought Ito.
+
+[MSG$00A241,57]
+I go inside and shut the door. Quietly, I enter the room.
+
+[MSG$00A287,55]
+There are two beds in the back, separated by a curtain.
+
+[MSG$00A2C3,40]
+I go behind the curtain and look inside.
+
+[MSG$00A39A,9]
+Ito "..."
+
+[MSG$00A3B0,62]
+Mika Ito is asleep in bed, almost looking as if she were dead.
+
+[MSG$00A3F3,62]
+But her chest rises and falls, and I can tell she's breathing.
+
+[MSG$00A43E,53]
+To look at her you wouldn't think anything was wrong.
+
+[MSG$00A478,41]
+I wonder if the magic has worn off yet...
+
+[MSG$00A4CE,15]
+Minase "Ito..."
+
+[MSG$00A4F7,44]
+I call out softly to Mika Ito as she sleeps.
+
+[MSG$00A530,24]
+But there's no response.
+
+[MSG$00A555,13]
+Minase "Ito!"
+
+[MSG$00A57C,56]
+I raise my voice a little, but the results are the same,
+
+[MSG$00A5C1,56]
+I have no choice but to touch Ito, and try to shake her.
+
+[MSG$00A606,13]
+Minase "Huh?'
+
+[MSG$00A62D,58]
+But the instant I touch her, I can feel something strange.
+
+[MSG$00A674,24]
+Something's not right...
+
+[MSG$00A699,57]
+I move my hand a little. I trace the outline of her body.
+
+[MSG$00A6D7,82]
+And I can feel the strange sensation through the thin blanket covering Ito's body;
+
+[MSG$00A72E,31]
+it's a kind of firm elasticity.
+
+[MSG$00A75F,29]
+Gently, I pull back the sheet
+
+[MSG$00A802,9]
+Surprise!
+
+[MSG$00A818,35]
+I go cold when I see what's inside.
+
+[MSG$00A840,46]
+I panic. They put Ito to bed completely naked.
+
+[MSG$00A87B,27]
+Minase "Why are you naked?'
+
+[MSG$00A8B0,40]
+Still panicking, I look around the room.
+
+[MSG$00A8DD,38]
+Of course there's no one there to see.
+
+[MSG$00A910,70]
+When I look back at Ito, I see her bare white skin is within my reach.
+
+[MSG$00A95B,55]
+In that instant, I remember the scene in the classroom.
+
+[MSG$00A99F,57]
+And the area between my legs begins to react immediately.
+
+[MSG$00A9E5,116]
+What the hell, I thought I'd come because I was worried about Ito, but now there's no telling what I was here for...
+
+[MSG$00AA86,21]
+Minase "This is bad."
+
+[MSG$00AB2D,77]
+Hastily, as if to escape from her naked body, I draw the sheet back over Ito.
+
+[MSG$00AB87,49]
+Otherwise I might start having depraved thoughts.
+
+[MSG$00ABBD,59]
+And just thinking about that immoral act made me excited...
+
+[MSG$00AC05,46]
+But I wasn't here to do a low thing like that.
+
+[MSG$00AC38,69]
+And just because she was asleep, it didn't mean she wouldn't wake up.
+
+[MSG$00AC8A,12]
+Minase "..."
+
+[MSG$00ACA3,47]
+Ito continues to sleep, her breathing peaceful.
+
+[MSG$00ACDF,62]
+Just as I'd thought, there was nothing I could do for her now.
+
+[MSG$00AD2A,53]
+I mean, I was the one who'd driven her to this state.
+
+[MSG$00AD64,63]
+Even if I tried to comfort her, I'd only be deceiving myself...
+
+[MSG$00ADB0,27]
+Minase "I'm out of here..."
+
+[MSG$00AE76,63]
+I bid farewell to Ito in a whisper, and step away from the bed.
+
+[MSG$00AEC2,48]
+The best thing I can do for her is to stay away.
+
+[MSG$00AEF7,73]
+Anyway, I'm the last person who should be giving her moral support now...
+
+[MSG$00AF4D,10]
+Door opens
+
+[MSG$00AF64,77]
+Just as I'm about to leave the nurse's office, the door is opened by a woman.
+
+[MSG$00AFF0,28]
+Kitami "What are you doing?"
+
+[MSG$00B026,47]
+It's Reika Kitami, who runs the nurse's office.
+
+[MSG$00B091,45]
+I can't fight the rising lust inside my body.
+
+[MSG$00B0C3,69]
+Once again I make sure nobody's around, and I quietly unzip my pants.
+
+[MSG$00B115,6]
+Zip...
+
+[MSG$00B128,59]
+Silently, I start jerking off in front of the sleeping Ito.
+
+[MSG$00B170,56]
+I stick my hand in my pants and pull out my erect prick.
+
+[MSG$00B1AD,89]
+It's a little hard to drag it through the opening in my fly, as it's stiff and quivering.
+
+[MSG$00B213,63]
+When it finally pops out, I grip it in my hand in front of Ito.
+
+[MSG$00B25F,78]
+Ito sleeps on peacefully, not having any idea what's going on in front of her.
+
+[MSG$00B2BA,55]
+In my heart I know it's wrong, but I can't stop myself.
+
+[MSG$00B2F6,43]
+I slowly begin pumping on my swollen prick.
+
+[MSG$00B3B7,56]
+Then I throw back the sheet so I can see her whole body.
+
+[MSG$00B3F4,44]
+Ito's unprotected body is now visible to me.
+
+[MSG$00B42D,26]
+Minase (Breathing heavily)
+
+[MSG$00B461,105]
+You can hear my heavy breathing alternating with Ito's soft breathing inside the confines of the curtain.
+
+[MSG$00B4D7,104]
+The juice starts to flow from the head of my prick, and it starts to make a squishing noise in my hands.
+
+[MSG$00B54C,87]
+I try to be as quiet as possible as I begin to immerse myself in this intense pleasure.
+
+[MSG$00B5B0,80]
+I keep pumping my prick as I run my gaze over Ito's body, as if I'm licking her.
+
+[MSG$00B605,77]
+I move my gaze from her face to her breasts to her crotch as I pick up speed.
+
+[MSG$00B65F,66]
+If anyone catches me right now, I'll be in the same boat as Ito...
+
+[MSG$00B6A6,21]
+Or if Ito wakes up...
+
+[MSG$00B6C8,81]
+But far from slowing me down, that thought only makes me pump myself even faster.
+
+[MSG$00B71E,57]
+The sense of danger only makes the pleasure more intense.
+
+[MSG$00B764,25]
+Squish, squish, squish...
+
+[MSG$00B79F,116]
+The only sound you can hear in the nurse's office is my heavy breathing and the lewd noises coming from my crotch...
+
+[MSG$00B820,76]
+After vigorously rubbing on my prick, I'm soon overcome by the urge to come.
+
+[MSG$00B879,32]
+One more push...one more push...
+
+[MSG$00B8A6,14]
+Minase "AHHH!"
+
+[MSG$00B9C0,13]
+Splat! Splat!
+
+[MSG$00B9DA,52]
+Just then, a huge spray of cum spurts from my prick.
+
+[MSG$00BA1B,79]
+I convulse, and just give up my whole body to the massive pleasure I'm feeling.
+
+[MSG$00BA77,25]
+Quiver, quiver, quiver...
+
+[MSG$00BB16,83]
+My body is trembling violently as I ejaculate on Ito's body over and over and over.
+
+[MSG$00BB76,74]
+The pleasure is so intense, my knees start shaking and I can barely stand.
+
+[MSG$00BBCD,68]
+Splat, splat...the milky liquid from my body sticks onto Ito's body.
+
+[MSG$00BC1E,55]
+Maybe this immoral act served to intensify my pleasure,
+
+[MSG$00BC5A,60]
+but I was so aroused that it went on and on for a long time.
+
+[MSG$00BD1C,68]
+And after I'd expelled every last drop inside me, I crumbled over...
+
+[MSG$00BD65,38]
+Immediately, I'm overcome by lethargy.
+
+[MSG$00BD98,23]
+I'd gone and done it...
+
+[MSG$00BDBC,42]
+I feel weak, and at the same time, guilty.
+
+[MSG$00BDF3,57]
+Far from looking out for her, I've only added to my sins.
+
+[MSG$00BE39,64]
+Minase "It's Ito's fault for showing herself to me like that..."
+
+[MSG$00BE93,89]
+I know very well that I'm the one to blame, but all I can do is shift the blame to her...
+
+[MSG$00BEF9,34]
+My cum is dripping off Ito's body.
+
+[MSG$00BF20,40]
+The heady odor of cum surrounds the bed.
+
+[MSG$00BF55,17]
+What should I do?
+
+[MSG$00BF73,108]
+I gave in to my lust and came all over her, but I never thought about the consequences while I was doing it.
+
+[MSG$00BFEC,52]
+I shake my head vigorously and try to think clearly.
+
+[MSG$00C02D,37]
+Minase "I've got to clean that up..."
+
+[MSG$00C06C,65]
+I force myself to move my exhausted body, and cover up my crotch.
+
+[MSG$00C0B2,55]
+I've got to find something to wipe up that mess with...
+
+[MSG$00C0F8,10]
+Door opens
+
+[MSG$00C10F,11]
+Minase "!!"
+
+[MSG$00C1B0,41]
+Just then, I hear the door suddenly open.
+
+[MSG$00C1DE,39]
+I hastily pull the sheet back over Ito.
+
+[MSG$00C212,8]
+Uh-oh...
+
+[MSG$00C227,51]
+There's still a lot of sperm all over Ito's body...
+
+[MSG$00C25F,70]
+If someone sees this, there's no question I'll be the prime suspect...
+
+[MSG$00C359,45]
+Voice "What's going on? Is someone in there?"
+
+[MSG$00C3A0,84]
+I turn around at the exact moment that the school doctor, Dr. Reika Kitami, appears.
+
+[MSG$00C3F9,40]
+I'm fairly sure she didn't see anything.
+
+[MSG$00C443,59]
+Minase "Oh, um, I just came by to see how Ito was doing..."
+
+[MSG$00C498,62]
+Minase "And also, the professor told me to check up on her..."
+
+[MSG$00C4F0,38]
+Hearing this, Dr. Kitami stares at me.
+
+[MSG$00C523,54]
+Kitami "Oh? You're her classmate, Minase, aren't you?"
+
+[MSG$00C573,54]
+For some reason this professor makes me uncomfortable.
+
+[MSG$00C5AE,119]
+There are a lot of unsavory rumors about this woman. That she's gotten involved with some students, that type of thing.
+
+[MSG$00C632,92]
+At any rate, I've never heard anything positive about her. Not that I've ever been a victim,
+
+[MSG$00C693,117]
+but ever since I saw that basement room, I've started to get the feeling that rumors weren't necessarily just rumors.
+
+[MSG$00C715,70]
+Still, for some reason a lot of the students have a crush on Kitami...
+
+[MSG$00C768,53]
+Kitami "Ms. Ito is asleep now, you mustn't wake her."
+
+[MSG$00C7B7,92]
+Kitami "I heard what she did in class, more or less. Do you know something about it, maybe?"
+
+[MSG$00C82D,23]
+Minase "No, I don't..."
+
+[MSG$00C85E,33]
+Kitami "Are you sure about that?"
+
+[MSG$00C899,82]
+She stares at me with suspicious eyes. Something about the way she's looking at me
+
+[MSG$00C8F0,36]
+|sends shivers up and down my spine.
+
+[MSG$00C921,97]
+Looking into her eyes makes me feel as though she's able to see right through me, inside my mind.
+
+[MSG$00C98F,41]
+Minase "J-just ask Ito, she'll tell you."
+
+[MSG$00C9F0,85]
+I spit out the words as I escape from her curse, averting my eyes from Kitami's gaze.
+
+[MSG$00CA52,27]
+Kitami "All right, then..."
+
+[MSG$00CA87,95]
+Kitami "I'm going to look after Ms, Ito, so the rest of you don't have to worry about a thing."
+
+[MSG$00CB00,86]
+As Kitami speaks, she pulls the curtains shut with a snap so no one can see Ito's bed.
+
+[MSG$00CB63,22]
+Minase "Okay, then..."
+
+[MSG$00CB93,45]
+I say this as I make my escape from the room.
+
+[MSG$00CBCD,12]
+Kitami "..."
+
+[MSG$00CBE6,67]
+I can feel Kitami's gaze trained on my back until I close the door.
+
+[MSG$00CCAF,50]
+I slam the door shut and hang my head on my chest.
+
+[MSG$00CCE6,53]
+Those eyes of Kitami's made me way too uncomfortable.
+
+[MSG$00CD2E,27]
+Kitami "All right, then..."
+
+[MSG$00CD63,95]
+Kitami "I'm going to look after Ms, Ito, so the rest of you don't have to worry about a thing."
+
+[MSG$00CDDC,86]
+As Kitami speaks, she pulls the curtains shut with a snap so no one can see Ito's bed.
+
+[MSG$00CE3F,81]
+With time, the semen I left on Ito's body will dry out, and no longer be visible.
+
+[MSG$00CE95,59]
+All I can do is hope that Kitami doesn't remove that sheet.
+
+[MSG$00CEDD,22]
+Minase "Okay, then..."
+
+[MSG$00CF0D,45]
+I say this as I make my escape from the room.
+
+[MSG$00CF47,12]
+Kitami "..."
+
+[MSG$00CF60,14]
+Kitami "Wait."
+
+[MSG$00CF88,60]
+Flinching, I stop in my tracks. Don't tell me she noticed...
+
+[MSG$00CFD1,27]
+Minase "What...what is it?"
+
+[MSG$00D006,25]
+Kitami "Your fly's open."
+
+[MSG$00D039,9]
+Whoops...
+
+[MSG$00D04F,46]
+Hearing this, I quickly look down at my pants.
+
+[MSG$00D082,68]
+True, I'm wide open there. I was in such a hurry I forgot to zip up.
+
+[MSG$00D0D3,51]
+Hastily, I pull up my fly and rush out of the room.
+
+[MSG$00D1E5,20]
+April 24 - Classroom
+
+[MSG$00D2A7,52]
+Imari "Boy, you were in the bathroom a long time..."
+
+[MSG$00D2F5,77]
+When I return to the classroom, Imari throws me a suspicious and cold glance.
+
+[MSG$00D347,16]
+So perceptive...
+
+[MSG$00D364,46]
+Minase "Well, I've been holding it in, see..."
+
+[MSG$00D3AC,45]
+I smile ruefully as I give Imari this answer.
+
+[MSG$00D3DE,40]
+But Imari keeps on staring at me coldly.
+
+[MSG$00D413,17]
+Imari "Oh, yeah?"
+
+[MSG$00D43E,89]
+Imari "I just asked someone who'd been to the bathroom, and he said no one was in there."
+
+[MSG$00D4B1,12]
+Minase "..."
+
+[MSG$00D4CA,34]
+All right, who the hell said that?
+
+[MSG$00D4F9,41]
+Minase "So...so what? Who cares, anyway?"
+
+[MSG$00D53C,37]
+Guiltily, I avert my eyes from Imari.
+
+[MSG$00D566,84]
+If only I didn't feel any guilt, I wouldn't have a problem snapping back at Imari...
+
+[MSG$00D5C7,59]
+I make a supreme effort to act as though nothing was wrong,
+
+[MSG$00D607,76]
+|but I can't stop myself from feeling shaken. And I have no doubt in my mind
+
+[MSG$00D658,73]
+|that Imari, with all her powers of perception, can see right through me.
+
+[MSG$00D6AE,70]
+Imari "You're right, it doesn't have anything to do with me, does it?"
+
+[MSG$00D732,60]
+Imari pouts as she says this, and flounces back to her seat.
+
+[MSG$00D773,26]
+I guess I've made her mad.
+
+[MSG$00D79A,27]
+But that's nothing unusual.
+
+[MSG$00D7BA,109]
+A woman's heart and the autumn sky...Imari loses her temper quickly, but she also calms down just as quickly.
+
+[MSG$00D82C,57]
+All I have to do is leave her alone and she'll be fine...
+
+[MSG$00D87D,22]
+Minase "It's nothing."
+
+[MSG$00D8AD,48]
+I decide not to think about it if I can help it.
+
+[MSG$00D8E2,40]
+It's not going to be of any use, anyway.
+
+[MSG$00D917,47]
+Anyway, I had no business going to see Ito now.
+
+[MSG$00D94B,47]
+If I did go, I'd only draw suspicion to myself.
+
+[MSG$00D97F,56]
+It would be best for her, too, if I just left her alone.
+
+[MSG$00D9C4,15]
+Imari "Really?"
+
+[MSG$00D9EE,89]
+Imari "But don't you think it's terrible? The boys are all saying dirty things about her.
+
+[MSG$00DA4C,55]
+They should at least try to understand how Mika feels!"
+
+[MSG$00DA9D,49]
+Not after witnessing the show she put on, no way!
+
+[MSG$00DADB,83]
+Besides, there was no trace of shame in Ito's face at the time...just pure ecstasy.
+
+[MSG$00DB33,108]
+How could anyone feel sorry for her or show any kind of sympathy for her after seeing that look on her face?
+
+[MSG$00DBAC,106]
+And also, there are some girls who never liked Ito; they've been busy whispering among each other as well.
+
+[MSG$00DC1B,90]
+I'm sure there are a lot of girls in the class who couldn't stand Ito's harsh personality.
+
+[MSG$00DC82,52]
+There's no refuge for Ito in this classroom anymore.
+
+[MSG$00DCF5,93]
+Imari "But you'd better not, Minase. Don't look at her funny when she comes back, all right?"
+
+[MSG$00DD6C,22]
+Minase "Sure, gotcha."
+
+[MSG$00DD9C,42]
+Yeah, if she comes back at all, that is...
+
+[MSG$00DDCB,90]
+That's what I said to Imari, but I didn't believe Ito would walk back into this classroom.
+
+[MSG$00DE32,85]
+Of course, I wasn't in any position to blame her, and I had no intention of doing so.
+
+[MSG$00DE8C,66]
+I'm the one who owes her. Somehow I've got to make it up to her...
+
+[MSG$00DF2E,28]
+April 21 - Afternoon Classes
+
+[MSG$00DFDD,29]
+Then afternoon classes start.
+
+[MSG$00E007,59]
+As it turns out, Mika Ito does not return to the classroom.
+
+[MSG$00E04F,24]
+Her shoes are gone, too.
+
+[MSG$00E074,84]
+She probably went straight home. I feel sorry for her, but there's nothing I can do.
+
+[MSG$00E0D5,47]
+"Look upon them not with envy but with pity..."
+
+[MSG$00E111,46]
+I remember that phrase from the Book of Magic.
+
+[MSG$00E14C,27]
+With pity, not with envy...
+
+[MSG$00E174,31]
+That's exactly how I'm feeling.
+
+[MSG$00E1F1,23]
+April 21 - After school
+
+[MSG$00E2A2,25]
+Ding, dong, ding, dong...
+
+[MSG$00E2C8,113]
+The school bell rings, announcing the end of classes for the day. I've been released from the confines of school.
+
+[MSG$00E378,54]
+Imari "You're coming to the club meeting, aren't you?"
+
+[MSG$00E3C8,27]
+Imari comes right up to me.
+
+[MSG$00E3F0,47]
+Minase "Sorry, I've got something to do today."
+
+[MSG$00E439,41]
+I don't have time for the art club today.
+
+[MSG$00E46F,56]
+I've got clear things up about that book no matter what.
+
+[MSG$00E4B4,105]
+I just realized today that it would be foolish to try my hand at magic without knowing anything about it.
+
+[MSG$00E522,65]
+And that's why I had to find out all I could as soon as possible.
+
+[MSG$00E570,64]
+Plus, if it turns out that the spells in the book are worthless,
+
+[MSG$00E5B5,58]
+then it'll prove that what happened today wasn't my fault.
+
+[MSG$00E5F4,28]
+And if the spells do work...
+
+[MSG$00E61D,60]
+I know that what I really should do is get rid of that book.
+
+[MSG$00E666,50]
+Still, there's no way I can get out of reading it.
+
+[MSG$00E69D,79]
+It may be risky to hold onto it, but at the same time, it's just too seductive.
+
+[MSG$00E6F9,55]
+And besides, I was pretty much addicted to it by now...
+
+[MSG$00E76F,47]
+Imari "There you go again! What kind of things?
+
+[MSG$00E7A3,44]
+Important enough to ditch the club meeting?"
+
+[MSG$00E7E9,31]
+Imari looks at me in disbelief.
+
+[MSG$00E815,60]
+Minase "There's something I want to look up at the library."
+
+[MSG$00E86B,87]
+Imari "The library? Now that's unusual, I never thought you'd go to a place like that."
+
+[MSG$00E8DD,36]
+She really is a rude little witch...
+
+[MSG$00E90E,64]
+Minase "Hey, sometimes even I've been known to study, you know."
+
+[MSG$00E968,31]
+Imari "Study? Gimme a break..."
+
+[MSG$00E9A1,93]
+I guess she's just not going to believe me...But the part about going to the library is true.
+
+[MSG$00EA0B,60]
+Although ''studying'' might not be the accurate term here...
+
+[MSG$00EA4C,75]
+My best bet is probably to try and find books on that topic at the library.
+
+[MSG$00EAA4,56]
+Minase "So anyway, I've got to go to the library today."
+
+[MSG$00EAF6,37]
+Imari "You can go after the meeting!"
+
+[MSG$00EB35,96]
+Minase "The library closes at 5. That's not going to leave me with much time to do my research."
+
+[MSG$00EBAF,44]
+Imari "Are you really going to the library?"
+
+[MSG$00EBF5,67]
+Imari "I mean, you don't even have a library card, do you, Minase?"
+
+[MSG$00EC52,77]
+When I hear this, I remove my library card from my wallet and show it to her.
+
+[MSG$00ECAC,37]
+Minase "See, I've got one all right."
+
+[MSG$00ECEB,65]
+Thank God I had one made, just in case I ever found a use for it.
+
+[MSG$00ED39,70]
+Imari "That still isn't enough to convince me...It's just so not you!"
+
+[MSG$00ED99,45]
+Minase "You're so suspicious, you know that?"
+
+[MSG$00EE12,71]
+Imari "Then I'll come with you. I'll make sure you're really studying."
+
+[MSG$00EE73,52]
+Imari makes this suggestion with a triumphant smile.
+
+[MSG$00EEB4,48]
+She's got to be kidding me. If Imari came along,
+
+[MSG$00EEE9,91]
+who knew what kind of questions she'd be firing at me when she saw the books I checked out.
+
+[MSG$00EF51,86]
+And she'd also find out I wasn't there to study. I really had to shoot this idea down.
+
+[MSG$00EFB4,48]
+Minase "You're the president of the club, Imari.
+
+[MSG$00EFE9,94]
+If both the president and the V.P. ditch the meeting, we'll be setting bad example, remember?"
+
+[MSG$00F093,13]
+Imari "Uh..."
+
+[MSG$00F0BA,82]
+Minase "Right? So at the very least, Imari, you need to be at that meeting today."
+
+[MSG$00F126,58]
+I'm frantically trying to convince Imari not to tag along.
+
+[MSG$00F16D,35]
+Imari "You do have a point, but..."
+
+[MSG$00F1AA,93]
+Imari "What should I do? The library, huh? There's an art book I really want to check out..."
+
+[MSG$00F221,50]
+Imari groans to herself as she weighs her options.
+
+[MSG$00F260,61]
+If I hang out with Imari any longer, no good will come of it.
+
+[MSG$00F2A2,49]
+I seize the opportunity to break away from her...
+
+[MSG$00F359,39]
+Imari "All right, I think I'll go too!"
+
+[MSG$00F39A,34]
+Imari "Huh? Wait, where's Minase?"
+
+[MSG$00F3D6,38]
+Minase "So long, I'm counting on you!"
+
+[MSG$00F416,17]
+Thud, thud, thud!
+
+[MSG$00F434,56]
+Those are my words as I make a mad dash out of the room.
+
+[MSG$00F4F1,23]
+Imari "Come back here!"
+
+[MSG$00F522,27]
+Minase "Stop following me!"
+
+[MSG$00F557,17]
+Thud, thud, thud!
+
+[MSG$00F575,40]
+Imari breaks into a run, in hot pursuit.
+
+[MSG$00F5A2,69]
+This is bad! In a race with Imari, I'm the one with the disadvantage.
+
+[MSG$00F5F4,44]
+If I play fair, I have no chance of winning.
+
+[MSG$00F62D,62]
+So I withdraw the secret weapon I've saved for such occasions.
+
+[MSG$00F678,19]
+Minase "Take this!"
+
+[MSG$00F6A5,42]
+And I throw it behind me, at Imari's feet.
+
+[MSG$00F6D4,76]
+It's a banana peel. I saved the peel from lunch today just for this purpose.
+
+[MSG$00F72D,7]
+Slip...
+
+[MSG$00F741,13]
+Imari "Augh!"
+
+[MSG$00F7EC,15]
+Slither...slam!
+
+[MSG$00F808,13]
+Imari "Augh!"
+
+[MSG$00F82F,53]
+Imari steps on the peel and slips all over the place.
+
+[MSG$00F871,31]
+Now there's no one in my way...
+
+[MSG$00F89D,75]
+I make an easy escape from the school grounds, and head toward the library.
+
+[MSG$00F946,18]
+April 21 - Library
+
+[MSG$00FA45,77]
+I enter the library and start looking for the books I need among the shelves.
+
+[MSG$00FA97,75]
+Probably because I don't come here often, I have no idea where anything is.
+
+[MSG$00FAEF,55]
+I've already decided what I'm going to look into first.
+
+[MSG$00FB2B,104]
+I'm going to do some research on what Saeki and the others mentioned the other day, ''Walpurgis Night.''
+
+[MSG$00FBA0,114]
+Saeki had said that they were trying to commune with the spirits because the Night of Walpurgis was close at hand.
+
+[MSG$00FC17,98]
+That phrase had stuck in my mind. The Night of Walpurgis...I knew I'd heard it somewhere before...
+
+[MSG$00FC86,47]
+And I could swear I'd heard it fairly recently.
+
+[MSG$00FCBA,24]
+But where did I hear it?
+
+[MSG$00FCDF,80]
+I was right on the verge of remembering, but couldn't...and it was bothering me.
+
+[MSG$00FD3C,97]
+First of all, I take a thick dictionary, open it, and start searching for the word ''Walpurgis.''
+
+[MSG$00FDAA,86]
+But that word isn't listed in this dictionary. I try looking it up in other books, but
+
+[MSG$00FE05,37]
+|have no luck finding anything close.
+
+[MSG$00FE2F,51]
+Well, maybe it's just not listed in any dictionary.
+
+[MSG$00FE6F,80]
+If only I knew how to spell it in English, it would broaden my search options...
+
+[MSG$00FECC,102]
+I'm standing there at a loss in front of these shelves stacked with books, when my eyes happen to meet
+
+[MSG$00FF37,71]
+|those of a girl wearing my school's uniform, who was about to pass by.
+
+[MSG$00FFBD,24]
+Shiraki "Oh...it's you."
+
+[MSG$00FFEF,30]
+She whispers when she sees me.
+
+[MSG$01001A,24]
+Shiraki "We meet again."
+
+[MSG$01004C,82]
+It's Rika Shiraki, the girl I met in front of the basement storage room yesterday.
+
+[MSG$0100A3,46]
+She'd stopped by the library after class, too.
+
+[MSG$0100DE,28]
+Minase "What a coincidence."
+
+[MSG$010114,47]
+Shiraki "Are you here for research, too? Um..."
+
+[MSG$01015D,33]
+Minase "Minase. I'm Taki Minase."
+
+[MSG$010198,50]
+I know what she's thinking, so I tell her my name.
+
+[MSG$0101D7,44]
+Shiraki "Minase, is it? I'll remember that."
+
+[MSG$01021D,106]
+Minase "Hey, I'm glad I ran into you...I have a question. Have you heard of the phrase 'Walpurgis Night?'"
+
+[MSG$0102A1,105]
+I decide to test the waters and ask her. After all, she's a straight-A student. She might know something,
+
+[MSG$010317,26]
+Shiraki "Walpurgis Night?"
+
+[MSG$01034B,24]
+Shiraki "Yes, I have..."
+
+[MSG$01037D,62]
+I'm a little taken aback when she answers so matter-of-factly.
+
+[MSG$0103C8,49]
+Shiraki "It's not that I'm an expert or anything.
+
+[MSG$0103FE,81]
+I think they mentioned it the other day during the Music Appreciation concert..."
+
+[MSG$010469,87]
+Music Appreciation...Oh, right, now I remember. That's what was bothering me all along.
+
+[MSG$0104C5,83]
+The concert was held just recently at the school as part of our musical curriculum.
+
+[MSG$010525,82]
+Shiraki "Was it the Berlioz Symphonie Fantastique? One of the movements was called
+
+[MSG$01057C,100]
+|Walpurgis Night's Dream. And I think there was also a scene in Goethe's Faust with the same title."
+
+[MSG$0105FA,64]
+Shiraki "Oh, wait. I think I still have the pamphlet in my bag."
+
+[MSG$010654,46]
+Shiraki pulls out a thin booklet from her bag.
+
+[MSG$01068F,39]
+I take it from her and skim through it.
+
+[MSG$0106C3,92]
+In the table of contents I find the name Berlioz, and also ''Symphonie Fantastique No. 14.''
+
+[MSG$010724,83]
+And I see that the title of the 5th Movement is indeed ''Walpurgis Night's Dream.''
+
+[MSG$010784,63]
+Shiraki "Oh, it's getting late. I've got to get home now. Bye."
+
+[MSG$0107DD,69]
+Shiraki looks at her watch and speaks to me as I'm reading intensely.
+
+[MSG$01082F,70]
+Shiraki "You can keep that. I'm not going to need it anymore, anyway."
+
+[MSG$01088F,16]
+Minase "Thanks."
+
+[MSG$0108DD,66]
+I watch as Shiraki leaves, then turn my eyes back to the pamphlet.
+
+[MSG$01092C,106]
+According to the pamphlet, this symphony was based on something that actually happened to Berlioz himself.
+
+[MSG$0109A3,95]
+According to the story, a young musician falls in love with a girl. But his love is frustrated.
+
+[MSG$010A07,96]
+After suffering from despair, he has a strange and fantastic vision in which he kills the woman.
+
+[MSG$010A74,65]
+In the dream, he is condemned to death and led to the guillotine.
+
+[MSG$010AC2,113]
+His head is chopped off, and the demons and monsters who gather for his funeral unleash a diabolical celebration.
+
+[MSG$010B40,57]
+His beloved appears, but she has taken on a hideous form.
+
+[MSG$010B7E,78]
+She is delirious with joy as she joins the demons and witches in a wild dance.
+
+[MSG$010BD9,91]
+So this Symphonie Fantastique is made up of 5 movements about this young musician's vision.
+
+[MSG$010C41,93]
+I read the notes about the 5th movement. But there's no explanation about the word Walpurgis.
+
+[MSG$010CA3,68]
+Still, at least the title is written in English; that'll help a lot.
+
+[MSG$010CF4,89]
+Using the pamphlet as my reference, I look up the word Walpurgis in a thick encyclopedia.
+
+[MSG$010D52,21]
+I find it right away.
+
+[MSG$010D74,19]
+''walpurgisnight.''
+
+[MSG$010D8F,68]
+Walpurgis Night is the middle of the night on the last day of April,
+
+[MSG$010DD8,57]
+when witches and the leader of the demons hold a banquet.
+
+[MSG$010E1E,78]
+It was made famous by Goethe in ''Faust,'' which depicts the witches' banquet.
+
+[MSG$010E71,52]
+It is said that every year on the last day of April,
+
+[MSG$010EAA,103]
+all of the witches and sorcerers from around the world gather at the top of Germany's highest mountain,
+
+[MSG$010F16,34]
+Mt. Brocken in the Harz mountains.
+
+[MSG$010F45,68]
+But this is said to have been derived from a festival held on May 1,
+
+[MSG$010F8E,53]
+celebrating St. Walpurgis, an 8th century missionary.
+
+[MSG$010FD0,76]
+This saint was later confused with the pagan goddess of fertility, Waltburg,
+
+[MSG$011021,102]
+and so the night in question came to be known as the one when witches and demons were the most active.
+
+[MSG$011094,101]
+But initially this was the day they celebrated St. Walpurgis's relics being transferred to Eichstatt.
+
+[MSG$011106,56]
+I close the book and glance at the calendar on my watch.
+
+[MSG$011143,89]
+The last day of April is April 30. Today's the 21st, so that means there's 9 days left...
+
+[MSG$0111A9,91]
+Does this mean that because they believed in this superstition, those girls held a witches'
+
+[MSG$011209,42]
+celebration 12 years ago in that basement?
+
+[MSG$011240,96]
+Still, they wouldn't have done such a thing for no reason. Plus, there was that Book of Magic...
+
+[MSG$0112AD,103]
+I return the encyclopedia to the shelves, and start looking for what I'm really after...books on magic.
+
+[MSG$011321,47]
+I find the magic books in the Religion section.
+
+[MSG$011355,87]
+What a joke to find such conflicting subjects as religion and magic next to each other.
+
+[MSG$0113B9,103]
+I find a pretty extensive collection of books on magic. It's almost too extensive for a public library.
+
+[MSG$01142D,72]
+That's the impression I get, but I pick up the books and look them over.
+
+[MSG$01147A,96]
+I find explanations about the same kind of illustrations and ceremonies I saw in the other book,
+
+[MSG$0114DF,59]
+written in such a serious tone you'd think it was all true.
+
+[MSG$011527,62]
+I don't quite believe it all, but I keep on looking them over.
+
+[MSG$01156A,68]
+After about a half-hour of this, I sense someone standing behind me.
+
+[MSG$0115BB,82]
+Voice "To think I'd find you reading a book like that. Is this some kind of joke?"
+
+[MSG$011659,15]
+I whirl around.
+
+[MSG$011675,31]
+Minase "Oh, it's you, Saeki..."
+
+[MSG$0116AE,78]
+Saeki is standing there, staring at me. She has a number of books in her arms.
+
+[MSG$011709,75]
+Saeki "Most of the magic books on these shelves are ones that I requested."
+
+[MSG$01176E,40]
+So that's why there are so many of them.
+
+[MSG$0117A3,87]
+Saeki "Books like these are expensive. That's why I'm taking advantage whenever I can."
+
+[MSG$011814,49]
+Saeki "So what kind of book are you looking for?"
+
+[MSG$01185F,95]
+Minase "Oh, I'm not really looking for anything. I'm just looking through them as a diversion."
+
+[MSG$0118D8,81]
+Saeki "Really...That's too bad, considering that this is such a great selection."
+
+[MSG$011975,65]
+Saeki "Why don't you try reading them? You might get addicted..."
+
+[MSG$0119D0,52]
+She smiles in a self-satisfied way as she says this.
+
+[MSG$011A09,78]
+Her cold smile makes me feel as though she's seeing right through me, and I...
+
+[MSG$011A64,41]
+Voice "We will be closing in 10 minutes."
+
+[MSG$011AA7,86]
+Just then, we hear the announcement from the front desk that it's almost closing time.
+
+[MSG$011B02,78]
+Even though it's still light outside, the library always closes promptly at 5.
+
+[MSG$011B5D,59]
+Saeki "They're closing, are you going to borrow that book?"
+
+[MSG$011BB2,59]
+Minase "Well, I think I'll hang out until the last second."
+
+[MSG$011C07,40]
+Saeki "Oh? I'll be going then. Goodbye."
+
+[MSG$011C6D,79]
+I make sure Saeki's really gone, then quickly grab some books from the shelves.
+
+[MSG$011CC9,109]
+I pick out a few books on magic and a book on Latin, then check them out in a hurry. And I leave the library,
+
+[MSG$011D96,21]
+April 21 - Night/Home
+
+[MSG$011E98,47]
+As soon as I get home I lock myself in my room.
+
+[MSG$011ED4,65]
+And I place the book I'd just borrowed next to the Book of Magic.
+
+[MSG$011F22,101]
+Then I swipe a Latin dictionary, a French dictionary, and translating software from my sister's room.
+
+[MSG$011F94,64]
+I know if I asked, my sister would help me with the translation,
+
+[MSG$011FD9,62]
+but I don't want anyone else to know about this book. Besides,
+
+[MSG$01201C,64]
+if I ask her, there's no telling what she'll say to ridicule me.
+
+[MSG$012069,83]
+Plus, there will be no end of trouble if she finds out that the spells really work.
+
+[MSG$0120C1,111]
+I'm sure she'll use this book for unethical purposes. I know my sister, she's sure to use it for personal gain.
+
+[MSG$012135,84]
+And she's such a schemer, too. She might even go so far as to take over the world...
+
+[MSG$012196,33]
+Yeah, I wouldn't put it past her.
+
+[MSG$0121C4,72]
+And here we are, right at the end of the century. What perfect timing...
+
+[MSG$012211,77]
+I can hear my sister's smug laughter ringing out across the ravaged planet...
+
+[MSG$01226B,17]
+Ha ha ha ha ha...
+
+[MSG$012296,59]
+The poor little lambs are wailing in grief, totally lost...
+
+[MSG$0122DE,29]
+Augh! Nooo! Thud, thud, thud!
+
+[MSG$012308,68]
+And the world will tremble before the sight of my Satan-like sister.
+
+[MSG$012359,58]
+There's no longer anyone who can stop my sister's rampage.
+
+[MSG$012398,72]
+The world will fall into chaos, and blood will rain down from the sky...
+
+[MSG$012465,102]
+With this ridiculous vision in my mind, I install the translation software into the laptop on my desk.
+
+[MSG$0124D0,103]
+When I fire up the app, it doesn't look like it's going to be too useful, but it's better than nothing.
+
+[MSG$012544,47]
+Now that I'm all set, I open the Book of Magic.
+
+[MSG$012580,118]
+There's so much text I'm about to get a headache. I also have these unwieldy dictionaries, plus this useless software.
+
+[MSG$0125FB,32]
+Burdened with these 3 handicaps,
+
+[MSG$012620,109]
+I cast my eyes on the thick dictionaries and the LCD of my laptop and start my battle with the Book of Magic.
+
+[MSG$01269A,110]
+As I translate, I also start reading the books on demonism and Black Magic that I'd borrowed from the library.
+
+[MSG$012715,61]
+And little by little, I start to cram my head with knowledge.
+
+[MSG$012757,109]
+I find graphics and ceremonies in the library books that are eerily similar to the ones in the Book of Magic.
+
+[MSG$0127D1,32]
+And just like the Book of Magic,
+
+[MSG$0127F6,117]
+|the books more or less deal with these ridiculous spells and what they refer to as ''magic'' in a dead-serious tone.
+
+[MSG$012878,101]
+I immerse myself in all this as though I'm obsessed. I've never studied this hard, even before exams.
+
+[MSG$0128EA,112]
+But I know that if I try to translate the books from start to finish, it will take far too much time and effort,
+
+[MSG$01295F,100]
+so I skip all the obscure theories and footnotes, and start with the actual practice of Black Magic.
+
+[MSG$0129D0,111]
+I input the original text, and look up the words the app can't translate. Then I scribble it all down on paper,
+
+[MSG$012A44,96]
+then edit the sentences so they make sense. It's a tedious process that's going to take forever.
+
+[MSG$012AB1,74]
+Sometimes it would take me over 10 minutes, even if for a short paragraph.
+
+[MSG$012B00,81]
+Particularly for the Latin sections; first I'd have to translate it into English,
+
+[MSG$012B56,74]
+then convert that into Japanese, which was an unbelievable amount of work.
+
+[MSG$012BAD,87]
+Some parts were completely unclear, and I had to give up on the Hebrew and Greek parts.
+
+[MSG$012C19,78]
+But as I continue to spend time on the process, I start to get the hang of it.
+
+[MSG$012C74,105]
+I translate several pages on magic that I'm interested in, then decide to take a break. I check the time.
+
+[MSG$012CE2,42]
+Translating everything will be impossible,
+
+[MSG$012D11,78]
+but if I keep up this pace I think I'll be able to get in some decent reading.
+
+[MSG$012D6C,73]
+Those girls were able to pull it off 12 years ago. I could do the same...
+
+[MSG$012DC2,63]
+I take a short break, then resume my work on the Book of Magic.
+
+[MSG$012E0E,97]
+I didn't like English when I was sitting in class, but translating this stuff wasn't such a pain.
+
+[MSG$012E74,102]
+Even if it was only little by little, I was translating an unfamiliar language; I liked how that felt.
+
+[MSG$012EE7,109]
+Fragments of words falling into place like puzzle pieces; it gave me pleasure to see everything taking shape.
+
+[MSG$012F61,65]
+And so I continued to immerse myself, losing track of the time...
+
+[MSG$012FAF,18]
+..................
+
+[MSG$012FCE,12]
+............
+
+[MSG$012FE7,6]
+......

@@ -1,0 +1,13 @@
+﻿#Size=4731
+
+[MSG$000FA3,12]
+Next picture
+
+[MSG$00101C,12]
+Prev picture
+
+[MSG$001095,6]
+Return
+
+[MSG$0010E0,10]
+Erase menu

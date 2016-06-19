@@ -1,0 +1,208 @@
+﻿#Size=4346
+
+[MSG$0001DA,11]
+Bible Black
+
+[MSG$000206,19]
+BGM mode(1/4 pages)
+
+[MSG$000235,11]
+Bible Black
+
+[MSG$000262,23]
+Playing ''Bible Black''
+
+[MSG$000286,12]
+Pater noster
+
+[MSG$0002B4,24]
+Playing ''Pater noster''
+
+[MSG$0002D9,7]
+My pace
+
+[MSG$000302,19]
+Playing ''My pace''
+
+[MSG$000322,11]
+Alarm clock
+
+[MSG$00034F,23]
+Playing ''Alarm clock''
+
+[MSG$000373,10]
+After five
+
+[MSG$00039F,22]
+Playing ''After five''
+
+[MSG$0003D4,7]
+>> Next
+
+[MSG$0003F8,7]
+<< Prev
+
+[MSG$00041C,6]
+Return
+
+[MSG$000458,19]
+BGM mode(2/4 pages)
+
+[MSG$000487,9]
+Nightmare
+
+[MSG$0004B2,21]
+Playing ''Nightmare''
+
+[MSG$0004D4,9]
+Catacombe
+
+[MSG$0004FF,21]
+Playing ''Catacombe''
+
+[MSG$000521,14]
+Tetragrammaton
+
+[MSG$000551,26]
+Playing ''Tetragrammaton''
+
+[MSG$000578,17]
+Calling my Desire
+
+[MSG$0005AB,29]
+Playing ''Calling my Desire''
+
+[MSG$0005D5,10]
+Happiness?
+
+[MSG$000601,22]
+Playing ''Happiness?''
+
+[MSG$000636,7]
+>> Next
+
+[MSG$00065A,7]
+<< Prev
+
+[MSG$00067E,6]
+Return
+
+[MSG$0006BA,19]
+BGM mode(3/4 pages)
+
+[MSG$0006E9,12]
+Only oneself
+
+[MSG$000717,24]
+Playing ''Only oneself''
+
+[MSG$00073C,13]
+Pencil rocket
+
+[MSG$00076B,25]
+Playing ''Pencil rocket''
+
+[MSG$000791,8]
+Grimoire
+
+[MSG$0007BB,20]
+Playing ''Grimoire''
+
+[MSG$0007DC,12]
+Jesus Christ
+
+[MSG$00080A,24]
+Playing ''Jesus Christ''
+
+[MSG$00082F,11]
+Black magic
+
+[MSG$00085C,23]
+Playing ''Black magic''
+
+[MSG$000892,7]
+>> Next
+
+[MSG$0008B6,7]
+<< Prev
+
+[MSG$0008DA,6]
+Return
+
+[MSG$000916,19]
+BGM mode(4/4 pages)
+
+[MSG$000945,10]
+In my mind
+
+[MSG$000971,22]
+Playing ''In my mind''
+
+[MSG$000994,12]
+Active heart
+
+[MSG$0009C2,24]
+Playing ''Active heart''
+
+[MSG$0009E7,4]
+Vice
+
+[MSG$000A0D,16]
+Playing ''Vice''
+
+[MSG$000A2A,15]
+Walpurgis night
+
+[MSG$000A5B,27]
+Playing ''Walpurgis night''
+
+[MSG$000A83,19]
+Before the daylight
+
+[MSG$000AB8,31]
+Playing ''Before the daylight''
+
+[MSG$000AF6,7]
+>> Next
+
+[MSG$000B1A,7]
+<< Prev
+
+[MSG$000B3E,6]
+Return
+
+[MSG$000DF7,23]
+Bible Black Extras Menu
+
+[MSG$000E1A,32]
+Listen to the game's soundtrack.
+
+[MSG$000E46,45]
+You can view any images unlocked in the game.
+
+[MSG$000E7F,33]
+You can view unlocked sex scenes.
+
+[MSG$000EAC,44]
+You can check which endings you've unlocked.
+
+[MSG$000EE4,23]
+Return to Title screen.
+
+[MSG$000F0E,8]
+BGM mode
+
+[MSG$000F33,7]
+CG mode
+
+[MSG$000F57,11]
+Erotic mode
+
+[MSG$000F7F,12]
+Ending Check
+
+[MSG$000FA8,15]
+Return to Title
+
+[MSG$001006,23]
+Bible Black Extras Menu

@@ -1,0 +1,5032 @@
+﻿#Size=136892
+
+[MSG$00024C,21]
+Play a trick on Imari
+
+[MSG$00027E,16]
+Just get changed
+
+[MSG$0002B3,2]
+Да
+
+[MSG$0002D2,8]
+Нет
+
+[MSG$0002FF,23]
+Just go like a good kid
+
+[MSG$000333,19]
+Ditch it, of course
+
+[MSG$00036B,31]
+Ask her to strike a bolder pose
+
+[MSG$0003A7,27]
+Just make her strip at once
+
+[MSG$0003FF,14]
+Think about it
+
+[MSG$00042A,7]
+Take it
+
+[MSG$00046F,18]
+Look into it first
+
+[MSG$0004A7,7]
+Go down
+
+[MSG$0004D3,10]
+Pick it up
+
+[MSG$0004FA,18]
+Look it over first
+
+[MSG$000531,10]
+Pick it up
+
+[MSG$000560,16]
+Remove the cloth
+
+[MSG$0005C3,5]
+Imari
+
+[MSG$0005E5,10]
+Big Sister
+
+[MSG$00060C,5]
+Other
+
+[MSG$00064E,12]
+Go to school
+
+[MSG$00067F,14]
+Think about it
+
+[MSG$0006AA,22]
+Take a look around you
+
+[MSG$0006FB,14]
+Think about it
+
+[MSG$000726,22]
+Take a look around you
+
+[MSG$000759,22]
+Go down to the lockers
+
+[MSG$000793,16]
+Opening Sequence
+
+[MSG$0007BB,7]
+Feature
+
+[MSG$0009C2,18]
+April 20 - Morning
+
+[MSG$000A40,18]
+Voice "Wake up..."
+
+[MSG$000A6C,67]
+Through the haze of my drowsiness, I can hear an angel's whisper...
+
+[MSG$000AB4,38]
+But my body is demanding more sleep...
+
+[MSG$000AE7,27]
+Voice "Come on, wake up..."
+
+[MSG$000B1C,33]
+But I can't let myself be fooled.
+
+[MSG$000B42,17]
+This is no angel.
+
+[MSG$000B60,77]
+I know that I'm hearing the whispers of a devil sent to interrupt my sleep...
+
+[MSG$000BBA,24]
+Voice "Wake up, I said!"
+
+[MSG$000BEC,35]
+Voice "Hey you, wake up right now!"
+
+[MSG$000C29,38]
+Her tone of voice changes gradually...
+
+[MSG$000C5C,16]
+Voice "HEY YOU!"
+
+[MSG$000C86,22]
+Rustle, rustle, rustle
+
+[MSG$000CA9,66]
+She must've run out of patience. Now she's using physical tactics.
+
+[MSG$000CF0,87]
+The demon has been unmasked, and is now baring her fangs towards this unfortunate lamb.
+
+[MSG$000DE4,15]
+Minase "Ugh..."
+
+[MSG$000E0D,14]
+Oh, shut up...
+
+[MSG$000E20,54]
+I rolled over in bed, and tried frantically to escape,
+
+[MSG$000E63,24]
+This is really annoying!
+
+[MSG$000E88,92]
+No, actually it's more than annoying, it's torture! No, it's a bona fide crime, that's what!
+
+[MSG$000EF1,23]
+I do my best to resist.
+
+[MSG$000F15,100]
+This is a moment of pure joy for me...when I'm dozing off. It's unforgivable of her to disrupt that.
+
+[MSG$000F7E,41]
+This is the moment that I savor each day.
+
+[MSG$00102D,73]
+That moment when you wake up for the first time, then go back to sleep...
+
+[MSG$00107B,31]
+There's just nothing like it...
+
+[MSG$0010A7,63]
+Like a fetus in amniotic fluid...it's a world of utter peace...
+
+[MSG$0010F3,42]
+Voice "For heaven's sake, I said WAKE UP!"
+
+[MSG$001137,57]
+At the sound of that voice, I lose gravity in an instant.
+
+[MSG$001279,4]
+Bam!
+
+[MSG$00130E,9]
+(rolling)
+
+[MSG$0013A8,6]
+Whack!
+
+[MSG$0013BB,14]
+Minase "AUGH!"
+
+[MSG$0013E3,71]
+The all-too-realistic pain instantly drags me back into the real world.
+
+[MSG$001437,24]
+Minase "OW OW OW OW OW!"
+
+[MSG$001469,110]
+I get up, rubbing my sore head, which feels like it just rolled across the floor and thumped against the wall.
+
+[MSG$001582,35]
+Minase "Hey, what's the big idea?!"
+
+[MSG$0015BF,53]
+I yell at the girl standing before me, hands on hips.
+
+[MSG$001601,36]
+Only one person would be so violent.
+
+[MSG$001632,51]
+Her name is Kurumi Imari, She's a neighbor of mine,
+
+[MSG$001672,103]
+Imari and I go way back. I've known her since kindergarten, We're what you'd call ''childhood friends''
+
+[MSG$0016DE,35]
+|And now we're classmates, as well.
+
+[MSG$00170E,77]
+She's taken advantage of the fact that my parents asked her to look after me;
+
+[MSG$001760,73]
+now it's part of her daily routine to disrupt my sleep, The little devil!
+
+[MSG$0017B6,94]
+True, I'm not a morning person, and it's all thanks to Imari that I'm never late for school...
+
+[MSG$001819,102]
+So I can't tell her to knock it off if I wanted to...but it's still annoying. I can't stop it, though.
+
+[MSG$00188C,37]
+It's what they call a necessary evil.
+
+[MSG$0018BE,30]
+Imari "It's morning. MORNING!"
+
+[MSG$0018F6,50]
+So says Imari, thrusting her finger at the window.
+
+[MSG$00192D,54]
+It's light outside. True, it does seems to be morning.
+
+[MSG$001970,29]
+Minase "Hey, I can see that."
+
+[MSG$0019A7,42]
+I answer her in a disgusted tone of voice.
+
+[MSG$0019D6,75]
+Gradually I begin to wake up. But does she have to wake me up so violently?
+
+[MSG$001A2E,46]
+I yawn and look over at Imari with dazed eyes.
+
+[MSG$001A69,42]
+Imari "There you go. All right, let's go!"
+
+[MSG$001AAD,83]
+I sit there sleepily rubbing my eyes. Imari barks out her orders to me mercilessly.
+
+[MSG$001B0D,30]
+Minase "What about breakfast?"
+
+[MSG$001B45,44]
+I scratch my head and speak to Imari's back.
+
+[MSG$001B7E,49]
+Hearing me, Imari snorts and points to the clock.
+
+[MSG$001BBC,46]
+Imari "As if we had time to sit down and eat!"
+
+[MSG$001C04,30]
+Minase "All right, all right,"
+
+[MSG$001C3C,95]
+I concede reluctantly, then start taking off the sweatshirt I wear to sleep instead of pajamas.
+
+[MSG$001CA8,48]
+Seeing this, Imari quickly turns her back on me.
+
+[MSG$001D09,37]
+Imari "Let me know when you're done."
+
+[MSG$001D48,14]
+Minase "Sure,"
+
+[MSG$001D70,50]
+This is what usually happens, so she's used to it.
+
+[MSG$001DA7,79]
+When you have a long history with someone, this sort of thing doesn't faze you.
+
+[MSG$001E03,27]
+Minase "Where's my sister?"
+
+[MSG$001E38,53]
+I'm changing my clothes as I ask Imari this question.
+
+[MSG$001E7A,119]
+I live in this house with my older sister. I call her my sister, although she's really my cousin. But since we've grown
+
+[MSG$001EF6,74]
+|up together, due to family circumstances, she's just like a sister to me.
+
+[MSG$001F4D,82]
+My parents aren't living with us right now because my dad got transferred at work.
+
+[MSG$001FAC,46]
+The transfer happened all of sudden last year.
+
+[MSG$001FDF,102]
+My sister and I thought about whether we should go along, then decided to stay here because of school.
+
+[MSG$002052,110]
+I thought it would be the start of good times for me, getting away from my overbearing parents...but my sister
+
+[MSG$0020C5,35]
+|and Imari keep getting in the way.
+
+[MSG$0020F5,73]
+My folks even entrusted Imari with the task of waking me up every morning
+
+[MSG$002143,59]
+|and keeping an eye on me in general. How annoying is that?
+
+[MSG$002183,36]
+And Imari has been true to her word.
+
+[MSG$0021B4,59]
+Imari "Oh, Yukiko? She was on her way out when I got here,"
+
+[MSG$002209,18]
+Minase "Oh, yeah?"
+
+[MSG$002235,101]
+Big Sister Yukiko, even though she's a graduate student, actually leaves the house earlier than I do.
+
+[MSG$00229F,72]
+Of course, it's not to go to class, but because she has a part-time job.
+
+[MSG$0022F4,72]
+Imari "I really wish you'd try to follow your sister's example, Minase."
+
+[MSG$002356,63]
+Imari can say that because she doesn't know about Yukiko's job.
+
+[MSG$0023A2,67]
+Imari "All right! Stop all this chatting and get yourself dressed."
+
+[MSG$002422,98]
+I take off all my clothes except my shorts, then call out to Imari, who still has her back turned.
+
+[MSG$002491,33]
+Minase "You can turn around now."
+
+[MSG$0024CC,81]
+Imari "That was quick. If only you'd be as efficient about getting out of bed..."
+
+[MSG$002537,39]
+So saying, she turns around to face me.
+
+[MSG$00259D,12]
+Imari "Ugh!"
+
+[MSG$0025C3,21]
+Minase "You pervert!"
+
+[MSG$0025F2,24]
+Imari's face is all red.
+
+[MSG$00260F,41]
+She's embarrassed, all right. Cool, cool.
+
+[MSG$002645,22]
+Quiver, quiver, quiver
+
+[MSG$002668,22]
+Her hand is trembling.
+
+[MSG$002683,48]
+Wait, she's not embarrassed...She's mad as hell!
+
+[MSG$0026B8,54]
+Her face is bright red, and her temples are throbbing.
+
+[MSG$00272D,18]
+Imari "You moron!"
+
+[MSG$00281B,6]
+SMACK!
+
+[MSG$00282E,45]
+Her hand goes up and smashes against my face.
+
+[MSG$002860,22]
+Now I'm totally awake.
+
+[MSG$002883,107]
+Imari "This is no time for lame pranks! I'm waiting for you, for Pete's sake, so hurry up and get dressed!"
+
+[MSG$00292C,50]
+Imari spits these words out and pivots once again.
+
+[MSG$00296B,59]
+Minase "You didn't have to hit me with your freakin' fist!"
+
+[MSG$0029C0,48]
+Imari has no tolerance for these types of jokes.
+
+[MSG$0029F5,51]
+I change into my uniform, muttering the whole time.
+
+[MSG$002A40,83]
+If I keep her waiting any longer, she'll go wild, so I try to be as quick as I can.
+
+[MSG$002AA0,50]
+I toss aside my nightwear and get into my uniform.
+
+[MSG$002AD7,57]
+Then I check my look in the mirror and call out to Imari.
+
+[MSG$002B1D,26]
+Minase "You can look now."
+
+[MSG$002B83,13]
+Imari "Good."
+
+[MSG$002BAA,45]
+She turns around to face me as she says this.
+
+[MSG$002BE4,74]
+Imari "Okay, then go wash your face. I'll be waiting for you at the door."
+
+[MSG$002C48,16]
+Minase "Gotcha."
+
+[MSG$002CFB,66]
+I did as she said and quickly brushed my teeth and washed my face.
+
+[MSG$002D4A,60]
+I can't believe how bossy she is. It's like I'm in prison...
+
+[MSG$002D8B,72]
+That Imari...she probably thinks the whole universe revolves around her.
+
+[MSG$002E31,26]
+April 20 - Going to school
+
+[MSG$002ED6,75]
+Imari and I leave the house and set off side by side, headed toward school.
+
+[MSG$002F2E,106]
+Of course, it's embarrassing for me to have to walk to school with this girl, even if we grew up together.
+
+[MSG$002F9D,81]
+But since she came over just to wake me up, I can't just say ''Thanks, goodbye!''
+
+[MSG$002FF3,56]
+|I have no choice but to do the obvious and go with her.
+
+[MSG$003038,77]
+Even though she rushed me, we still have plenty of time before classes start.
+
+[MSG$00308A,60]
+We can get there by the first bell even if we take our time.
+
+[MSG$0030D3,88]
+Even so, it's better for me this way...this early, not many people will see us together.
+
+[MSG$003138,14]
+Minase "YAWN."
+
+[MSG$003160,67]
+As I walk the familiar route to school, I let out an enormous yawn.
+
+[MSG$0031A8,63]
+It's still early, and I don't see any other people from school.
+
+[MSG$0031F4,28]
+Imari "You're still sleepy?"
+
+[MSG$00322A,94]
+So asks Imari, turning to look at my face, after I let loose with another yawn to show her up.
+
+[MSG$003295,60]
+Minase "That's right, because Somebody forced me to get up!"
+
+[MSG$0032EB,73]
+Imari "If I hadn't woken you up, you'd go on sleeping for hours, Minase."
+
+[MSG$00334E,24]
+She has a point there...
+
+[MSG$003373,76]
+Imari "Remember that time when I couldn't make it to your place one morning?
+
+[MSG$0033C4,54]
+|You were still asleep when I went over after school!"
+
+[MSG$003415,81]
+Imari "I can't believe anyone could sleep that long. Your eyes are going to rot."
+
+[MSG$003480,73]
+Minase "If that's all it would take, they'd have rotted long ago by now."
+
+[MSG$0034E3,19]
+Imari "Is that so!"
+
+[MSG$003561,22]
+April 20 - School Gate
+
+[MSG$0035F6,68]
+We walk for about 10 minutes, then we reach our familiar old school.
+
+[MSG$00363F,61]
+We walk through the gate. The place is still pretty deserted.
+
+[MSG$003689,107]
+When it's time for the first bell, the school counselor shuts the gate and checks off who's coming in late.
+
+[MSG$003701,105]
+It's just like Judgment Day. As the gate's about to close, you see a herd of students swarming towards it
+
+[MSG$00376F,17]
+|like lost souls.
+
+[MSG$00378D,52]
+Fortunately, thanks to Imari, I'm never one of them.
+
+[MSG$0037C6,58]
+If you're late twice, they take a day off your attendance.
+
+[MSG$003805,70]
+If I didn't have Imari to wake me up, I'd probably lose a few credits.
+
+[MSG$0038A9,18]
+April 20 - Lockers
+
+[MSG$00395D,69]
+Imari "We got here pretty early. You think we're the only ones here?"
+
+[MSG$0039BC,101]
+Imari looks around at the row of lockers. She takes her school shoes from her locker and puts them on
+
+[MSG$003A26,26]
+|as she makes this remark.
+
+[MSG$003A4D,92]
+|True, there are hardly any other school shoes to be seen. Not that there aren't any at all.
+
+[MSG$003AAE,38]
+The kids who come for morning practice
+
+[MSG$003AD9,86]
+|get here at least an hour before we do. But since morning practice is still going on,
+
+[MSG$003B34,43]
+they haven't arrived in the classrooms yet.
+
+[MSG$003B6C,18]
+Minase "Beats me."
+
+[MSG$003B98,70]
+I grab my own school shoes from my locker and slam them to the ground.
+
+[MSG$003BE3,68]
+The heels have gone flat. I stick my feet into these pathetic shoes.
+
+[MSG$003C34,27]
+Minase "Who cares, anyway?"
+
+[MSG$003C69,41]
+We still have time before the first bell.
+
+[MSG$003C97,62]
+At this hour, there are never that many kids in the classroom.
+
+[MSG$003CDA,51]
+Rush hour always starts after the preliminary bell.
+
+[MSG$003D1A,68]
+It's not often that Imari and I are the first ones in the classroom.
+
+[MSG$003D63,93]
+I don't know whether that's because we're early, or the others are late. Probably the latter.
+
+[MSG$003DCD,100]
+But if I had the choice, I'd rather join the latter. It would be good to sleep till the last minute.
+
+[MSG$003E36,47]
+That's really more in keeping with my nature...
+
+[MSG$003E72,105]
+After changing our shoes, Imari and I leave the lockers and head toward our classroom on the 3rd floor...
+
+[MSG$003F39,20]
+April 20 - Classroom
+
+[MSG$003FCB,22]
+Ito "Is it all right?"
+
+[MSG$003FFC,13]
+Murai "Sure."
+
+[MSG$004024,51]
+Murai "But you know what, someone might be coming!"
+
+[MSG$004072,20]
+Ito "Shh, be quiet!"
+
+[MSG$0040A1,18]
+Ito "Okay, Saeki."
+
+[MSG$00414E,40]
+Saeki "All right, I'm going to do it..."
+
+[MSG$004191,85]
+The girl in the middle named Saeki concentrates hard, then her lips begin to tremble.
+
+[MSG$0041F3,15]
+Saeki "Atah..."
+
+[MSG$00421D,18]
+Saeki "Malkuth..."
+
+[MSG$00424A,20]
+Saeki "V'Geburah..."
+
+[MSG$004279,20]
+Saeki "V'Gedulah..."
+
+[MSG$0042A8,18]
+Saeki "Liolahm..."
+
+[MSG$0042D5,76]
+As the girl intones these mysterious words, she makes the sign of the cross.
+
+[MSG$004326,87]
+When she's finished, she picks up a dagger from the desk and pricks her finger with it.
+
+[MSG$00438A,11]
+Saeki "Oh!"
+
+[MSG$0043B0,57]
+She pushes down with the dagger, which pierces her flesh.
+
+[MSG$0043EE,75]
+Drops of blood fall from her finger. She catches them in a cup on the desk.
+
+[MSG$004446,76]
+Saeki "This is My Blood, which is shed for many; for the remission of sins."
+
+[MSG$0044AD,74]
+She repeats the prayer from the Last Supper, and continues with her chant.
+
+[MSG$004504,81]
+Saeki "Spirits who perished 12 years ago, I summon thee now to give me guidance."
+
+[MSG$00456F,70]
+Saeki "So that those who now live in bliss might assuage thy grief..."
+
+[MSG$0045CF,102]
+Saeki "I now summon thee to show me all the answers, in the name of the blood Christ shed for thee..."
+
+[MSG$00464F,57]
+The students surrounding Saeki are holding their breaths.
+
+[MSG$004695,57]
+At that moment, the smoke from the candle began to waver.
+
+[MSG$004756,14]
+(Door opening)
+
+[MSG$004771,65]
+Just then, the door opens, and the draft extinguishes the candle.
+
+[MSG$0047F1,13]
+Murai "AUGH!"
+
+[MSG$004818,30]
+Minase "Hey, what's going on?"
+
+[MSG$004850,119]
+As soon as we open the door to the classroom, we hear the piercing sound of strange voices. We stand there, speechless.
+
+[MSG$0048CC,51]
+We can smell something like incense burning inside.
+
+[MSG$00490C,31]
+Imari "What...what's going on?"
+
+[MSG$004945,95]
+It's dark inside the classroom. There are black curtains on the windows, blocking the sunlight.
+
+[MSG$0049B1,28]
+Murai "You...you scared us!"
+
+[MSG$004A45,48]
+Ito "Well, you shouldn't have yelled like that."
+
+[MSG$004A8F,33]
+Murai "Ow! I couldn't help it..."
+
+[MSG$004ACA,31]
+Minase "Listen, YOU scared US."
+
+[MSG$004B03,114]
+I snarl this at the girls gathered in the middle of the classroom, then enter with an exasperated look on my face.
+
+[MSG$004B82,103]
+Apparently these girls have been doing something mysterious, gathered around a single desk in the dark.
+
+[MSG$004BEE,63]
+|As evidence, there's a whole bunch of weird stuff on the desk.
+
+[MSG$004C3A,82]
+Imari "What are you doing? This early in the morning...closing the curtains, too."
+
+[MSG$004CA6,99]
+One person remains sitting calmly in front of the desk. It's the leader of this group, Kaori Saeki.
+
+[MSG$004D0E,34]
+She's famous for being a wack job.
+
+[MSG$004D3D,120]
+She's highly unapproachable, so introverted that she's always reading some weird-looking book at her desk during recess.
+
+[MSG$004DBA,31]
+|That's my impression of Saeki.
+
+[MSG$004DE6,57]
+Still, for some reason she's very popular with the girls.
+
+[MSG$004E24,72]
+She'll often gather a group of girls and show them some freaky ceremony,
+
+[MSG$004E71,66]
+|which she calls Black Magic. She seems to get a kick out of that.
+
+[MSG$004EC0,114]
+While some people ridicule her for being tasteless, others actually support her. Of course, I'm one of the former.
+
+[MSG$004F3F,82]
+I mean, magic and fortune-telling...there's just no scientific foundation to them,
+
+[MSG$004F96,81]
+|and they're unproductive. Not something an intelligent person should be doing...
+
+[MSG$00504A,34]
+Saeki "Communing with the dead..."
+
+[MSG$005086,92]
+Saeki "Since it's almost the night of Walpurgis, we were trying to conjure up the spirits of
+
+[MSG$0050E7,40]
+|our forerunners who died 12 years ago."
+
+[MSG$005129,85]
+As she speaks, Saeki puts away all the mysterious-looking tools laid out on the desk.
+
+[MSG$005183,110]
+The other girls rush to the windows to open the curtains. The room is instantly filled with the morning light.
+
+[MSG$005249,26]
+Minase "Forerunners, huh?"
+
+[MSG$00527D,25]
+I say this with contempt.
+
+[MSG$0052A3,75]
+You're talking about that Black Magic Society they had here 12 years ago...
+
+[MSG$0052F3,41]
+the one in all those rumors...aren't you?
+
+[MSG$005329,112]
+It was nothing but a ''society,'' which the school didn't see fit to recognize as an officially sanctioned club.
+
+[MSG$00539E,87]
+It's not as if I'd heard about it firsthand, and there's no proof that it ever existed.
+
+[MSG$005402,101]
+But this Saeki has swallowed that whole occult society rumor, which is still being discussed today...
+
+[MSG$00546C,78]
+and apparently she regards the society members with both respect and jealousy.
+
+[MSG$0054C7,65]
+Minase "Hey, aren't we a little too old for these ghost stories?"
+
+[MSG$005522,112]
+Minase "I can't believe you came to school so early for this stupid business. You must really be into it, then."
+
+[MSG$0055AC,33]
+So saying, I try to go past them.
+
+[MSG$0055D2,54]
+I don't have the least interest in what they're doing,
+
+[MSG$00560D,65]
+and no good will come of getting involved with the likes of them.
+
+[MSG$00568D,23]
+Ito "Stupid? How rude!"
+
+[MSG$0056BE,69]
+But a girl named Ito has taken offense at my words and blocks my way.
+
+[MSG$005710,46]
+Ito "Excuse me, but we're serious about this."
+
+[MSG$005769,6]
+Whack!
+
+[MSG$00577C,88]
+Ito slams a nearby desk with her hand, all the while fixing me with a flinty-eyed stare.
+
+[MSG$0057D9,69]
+There's one in every class, a loudmouthed hysterical girl like Ito...
+
+[MSG$00582B,38]
+Minase "Hey, sorry. I didn't mean it."
+
+[MSG$00586B,12]
+Ito "Humph!"
+
+[MSG$005939,75]
+Murai "You can't blame him, really. He doesn't know how powerful Saeki is."
+
+[MSG$00599E,57]
+Murai "And he doesn't know what happened 12 years ago..."
+
+[MSG$0059F1,66]
+Murai senses the hostility in the air, and tries to calm Ito down.
+
+[MSG$005A38,90]
+Saeki, the girl in question, has been putting the desks back in place, cool as a cucumber.
+
+[MSG$005A9F,73]
+The other 2 girls are Saeki's loyal supporters. Ayumi Murai and Mika Ito.
+
+[MSG$005AED,81]
+Thanks to Saeki's black magic, these girls believe in fortune-telling and chants.
+
+[MSG$005B4B,99]
+True, there are some who believe in Saeki's spells and fortune-telling. Especially among the girls.
+
+[MSG$005BB3,84]
+Those are the ones who support Saeki. You know, birds of a feather flock together...
+
+[MSG$005C14,96]
+And I've heard some say that they actually work. But I'm sure that's no more than a coincidence.
+
+[MSG$005C81,69]
+Minase "The demonic ceremony that was carried out 12 years ago, huh?"
+
+[MSG$005CE0,79]
+Minase "That's the kind of rumor you'd find at any school...no way is it true!"
+
+[MSG$005D49,27]
+Ito "How can you say that?"
+
+[MSG$005D7E,59]
+Minase "There's just no way. Don't tell me you believe it?"
+
+[MSG$005DD3,12]
+Ito "Grr..."
+
+[MSG$005E7C,49]
+It is then that Saeki finally breaks her silence.
+
+[MSG$005EBA,106]
+Saeki "On Walpurgis Night 12 years ago, 6 female students from this school held a Black Magic ceremony..."
+
+[MSG$005F3E,80]
+Saeki "And the girls who took part in this ceremony all died mysterious deaths."
+
+[MSG$005FA8,114]
+Saeki "Rumor has it that they spouted blood all over the room. They say the room looked like a scene out of Hell."
+
+[MSG$006034,38]
+Saeki speaks in a matter-of-fact tone.
+
+[MSG$006067,115]
+Sure, there are a lot of variations of this rumor, but the basic storyline is more or less what Saeki just told me.
+
+[MSG$0060E7,58]
+There are a lot of other childish rumors about our school.
+
+[MSG$00612E,77]
+The ghost that appears in the mirror on the landing of one of the staircases.
+
+[MSG$006180,46]
+Stories about the old piano in the Music Room.
+
+[MSG$0061B3,42]
+There's an endless supply of such stories.
+
+[MSG$0061EA,93]
+But none are as freaky and ridiculous as the one about the Black Magic ceremony 12 years ago.
+
+[MSG$006254,74]
+Minase "How can I possibly believe that story? It's nothing but nonsense."
+
+[MSG$0062B8,88]
+Minase "And another thing, You say they died, but what was it that killed them, anyway?"
+
+[MSG$00632A,73]
+Saeki "That was the Devil's work. Those girls were murdered by demons..."
+
+[MSG$00638D,107]
+Saeki "It's not easy to conquer demons. In fact, a lot of people ended up getting killed summoning demons."
+
+[MSG$006412,24]
+Saeki answers me calmly.
+
+[MSG$00642F,73]
+I don't know how she can utter the word ''demon'' with a straight face...
+
+[MSG$006485,31]
+Minase "What a load of crap..."
+
+[MSG$0064BE,79]
+Minase "You've been reading too much manga...There's no such thing as a demon."
+
+[MSG$006527,33]
+Hearing me, Ito looks infuriated.
+
+[MSG$0065F3,46]
+Ito "Then how do you explain the Secret Room?"
+
+[MSG$00663B,83]
+Ito "Just as the rumor says...that room has been under lock and key all this time."
+
+[MSG$0066A8,54]
+Ito is talking about the storage room in the basement.
+
+[MSG$0066E3,78]
+According to the faculty, they store all the unused desks and equipment there.
+
+[MSG$00673E,95]
+But it's true that this room hasn't been used in a long time...and it's been locked up forever.
+
+[MSG$0067A2,55]
+That's why it's become the subject of countless rumors.
+
+[MSG$0067E6,69]
+And because of those rumors, the students are afraid to go near it...
+
+[MSG$006830,89]
+and the teachers who have been here a long time seem to want to avoid going down there...
+
+[MSG$006896,92]
+Well, not that a storage room is something you use that often...but it is kind of weird that
+
+[MSG$0068F7,36]
+|it's been locked tight for so long.
+
+[MSG$006928,77]
+Even so, that's no reason to connect that room with ceremonies and the Devil.
+
+[MSG$006982,41]
+Minase "It's nothing but a storage room."
+
+[MSG$0069C5,84]
+Ito "Yes, but no one's ever seen what's inside, and the teachers refuse to open it."
+
+[MSG$006A33,92]
+Ito "It's like it was sealed off 12 years ago...it's been locked up ever since, never used."
+
+[MSG$006AA9,92]
+Minase "That's just another rumor. For all we know, they could be using it everyday. Right?"
+
+[MSG$006B1F,42]
+Ito "That's just conjecture on your part."
+
+[MSG$006B63,55]
+Minase "But it's a lot more realistic than that rumor."
+
+[MSG$006BB4,96]
+Ito "No smoke without fire. You're just passing it off as a rumor. But nobody's ever seen it, so
+
+[MSG$006C19,49]
+|I'll thank you not to write it off so casually."
+
+[MSG$006D0B,79]
+Imari "Come to think of it, I heard something from one of the grad students..."
+
+[MSG$006D74,66]
+Imari suddenly broke in, after listening silently to our exchange.
+
+[MSG$006DC3,44]
+Minase "Heard something? What did you hear?"
+
+[MSG$006E09,86]
+Ito "That there used to be a club called the Rose & Cross Society, a long time ago..."
+
+[MSG$006E79,58]
+Minase "Man, don't tell me you believe in that stuff too?"
+
+[MSG$006ECD,27]
+I'm exasperated with Imari.
+
+[MSG$006EED,105]
+Yeah, well, Imari is a girl too, so I can sort of understand why she might be interested in that stuff...
+
+[MSG$006F63,110]
+But if Imari was a believer too, that would make me the only non-believer, and the odds would be against me...
+
+[MSG$006FDE,74]
+Imari "No, I don't, but it's true that there used to be a club like that."
+
+[MSG$007042,53]
+Minase "What do you mean, true? You're sure of that?"
+
+[MSG$007091,104]
+Imari "Someone from the Art Club told me. It wasn't an official club, so there aren't any school records
+
+[MSG$0070FE,77]
+|and it's not in any of the yearly albums...but I heard it really did exist."
+
+[MSG$007165,31]
+Minase "What about ceremonies?"
+
+[MSG$00719E,67]
+Imari "I don't know about that. I wasn't interested enough to ask."
+
+[MSG$0071FB,63]
+Minase "So now the story's just getting more complicated, huh?"
+
+[MSG$007254,109]
+Minase "Okay, let's just say for argument's sake that there WAS a club like that. But that ceremony business,
+
+[MSG$0072C6,70]
+you know they added it onto the rumor later. And forget about demons!"
+
+[MSG$00737C,98]
+Ito "Do you really think so? You know what, I think you're really scared of ghost stories, Minase.
+
+[MSG$0073E3,82]
+You probably get so scared, you can't bring yourself to go to the bathroom alone."
+
+[MSG$00744F,6]
+Grr...
+
+[MSG$007462,66]
+Imari "Come to think of it, Minase...remember when we were little,
+
+[MSG$0074A9,58]
+watching a horror movie together, and you wet your pants?"
+
+[MSG$0074FD,70]
+Imari blurts this out all of a sudden, as if she'd just remembered it.
+
+[MSG$007548,44]
+What kind of a blast from the past is that?!
+
+[MSG$007579,89]
+Anyway, that happened way back in kindergarten! You don't have to remember that crap NOW.
+
+[MSG$0075DF,61]
+Ito "You're actually a sweet little boy, Minase, aren't you?"
+
+[MSG$007636,7]
+Damn...
+
+[MSG$00764A,66]
+Thanks to Imari and her big mouth, my reputation is now in shreds.
+
+[MSG$007699,47]
+Imari "Sorry, I shouldn't have mentioned that."
+
+[MSG$0076E2,58]
+Imari really does look apologetic as she looks over at me.
+
+[MSG$007721,93]
+It's too late for sorry, girl. This is what they mean when they say ''less said the better.''
+
+[MSG$00778B,72]
+Ito "Saeki, you try to talk some sense into him, too. He's so stubborn!"
+
+[MSG$0077ED,117]
+Saeki had been listening to this conversation all along without a word--as if it had nothing to do with her--but now,
+
+[MSG$007867,48]
+at Ito's prodding, she opens her mouth to speak.
+
+[MSG$007942,85]
+Saeki "You're free to believe or not to believe. But even if a rumor's beyond belief,
+
+[MSG$00799C,52]
+there's always some grain of truth in it, you know."
+
+[MSG$0079EA,80]
+Saeki "Until Schliemann discovered Troy, everyone thought that Homer's epic poem
+
+[MSG$007A3F,46]
+|The Iliad was nothing but a work of fiction."
+
+[MSG$007A87,85]
+Saeki "Same with Machu Picchu. It was thought to be just a legend until Hiram Bingham
+
+[MSG$007AE1,16]
+|discovered it."
+
+[MSG$007B0C,109]
+Saeki "You can never discount anything as 100% lies or fabrication. Not until you've verified it yourself..."
+
+[MSG$007B93,99]
+Well, she does have a point, but that's still no reason to agree that black magic and demons exist.
+
+[MSG$007C35,72]
+Ito "She's right, Minase. Like she said just now: no smoke without fire.
+
+[MSG$007C82,99]
+You scoff at what you think is a rumor, but rumors don't get started without any evidence at all.."
+
+[MSG$007CFF,79]
+Ito "So we'll thank you not to reject this one when you know nothing about it!"
+
+[MSG$007D5B,70]
+As soon as she sees she has the upper hand, Ito blurts this out to me.
+
+[MSG$007DA6,50]
+You can hear the confidence oozing from her voice.
+
+[MSG$007DE5,77]
+Minase "You can say what you want, but a rumor is a rumor. That's all it is."
+
+[MSG$007E4C,108]
+I toss this last remark at them and start to walk past them as they fume, so I can get away from this scene.
+
+[MSG$007EC5,102]
+Minase "I understand you wanting to believe it. I don't care whether you do or not. But for god's sake
+
+[MSG$007F30,69]
+|don't do this weird stuff in our classroom. You're creeping me out."
+
+[MSG$007F8F,63]
+Ito "Sour grapes? Why don't you just accept defeat gracefully?"
+
+[MSG$007FE8,17]
+Minase "(Snorts)"
+
+[MSG$008013,70]
+I ignore Ito, who's still trying to bait me, and walk over to my desk.
+
+[MSG$00805E,94]
+I couldn't convince these people otherwise even if we continued the conversation, and besides,
+
+[MSG$0080C1,63]
+I have better things to do than hang out with wackos like them.
+
+[MSG$00810D,86]
+After a while, our classmates started to pour into the room, and it got a lot noisier.
+
+[MSG$00820E,77]
+Murai "I guess we're about done here. The teacher should be showing up soon."
+
+[MSG$008275,50]
+And with that, Ito and Saeki and the others leave.
+
+[MSG$008329,10]
+Door opens
+
+[MSG$008340,57]
+The door opens and the teacher walks in...perfect timing.
+
+[MSG$008386,33]
+Imari heads over to her own desk.
+
+[MSG$0083AC,98]
+As soon as she sits down, she looks over at me and clasps both her hands in an apologetic gesture.
+
+[MSG$008413,58]
+I guess she still feels guilty about what happened before.
+
+[MSG$00845A,50]
+As I prepare for class, I try to calm myself down.
+
+[MSG$008499,94]
+We never really did resolve the issue, but it won't help to get into a heated debate with Ito.
+
+[MSG$0084FC,82]
+And I really didn't give a damn about the basement, or what happened 12 years ago.
+
+[MSG$00855B,81]
+I adjust my mindset thus, and immerse myself in class, which was boring as usual.
+
+[MSG$00860A,22]
+April 20 - After Class
+
+[MSG$0086A7,18]
+..................
+
+[MSG$0086C6,12]
+............
+
+[MSG$0086DF,6]
+......
+
+[MSG$008703,11]
+School Bell
+
+[MSG$00879F,96]
+As the final bell rings, the students around me get up from their chairs en masse--released from
+
+[MSG$008804,55]
+|class at last--and go about their respective business.
+
+[MSG$008848,105]
+Some head for practice...others get ready to go home, while still others head for their part-time jobs...
+
+[MSG$0088BE,76]
+And then there are the reluctant few who are dragged off to club meetings...
+
+[MSG$008951,65]
+Imari "Hey, you're coming to the club meeting today, aren't you?"
+
+[MSG$0089AC,16]
+Here it comes...
+
+[MSG$0089C9,78]
+I had just stuffed everything on my desk into my bag, and was about to get up.
+
+[MSG$008A1C,59]
+That's when Imari decided to approach - and call out to me.
+
+[MSG$008A64,62]
+She does this all the time, but there's nothing more annoying.
+
+[MSG$008AAF,29]
+Extracurricular activities...
+
+[MSG$008AD1,108]
+I belong to the Art Club.  Out of all the cultural clubs at school (whose members are mostly ghost members),
+
+[MSG$008B42,30]
+it's a relatively decent club.
+
+[MSG$008B6D,83]
+Imari pretty much forced me to join this club. This was back when we were freshmen,
+
+[MSG$008BC5,78]
+and everyone who didn't have an obvious choice had to pick something or other,
+
+[MSG$008C18,45]
+That was when Imari recommended the Art Club.
+
+[MSG$008C52,86]
+In the beginning, I thought I could get away with just ditching the meetings everyday,
+
+[MSG$008CAD,95]
+but thanks to Imari breathing down my neck all the time, I've somehow lasted until senior year.
+
+[MSG$008D19,100]
+It's not that I don't like to draw, but I can't stand the idea of spending any of my free time here.
+
+[MSG$008D8A,92]
+So I try to ditch every chance I get. But since I've escaped for the last few days in a row,
+
+[MSG$008DEB,26]
+Imari's got her eye on me.
+
+[MSG$008E0A,73]
+It won't be easy to escape Imari now that she's made a preemptive strike.
+
+[MSG$008E60,34]
+Imari "You're coming, aren't you?"
+
+[MSG$008E9C,6]
+Ugh...
+
+[MSG$008ECF,38]
+Minase "Yeah, all right...I'm coming."
+
+[MSG$008F0F,72]
+I didn't think I could argue my way out of it, so I decided to go along.
+
+[MSG$008F5C,87]
+Since I'd been ditching the last few days, it wouldn't hurt to show up like she wanted.
+
+[MSG$008FC0,40]
+Imari "Huh! You're pretty docile today."
+
+[MSG$009002,88]
+Imari "I'm impressed! So now you appreciate how much fun you can have at club meetings?"
+
+[MSG$009074,24]
+Minase "In your dreams."
+
+[MSG$0090A6,89]
+Imari "Okay, be sure to show up, then. I'm going to go on ahead and unlock the Art Room."
+
+[MSG$009119,20]
+Minase "Yes, ma'am."
+
+[MSG$009152,29]
+Minase "Uh, I can't today..."
+
+[MSG$009189,66]
+I'm not feeling inspired today, either, so I try to get out of it.
+
+[MSG$00920A,80]
+Imari "No way, you've got to be kidding! You've been ditching every day lately."
+
+[MSG$009274,74]
+Imari "The teacher's annoyed, too. We're seniors, and if we skip meetings,
+
+[MSG$0092C3,57]
+we'll be setting a bad example for the younger students."
+
+[MSG$009316,68]
+Not that I thought for a moment that she'd just let me go so easily.
+
+[MSG$009367,54]
+Minase "Okay, okay. I'll be there if I can make it..."
+
+[MSG$0093B7,31]
+Imari "Promise you'll show up!"
+
+[MSG$0093F0,50]
+Minase "I promise I'll be there if I can make it."
+
+[MSG$00943C,22]
+Quiver, quiver, quiver
+
+[MSG$00945F,43]
+My flaky behavior causes Imari's face to...
+
+[MSG$009497,38]
+Imari "I said SHOW UP NO MATTER WHAT!"
+
+[MSG$0094D7,54]
+Imari scowls fiercely, shouting in total exasperation.
+
+[MSG$009512,97]
+At this point there's no placating her unless I show up. If I ignore her there'll be hell to pay.
+
+[MSG$009580,35]
+Minase "Okay, okay, I'll be there!"
+
+[MSG$0095BD,73]
+It's not what I want, but I know of no other way to escape Imari's wrath.
+
+[MSG$009645,54]
+Imari "Why didn't you just say so from the beginning?"
+
+[MSG$009695,72]
+Imari "Okay, I'll see you there, I'm going on ahead to unlock the room."
+
+[MSG$0096F7,20]
+Minase "Yes, ma'am."
+
+[MSG$009749,76]
+To make extra sure, Imari admonishes me one last time, then leaves the room.
+
+[MSG$0097A2,48]
+Okay, now that Imari's gone, why don't I just...
+
+[MSG$0097FF,30]
+Minase "Guess I'll just go..."
+
+[MSG$009837,52]
+Since I told her I'd be there, I can't be a no-show.
+
+[MSG$009870,71]
+I pick up my bag, head out to the hallway and walk toward the Art Room.
+
+[MSG$0098E8,35]
+Why don't I just ditch after all...
+
+[MSG$009910,93]
+It's an old trick of mine, reassuring her that I'll be at the meeting, then promptly fleeing.
+
+[MSG$009972,60]
+There's no other way for me to escape from that pesky Imari.
+
+[MSG$0099BB,94]
+I mean, what loser would go to these club meetings, when it's not even an absolute obligation?
+
+[MSG$009A1E,52]
+Just let the ones who really want to attend show up.
+
+[MSG$009A5F,50]
+How naive of you, Imari...believing me so readily.
+
+[MSG$009A96,58]
+This is why they teach you not to go along with strangers.
+
+[MSG$009AD5,78]
+Not being able to see through me after all these years...you really are naive.
+
+[MSG$009B30,24]
+Minase "I'm going home!"
+
+[MSG$009B62,59]
+I pick up my bag, humming, and beat it towards the lockers.
+
+[MSG$009BA2,69]
+Who gives a crap about club meetings? Those are for morons to attend.
+
+[MSG$009BEC,17]
+Hahaha, I'm free!
+
+[MSG$009CF6,45]
+Imari "Hey, where do you think you're going?"
+
+[MSG$009D3D,9]
+Whoops...
+
+[MSG$009D53,66]
+Imari stands with her hands on her hips at the end of the hallway.
+
+[MSG$009DA2,66]
+Imari "You weren't planning to go home or anything, now were you?"
+
+[MSG$009DFE,45]
+Pretty sharp! Does she have ESP or something?
+
+[MSG$009E38,44]
+Minase "Of course not...I'd never...hahaha!"
+
+[MSG$009E7E,32]
+Imari "The Art Room's that way."
+
+[MSG$009EB8,81]
+Imari stabs her finger in the opposite direction. Her eyes are full of suspicion.
+
+[MSG$009F16,98]
+Minase "Hey, come on! You know I wouldn't skip. I was just going to stop by the men's room first."
+
+[MSG$009F92,39]
+Imari "The bathrooms are that way too."
+
+[MSG$009FD3,49]
+Imari stabs her finger in the opposite direction.
+
+[MSG$00A011,75]
+Minase "I just felt like using a different bathroom for once...that's all."
+
+[MSG$00A076,33]
+Imari "All right, let's go then."
+
+[MSG$00A0B1,75]
+Minase "Yeah, but you know what, I've got a stomachache all of a sudden..."
+
+[MSG$00A116,105]
+Minase "And plus, I'm starting to get a fever. I think that curry I ate last night must've been poisoned!
+
+[MSG$00A184,54]
+Or else it's that E. coli that's been going around..."
+
+[MSG$00A1D4,47]
+Imari "Is that some kind of joke or something?"
+
+[MSG$00A21D,74]
+Imari "Or do you actually believe I'd fall for something as lame as that?"
+
+[MSG$00A281,21]
+Minase "No, I don't."
+
+[MSG$00A2B0,29]
+Imari "Well, then, let's go."
+
+[MSG$00A2E7,20]
+Minase "Yes, ma'am."
+
+[MSG$00A315,16]
+(skidding noise)
+
+[MSG$00A332,57]
+Imari grabs my arm and drags me off towards the Art Room.
+
+[MSG$00A3C9,19]
+April 20 - Art Room
+
+[MSG$00A47E,10]
+Door opens
+
+[MSG$00A4C7,73]
+Still dragging me by the arm, Imari slides open the door to the Art Room.
+
+[MSG$00A515,61]
+The Art Club members just use the Art Room for club meetings.
+
+[MSG$00A55F,70]
+Minase "Ouch, ouch! You don't have to pull so hard, I won't run away!"
+
+[MSG$00A5BF,110]
+Imari "I don't believe you. Just the other day I got distracted for one second and you jumped out the window."
+
+[MSG$00A647,95]
+Oh, that's right, I ended up spraining my ankle that time. I was in pain for the next few days.
+
+[MSG$00A6AB,49]
+I might as well have just stayed for the meeting.
+
+[MSG$00A6E9,61]
+Imari "Come on, you're the Vice President, so look the part!"
+
+[MSG$00A740,99]
+Vice President...Come to think of it, we did decide on that stuff at the beginning of the semester.
+
+[MSG$00A7A8,39]
+Needless to say, Imari's our President.
+
+[MSG$00A7E2,15]
+Door opening...
+
+[MSG$00A89C,38]
+I shove open the door to the Art Room.
+
+[MSG$00A8C7,56]
+The Art Club members just use the Art Room for meetings.
+
+[MSG$00A90C,26]
+Imari "Oh, there you are!"
+
+[MSG$00A940,50]
+Imari "So the Vice President is joining us today!"
+
+[MSG$00A98C,64]
+Oh, pipe down, will you? I'm here because you kept badgering me!
+
+[MSG$00A9D9,99]
+Vice President...Come to think of it, we did decide on that stuff at the beginning of the semester.
+
+[MSG$00AA41,39]
+Needless to say, Imari's our President.
+
+[MSG$00AAEA,77]
+As I enter the Art Room, the sharp scent of turpentine and petrol assails me.
+
+[MSG$00AB44,76]
+There are easels set up all over the room, and everyone has their own canvas
+
+[MSG$00AB95,8]
+|set up.
+
+[MSG$00ABAA,105]
+The Art Club members who got here before me stand before their easels, sketching away with their brushes.
+
+[MSG$00AC20,75]
+There's a school-wide exhibit coming up, so everyone's working pretty hard.
+
+[MSG$00AC78,103]
+Needless to say, I'm supposed to enter something myself. But of course I don't have anything ready yet.
+
+[MSG$00AD1E,88]
+Imari "All right, since you're here for once, I want you to get some serious work done!"
+
+[MSG$00AD90,24]
+Minase "Do you hear me?"
+
+[MSG$00ADC2,78]
+I yank out my canvas from my desk drawer, prop it up on my easel and sit down.
+
+[MSG$00AE9A,35]
+The canvas in front of me is white.
+
+[MSG$00AEC2,58]
+I mean totally white...I mean, I haven't touched it yet...
+
+[MSG$00AF09,15]
+Minase "Ugh..."
+
+[MSG$00AF32,8]
+I groan.
+
+[MSG$00AF3F,56]
+A genius doesn't pick up a brush when he's not inspired.
+
+[MSG$00AF7C,88]
+I can't force myself to sketch when I'm not in the mood...that won't generate any ideas.
+
+[MSG$00AFE1,107]
+As usual, I get out my pencil case and kneaded eraser. And then I start pulling on the eraser to kill time.
+
+[MSG$00B059,13]
+Stretching...
+
+[MSG$00B073,11]
+Snapping...
+
+[MSG$00B08B,95]
+I love it when the kneaded eraser's just about to snap after you stretch it out to the limit...
+
+[MSG$00B0EF,85]
+I get an adrenaline boost when I do this, and it stimulates my creative juices...NOT.
+
+[MSG$00B151,11]
+Kneading...
+
+[MSG$00B169,13]
+Stretching...
+
+[MSG$00B183,11]
+Snapping...
+
+[MSG$00B1AF,4]
+Pop!
+
+[MSG$00B28E,14]
+Minase "Ouch!"
+
+[MSG$00B2B6,27]
+Imari "What are you doing?"
+
+[MSG$00B2EB,41]
+Minase "I was just planning my strategy."
+
+[MSG$00B32E,59]
+Imari "Liar, What you mean is you're just procrastinating!"
+
+[MSG$00B383,34]
+Imari "Let's see what you've got."
+
+[MSG$00B3BF,52]
+So saying, Imari tries to sneak a look at my canvas.
+
+[MSG$00B3F8,61]
+I immediately try to shove it out of view, but it's too late.
+
+[MSG$00B442,40]
+Imari "Jeez, you haven't done anything!"
+
+[MSG$00B484,66]
+Imari "Man, I wish I knew how to make you pull your act together."
+
+[MSG$00B4E0,65]
+Imari says this as she peers at my canvas, sighing all the while.
+
+[MSG$00B552,10]
+Door opens
+
+[MSG$00B569,32]
+Imari "Oh...it's Ms. Takashiro."
+
+[MSG$00B5D5,49]
+The door opens, and our faculty advisor walks in.
+
+[MSG$00B60B,89]
+It's Hiroko Takashiro. She's an art instructor, and the faculty advisor for the Art Club,
+
+[MSG$00B679,88]
+Because of her good looks and also because she teaches art, she's very popular with both
+
+[MSG$00B6D6,24]
+|the boys and the girls.
+
+[MSG$00B6FB,72]
+Some of the students have chosen to concentrate on art because of her...
+
+[MSG$00B748,74]
+and the boys in the Art Club never miss a meeting. It's all thanks to her.
+
+[MSG$00B797,20]
+Being an art teacher
+
+[MSG$00B7B0,55]
+|some are of the flippant opinion that Art = Easy Pass.
+
+[MSG$00B7F4,93]
+Well, I'm not going to argue with that...I mean, since there's no written exam for this class
+
+[MSG$00B856,28]
+|why wouldn't it be popular?
+
+[MSG$00B87F,37]
+Takashiro "Is everyone working hard?"
+
+[MSG$00B8BE,68]
+Ms. Takashiro speaks to us as we concentrate on our respective work.
+
+[MSG$00B907,48]
+She's making the rounds, glancing at each easel.
+
+[MSG$00B944,82]
+Takashiro "Well! I see the vice president of the club is here today, How unusual!"
+
+[MSG$00B9B0,43]
+So she says as she approaches Imari and me.
+
+[MSG$00BAAB,60]
+Minase "You make me sound like a ghost member or something."
+
+[MSG$00BB01,79]
+Takashiro "If you know what I'm talking about, then you should be more diligent
+
+[MSG$00BB55,19]
+|about showing up."
+
+[MSG$00BB82,20]
+Minase "Yes, ma'am."
+
+[MSG$00BBB0,56]
+Takashiro "Hmm? But your canvas is still blank, Minase."
+
+[MSG$00BC02,79]
+As soon as she sees my canvas, she makes this remark. She sounds as exasperated
+
+[MSG$00BC56,10]
+|as Imari.
+
+[MSG$00BC6D,78]
+Takashiro "Really, now! I want you to make a serious effort, since we're going
+
+[MSG$00BCC0,48]
+|to be exhibiting these in the college art show.
+
+[MSG$00BD0B,30]
+That would disgrace the club!"
+
+[MSG$00BD43,47]
+Minase "In that case, let's not enter my work."
+
+[MSG$00BD8C,76]
+Takashiro "Oh, don't talk like that. See how hard our president is working!"
+
+[MSG$00BDF2,41]
+Ms. Takashiro taps Imari on the shoulder.
+
+[MSG$00BE28,19]
+Imari "Ha ha ha..."
+
+[MSG$00BE55,34]
+Imari smiles, looking embarrassed.
+
+[MSG$00BE7C,75]
+She's always known how to get ahead, this one. Always doing things right...
+
+[MSG$00BECC,59]
+And that's why I look like even more of a good-for-nothing.
+
+[MSG$00BF14,51]
+Takashiro "Why don't you have Ms. Imari teach you?"
+
+[MSG$00BF61,59]
+Takashiro "I know, you should have Ms. Imari model for you.
+
+[MSG$00BFA1,43]
+She's nearly finished with her own sketch."
+
+[MSG$00BFE6,48]
+What the heck is she thinking? Imari's no model!
+
+[MSG$00C023,56]
+Minase "Huh? Why do I have to sketch her of all people?"
+
+[MSG$00C075,6]
+Whack!
+
+[MSG$00C088,24]
+Imari "Well, excuse me!"
+
+[MSG$00C0BA,101]
+Takashiro "Oh? I happen to think Ms. Imari would make the ideal model. She definitely has potential."
+
+[MSG$00C139,18]
+Imari "Ehehehe..."
+
+[MSG$00C165,37]
+Minase "You've got to be kidding me."
+
+[MSG$00C1A4,113]
+Takashiro "And if I leave you with Ms. Imari as your model, you'll have no chance of slacking off, will you now?"
+
+[MSG$00C22F,33]
+That's got to be her real motive.
+
+[MSG$00C25D,15]
+Minase "But..."
+
+[MSG$00C286,102]
+Takashiro "There's no time for you to complain. If you don't hurry it up you won't make the deadline."
+
+[MSG$00C306,15]
+This is true...
+
+[MSG$00C322,54]
+Takashiro "All right, I'm counting on you, Ms. Imari."
+
+[MSG$00C372,19]
+Imari "Yes, ma'am!"
+
+[MSG$00C39F,81]
+What? Just like that, everything's all settled? And don't I have any say in this?
+
+[MSG$00C3FD,92]
+Takashiro "All right, then, I have something to take care of, so I'm leaving you in charge."
+
+[MSG$00C497,75]
+Takashiro leaves the room, and everyone goes back to their work in silence.
+
+[MSG$00C521,63]
+Imari "Do you know how lucky you are, having me as your model?"
+
+[MSG$00C57A,21]
+Minase "Yeah, right."
+
+[MSG$00C5A9,31]
+I sigh and take pity on myself.
+
+[MSG$00C5CD,87]
+I hadn't yet decided on a theme but I never thought I'd end up having to do a portrait.
+
+[MSG$00C631,80]
+It would've been so much easier to just do a still-life, or sketch some scenery.
+
+[MSG$00C686,57]
+Having to sketch Imari makes it ten thousand times worse.
+
+[MSG$00C6CC,83]
+Imari doesn't give a damn about my feelings. She brings over a chair and sits down.
+
+[MSG$00C7B0,26]
+Imari "Is this all right?"
+
+[MSG$00C7E4,42]
+Imari strikes a natural pose in the chair.
+
+[MSG$00C81B,86]
+I resign myself to the fact that one way or another I'm going to have to sketch Imari.
+
+[MSG$00C87E,32]
+Minase "Umm...yeah, I guess so."
+
+[MSG$00C8B8,44]
+I wave my pencil above my head dramatically.
+
+[MSG$00C8E9,25]
+For no reason, of course.
+
+[MSG$00C90F,81]
+Minase "I need you to strike some kind of pose, or this portrait will be boring."
+
+[MSG$00C97A,82]
+Imari "Yeah, but you have to think about the model, too! If I have to hold a pose,
+
+[MSG$00C9D1,16]
+I'll get tired."
+
+[MSG$00C9FB,77]
+Minase "Then just raise one of your knees. That won't tire you out, will it?"
+
+[MSG$00CA62,25]
+Imari "Okay...like this?"
+
+[MSG$00CB1D,58]
+Imari bends one of her knees and clasps it with her hands.
+
+[MSG$00CB5C,55]
+Not bad. Her skirt flips upward and it's pretty erotic.
+
+[MSG$00CB98,16]
+One more push...
+
+[MSG$00CBD5,52]
+Minase "Okay, can you open your legs a little more?"
+
+[MSG$00CC23,43]
+Imari "Huh? Is this...is this good enough?"
+
+[MSG$00CC68,79]
+Imari complies by opening her legs just a little. No more than an inch, really.
+
+[MSG$00CCBC,44]
+I won't even see her underwear at this rate.
+
+[MSG$00CCF5,70]
+Minase "No, that's not good enough. Wide open, now! Spread your legs!"
+
+[MSG$00CDE4,4]
+POW!
+
+[MSG$00CE79,56]
+As soon as the words were out of my mouth, Imari hit me.
+
+[MSG$00CF59,42]
+Imari "What are you trying to do, anyway?"
+
+[MSG$00CF9D,79]
+Minase "I was just kidding...why would I want to see your dirty undies anyway?"
+
+[MSG$00D017,6]
+SMACK!
+
+[MSG$00D02A,39]
+This time she slaps me across the face.
+
+[MSG$00D05E,70]
+Imari "They are not dirty! Just shut up and start drawing, you moron!"
+
+[MSG$00D0C9,37]
+Minase "Okay, take off your clothes."
+
+[MSG$00D196,4]
+POW!
+
+[MSG$00D2C6,45]
+Imari "Why do I have to take off my clothes?"
+
+[MSG$00D30D,74]
+Minase "Whaaat, you're not stripping? We gotta at least see your underwear
+
+[MSG$00D35C,39]
+|for you to make any impact, you know."
+
+[MSG$00D39D,22]
+Imari "Oh, drop dead!"
+
+[MSG$00D3CD,47]
+Minase "Oh, man, now I've lost all motivation."
+
+[MSG$00D416,49]
+Imari "Come on! Stop whining and get on with it!"
+
+[MSG$00D461,37]
+I reluctantly turn back to my canvas.
+
+[MSG$00D50F,31]
+Imari "Make me look good, now."
+
+[MSG$00D548,61]
+Minase "Don't count on it. It's not like the model's so hot."
+
+[MSG$00D59F,13]
+Imari "Grrr!"
+
+[MSG$00D5C6,77]
+Imari "Well, if you don't start taking this seriously, I'm gonna get pissed!"
+
+[MSG$00D62D,20]
+Minase "Yes, ma'am."
+
+[MSG$00D65B,49]
+I pick up my charcoal pencil and begin sketching.
+
+[MSG$00D699,12]
+Sketching...
+
+[MSG$00D6B2,10]
+Staring...
+
+[MSG$00D6C9,12]
+Sketching...
+
+[MSG$00D6E2,10]
+Erasing...
+
+[MSG$00D6F9,10]
+Staring...
+
+[MSG$00D710,12]
+Sketching...
+
+[MSG$00D729,29]
+And...about one hour later...
+
+[MSG$00D7CB,13]
+Minase "...."
+
+[MSG$00D7E5,39]
+I look at my canvas and I'm speechless.
+
+[MSG$00D819,22]
+Oh, man...this is bad!
+
+[MSG$00D83C,40]
+This is SO going to get me into trouble!
+
+[MSG$00D871,69]
+Even I can hardly bear to look at it. I'm terrified of my own talent.
+
+[MSG$00D93B,34]
+Imari "So? How's it coming along?"
+
+[MSG$00D977,57]
+No good! If she sees this, I'll never hear the end of it.
+
+[MSG$00D9BD,86]
+Minase "Hey, don't look yet, If you see it now, you'll faint...that's how good it is!"
+
+[MSG$00DA2E,58]
+Imari "Really? You're only making me want to see it more."
+
+[MSG$00DA82,49]
+Minase "Hold on! Isn't it time to call it a day?"
+
+[MSG$00DACD,55]
+Imari "What? Omigod, I didn't realize how late it was!"
+
+[MSG$00DB1E,46]
+Checking her watch, she sees it's almost 5 PM.
+
+[MSG$00DC00,59]
+Imari "Sorry, I've got to get home, I have something to do.
+
+[MSG$00DC40,61]
+Can you lock up and bring this key back to the faculty room?"
+
+[MSG$00DC97,83]
+Imari clasps her hands together in a beseeching manner, and leaves me with the key.
+
+[MSG$00DCF7,12]
+Minase "ME?"
+
+[MSG$00DD1D,72]
+Imari "Come on, you're the vice president. It's the least you can do..."
+
+[MSG$00DD7F,23]
+Minase "Oh, all right."
+
+[MSG$00DDB0,26]
+I take the key from Imari.
+
+[MSG$00DDCF,36]
+Perfect! Boy, that was really close.
+
+[MSG$00DE00,68]
+Minase "Hey, too bad. I guess I'll let you see my sketch next time."
+
+[MSG$00DE5E,61]
+Imari "Huh? Oh, don't worry, I do have time to look it over."
+
+[MSG$00DEB5,33]
+Imari tries to peek at my sketch.
+
+[MSG$00DEE3,51]
+Minase "No way! We should save this for next time!"
+
+[MSG$00DF30,54]
+I quickly move the canvas out of her reach...and view.
+
+[MSG$00DF73,17]
+Imari "You sure?"
+
+[MSG$00DF9F,22]
+Minase "Shh! Go away."
+
+[MSG$00DFE4,46]
+Imari "Oh, well. Anyway, I'm counting on you!"
+
+[MSG$00E050,59]
+Imari quickly gathers up her stuff and leaves the Art Room.
+
+[MSG$00E098,50]
+Thank goodness I got out of showing her my sketch.
+
+[MSG$00E0D7,67]
+But I'm probably going to have to let her see it someday, anyway...
+
+[MSG$00E11F,4]
+Ugh.
+
+[MSG$00E128,41]
+I'll have to do something about it first.
+
+[MSG$00E15E,35]
+I think I'll see what I can do now.
+
+[MSG$00E20B,12]
+Sketching...
+
+[MSG$00E224,12]
+Sketching...
+
+[MSG$00E23D,12]
+Sketching...
+
+[MSG$00E256,12]
+Sketching...
+
+[MSG$00E26F,79]
+Now that the president has left, the others start to get ready to go home, too.
+
+[MSG$00E2C3,108]
+Left alone, I continue to struggle silently with this drawing of Imari that doesn't look a thing like her...
+
+[MSG$00E33C,48]
+Minase "Why am I stuck here doing this, anyway?"
+
+[MSG$00E386,12]
+Sketching...
+
+[MSG$00E39F,10]
+Erasing...
+
+[MSG$00E3B6,12]
+Sketching...
+
+[MSG$00E3CF,7]
+Snap...
+
+[MSG$00E3E3,13]
+Scribbling...
+
+[MSG$00E3FD,12]
+Sketching...
+
+[MSG$00E416,10]
+Erasing...
+
+[MSG$00E42D,12]
+Sketching...
+
+[MSG$00E446,10]
+Erasing...
+
+[MSG$00E45D,12]
+Sketching...
+
+[MSG$00E476,16]
+Minase "Sigh..."
+
+[MSG$00E4A0,102]
+I battle until it's almost time to leave school. I take a moment to check out my work from a distance.
+
+[MSG$00E59C,14]
+Minase "WHOA!"
+
+[MSG$00E5C4,23]
+Whoa, what the hell...?
+
+[MSG$00E5E8,54]
+The more I struggle, the worse I seem to be making it.
+
+[MSG$00E623,70]
+Such amazing talent. This is no mere sketch...it goes way beyond that.
+
+[MSG$00E66E,41]
+This is truly what you'd call cosmic art!
+
+[MSG$00E6A4,45]
+Minase "No good, I just don't have it today."
+
+[MSG$00E767,50]
+I suddenly look around and see that I'm all alone.
+
+[MSG$00E7A6,31]
+Minase "Sigh...I'm going home."
+
+[MSG$00E7DF,68]
+I'm sure I must be rusty, since I haven't drawn anything in so long.
+
+[MSG$00E828,79]
+I force myself to believe that, and stuff the canvas way back where no one will
+
+[MSG$00E87C,18]
+|will ever see it.
+
+[MSG$00E89B,40]
+Then I grab my stuff and leave the room.
+
+[MSG$00E921,18]
+April 20 - The Key
+
+[MSG$00E9BA,87]
+I make sure everything's locked up, and head toward the faculty room to return the key.
+
+[MSG$00EA1E,100]
+I look outside and see that there are some athletic clubs still out there, yelling as they practice.
+
+[MSG$00EA8F,85]
+I walk slowly towards the faculty room. There aren't many students left in the halls.
+
+[MSG$00EAE9,68]
+It feels strange to me, since I've never been the last one to leave.
+
+[MSG$00EC07,14]
+(Door opening)
+
+[MSG$00EC22,52]
+I open the door and enter the largely deserted room.
+
+[MSG$00EC63,88]
+It's almost totally empty, since at this hour most of the teachers are at club meetings,
+
+[MSG$00ECC8,100]
+The ones who are still there are sitting at their desks, smoking as they work on mid-term questions.
+
+[MSG$00ED31,47]
+None of the faculty advisors have returned yet.
+
+[MSG$00ED6D,71]
+I walk through the faculty room without a word, headed for the key box.
+
+[MSG$00EDC1,83]
+All of the school keys are kept in this box. They're removed on an as-needed basis.
+
+[MSG$00EE19,75]
+Imari's always in charge of the Art Room key, so I rarely return it myself.
+
+[MSG$00EE71,5]
+Click
+
+[MSG$00EF0C,15]
+I open the box.
+
+[MSG$00EF28,39]
+Inside, a number of keys hang on hooks.
+
+[MSG$00EF5C,81]
+I take the silver Art Room key from my pocket, and look for the hook I'm supposed
+
+[MSG$00EFB2,15]
+|to hang it on.
+
+[MSG$00EFCE,45]
+Minase "Let's see...where's the Art Room...?"
+
+[MSG$00F015,40]
+I look for a plate reading ''Art Room.''
+
+[MSG$00F042,22]
+I find it soon enough.
+
+[MSG$00F065,20]
+Minase "Here it is."
+
+[MSG$00F093,8]
+Click...
+
+[MSG$00F0A8,77]
+As I return the key and start to close the box, I happen to notice something,
+
+[MSG$00F102,13]
+Minase "Huh?"
+
+[MSG$00F129,49]
+I stop, and take another look at the row of keys.
+
+[MSG$00F167,73]
+This key doesn't have a plate bearing the name of the room it belongs to,
+
+[MSG$00F1BD,84]
+I was never one to notice these things before, but for some reason, this time I did.
+
+[MSG$00F216,66]
+Unlike the other keys, this one is made of brass and shines dully.
+
+[MSG$00F265,21]
+I reach for this key,
+
+[MSG$00F28F,64]
+There's a plate on the key, and it tells me what the key is for.
+
+[MSG$00F2D4,38]
+And that's what grabbed my interest...
+
+[MSG$00F307,83]
+The wooden plate has some faint writing on it, which looks like it's about to fade.
+
+[MSG$00F35F,44]
+I squint at it, trying to read what it says.
+
+[MSG$00F398,33]
+Minase "Basement...storage room."
+
+[MSG$00F3D3,35]
+Those are the words I can make out.
+
+[MSG$00F403,67]
+Minase "Basement storage room? The key that opens the Secret Room?"
+
+[MSG$00F4EB,24]
+Basement storage room...
+
+[MSG$00F510,42]
+The room everyone calls the Secret Room...
+
+[MSG$00F53F,43]
+There's only one basement in this building.
+
+[MSG$00F56F,77]
+And there's definitely a plate on the door reading ''Basement Storage Room.''
+
+[MSG$00F5C9,29]
+The key to the Secret Room...
+
+[MSG$00F5EB,55]
+Right under my nose...I never dreamed I'd find it here.
+
+[MSG$00F62F,42]
+If I use this key, I can open that door...
+
+[MSG$00F65E,53]
+That means that I can find out if that rumor is true.
+
+[MSG$00F6A0,62]
+Not that I expect to find anything that surprising down there.
+
+[MSG$00F6E3,45]
+But I do want to know why it's always locked.
+
+[MSG$00F71D,66]
+It might be a coincidence, or there might be some hidden secret...
+
+[MSG$00F76C,59]
+The rumor might have developed just because no one has ever
+
+[MSG$00F7AC,22]
+|seen what was inside.
+
+[MSG$00F7C7,64]
+But if I used this key, I could become the witness to the truth.
+
+[MSG$00F814,58]
+This is a great opportunity to lay the old legend to rest.
+
+[MSG$00F85B,60]
+Nothing wrong with setting things straight with my own eyes.
+
+[MSG$00F8AF,58]
+Making sure no one sees me, I remove the key from its hook
+
+[MSG$00F8EE,29]
+|and stuff it into my pocket.
+
+[MSG$00F910,28]
+None of the teachers see me.
+
+[MSG$00F939,58]
+As long as I return it when I'm done, what does it matter?
+
+[MSG$00F978,67]
+They're strict about the keys, but since no one ever uses this one,
+
+[MSG$00F9C0,60]
+I'm sure no one will notice it's gone, if I don't take long.
+
+[MSG$00FA01,57]
+And it's not as if someone needs to use this key, anyway.
+
+[MSG$00FA53,71]
+I close the key box, and leave the faculty room as if nothing happened.
+
+[MSG$00FAF8,26]
+April 20 - Basement Stairs
+
+[MSG$00FB99,76]
+As soon as I'm out the door, I stick my hand in my pocket and touch the key,
+
+[MSG$00FBEA,42]
+I feel the cold brass against my finger...
+
+[MSG$00FC21,88]
+If Ito and Saeki were around, I'd let them come along to witness me open the door to the
+
+[MSG$00FC7E,85]
+|Secret Room, but since they always leave school on the double, there's no way they'd
+
+[MSG$00FCD8,28]
+|still be here at this hour.
+
+[MSG$00FD01,89]
+Oh, well, I can always ask them later. All I have to do is remember where the key's kept,
+
+[MSG$00FD5F,39]
+and it won't be any problem to snag it.
+
+[MSG$00FD8B,74]
+And it'll probably be better to show them after I've seen it myself first.
+
+[MSG$00FDE2,92]
+I plan to tell them all about it in a calm, measured tone of voice, all the while basking in
+
+[MSG$00FE43,50]
+|superiority as someone who's already been inside.
+
+[MSG$00FE7A,47]
+I can already see the jealousy in their eyes...
+
+[MSG$00FEB6,65]
+Feeling smug, I remove the key to the Secret Room from my pocket,
+
+[MSG$00FEFC,70]
+let it jingle in the air, and head downstairs towards the first floor.
+
+[MSG$00FFCC,50]
+I reach the first floor and head for my objective.
+
+[MSG$01000B,18]
+The Secret Door...
+
+[MSG$010022,36]
+It just looks like an ordinary door.
+
+[MSG$01004B,64]
+It's there, right at the bottom of the stairs, in a lonely spot.
+
+[MSG$010090,120]
+There's nothing special about this door...The sign says, ''Basement Storage Room.'' It just looks like an ordinary door.
+
+[MSG$010115,92]
+There's only one thing that catches the eye...the sign proclaiming that it's ''OFF LIMITS.''
+
+[MSG$010176,56]
+That's the only reason why they call it the Secret Room.
+
+[MSG$0101BB,74]
+Beyond this door are the stairs leading down to the Basement Storage Room.
+
+[MSG$01020A,86]
+It's the door downstairs that's locked, so it shouldn't be a problem to open this one,
+
+[MSG$01026D,83]
+I stare at the door for a moment, then reach out and grip the cold knob in my hand.
+
+[MSG$0102CD,46]
+Girl "You can't go in there, it's off-limits."
+
+[MSG$010315,13]
+Minase "Huh?"
+
+[MSG$0103DB,55]
+I'm shaken by the voice that suddenly called out to me.
+
+[MSG$010417,71]
+I take my hand off the doorknob and look in the direction of the voice.
+
+[MSG$01046B,34]
+A female student is staring at me.
+
+[MSG$01049A,40]
+It's a girl from my class, Rika Shiraki.
+
+[MSG$0104C7,98]
+She's good-looking, always gets top grades, and to top it all off, she's also the President of the
+
+[MSG$01052E,17]
+|Student Council.
+
+[MSG$01054C,72]
+Shiraki "It's no use going down there, since the door is locked anyway."
+
+[MSG$0105AE,103]
+I'm stunned. She gives me a scornful glance but her voice is rather considerate as she walks toward me.
+
+[MSG$01061A,30]
+Of course I already know that.
+
+[MSG$010645,22]
+Minase "Yeah, I know."
+
+[MSG$010675,61]
+I try to look calm. I answer her as nonchalantly as possible.
+
+[MSG$0106B7,80]
+She may be an uninvited guest, but I can't just blow off this Rika Shiraki girl.
+
+[MSG$010714,87]
+Rika Shiraki...I know her by sight, but this is the first time I've ever spoken to her.
+
+[MSG$010770,29]
+Needless to say, it's mutual.
+
+[MSG$01079A,63]
+Actually, there's a good chance that she didn't know me at all.
+
+[MSG$0107DE,75]
+I mean, she went out of her way to reprimand me. Oh, well. What can you do?
+
+[MSG$01082E,47]
+I'm not the type of guy who stands out, anyway.
+
+[MSG$01086A,33]
+I start staring at Shiraki again.
+
+[MSG$010890,71]
+What a princess...those good looks of hers and her perfect personality.
+
+[MSG$0108DC,59]
+No wonder everyone adores her, both the guys and the girls.
+
+[MSG$010924,56]
+And so different than Imari! That thought made me smile.
+
+[MSG$010961,77]
+If I had to compare them, I'd say Shiraki was a purebred dog with a pedigree,
+
+[MSG$0109B3,53]
+whereas Imari was like a mutt fathered by some stray.
+
+[MSG$0109F5,86]
+No, that might be way too harsh. If Imari found out, I wouldn't live to tell the tale.
+
+[MSG$010A58,47]
+Shiraki "But why do you want to go down there?"
+
+[MSG$010AA1,46]
+Shiraki's huge eyes widen as she asks me this.
+
+[MSG$010ADC,33]
+Minase "To find out the truth..."
+
+[MSG$010B17,27]
+Shiraki blinks at my words.
+
+[MSG$010B3F,26]
+Shiraki "You're so funny."
+
+[MSG$010B73,80]
+I smile along with Shiraki. No way do I believe that Shiraki swallowed my story.
+
+[MSG$010BC8,64]
+I'm sure she just thought I was joking. Well, that works for me.
+
+[MSG$010C15,67]
+Minase "Do you believe that rumor about the basement storage room?"
+
+[MSG$010C72,80]
+I ask her casually. I really want to know what this girl thinks about the rumor.
+
+[MSG$010CCF,15]
+Shiraki "What?"
+
+[MSG$010CF8,52]
+She tilts her head at this sudden, idiotic question.
+
+[MSG$010D31,54]
+I was trying to be casual, but maybe I was too abrupt?
+
+[MSG$010D74,62]
+But after thinking it over, she answered me in a serious tone.
+
+[MSG$010DBF,36]
+Shiraki "Well, I'm not really sure."
+
+[MSG$010DFD,97]
+Shiraki "I don't think I've ever thought about it. Anyway, I think rumors are interesting because
+
+[MSG$010E63,51]
+|they're rumors...that goes for any kind of rumor."
+
+[MSG$010EB0,99]
+Shiraki "I think it's more fun to go on believing, rather than being disappointed when you find out
+
+[MSG$010F18,40]
+|the truth, Just like with Santa Claus."
+
+[MSG$010F5A,29]
+Minase "You really think so?"
+
+[MSG$010F91,58]
+What a romantic point of view, I could never emulate that.
+
+[MSG$010FD0,48]
+I prefer everything to be either black or white.
+
+[MSG$01100D,46]
+Minase "Very interesting, I'll remember that."
+
+[MSG$011055,58]
+Shiraki "When you discover the truth, please let me know."
+
+[MSG$01111E,51]
+She smiles as she says this, and slowly walks away.
+
+[MSG$01115E,26]
+Is the door really locked?
+
+[MSG$01117D,41]
+But the key to that door is in my pocket.
+
+[MSG$0111AB,46]
+I'm sure she never dreamed that I had the key,
+
+[MSG$0111DE,77]
+That's how great the legend of this basement taboo was to all of us students.
+
+[MSG$011238,86]
+The key to the secret garden, huh? How did that story by Gaskell go--someone found the
+
+[MSG$011293,44]
+|key to what was supposedly a locked garden,
+
+[MSG$0112C4,64]
+|and when it was opened, there was nothing but a ravaged lawn...
+
+[MSG$011311,74]
+It's just like Shiraki said. Gossip and truth are rarely one and the same.
+
+[MSG$011368,26]
+Minase "All right then..."
+
+[MSG$01139C,10]
+Door opens
+
+[MSG$0113B3,80]
+Once again, I make sure no one's around. Then I turn the knob and open the door.
+
+[MSG$011408,28]
+The door swings open easily.
+
+[MSG$0114B5,111]
+It's dark inside. The stairs leading down to the basement storage room are dimly lit by the light from outside.
+
+[MSG$011531,21]
+Minase "It's dark..."
+
+[MSG$011560,67]
+In this darkness, the stairs are like an even darker, ominous hole.
+
+[MSG$0115A8,66]
+And within this hole is a steep staircase leading to the basement.
+
+[MSG$0115F7,46]
+Beyond those eerie stairs lie the Secret Room.
+
+[MSG$011632,45]
+It's cold in here. You'd think the AC was on.
+
+[MSG$01166C,61]
+It's the perfect atmosphere for a creepy rumor like this one.
+
+[MSG$0116AE,80]
+Such a mysterious atmosphere...it's the perfect place to do something in secret.
+
+[MSG$011755,41]
+I look for a light switch for the stairs.
+
+[MSG$01178B,53]
+There's some kind of switch at the top of the stairs.
+
+[MSG$0117C5,13]
+I flip it on.
+
+[MSG$0117DF,8]
+Click...
+
+[MSG$01186C,58]
+Instantly, a dim white light bulb goes on in the darkness.
+
+[MSG$0118B3,86]
+The light is extremely weak. It would be an overstatement to call it ''light'' at all.
+
+[MSG$01190E,96]
+Even if this place is never used, the least they could do would be to put in fluorescent lights.
+
+[MSG$01197B,41]
+Well, I guess it's better than nothing...
+
+[MSG$0119F8,34]
+It's too dark as it is to go down.
+
+[MSG$011A1F,33]
+I can't even see where I'm going.
+
+[MSG$011A4D,30]
+I've got to turn on the light.
+
+[MSG$011A70,46]
+I know there's a switch around here somewhere.
+
+[MSG$011AB6,80]
+Keeping my hands against the wall, I slowly make my way down the dark staircase.
+
+[MSG$011B13,66]
+The stairs are made of concrete. They're plain and dreary-looking.
+
+[MSG$011B62,103]
+I can hear the eerie sound of my own footsteps going down the stairs in that closed-off, cramped space.
+
+[MSG$011BCE,70]
+I gingerly go down the stairs, nearly losing my balance several times.
+
+[MSG$011C21,22]
+Thump, thump, thump...
+
+[MSG$011CC0,100]
+I've gone down 10-plus steps when my feet hit some level ground. Looks like I've made it to the end,
+
+[MSG$011D31,64]
+In front of me is a heavy steel door, seemingly blocking my way.
+
+[MSG$011D7E,38]
+Minase "So this is the Secret Room..."
+
+[MSG$011DBE,27]
+The name seems appropriate.
+
+[MSG$011DE6,39]
+It's a plain, old-fashioned steel door.
+
+[MSG$011E12,64]
+There's a metal plate; all it says is ''Basement Storage Room.''
+
+[MSG$011E5F,46]
+They could've at least painted it pink or red.
+
+[MSG$011E92,34]
+But no, that would be creepy, too.
+
+[MSG$011EC1,111]
+This isn't the first time I've come down here. But this is the first time I've gotten a good look at this door.
+
+[MSG$011F3D,87]
+There's some graffiti on the door as well. It could be the work of some cruel students,
+
+[MSG$011F99,55]
+but someone has scribbled cryptic symbols and diagrams.
+
+[MSG$011FD5,45]
+They make it all seem even creepier, somehow.
+
+[MSG$01200F,73]
+I trace one of the letters, written in fluid handwriting, with my finger.
+
+[MSG$01205D,60]
+But I can't read it, since it doesn't seem to be in English.
+
+[MSG$0120A6,94]
+Same thing with the diagrams over and around the door. I have no idea what they meant, either.
+
+[MSG$012109,59]
+But it was too unnatural-looking and creepy to be graffiti.
+
+[MSG$012151,66]
+Minase "Well, it sure doesn't look like just some storage room..."
+
+[MSG$0121AD,104]
+I shiver as I say this. It's a lot colder down here than upstairs, probably because there's no sunlight.
+
+[MSG$01221A,83]
+In this temperature, it's sure not comfortable to be clad only in a school uniform.
+
+[MSG$01227A,57]
+Minase "I'll just take a quick look and get out of here."
+
+[MSG$0122CD,32]
+I take the key out of my pocket.
+
+[MSG$0122FA,56]
+Then I slip the key into the keyhole under the doorknob.
+
+[MSG$012337,49]
+The key slides into the hole; it's a perfect fit.
+
+[MSG$012375,50]
+Minase "Okay, time for a tour of the Secret Room."
+
+[MSG$0123C1,47]
+I grip the key and twist it to the right, hard.
+
+[MSG$0123FD,8]
+Clink...
+
+[MSG$012412,45]
+I can feel and hear the tumblers unlocking...
+
+[MSG$012444,61]
+Now there's nothing that will stop me from opening this door.
+
+[MSG$01248E,61]
+From this moment, the Secret Room will no longer be secret...
+
+[MSG$0124D0,115]
+I grasp the cold steel doorknob...slowly and carefully, I turn it to the right...and I swing the heavy door open...
+
+[MSG$012550,9]
+Squeak...
+
+[MSG$012566,77]
+I hear the grating sound of metal against metal. Then the door swings inward.
+
+[MSG$0125C0,53]
+I stop it when it's about 30cm open, and peer inside.
+
+[MSG$0125FA,77]
+Not that I believe that rumor, but I have no idea what I might find in there.
+
+[MSG$01264C,43]
+Being alone, I'm just a little bit nervous.
+
+[MSG$012684,82]
+What I can see through the narrow opening is a vast dark space, as black as ink...
+
+[MSG$0126E3,82]
+I can feel how cold the air is inside...it smells like a mixture of dust and mold.
+
+[MSG$01273A,49]
+It almost has a horrible graveyard smell to it...
+
+[MSG$012778,73]
+But I can't see anything inside the room itself, because of the darkness.
+
+[MSG$0127CE,29]
+I pushed the door open wider.
+
+[MSG$0127F8,9]
+Squeak...
+
+[MSG$01280E,19]
+April 20 - Basement
+
+[MSG$012977,29]
+Minase "Gag...gag...choke..."
+
+[MSG$0129AE,74]
+As soon as I open the door, I nearly choke on the dusty air from the room.
+
+[MSG$0129FD,87]
+All this dust could be proof that this room really hasn't been opened in over 10 years.
+
+[MSG$012A61,67]
+I flail my arms around me, trying to shake the dust off my clothes.
+
+[MSG$012AB1,56]
+Once I've done that, I take a good look around the room.
+
+[MSG$012AF6,65]
+But even with the door opened wide, it's too dark to see a thing,
+
+[MSG$012B3C,58]
+since there are no windows to let any light into the room.
+
+[MSG$012B7B,86]
+The light from the staircase is too weak, and it doesn't even reach this room, anyway.
+
+[MSG$012BDE,42]
+There's no way I can see inside this room.
+
+[MSG$012C15,86]
+I take a step inside the dark room, and start groping for a light switch on the walls.
+
+[MSG$012C70,45]
+There's got to be at least one light in here.
+
+[MSG$012CAA,55]
+I can feel the rough texture of concrete under my hand.
+
+[MSG$012CEE,46]
+After about 10 seconds, I feel something hard.
+
+[MSG$012D29,20]
+Minase "Is this it?"
+
+[MSG$012D57,94]
+I grasp what I think is a light switch with my fingers, and flip it in the opposite direction.
+
+[MSG$012DC2,50]
+There's a snapping sound, and the power goes on...
+
+[MSG$012E01,19]
+But, wait a minute.
+
+[MSG$012E21,13]
+Minase "Huh?"
+
+[MSG$012E48,74]
+The light should've gone on, but the room is still just as dark as before.
+
+[MSG$012E97,40]
+It doesn't work out, and I'm in despair.
+
+[MSG$012ECC,22]
+Click, click, click...
+
+[MSG$012EEF,85]
+I try flipping the switch on and off, over and over, but always with the same result.
+
+[MSG$012F49,43]
+Was I turning on something else altogether?
+
+[MSG$012F81,77]
+I start to look for another switch somewhere, running my hand along the wall.
+
+[MSG$012FD3,54]
+But I can't find anything that might be such a switch.
+
+[MSG$013016,19]
+Minase "No good..."
+
+[MSG$013043,43]
+Maybe the breakers weren't working anymore.
+
+[MSG$013073,98]
+Since the room hadn't been used in so long, it would make sense if they'd cut off the electricity.
+
+[MSG$0130E2,69]
+But I couldn't do anything about it, since the switch box was locked.
+
+[MSG$013134,94]
+Maybe I should come back after finding something I could light my way with. But I didn't think
+
+[MSG$013197,41]
+|I'd find anything useful here at school.
+
+[MSG$0131CD,95]
+I try to remember if I'd ever seen a flashlight lying around somewhere at school, but couldn't.
+
+[MSG$013231,58]
+If worst came to worst, I'd have to bring one from home...
+
+[MSG$013278,91]
+I'm at my wits' end. I stare into the darkness before me. After managing to open this door,
+
+[MSG$0132D8,74]
+I can't believe I'm going to go home empty-handed because of the darkness.
+
+[MSG$01332F,104]
+After a while, my eyes get used to the darkness, and I'm able to make out the faint outline of the room.
+
+[MSG$0133A4,71]
+But the room is empty, and it doesn't look like there's anything in it.
+
+[MSG$0133F0,68]
+It's too empty for a room that had once been used as a storage room.
+
+[MSG$013441,77]
+Kicking myself for not coming prepared, I take a few steps into the darkness.
+
+[MSG$013493,78]
+I can't see a thing, but I couldn't stand the thought of leaving empty-handed.
+
+[MSG$0134EE,108]
+I can feel the dust swirling with every step I take. I frantically brush away all the cobwebs that cover me.
+
+[MSG$013567,5]
+Thump
+
+[MSG$013579,71]
+I haven't gone far before I feel my foot strike something on the floor.
+
+[MSG$0135CD,68]
+I stop, and look down at my feet, not expecting to be able to see...
+
+[MSG$013616,33]
+Of course, I can't see a thing...
+
+[MSG$013664,73]
+Bracing myself, I reach down and grab whatever it is that's on the floor.
+
+[MSG$0136BA,8]
+Crash...
+
+[MSG$0136CF,111]
+It's something solid and heavy, and suddenly something falls.. The sound of steel reverberates around the room.
+
+[MSG$01374B,13]
+Did it break?
+
+[MSG$013765,43]
+I've lost the tip of the object in my hand.
+
+[MSG$013795,32]
+I run my hands over what's left.
+
+[MSG$0137C2,25]
+Minase "It's a candle..."
+
+[MSG$0137F5,54]
+From its shape and feel, I'm sure it's a large candle.
+
+[MSG$013830,23]
+It's still a good size.
+
+[MSG$013854,60]
+So whatever had been on the tip was probably a candleholder.
+
+[MSG$01389D,101]
+I lucked out this time. Now if I can just find a light, I'll be able to use this to explore the room.
+
+[MSG$01391A,22]
+Minase "What is this?"
+
+[MSG$01394A,58]
+I try to figure out what it is by running my foot over it.
+
+[MSG$013989,85]
+It's something hard, and every time it rolls over the floor there's a clicking sound.
+
+[MSG$0139EB,59]
+I take my foot off, and reach down on the floor to feel it.
+
+[MSG$013A33,39]
+It's a long, thin. stick-shaped object.
+
+[MSG$013A5F,34]
+It feels cold. It's made of steel.
+
+[MSG$013A86,29]
+I run my hands all around it.
+
+[MSG$013AB0,31]
+Minase "It's a candleholder..."
+
+[MSG$013AE9,31]
+It was a holder for the candle.
+
+[MSG$013B15,75]
+The tip is split into 3, and there's a good-sized candle still stuck in it.
+
+[MSG$013B6D,101]
+I lucked out this time. Now if I can just find a light, I'll be able to use this to explore the room.
+
+[MSG$013BDF,55]
+Minase "I'm pretty sure there's a lighter in my bag..."
+
+[MSG$013C30,57]
+I thrust my hand inside my bag, and find a cheap lighter.
+
+[MSG$013C6E,62]
+Then I wipe the dust off the candle, and flick on the lighter.
+
+[MSG$013CB9,5]
+Flick
+
+[MSG$013CCB,5]
+Flick
+
+[MSG$013CDD,5]
+Flick
+
+[MSG$013CEF,11]
+(lights up)
+
+[MSG$013E56,59]
+I hold the lighter close to the candle, and light the wick.
+
+[MSG$013E96,96]
+It took a while, probably because it hadn't been used in so long, but I kept at it until finally
+
+[MSG$013EFB,47]
+|the wax began to melt, and the candle was lit.
+
+[MSG$013F37,60]
+The flame was weak at first, but gradually it grew stronger.
+
+[MSG$013F80,80]
+I waited until I was sure it wouldn't go out, then held it up to light the room.
+
+[MSG$013FDD,116]
+The light from a single candle wasn't really enough to light the whole e room, but it was still better than nothing.
+
+[MSG$01405E,61]
+Finally, the light from the candle drove away the darkness...
+
+[MSG$0140A0,53]
+And gradually I was able to see the rest of the room.
+
+[MSG$0140DA,27]
+Sealed away 12 years ago...
+
+[MSG$0140FA,58]
+The truth I had been looking for was now before my eyes...
+
+[MSG$0141B9,38]
+Minase "What...what the hell is this?"
+
+[MSG$0141F9,40]
+I was speechless at the sight before me.
+
+[MSG$01422E,23]
+Such a bizarre scene...
+
+[MSG$01424A,102]
+The amber light from the candle revealed a scene that was straight out of a low-budget occult movie...
+
+[MSG$0142BD,62]
+And it was sight far more terrible than any rumor I'd heard...
+
+[MSG$014308,36]
+A room measuring 10m on each side...
+
+[MSG$014331,67]
+An eerie room that could only be a ''storage room'' in name only...
+
+[MSG$014379,29]
+The vestiges of a ceremony...
+
+[MSG$01439B,62]
+Undoubtedly, the vestiges of the ceremony held 12 years ago...
+
+[MSG$0143E6,25]
+Left completely intact...
+
+[MSG$01440C,38]
+Minase "What kind of a joke is this?!"
+
+[MSG$01444C,40]
+It was too elaborate to be a mere prank.
+
+[MSG$014481,119]
+Candle in hand, I stumble around the room. The thick dust that had collected on the floor is disturbed by my footsteps.
+
+[MSG$0144FD,116]
+Underneath the dust, I can see mysterious diagrams and words written in white paint or something on the black floor,
+
+[MSG$01457E,16]
+A huge circle...
+
+[MSG$014593,66]
+And a cross, which seemed to be dividing the circle in sections...
+
+[MSG$0145DA,48]
+Cryptic words scattered all over this diagram...
+
+[MSG$014617,73]
+And next to the circle, there's another diagram: a triangle and a circle.
+
+[MSG$01466D,42]
+Could this be what they called a talisman?
+
+[MSG$0146A4,56]
+There were numerous candles surrounding this talisman...
+
+[MSG$0146E9,62]
+At the end of the room I can see that an altar has been built.
+
+[MSG$014734,80]
+A closer look shows me that it's a simple altar, just a sofa covered in a cloth.
+
+[MSG$014789,64]
+Around the altar, incense and metal urns are scattered untidily.
+
+[MSG$0147D6,84]
+But what makes this room really creepy is the eerie stains on the walls and ceiling.
+
+[MSG$014837,52]
+These stains decorate the room almost geometrically.
+
+[MSG$014870,88]
+I couldn't see any on the black floor, but I'm sure it's just that they don't stand out.
+
+[MSG$0148D5,71]
+I walk carefully through the room, trying not to tread on the talisman.
+
+[MSG$014929,48]
+Without thinking, I pick up the cup on the desk.
+
+[MSG$01495E,115]
+Inside I can see some kind of liquid that's solidified and turned black. As soon as I see this, I put the cup down.
+
+[MSG$0149DE,109]
+As I explore the room, I find other things on the floor among the candlesticks, like a long saber and knives.
+
+[MSG$014A50,42]
+Did they use these things in the ceremony?
+
+[MSG$014A87,57]
+I can't even imagine what could have happened that day...
+
+[MSG$014AC5,45]
+No, I'm too scared to even try to imagine it.
+
+[MSG$014AFF,74]
+Minase "So the rumor about what happened 12 years ago...it was true, huh?"
+
+[MSG$014B63,15]
+I am terrified.
+
+[MSG$014B77,97]
+The scene before my eyes...there's no question that it speaks of what happened here 12 years ago.
+
+[MSG$014BE5,86]
+Just like the rumor...no, it's so realistic it tosses that rumor right out the window.
+
+[MSG$014C40,95]
+The room anyone would imagine after hearing that rumor...here it was, recreated before my eyes.
+
+[MSG$014CAC,32]
+This was some kind of sick joke.
+
+[MSG$014CD9,82]
+That's what I wanted to think, but it was too late to just brush it off like that.
+
+[MSG$014D30,69]
+Nobody could be stupid enough to go to these lengths just for a joke.
+
+[MSG$014D82,23]
+I had seen it myself...
+
+[MSG$014D9E,83]
+My intent was to prove that it was just a rumor. But I ended up discovering that it
+
+[MSG$014DF6,29]
+|was true...with my own eyes.
+
+[MSG$014E20,55]
+The eerie room and the chill in the air made me shiver.
+
+[MSG$014E5C,72]
+So I found a spot on the wall that had no stains, and leaned against it.
+
+[MSG$014EB1,25]
+Minase "What the hell..."
+
+[MSG$014EE4,44]
+Minase "I can't believe the rumor was true."
+
+[MSG$014F2A,102]
+I don't know how much of this was true. But at the very least, there really was a Black Magic Society,
+
+[MSG$014F95,76]
+and they performed some kind of ceremony here...that much seemed undeniable.
+
+[MSG$014FEE,31]
+And what exactly happened here?
+
+[MSG$015012,87]
+One thing I'm sure of is that the girls weren't killed by the Devil, as Saeki has said.
+
+[MSG$015076,62]
+I tell myself that as I look closer at the stains on the wall.
+
+[MSG$0150C1,31]
+Minase "There's just no way..."
+
+[MSG$0150FA,29]
+Suddenly I'm extremely tired.
+
+[MSG$015124,95]
+I never dreamed that a room just like the one described in that rumor would be behind the door.
+
+[MSG$015188,88]
+Even though I've just seen something totally mind-blowing, I don't want to believe that.
+
+[MSG$0151ED,67]
+I can't very well tell Saeki now that the rumor was true after all.
+
+[MSG$01523D,71]
+No, now that I've seen this, I don't even want to tell anyone about it.
+
+[MSG$015291,54]
+Now I understand why the teachers won't talk about it.
+
+[MSG$0152CC,47]
+This room is nothing to brag about to students.
+
+[MSG$015308,86]
+I wonder if the teachers who found this room locked it up because they were afraid the
+
+[MSG$015363,41]
+|students might start gossiping about it.
+
+[MSG$015391,55]
+And so they turned away from it, for years and years...
+
+[MSG$0153D5,59]
+But no, that's still no reason to keep it locked like that.
+
+[MSG$015415,77]
+If it was an eyesore, then they wouldn't have left everything the way it was.
+
+[MSG$01546F,31]
+Why would they choose to do so?
+
+[MSG$01549B,38]
+What the hell went on in here, anyway?
+
+[MSG$0154CE,16]
+Minase "Sigh..."
+
+[MSG$0154F8,16]
+I sighed deeply.
+
+[MSG$015515,65]
+If this was what was in store for me, I wish I'd never found out.
+
+[MSG$01555B,79]
+I thought I'd feel relieved to know the truth, but this was the total opposite.
+
+[MSG$0155B7,46]
+I remembered what Rika Shiraki had said to me.
+
+[MSG$0155ED,92]
+''I think rumors are interesting because they're rumors...that goes for any kind of rumor.''
+
+[MSG$015656,20]
+Minase "A rumor...?"
+
+[MSG$015684,60]
+Trying to move away from the wall, I put my hand against it.
+
+[MSG$0156C5,107]
+I wanted to leave this cursed room as soon as possible, If I stayed here any longer, I would surely go mad.
+
+[MSG$01573D,14]
+Minase "Whoa."
+
+[MSG$015765,10]
+Slither...
+
+[MSG$01577C,61]
+As I stand, I brace my hand, the one I have against the wall.
+
+[MSG$0157BE,62]
+At that moment my right hand suddenly sinks into the concrete.
+
+[MSG$015809,10]
+Slither...
+
+[MSG$015820,14]
+Minase "Whoa!"
+
+[MSG$015848,42]
+I lose balance and nearly land on my butt.
+
+[MSG$01587F,23]
+Minase "Hey, now what?"
+
+[MSG$01592C,33]
+I take a closer look at the wall.
+
+[MSG$01595A,111]
+I see that the concrete block I touched with my hand has unnaturally sunken an inch or so more than the others.
+
+[MSG$0159CE,48]
+Structural defect? Or was it just deterioration?
+
+[MSG$015A0B,36]
+Curious, I push the block some more.
+
+[MSG$015A3C,10]
+Slither...
+
+[MSG$015ACC,23]
+The block sinks deeper.
+
+[MSG$015AE8,21]
+Was it hollow inside?
+
+[MSG$015B0A,62]
+I find this bizarre, and manage to push the block to the side.
+
+[MSG$015B55,7]
+Thud...
+
+[MSG$015BF2,38]
+There's a tiny space behind the block.
+
+[MSG$015C25,37]
+But why would there be a hollow here?
+
+[MSG$015C4F,39]
+No question, it was intentionally made.
+
+[MSG$015C83,35]
+I shine the candle into the hollow.
+
+[MSG$015CAB,39]
+Now that the space is lit by my candle,
+
+[MSG$015CD7,93]
+I can see something that looks like a small square box wrapped in a white cloth or something.
+
+[MSG$015D41,31]
+Minase "What the hell is this?"
+
+[MSG$015D7A,81]
+The cloth is coiled around whatever it is...it almost looks like a big lunch box.
+
+[MSG$015DD0,26]
+What the hell could it be?
+
+[MSG$015DF7,97]
+If someone hid it in a place like this, it's got to be something they didn't want anyone to find.
+
+[MSG$015EC4,68]
+I reach for it, remove it from the hollow and hold it in both hands.
+
+[MSG$015F0D,18]
+It's pretty heavy.
+
+[MSG$015F2C,50]
+It's about 25cm lengthwise, and about 35cm high...
+
+[MSG$015F63,32]
+It's probably about 4cm thick...
+
+[MSG$015F90,41]
+I shake it, and there's a rustling sound.
+
+[MSG$015FBE,21]
+What could be inside?
+
+[MSG$015FE0,45]
+I can't really tell with the cloth over it...
+
+[MSG$01607B,37]
+Cautiously, I remove the white cloth.
+
+[MSG$0160AD,45]
+Something totally unexpected could be inside.
+
+[MSG$0160DF,70]
+If it's been hidden in this room, there's no telling what it might be,
+
+[MSG$016132,90]
+It might be wrapped around a few times...it takes a while for me to be able to see inside.
+
+[MSG$016191,103]
+Finally I'm able to catch a glimpse. Inside the white cloth, I can see something made of black leather.
+
+[MSG$016205,31]
+I unwrap the cloth some more...
+
+[MSG$016229,50]
+And at last the white cloth is removed completely.
+
+[MSG$01629C,17]
+Minase "A book?!"
+
+[MSG$0162C7,70]
+A book with sturdy leather trimmings has emerged from the white cloth.
+
+[MSG$01631A,38]
+It's a huge book, with B5-sized pages.
+
+[MSG$016345,57]
+There's some kind of white diagram on the blackish cover.
+
+[MSG$016383,42]
+A sword thrust upside-down in a hexagon...
+
+[MSG$0163BA,93]
+And there's a metal chain wrapped around the top of the book, It seems to be holding it shut.
+
+[MSG$01641C,104]
+This is a bizarre, even tacky-looking book. Definitely not something you'd find in your local bookstore.
+
+[MSG$016491,73]
+It must be really old. The leather cover is all moldy and worn in places.
+
+[MSG$0164E7,51]
+I want to look inside, so I unhook the metal chain.
+
+[MSG$01651F,27]
+And I slowly open the book.
+
+[MSG$0165C4,14]
+(Page turning)
+
+[MSG$0165DF,67]
+As I turn the thick cover, I see a strange drawing on the fly leaf.
+
+[MSG$01662F,87]
+It's drawn in black ink, and it looks even creepier in the amber light from the candle.
+
+[MSG$016693,14]
+(Page turning)
+
+[MSG$0166AE,104]
+I turn another page, and find a burned, discolored page covered all over with strange handwritten words.
+
+[MSG$016723,22]
+I turn another page...
+
+[MSG$016746,111]
+The writing seems to go on and on about something, interrupted only by the occasional weird drawing or diagram.
+
+[MSG$0167BA,39]
+Of course there's no way I can read it.
+
+[MSG$0167EE,64]
+I keep skimming through, going over each page like an automaton.
+
+[MSG$01683B,60]
+When I've skimmed through the whole thing, I close the book.
+
+[MSG$016901,16]
+Minase "Sigh..."
+
+[MSG$01692B,71]
+I glanced through the whole book, but I couldn't read any of it at all.
+
+[MSG$01697F,70]
+All I was able to grasp was that it was probably a book about magic...
+
+[MSG$0169CA,79]
+There are numerous drawings of geometric shapes...talismans drawn on the floor.
+
+[MSG$016A26,71]
+Most likely, this book was read by the people who had used this room...
+
+[MSG$016A72,96]
+And it was probably from this book that they learned about the ceremonies they carried out here.
+
+[MSG$016ADF,93]
+I could see why someone would want to believe in this book...I had no idea where they got it,
+
+[MSG$016B41,90]
+|but it sure looked a lot more convincing than any dubious book you'd find in a bookstore.
+
+[MSG$016BA8,63]
+I'd really like to know what it says, but I'm totally clueless.
+
+[MSG$016BEC,69]
+If it were at least written in Japanese I'd be able to get an idea...
+
+[MSG$016C3E,82]
+Anyhow, it definitely seems worth it to bring it home and try to make sense of it.
+
+[MSG$016C95,67]
+I'm not really sure I'll be able to read it, but at the very least,
+
+[MSG$016CDD,71]
+the ones who used this room were able to. I'll never know unless I try.
+
+[MSG$016D31,100]
+Not that I have any interest in magic or anything. But I am curious about what it says in this book.
+
+[MSG$016DA2,94]
+Something so gripping it caused those students from 12 years ago to become totally obsessed...
+
+[MSG$016E05,38]
+I was sure that was what it contained.
+
+[MSG$016E38,107]
+Not only that, but it had been kept carefully hidden all this time. Surely it had to be really important...
+
+[MSG$016EB0,96]
+And one more thing...this book just might contain clues as to what went on in here 12 years ago.
+
+[MSG$016F99,72]
+I re-wrapped the book the way I'd found it, then stuffed it into my bag.
+
+[MSG$016FE6,84]
+Thanks to the book, my bag (usually wafer-thin) looks like it's going to burst open.
+
+[MSG$017047,65]
+Then I put the block back in place, covering up the hollow space.
+
+[MSG$017095,5]
+Thump
+
+[MSG$0170A7,17]
+Minase "All set."
+
+[MSG$0170D2,50]
+I picked up my bag, now heavy because of the book.
+
+[MSG$017109,46]
+Then I blew out the candle, and left the room.
+
+[MSG$017144,10]
+Screech...
+
+[MSG$01715B,4]
+Slam
+
+[MSG$0171EA,103]
+I shut the steel door and lock it. If I had a choice, I'd never want to go into a room like that again.
+
+[MSG$017256,90]
+Still, as soon as I closed the door, I somehow sensed that I would be returning one day...
+
+[MSG$01733A,59]
+I make sure the door's locked, then race toward the stairs.
+
+[MSG$01737A,47]
+I go up the stairs, and steal into the hallway.
+
+[MSG$0173B6,12]
+Door closing
+
+[MSG$017453,79]
+I shut the door, and start walking down the hallway as if nothing had happened.
+
+[MSG$0174A7,56]
+Luckily, no one was there to notice what I'd been up to.
+
+[MSG$0174EC,90]
+I'm pretty sure no one would believe that something so bizarre was hidden in the basement.
+
+[MSG$017553,50]
+Something like that had to be seen to be believed.
+
+[MSG$01758A,31]
+A rumor is nothing but a rumor.
+
+[MSG$0175AE,89]
+People can ridicule the gossip they exchange because no one has actually seen the source.
+
+[MSG$017614,68]
+And that's because deep down inside they know that it can't be real.
+
+[MSG$01765D,113]
+...It's possible that whoever started the rumor actually did somehow happen to see that bizarre scene downstairs.
+
+[MSG$0176DB,64]
+Anyway, it would probably be best not to tell anyone what I saw.
+
+[MSG$017720,109]
+It kind of sucks that I can't tell Ito and Saeki about it, but at this point the news would only please them.
+
+[MSG$017792,35]
+It would be wiser not to tell them.
+
+[MSG$0177C2,49]
+I head toward the Faculty Room to return the key,
+
+[MSG$0177F8,77]
+I look at the clock and see that it's almost 6 PM. I'd better head home soon.
+
+[MSG$0178A3,40]
+April 20 - Hall in front of Faculty Room
+
+[MSG$01796C,55]
+Takashiro "Oh, it's you, Minase. So you're still here?"
+
+[MSG$0179BD,71]
+Just as I'm about to enter the Faculty Room, Takashiro calls out to me.
+
+[MSG$017A09,32]
+Damn. Could her timing be worse?
+
+[MSG$017A36,38]
+Minase "Yes, I'm just about to leave."
+
+[MSG$017A76,66]
+As I reply, I stick my hand in the pocket where I stashed the key.
+
+[MSG$017ABD,59]
+There would be trouble if she found out I'd taken that key.
+
+[MSG$017AFD,73]
+After all, that basement storage room is taboo among the faculty as well.
+
+[MSG$017B53,104]
+Takashiro "But you know, when I went to the Art Room, it had already been locked. That was a while ago."
+
+[MSG$017BD5,27]
+She is obviously mystified.
+
+[MSG$017BF5,14]
+This is bad...
+
+[MSG$017C10,66]
+Minase "Well, I forgot to return the key. That's why I came back."
+
+[MSG$017C6C,69]
+I tried to get out of it with the first lie that popped into my head.
+
+[MSG$017CBE,55]
+Takashiro "Oh, in that case, I'll put it away for you."
+
+[MSG$017D0F,29]
+This isn't getting out of it!
+
+[MSG$017D31,88]
+This is really bad. If she opens the box, she'll see that Art Room key is already there.
+
+[MSG$017D96,99]
+Minase "Oh, that's all right. As Vice President, I take full responsibility for returning the key."
+
+[MSG$017E13,59]
+Takashiro "Oh, are you sure? Then I'll leave it up to you."
+
+[MSG$017EE4,89]
+Takashiro still seems perturbed by my behavior, but she heads back into the Faculty Room.
+
+[MSG$017F4A,60]
+I creep through the Faculty Room to escape Takashiro's gaze.
+
+[MSG$017F8B,69]
+I hastily take the key out of my pocket and put it back into the box.
+
+[MSG$017FDD,9]
+Lid shuts
+
+[MSG$017FF3,25]
+Minase "Whew! Thank God."
+
+[MSG$018026,49]
+I sigh, close the box and leave the Faculty Room.
+
+[MSG$0180E8,75]
+I continue on to the lockers, change my shoes and leave the school grounds.
+
+[MSG$018140,68]
+I go outside and gulp in the fresh air, letting it fill up my lungs.
+
+[MSG$018191,16]
+Minase "Sigh..."
+
+[MSG$0181BB,72]
+Outside, I can see a few students on their way home after team practice.
+
+[MSG$018210,109]
+They're all straggling towards the school gates, engaged in inane chatter with their friends and teammates...
+
+[MSG$01828A,12]
+Minase "..."
+
+[MSG$0182A3,75]
+It's hard to believe that just a few minutes ago, I was in that eerie room.
+
+[MSG$0182FB,68]
+They're two totally different worlds...that room and where I am now.
+
+[MSG$018344,46]
+A place where reality and fantasy intersect...
+
+[MSG$018377,46]
+That's the perfect way to describe that place.
+
+[MSG$0183B2,24]
+Minase "I'm going home."
+
+[MSG$0183E4,34]
+I head home along with the others.
+
+[MSG$018413,102]
+I walk through the same gate as the others. On my way home tonight, my footsteps seem a lot heavier...
+
+[MSG$018486,23]
+Because my bag's heavy?
+
+[MSG$0184AA,61]
+That's right, that book of magic is right here inside my bag.
+
+[MSG$0184F4,15]
+April 20 - Home
+
+[MSG$0185E8,8]
+Click...
+
+[MSG$0185FD,20]
+Minase "I'm home..."
+
+[MSG$01862B,69]
+I enter the empty, silent house, calling out to no one in particular.
+
+[MSG$018675,55]
+It's a habit of mine, from when I lived with my family.
+
+[MSG$0186B9,42]
+I kick off my shoes, and go up to my room.
+
+[MSG$01876C,57]
+Normally I'd just toss my bag onto my bed, but not today.
+
+[MSG$0187B2,94]
+Before I toss it, I open it up, remove the cloth-wrapped Book of Magic, and set it on my desk.
+
+[MSG$01881D,49]
+Then I sit down at my desk, and remove the cloth.
+
+[MSG$01885B,71]
+I take a second look at the book, this time under fluorescent lights...
+
+[MSG$0188E2,44]
+A white hexagram drawn on the black cover...
+
+[MSG$018913,57]
+It practically shouts out that it's a book about magic...
+
+[MSG$018959,86]
+But now the book gives off a different impression than when I saw it in that dim room.
+
+[MSG$0189BC,66]
+Now that it's sitting on my desk, it sticks out like a sore thumb.
+
+[MSG$018A03,38]
+It's so incongruous next to my laptop.
+
+[MSG$018A36,54]
+It's an antique-looking book that belongs in a museum.
+
+[MSG$018A71,73]
+From the looks of the studs, it's a lot older than a mere 10 or 20 years.
+
+[MSG$018ABF,52]
+A century...no, it's probably a few centuries old...
+
+[MSG$018B00,36]
+Who on earth wrote it, and for whom?
+
+[MSG$018B29,52]
+And why did I find it in that basement storage room?
+
+[MSG$018B6A,73]
+It's a total mystery, but at any rate, here it is sitting on my desk now.
+
+[MSG$018BC0,86]
+If I could only read what was in it, I might be able to unravel some of the mystery...
+
+[MSG$018C23,38]
+I unclasp the chain and open the book.
+
+[MSG$018CCF,64]
+I turn the pages and examine the writing under the fluorescents.
+
+[MSG$018D1C,89]
+The pages have yellowed, and are stained here and there. Along with the cryptic diagrams,
+
+[MSG$018D7A,44]
+there are handwritten notes laid out neatly.
+
+[MSG$018DB3,93]
+On closer examination, I see that the pages aren't made of paper...they're made of parchment.
+
+[MSG$018E1D,98]
+Parchment, made of sheepskin, was widely used in medieval Europe for writing. I've heard that it's
+
+[MSG$018E84,86]
+|still sometimes used today, but it's not something you'll often come across in Japan.
+
+[MSG$018EE7,12]
+(Turns page)
+
+[MSG$018F00,47]
+I turn the pages and run my eyes over the text.
+
+[MSG$018F3C,40]
+Of course nothing really catches my eye.
+
+[MSG$018F69,90]
+I can see that it's written in the Roman alphabet, but I have no idea what language it is.
+
+[MSG$018FD0,78]
+All I can be sure of is that it's not English. Not that I'm fluent in English,
+
+[MSG$019023,60]
+but I'm not so dumb that I can't recognize it's not English.
+
+[MSG$019064,69]
+The words written on those pages are just a bunch of gibberish to me.
+
+[MSG$0190B6,91]
+It's probably French or something. No, it's probably a mix of a lot of different languages.
+
+[MSG$019116,78]
+Here and there I can see some words that aren't written in the Roman alphabet.
+
+[MSG$019171,12]
+(Turns page)
+
+[MSG$019187,12]
+(Turns page)
+
+[MSG$0191A0,41]
+This is not anything I can possibly read.
+
+[MSG$0191CE,100]
+If I was to try and read this with the help of a dictionary, it would take a lot of time and effort.
+
+[MSG$01923F,109]
+Whoever was the owner of this book 12 years ago must've studied like crazy, if she was able to read all this.
+
+[MSG$0192B9,12]
+(Turns page)
+
+[MSG$0192D2,60]
+I stop to examine a page with a drawing of a large talisman.
+
+[MSG$01931B,67]
+Geometric shapes...complex combinations of triangles and circles...
+
+[MSG$019363,54]
+I had no idea what any of these were supposed to mean.
+
+[MSG$0193A6,64]
+Minase "I don't think they could have any kind of power, but..."
+
+[MSG$019400,23]
+I turn some more pages.
+
+[MSG$019424,12]
+(Turns page)
+
+[MSG$01943A,12]
+(Turns page)
+
+[MSG$0194A4,76]
+I stared intently at the illustrations that were interspersed with the text.
+
+[MSG$0194F5,35]
+All of them were extremely bizarre.
+
+[MSG$019525,112]
+Abnormal acts of copulation, monstrous drawings of animals and humans...all of the illustrations were revolting.
+
+[MSG$01959A,58]
+My curiosity drove me to stare at these drawings intently.
+
+[MSG$0195E1,117]
+Each drawing illustrated what was going on in the book on that page. Even if you couldn't read the text, it was clear
+
+[MSG$01965B,37]
+|that a bizarre story was being told.
+
+[MSG$01968D,36]
+One of these drawings caught my eye.
+
+[MSG$0196BE,62]
+The first one showed a man and a woman having sex in a forest.
+
+[MSG$019709,69]
+Later, the woman disappears, and the man is stabbed through the head,
+
+[MSG$019753,99]
+the heart and his penis with a sword by a priest. The sword is decorated with an upside-down cross.
+
+[MSG$0197C3,115]
+The corpse is left where it is, and ripped apart by lions, who bury the body parts in the middle of a certain road.
+
+[MSG$019843,75]
+Then there's a full moon, and a sorcerer appears with a book under his arm.
+
+[MSG$01989B,77]
+The sorcerer draws a circle on the ground, adding a cross and secret symbols.
+
+[MSG$0198F5,56]
+Then he enters the circle, and begins to intone a spell.
+
+[MSG$01993A,69]
+At this point, the woman reappears, and tries to seduce the sorcerer.
+
+[MSG$019984,84]
+But the sorcerer refuses her advances, as he's protected by the power of the circle.
+
+[MSG$0199E5,94]
+Enraged, the woman changes herself into an ugly succubus, and bares her fangs at the sorcerer.
+
+[MSG$019A48,67]
+But this has no effect on the sorcerer, safe in the magical circle.
+
+[MSG$019A98,90]
+The sorcerer continues to chant his spell, until finally the succubus gives up and leaves.
+
+[MSG$019AFF,84]
+When the sorcerer finishes chanting, the man's body parts form a skeleton-shape, and
+
+[MSG$019B58,9]
+he rises.
+
+[MSG$019B6E,112]
+The sorcerer praises the heavens and lifts the book skyward. The skeleton flies up into the air toward the moon,
+
+[MSG$019BEB,56]
+After I've seen this drawing, I close the book and sigh.
+
+[MSG$019CA8,48]
+Minase "So it's a spell to raise the dead, huh?"
+
+[MSG$019CF2,22]
+What a load of crap...
+
+[MSG$019D15,88]
+I don't know what grounds or for what purpose the author had for creating this book, but
+
+[MSG$019D72,58]
+|I could only conclude that he was ridiculing his readers.
+
+[MSG$019DB9,64]
+If he'd written it in good faith, then he must be pretty insane.
+
+[MSG$019DFE,88]
+There were other similar drawings throughout the book, but it was all the same nonsense.
+
+[MSG$019E63,57]
+Still, it might be rash to label it a joke just for that.
+
+[MSG$019EA1,48]
+But could there really be such a thing as magic?
+
+[MSG$019EDE,93]
+I don't believe in that kind of thing at all, but at the very least, whoever wrote this book,
+
+[MSG$019F40,68]
+and whoever used this storage room 12 years ago did believe in it...
+
+[MSG$019F91,46]
+Or was it that they just wanted to believe it?
+
+[MSG$01A050,8]
+Click...
+
+[MSG$01A065,17]
+Voice "I'm home!"
+
+[MSG$01A090,63]
+I hear the door open. Then I hear a familiar voice calling out.
+
+[MSG$01A0DC,15]
+It's my sister.
+
+[MSG$01A0F8,62]
+I was so engrossed with this book, I lost track of the time...
+
+[MSG$01A143,8]
+Click...
+
+[MSG$01A18A,32]
+Yukiko "Hey, I said I was home!"
+
+[MSG$01A1C4,61]
+Yukiko "If you're here, the least you could do is answer me!"
+
+[MSG$01A21B,51]
+My big sister opens the door to my room and enters.
+
+[MSG$01A253,25]
+She could at least knock!
+
+[MSG$01A279,28]
+Yukiko "What are you doing?"
+
+[MSG$01A2AF,111]
+Yukiko "Well, well! You're actually studying for once, I'm impressed! Maybe I shouldn't disturb you like this."
+
+[MSG$01A3B4,39]
+My sister peers at the book on my desk.
+
+[MSG$01A3E0,91]
+It's too late for me to hide it, so I let her look. I know my sister...if I try to hide it,
+
+[MSG$01A440,33]
+she'll do anything to get a look.
+
+[MSG$01A4E7,13]
+Yukiko "Huh?"
+
+[MSG$01A50E,66]
+Yukiko "Hey, what's this? They're making you guys take Latin now?"
+
+[MSG$01A56B,21]
+Minase "Yeah, right."
+
+[MSG$01A59A,47]
+Yukiko "I know! I was only kidding, of course."
+
+[MSG$01A5E3,78]
+Yukiko "But where'd you get this book? It really is in crappy condition, huh?"
+
+[MSG$01A64B,55]
+Minase "Oh, this? I just borrowed it from school, see."
+
+[MSG$01A69C,52]
+Yukiko "And you're gonna tell me you can read this?"
+
+[MSG$01A6EA,85]
+Yukiko "Oh, you don't have to answer that. I know it's way beyond your feeble brain."
+
+[MSG$01A759,5]
+Grrr!
+
+[MSG$01A76B,44]
+Minase "I suppose YOU can read it yourself!"
+
+[MSG$01A7B1,97]
+My sister was a French Lit major, and has a good grasp of French and English and other languages.
+
+[MSG$01A817,82]
+But that's just what she says...I'm not sure how much of a linguist she really is.
+
+[MSG$01A876,27]
+Yukiko "Oh, piece of cake!"
+
+[MSG$01A8AB,38]
+My sister thumps herself on the chest.
+
+[MSG$01A8D6,44]
+Those huge breasts she's so proud of jiggle.
+
+[MSG$01A907,30]
+I have my doubts about this...
+
+[MSG$01A932,41]
+Yukiko "Here, just show your big sister."
+
+[MSG$01A975,49]
+My sister shoves me out of the way and sits down.
+
+[MSG$01AA43,29]
+Yukiko "Let's have a look..."
+
+[MSG$01AA7A,62]
+My sister flips through the pages and scans the lines of text.
+
+[MSG$01AAC5,70]
+Yukiko "What kind of a book is this? Is this religious, or something?"
+
+[MSG$01AB25,43]
+Minase "How would I know? I can't read it!"
+
+[MSG$01AB6A,65]
+That's what I tell her. I'm not going to let on it's about magic.
+
+[MSG$01ABB8,43]
+Yukiko "You're right, Stupid of me to ask."
+
+[MSG$01ABFD,63]
+Yukiko "There are a lot of religious quotes all over this book.
+
+[MSG$01AC41,45]
+There are some passages from the Gospel, too.
+
+[MSG$01AC89,38]
+My sister continues to turn the pages.
+
+[MSG$01ACBC,60]
+Yukiko "Also, it's written in a lot of different languages."
+
+[MSG$01AD12,65]
+Yukiko "It's mostly Latin and French...there's some Hebrew, too."
+
+[MSG$01AD6D,81]
+Yukiko "And there are some I can't read....Greek...and I think this is Gaelic..."
+
+[MSG$01ADD8,56]
+My sister mutters to herself as she looks over the book.
+
+[MSG$01AE1D,53]
+Minase "Never mind all that, just read it, will you?"
+
+[MSG$01AE6C,35]
+Yukiko "You make it sound so easy!"
+
+[MSG$01AEA9,42]
+She stops turning pages when she hears me.
+
+[MSG$01AEE0,62]
+Minase "Come on, you just told me it would be easy for you..."
+
+[MSG$01AF38,69]
+Yukiko "I'm not going to read it at all if you're going to complain."
+
+[MSG$01AF97,52]
+Minase "I'm sorry, please, will you read it for me?"
+
+[MSG$01AFE5,31]
+I demeaned myself to my sister.
+
+[MSG$01B009,67]
+If I got on her bad side, there's no telling what she'd make me do.
+
+[MSG$01B059,91]
+Yukiko "That's better. All right, I'm going to read this for you, my ignorant kid brother."
+
+[MSG$01B0CE,56]
+She goes back to the first page, and stares at the text.
+
+[MSG$01B113,24]
+Yukiko "It's in French."
+
+[MSG$01B146,77]
+Yukiko "It's a difficult phrase. But of course, it's a piece of cake for me."
+
+[MSG$01B1AD,75]
+Yeah, tell me about it, after you failed your entrance exam the first time!
+
+[MSG$01B205,37]
+Yukiko "Ready? I'm going to read it!"
+
+[MSG$01B244,59]
+My sister starts translating as she reads, taking her time.
+
+[MSG$01B284,33]
+This is what the first line says:
+
+[MSG$01B2B2,69]
+''Gremoire du constitutions avec un recveil des plus reres secrets.''
+
+[MSG$01B304,82]
+Yukiko "This is the great Grimoire, containing the rarest secrets in the world..."
+
+[MSG$01B370,45]
+Yukiko "Ha, ha, ha! So it's a Book of Magic!"
+
+[MSG$01B3B7,49]
+Minase "Never mind! Just keep reading, will you?"
+
+[MSG$01B402,28]
+Yukiko "Hey, don't rush me."
+
+[MSG$01B438,73]
+The next passage was long, and it took my sister a while to translate it.
+
+[MSG$01B48E,105]
+Yukiko "The great laws of magic. Here you shall find secret chants for the Holy Spirits of the Darkness."
+
+[MSG$01B511,90]
+Yukiko "The throne of the Apostles shall be assumed by the one who has been entrusted with
+
+[MSG$01B570,34]
+|the key to the Kingdom of Heaven,
+
+[MSG$01B597,118]
+|in the words of the Lord Jesus Christ to Saint Peter, ''I shall entrust thee with the key to the Kingdom of Heaven,''
+
+[MSG$01B612,84]
+and he alone shall have the power to command the Lord of Darkness and his servants."
+
+[MSG$01B681,93]
+Yukiko "And they shall be his servants also, and shall bring him honor and glory and worship.
+
+[MSG$01B6E3,91]
+Again in accordance with the Lord Jesus Christ's words, ''Thou shalt serve only one God.''"
+
+[MSG$01B758,86]
+Yukiko "By the power of the key to the Church, thou shalt become the ruler of Hell..."
+
+[MSG$01B7C9,22]
+Yukiko "What IS this?"
+
+[MSG$01B7F9,39]
+My sister tilts her head after reading.
+
+[MSG$01B82D,45]
+I had no idea myself what that was all about.
+
+[MSG$01B867,14]
+(Page turning)
+
+[MSG$01B882,25]
+My sister turns the page.
+
+[MSG$01B8A8,48]
+Yukiko "The next part is about Prayer, it says."
+
+[MSG$01B8F3,109]
+Yukiko "We pray that this book shall serve all those who read it and pray for the success of their endeavors,
+
+[MSG$01B965,27]
+and that it benefits them."
+
+[MSG$01B99A,80]
+Yukiko "By the blood of the Lord Jesus Christ with which we fill our daily cups,
+
+[MSG$01B9EF,47]
+we pray that this book serves all who read it."
+
+[MSG$01BA38,83]
+Yukiko "In the name of the Father, the Son, and the Holy Ghost, thou art purified."
+
+[MSG$01BAA5,86]
+Yukiko "After assuming the role of the ruler of Hell, thou are purified by the Father,
+
+[MSG$01BB00,33]
+the Son, and the Holy Ghost...??"
+
+[MSG$01BB26,21]
+It's backwards, huh?"
+
+[MSG$01BB56,94]
+Yukiko "The style of writing is similar to the Gospel, but what it says is the total opposite.
+
+[MSG$01BBB9,29]
+Jesus would never use magic!"
+
+[MSG$01BBF0,14]
+(page turning)
+
+[MSG$01BC0B,115]
+Yukiko "The next page is a list of what's in the book...a table of contents. There's all these ridiculous words..."
+
+[MSG$01BC98,60]
+Yukiko "All Spells...Summoning Demons...Raising the Dead..."
+
+[MSG$01BCEE,43]
+My sister starts reading the list out loud.
+
+[MSG$01BD26,91]
+Like the illustrations in the book, none of the spells sounded like they would really work.
+
+[MSG$01BD8E,57]
+Yukiko "A spell to cause a young woman to dance naked..."
+
+[MSG$01BDE1,39]
+Minase "Hey, try translating that one."
+
+[MSG$01BE22,45]
+When she hears this, my sister stops reading.
+
+[MSG$01BE5C,19]
+Yukiko "Which one?"
+
+[MSG$01BE89,72]
+Minase "You know, the one you just read, something about being naked..."
+
+[MSG$01BEEB,72]
+My sister looks exasperated and glares at me from the corner of her eye.
+
+[MSG$01BFC9,42]
+Yukiko "Why you little piss of a pervert!"
+
+[MSG$01C01E,4]
+BAM!
+
+[MSG$01C0B3,12]
+Minase "OW!"
+
+[MSG$01C0D9,58]
+My sister has slammed me in the back as hard as she could.
+
+[MSG$01C120,31]
+Minase "Go easy on me, dammit."
+
+[MSG$01C159,32]
+Yukiko "Why you little PERVERT."
+
+[MSG$01C193,5]
+Grrr!
+
+[MSG$01C1A5,19]
+Minase "Forget it!"
+
+[MSG$01C1D2,100]
+Yukiko "Now, now...Since it's for my darling little brother, I'll be happy to translate it for you."
+
+[MSG$01C250,14]
+Minase "....."
+
+[MSG$01C26B,94]
+Yukiko "All right, then, I'm going to read it to you now. Keep your ears peeled, Pervert-boy."
+
+[MSG$01C2E3,108]
+Minase "Enough of that! I only chose that one because I thought you might as well do something interesting."
+
+[MSG$01C390,70]
+My sister opens the book to the page I'd requested and begins to read.
+
+[MSG$01C3E3,112]
+Yukiko "First, you write the first letter of the woman's name in your own blood on a piece of unused parchment."
+
+[MSG$01C46E,109]
+Yukiko "Next, you wrap the parchment around a rock, and place the rock on top of the manuscript for the Mass.
+
+[MSG$01C4E0,35]
+And then recite the Lord's Prayer."
+
+[MSG$01C51E,80]
+Yukiko "Then you fill the door this woman's supposed to go through with stones."
+
+[MSG$01C588,92]
+Yukiko "And this woman will go mad. When you witness her dancing naked in a depraved manner,
+
+[MSG$01C5E9,53]
+you must look on her not with envy, but with pity..."
+
+[MSG$01C638,38]
+Yukiko "There's a warning at the end."
+
+[MSG$01C678,80]
+Yukiko "But bear this in mind...this is not for the faint of heart...Hear that?"
+
+[MSG$01C6E2,75]
+Yukiko "It doesn't say it's not for the young and depraved...Good for you!"
+
+[MSG$01C747,35]
+Minase "Oh, why don't you shut up!"
+
+[MSG$01C784,74]
+Yukiko "But it's hard to believe something like this would actually work."
+
+[MSG$01C7E8,78]
+Yukiko "Anyone who believes what this book says has to be retarded. A retard!"
+
+[MSG$01C850,39]
+So saying, my sister stares hard at me.
+
+[MSG$01C884,103]
+Yukiko "But really, I don't know how you were able to get your hands on an idiotic book like this one."
+
+[MSG$01C905,41]
+Yukiko "And when was it written, anyway?"
+
+[MSG$01C948,60]
+My sister skims through the pages of the book as she speaks.
+
+[MSG$01C991,80]
+Yukiko "I've never seen old photos like these, even at the grad school library."
+
+[MSG$01C9FB,102]
+Yukiko "And I don't know who wrote this, but I can't believe anyone would write such ridiculous crap!"
+
+[MSG$01CA7B,80]
+Yukiko "Listen, you. Don't tell me you're thinking of trying this out yourself!"
+
+[MSG$01CAE5,53]
+My sister fixes her cold gaze on me as she says this.
+
+[MSG$01CB27,31]
+Minase "None of your business!"
+
+[MSG$01CB60,106]
+Yukiko "I know you're my kid brother but I'm ashamed of you. To think you'd take this nonsense seriously!"
+
+[MSG$01CBE4,117]
+Yukiko "If you're so anxious to see someone dancing in the nude...Well, then, why don't I dance in the nude for you?"
+
+[MSG$01CD19,66]
+My sister grabs herself by her large breasts and shows them to me.
+
+[MSG$01CD68,38]
+Minase "I have no desire to see that."
+
+[MSG$01CDA8,22]
+I turn my back on her.
+
+[MSG$01CDCB,28]
+Yukiko "There you go, look!"
+
+[MSG$01CE01,77]
+My sister starts kneading her breasts, and brings them both close to my face.
+
+[MSG$01CE5B,12]
+Minase "..."
+
+[MSG$01CE74,68]
+My sister gets carried away and plops her breasts on top of my head.
+
+[MSG$01CEC5,23]
+Jiggle jiggle jiggle...
+
+[MSG$01CEE9,56]
+Yukiko "There! How do you like that? Does it feel good?"
+
+[MSG$01CF3B,16]
+Minase "......."
+
+[MSG$01CF58,25]
+Jiggle, jiggle, jiggle...
+
+[MSG$01CF7E,35]
+Minase "Come on! Get away from me!"
+
+[MSG$01CFBB,98]
+I'm getting tired of my sister making fun of me, so I push her away and steer her toward the door,
+
+[MSG$01D02A,27]
+Yukiko "Are you mad at me?"
+
+[MSG$01D05F,25]
+Minase "No! But get out!"
+
+[MSG$01D092,73]
+I shove my sister out the door. She smirks as she steps into the hallway.
+
+[MSG$01D0E8,118]
+Yukiko "It's all right to read that obscene book, but don't do anything that'll get you arrested, you little pervert."
+
+[MSG$01D178,31]
+Minase "Just get the hell out!"
+
+[MSG$01D1D5,6]
+Thump!
+
+[MSG$01D1E8,66]
+I throw a pillow at her, which hits the door just as she shuts it.
+
+[MSG$01D237,39]
+For chrissake, she can be such a bitch!
+
+[MSG$01D263,40]
+I'm furious as I flop back into my seat.
+
+[MSG$01D31D,61]
+Minase "A spell that causes young women to dance naked, huh?"
+
+[MSG$01D374,39]
+What kind of a barbaric spell was that?
+
+[MSG$01D3A8,92]
+I know magic books are supposed to be dubious, but who knew that stuff could be so blatantly
+
+[MSG$01D409,36]
+|indecent? It was almost refreshing.
+
+[MSG$01D43A,68]
+But could such an obviously fraudulent spell have any actual effect?
+
+[MSG$01D48B,78]
+Why would a book that quoted the bible and Jesus also include obscene content?
+
+[MSG$01D4E6,41]
+Whatever...I'd never know unless I tried.
+
+[MSG$01D51C,114]
+I mean, I have the book right here in front of me. It wouldn't hurt to just give it one try. And if it was a fake,
+
+[MSG$01D593,40]
+then I'd be able to put my mind at rest.
+
+[MSG$01D5C8,57]
+Minase "Why don't I just try it once for the hell of it?"
+
+[MSG$01D61B,13]
+Turning pages
+
+[MSG$01D635,58]
+I open the book to the page that has what I'm looking for.
+
+[MSG$01D674,76]
+Okay, I've decided to test it, so now I have to pick a someone to use it on.
+
+[MSG$01D6CD,26]
+Minase "Who should I use?"
+
+[MSG$01D701,76]
+Even though I know it couldn't possibly work, I find myself getting excited.
+
+[MSG$01D752,16]
+Dancing naked...
+
+[MSG$01D767,64]
+If such a convenient spell existed, who wouldn't want to use it?
+
+[MSG$01D7B4,118]
+If I'm going to do this at all, I might as well use someone hot, or else there wouldn't be as much to look forward to.
+
+[MSG$01D82F,45]
+It's just a game, anyway...I should aim high.
+
+[MSG$01D869,55]
+But just in case, I'd better exempt people close to me.
+
+[MSG$01D8A5,72]
+Of course I doubt anything will happen, but it's better to play it safe.
+
+[MSG$01D8FA,21]
+So, who should it be?
+
+[MSG$01DB67,17]
+What about Imari?
+
+[MSG$01DB7D,102]
+No, I shouldn't try something like this on her. And in her own way, she does look out for me everyday.
+
+[MSG$01DBF0,45]
+Besides, I have no desire to see Imari naked.
+
+[MSG$01DC22,49]
+What would be the point of seeing her flat chest?
+
+[MSG$01DC58,52]
+And besides, we used to take baths together as kids.
+
+[MSG$01DC99,32]
+Even if I saw her breasts now...
+
+[MSG$01DCC6,62]
+Yeah, I guess I do want to get a look at her naked now, too...
+
+[MSG$01DD09,37]
+After all, she's got an adult body...
+
+[MSG$01DD3B,23]
+Jiggle jiggle jiggle...
+
+[MSG$01DD5F,9]
+No, wait.
+
+[MSG$01DD6D,82]
+Think about it...if Imari did suddenly start dancing naked in some public place...
+
+[MSG$01DDC4,47]
+...then she'd definitely be exposed as a freak.
+
+[MSG$01DE00,98]
+And as the childhood friend of this freak, as well as being the one she looks after every morning,
+
+[MSG$01DE67,55]
+then I'd be subjected to the same humiliation as Imari.
+
+[MSG$01DEAB,90]
+Every time we went outside, people would say, ''Hey, look, it's the freaky couple!'' Or...
+
+[MSG$01DF12,79]
+"They look good together, don't they? Well, sure, since they're two of a kind!"
+
+[MSG$01DF6E,91]
+''Don't get close, or you'll turn into a freak, too!'' I just know that's what they'll say.
+
+[MSG$01DFD6,83]
+And Imari and I will be thrust into the hell of a relentlessly cruel school life...
+
+[MSG$01E02E,50]
+Terrifying...just the thought of it is terrifying.
+
+[MSG$01E290,20]
+How about my sister?
+
+[MSG$01E2A9,70]
+No, if she finds out, she'll absolutely kill me, It'll be a bloodbath.
+
+[MSG$01E2FC,71]
+I mean, if I try it on her and it works, then how can she not find out?
+
+[MSG$01E350,59]
+Tremble, tremble...just thinking about it was scary enough.
+
+[MSG$01E390,76]
+My sister would be sure to pay me back 100 times over for what I did to her.
+
+[MSG$01E3E9,65]
+My sister believes in retaliating 3 times over; that's her motto.
+
+[MSG$01E42F,93]
+If in fact this spell happened to work, then she'd do something to me that was 3 times worse.
+
+[MSG$01E499,104]
+I would probably end up being my sister's slave for the rest of my life, which would be worse than hell.
+
+[MSG$01E50E,24]
+And just think about it,
+
+[MSG$01E52B,75]
+...if Yukiko did suddenly start dancing in the nude in some public place...
+
+[MSG$01E57B,47]
+...then she'd definitely be exposed as a freak.
+
+[MSG$01E5B7,63]
+And, although she was only my cousin, as a member of my family,
+
+[MSG$01E5FB,110]
+my parents and I would be shunned by society as a whole, for having the same blood in our veins as this freak,
+
+[MSG$01E676,79]
+Whenever I went out, I'd hear, ''Hey, look, he's from the Naked Family!'' Or...
+
+[MSG$01E6D2,55]
+''Maybe he's part of some weird religious cult!'' or...
+
+[MSG$01E716,57]
+''Naked jerk!'' I'm sure that's what they'd say about me.
+
+[MSG$01E75C,35]
+And this would break up the family.
+
+[MSG$01E78C,76]
+My parents would lose their jobs, bury themselves in debt and flee the city.
+
+[MSG$01E7DD,37]
+My sister would turn to prostitution,
+
+[MSG$01E807,55]
+and I myself would get hooked on some New Age religion.
+
+[MSG$01E84B,57]
+Terrifying...just the thought of all that was terrifying.
+
+[MSG$01E933,82]
+Someone not so close to me, and who had a common interest in this, would be ideal.
+
+[MSG$01E992,21]
+I can think of one...
+
+[MSG$01E9AC,9]
+Mika Ito.
+
+[MSG$01EAFE,76]
+She'd said something preposterous, that she believed in Saeki's black magic.
+
+[MSG$01EB4F,69]
+She's the one who lashed out at me today...she'd be perfect for this,
+
+[MSG$01EBA1,84]
+For me to test this magic theory...I couldn't think of a better person to try it on.
+
+[MSG$01EBFA,99]
+And since she'd be getting the chance to use her own body to find out whether magic existed or not,
+
+[MSG$01EC62,35]
+it should be an honor for her, too.
+
+[MSG$01EC92,22]
+Okay, I'd go with Ito.
+
+[MSG$01ECB5,73]
+Whether or not there really was magic, I'd still get something out of it.
+
+[MSG$01ED0B,9]
+(Giggles)
+
+[MSG$01ED21,47]
+Just thinking about it puts a smile on my face.
+
+[MSG$01ED55,22]
+It's just too perfect.
+
+[MSG$01EDAC,52]
+Minase "No, hang on. Just calm down for a second..."
+
+[MSG$01EDFA,106]
+I realized how carried away I was getting, and put an abrupt stop to this out-of-control train of thought.
+
+[MSG$01EE69,91]
+I'd let my imagination run wild, but come to think of it, why was I taking it so seriously?
+
+[MSG$01EED1,62]
+There's no such thing as magic. I was the one who'd said that.
+
+[MSG$01EF14,79]
+But here I was thinking about what was going to happen if there actually was...
+
+[MSG$01EF68,36]
+I might be the biggest moron of all.
+
+[MSG$01EF91,56]
+I'm no different than Saeki and her group of supporters.
+
+[MSG$01EFD6,106]
+Better to keep things casual. If I got my expectations up, I'd only be disappointed when nothing happened.
+
+[MSG$01F04D,39]
+At any rate, I had myself a guinea pig.
+
+[MSG$01F081,11]
+Mika Ito...
+
+[MSG$01F099,86]
+She wasn't bad-looking at all, and she was one of the more popular women in our class.
+
+[MSG$01F0F4,70]
+I'm sure all the guys would really appreciate her dancing in the nude.
+
+[MSG$01F147,113]
+No, this is strictly an experiment to find out whether or not there magic exists. The nude part was just a bonus.
+
+[MSG$01F1BD,26]
+That's what I told myself.
+
+[MSG$01F1E4,39]
+And then I remembered the storage room.
+
+[MSG$01F218,113]
+If the rumor about what happened there was true, then this book might be more powerful than anyone could imagine.
+
+[MSG$01F28E,39]
+I'm going to have to keep that in mind.
+
+[MSG$01F2C2,57]
+Now that everything's settled, I start my preparations...
+
+[MSG$01F300,89]
+Judging by the translation I'd heard, the spell itself didn't seem to be too complicated.
+
+[MSG$01F366,21]
+Minase "Let's see..."
+
+[MSG$01F395,28]
+I look at my sister's notes.
+
+[MSG$01F3BE,112]
+Minase "First, you write the first letter of the woman's name in your own blood on a piece of unused parchment."
+
+[MSG$01F448,90]
+There's no way I'd have any parchment on me, and no chance I could get my hands on some...
+
+[MSG$01F4AF,73]
+Minase "I'm just going to substitute that with an unused piece of paper."
+
+[MSG$01F512,110]
+Minase "Next, you wrap the parchment around a rock, and place the rock on top of the manuscript for the Mass."
+
+[MSG$01F59A,55]
+Manuscript for the Mass...The book must mean the bible.
+
+[MSG$01F5D6,65]
+I'm pretty sure there's a bible lying around the house somewhere.
+
+[MSG$01F61C,73]
+Judging by the content of the Book of Magic, the New Testament should do.
+
+[MSG$01F672,45]
+Minase "And then recite the Lord's Prayer..."
+
+[MSG$01F6BA,66]
+Lord's Prayer? There's one in the book, but it's written in Latin.
+
+[MSG$01F701,78]
+Oh well, even if I don't understand what it says, I can just read it out loud.
+
+[MSG$01F75C,81]
+Minase "Next, I have to bury the stone under a door the woman will pass through."
+
+[MSG$01F7C7,90]
+It's easier than I thought...If that's all you needed to do to get a woman to dance naked,
+
+[MSG$01F826,45]
+then there would be no need for strip joints.
+
+[MSG$01F860,76]
+Minase "Finally, bury the stone under a door the woman will pass through..."
+
+[MSG$01F8C6,104]
+Door? I don't know where Ito lives. I can probably find out her address if I look at the class register.
+
+[MSG$01F933,104]
+But it just has to be any door, so the school would be the best place, since she's sure to pass through.
+
+[MSG$01FA30,81]
+A few minutes later, I had everything I needed for the spell laid out on my desk.
+
+[MSG$01FA8E,73]
+It's not exactly what the book calls for, but I'm sure it's close enough.
+
+[MSG$01FAE4,66]
+Minase "First, write down the first letter of the woman's name..."
+
+[MSG$01FB40,77]
+I take a box cutter from my desk, press against my finger and slash sideways.
+
+[MSG$01FB9A,14]
+Minase "Ouch!"
+
+[MSG$01FBC2,42]
+There's a cut on my finger about 5mm long.
+
+[MSG$01FBF1,62]
+Small red bubbles appear on the cut, then drip down my finger.
+
+[MSG$01FC34,37]
+I catch the blood drops as they fall.
+
+[MSG$01FC66,82]
+I wrap a Band-Aid around my finger, and put a fresh piece of paper in front of me.
+
+[MSG$01FCC5,104]
+Then I dip a sharpened chopstick in the blood, and inscribe a single letter on the blank piece of paper.
+
+[MSG$01FD8B,33]
+Minase "Guess that should do it."
+
+[MSG$01FDC6,78]
+I dry the sheet, then pick up a stone I found that seems to be the right size.
+
+[MSG$01FE21,76]
+Then I wrap the sheet of paper around the stone, and drop it onto the bible.
+
+[MSG$01FEF7,32]
+Minase "The Lord's Prayer, huh?"
+
+[MSG$01FF31,31]
+I recite the words in the book.
+
+[MSG$01FF5D,42]
+Minase "Pater noster, qui es in caelis..."
+
+[MSG$01FFA1,60]
+I begin to read the long passage in a calm, mechanical tone.
+
+[MSG$01FFEA,65]
+Minase "Et ne nos inducas in tentationem, sed libera nos a malo."
+
+[MSG$020045,16]
+Minase "Amen..."
+
+[MSG$02006F,97]
+Finally I'm finished, and I'm all set. Now all I have to do is bury the stone in the proper spot.
+
+[MSG$0200DD,27]
+Minase "I'm all set to go."
+
+[MSG$02018E,43]
+Looking at the clock, I see that it's nine.
+
+[MSG$0201C6,54]
+I can go over to the school now and bury this thing...
+
+[MSG$020201,61]
+Now that I've come this far, I can't wait to see the results.
+
+[MSG$020243,87]
+According to my calculations, if I bury it now, the moment of truth will come tomorrow.
+
+[MSG$0202A7,56]
+But if nothing comes out of all this...what a rip-off...
+
+[MSG$020382,65]
+I stick the wrapped stone in my pocket and slip out of the house.
+
+[MSG$0203C8,52]
+And I rush down the dark streets towards the school.
+
+[MSG$020462,26]
+April 20 - School at Night
+
+[MSG$020518,74]
+Some 10 minutes later, I'm standing in front of the deserted school gates.
+
+[MSG$02056F,46]
+The sky is dark, and the night breeze is cold.
+
+[MSG$0205AA,46]
+The ominously silent school is in front of me.
+
+[MSG$0205DD,69]
+At this hour, there's no question that the school is locked up tight.
+
+[MSG$02062F,89]
+It's pitch dark inside as well. All I can see are the emergency lights along the hallway.
+
+[MSG$02068D,48]
+The faculty room appears to be deserted as well.
+
+[MSG$0206CA,67]
+I make sure no one's around to see me, and climb up the black gate.
+
+[MSG$02071A,20]
+Minase "Here we go."
+
+[MSG$020748,8]
+Thump...
+
+[MSG$020763,74]
+Some 10 minutes later, I'm standing in front of the deserted school gates.
+
+[MSG$0207BA,46]
+The ominously silent school is in front of me.
+
+[MSG$0207ED,69]
+At this hour, there's no question that the school is locked up tight.
+
+[MSG$02083F,89]
+It's pitch dark inside as well. All I can see are the emergency lights along the hallway.
+
+[MSG$02089D,83]
+But the gates are still open; maybe that means someone's still in the Faculty Room.
+
+[MSG$0208FD,65]
+I make sure no one's around to see me, and walk through the gate.
+
+[MSG$0209C7,60]
+I climb over the wall and land safely on the school grounds.
+
+[MSG$020A10,56]
+There's something different about being here at night...
+
+[MSG$020A4D,75]
+There's a cold breeze in the deserted schoolyard, and I feel it on my face.
+
+[MSG$020AA5,58]
+The school building looks almost like a huge gravestone...
+
+[MSG$020AE4,46]
+And I'll be the only one walking through it...
+
+[MSG$020B1F,21]
+Minase "All right..."
+
+[MSG$020B96,57]
+Somewhere she'll have to pass to get into the building...
+
+[MSG$020BD4,48]
+And somewhere I'll be able to bury this stone...
+
+[MSG$020C09,28]
+Where would be a good place?
+
+[MSG$020C32,45]
+There's nowhere I can dig a hole around here.
+
+[MSG$020C64,25]
+There's only one place...
+
+[MSG$020C8A,52]
+I'm pretty sure I can do it in front of the lockers.
+
+[MSG$020D01,58]
+It has to be a place where she'll be sure to pass through.
+
+[MSG$020D48,108]
+She'll definitely have to pass through the school gate, but there's no place to bury the stone around there.
+
+[MSG$020DC1,39]
+Where else is she sure to walk through?
+
+[MSG$020E6F,41]
+April 20 - Ground in front of the lockers
+
+[MSG$020F18,33]
+I arrive in front of the lockers.
+
+[MSG$020F46,87]
+I look down at the ground, I'm sure I can dig a hole there, but not with just my hands.
+
+[MSG$020FAA,72]
+I squat down and start scratching out a hole with a stick I find nearby.
+
+[MSG$020FF7,63]
+I choose a spot near the entrance to the lockers for our class.
+
+[MSG$021043,7]
+Digging
+
+[MSG$021057,48]
+Minase "I don't know what the hell I'm doing..."
+
+[MSG$0210A1,87]
+Minase "Damn...if nothing comes of all this labor, it's going to be that book's fault!"
+
+[MSG$021112,76]
+I go on muttering like this as I continue to scratch a hole into the ground.
+
+[MSG$021163,75]
+At last I have a hole the stone can fit in. I dump the stone into the hole.
+
+[MSG$0211BB,49]
+I cover it up with dirt so no one will ever know.
+
+[MSG$0211F1,87]
+Once the hole's completely hidden, I stomp all over it so it'll be totally camouflaged.
+
+[MSG$02124D,37]
+I'm sure nobody will ever notice now.
+
+[MSG$02127F,78]
+Now I just have to wait for tomorrow. All I can do now is just watch silently.
+
+[MSG$0212DA,108]
+I dust the dirt off my hands, then leave the school grounds just as I came, climbing over the school gate...
+
+[MSG$0213A4,21]
+April 20 - Night/Home
+
+[MSG$021457,75]
+By the time I get home, have a late dinner, and take a bath, it's midnight.
+
+[MSG$0214AF,37]
+Minase "I should get some sleep now."
+
+[MSG$0214EE,76]
+I close the book, which I'd left open on my desk. Then I turn out the light.
+
+[MSG$021547,43]
+I slide into bed, and think about tomorrow.
+
+[MSG$02157F,74]
+A lot of things happened today, but now all I can think about is tomorrow.
+
+[MSG$0215CE,103]
+Not that I believe in this magic business, but I'd be lying if I told you I wasn't expecting something.
+
+[MSG$021642,45]
+All my questions will be answered tomorrow...
+
+[MSG$02167C,9]
+.........
+
+[MSG$021692,6]
+......
+
+[MSG$0216A5,3]
+...

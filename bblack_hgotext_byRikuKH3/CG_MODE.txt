@@ -1,0 +1,55 @@
+﻿#Size=2670
+
+[MSG$00019D,20]
+Bible Black CG mode.
+
+[MSG$0001D2,12]
+View main CG
+
+[MSG$000244,20]
+Bible Black CG mode.
+
+[MSG$000279,7]
+main CG
+
+[MSG$000550,20]
+Bible Black CG mode.
+
+[MSG$000585,16]
+Character images
+
+[MSG$000691,20]
+Bible Black CG mode.
+
+[MSG$0006C6,6]
+Scenes
+
+[MSG$0007AC,24]
+Bible Black CG mode menu
+
+[MSG$0007D0,45]
+You can view any images unlocked in the game.
+
+[MSG$000809,55]
+You can view character images you unlocked in the game.
+
+[MSG$00084C,45]
+You can view scenes you unlocked in the game.
+
+[MSG$000885,22]
+Return to Extras Menu?
+
+[MSG$0008A2,12]
+View main CG
+
+[MSG$0008CB,21]
+View character images
+
+[MSG$0008FD,11]
+View scenes
+
+[MSG$000925,21]
+Return to Extras Menu
+
+[MSG$000985,24]
+Bible Black CG mode menu

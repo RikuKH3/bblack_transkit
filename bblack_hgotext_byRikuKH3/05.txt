@@ -1,0 +1,7006 @@
+﻿#Size=180604
+
+[MSG$000150,2]
+Не
+
+[MSG$00016F,3]
+Ага
+
+[MSG$000197,37]
+Make him run through the school naked
+
+[MSG$0001D9,41]
+Humiliate him in front of the school gate
+
+[MSG$000227,20]
+Go the basement room
+
+[MSG$000260,26]
+Wake her up more violently
+
+[MSG$000297,31]
+Play a prank to get back at her
+
+[MSG$0002DB,17]
+Give in to Kitami
+
+[MSG$000309,13]
+Reject Kitami
+
+[MSG$00033B,19]
+Have her swallow it
+
+[MSG$00036B,17]
+Come all over her
+
+[MSG$0003A1,17]
+Give in to Kitami
+
+[MSG$0003CF,13]
+Ignore Kitami
+
+[MSG$0003F9,13]
+Turn her down
+
+[MSG$00056E,18]
+April 24 - Morning
+
+[MSG$00064E,18]
+Imari "Wake up..."
+
+[MSG$00067A,23]
+Imari "It's morning..."
+
+[MSG$0006AB,63]
+Imari "Jeez, why does it have to be this way every single day?"
+
+[MSG$000704,37]
+Imari "Come on, get up this instant!"
+
+[MSG$000743,25]
+Rustle, rustle, rustle...
+
+[MSG$0007F9,43]
+Imari "Oh, man...I guess I have no choice."
+
+[MSG$00083E,52]
+Imari rummages under the bed and picks something up.
+
+[MSG$00087F,19]
+Imari "Here it is!"
+
+[MSG$0008AC,29]
+What was under the bed again?
+
+[MSG$0008D6,57]
+Imari "I'd better be careful not to mess up this time..."
+
+[MSG$000929,102]
+Imari "Let's see, since you're supposed to turn it in opposite direction of the screws, that means..."
+
+[MSG$0009A9,82]
+Muttering all the while, Imari slips something around my leg, just like yesterday.
+
+[MSG$000AA3,9]
+Ghaaa...!
+
+[MSG$000AB9,46]
+Instantly I shove away my blanket and jump up.
+
+[MSG$000AF4,37]
+Minase "What the hell are you doing?"
+
+[MSG$000B33,12]
+Imari "Huh?"
+
+[MSG$000B59,36]
+Imari "I haven't done anything yet."
+
+[MSG$000B97,18]
+As if I'd let her!
+
+[MSG$000BB6,58]
+Besides, I can see that she's got the voltage wrong again!
+
+[MSG$000BF5,70]
+Is she one of those people who's never even used a screwdriver before?
+
+[MSG$000C48,51]
+Imari "But it's great that you got up on your own!"
+
+[MSG$000C95,83]
+If she's going to wake me up with that torture device, I'd rather not sleep at all.
+
+[MSG$000CED,68]
+I'd better hide that contraption somewhere by the end of the day....
+
+[MSG$000D3E,41]
+Imari "What an unbelievable device, huh?"
+
+[MSG$000D81,34]
+You're the one who's unbelievable!
+
+[MSG$000DB0,26]
+April 24 - Going to School
+
+[MSG$000E55,36]
+Imari and I walk to school together.
+
+[MSG$000E86,49]
+Imari "You're really popular these days, Minase."
+
+[MSG$000ED1,45]
+Imari brings up this subject all of a sudden.
+
+[MSG$000F0B,13]
+Minase "Huh?"
+
+[MSG$000F32,63]
+Imari "You're always being surrounded during every study hall."
+
+[MSG$000F8B,113]
+Come to think of it, ever since that incident with Murai, all these girls keep coming up to me during study hall,
+
+[MSG$001001,33]
+hoping I'll cast spells for them.
+
+[MSG$00102F,109]
+Needless to say, I always turn them down. I can't take all their requests or I'll never be through with them.
+
+[MSG$0010A1,60]
+Besides, I've got to avoid generating any more weird gossip.
+
+[MSG$0010EA,44]
+Minase "It's just a pain in the ass for me."
+
+[MSG$001130,43]
+Imari "Liar...you know you're enjoying it!"
+
+[MSG$001175,64]
+Imari "I don't know, you're acting pretty strange these days..."
+
+[MSG$0011CF,81]
+Imari "Always reading weird books, practicing black magic...it's really strange."
+
+[MSG$00123A,60]
+Minase "So what? It's not like I'm causing you any trouble."
+
+[MSG$001290,21]
+Imari "Yes, you are!"
+
+[MSG$0012BF,26]
+Imari "Oh, yes you are..."
+
+[MSG$0012F3,85]
+Imari "These days, it's getting harder and harder to get you out of bed, and also..."
+
+[MSG$001362,61]
+Who's she to talk? Imari's acting pretty weird herself today.
+
+[MSG$0013A4,66]
+I guess she's still holding a grudge from what happened yesterday.
+
+[MSG$0013F3,51]
+Minase "I'm guessing you've got your period today."
+
+[MSG$0014D9,4]
+Bam!
+
+[MSG$0014EA,17]
+Imari "You jerk!"
+
+[MSG$001515,54]
+Imari "The heck with you, anyway! I'm going on ahead!"
+
+[MSG$001565,28]
+With that, Imari storms off.
+
+[MSG$001586,21]
+I was only kidding...
+
+[MSG$0015A8,17]
+April 24 - Locker
+
+[MSG$001696,44]
+I happen to see Nonogusa in the locker area.
+
+[MSG$0016C7,39]
+Nonogusa notices me too and looks over.
+
+[MSG$0016FB,52]
+Nonogusa gives me a glance, then quickly looks away.
+
+[MSG$001760,29]
+It's a very awkward moment...
+
+[MSG$00178A,53]
+She might've guessed that I stole some of the photos.
+
+[MSG$0017C4,56]
+But it's too late for me to give them back to her now...
+
+[MSG$00183B,24]
+Imari "What's going on?"
+
+[MSG$00186D,17]
+Minase "Nothing."
+
+[MSG$0018D1,44]
+I happen to see Nonogusa at the locker area.
+
+[MSG$001902,39]
+Nonogusa notices me too and looks over.
+
+[MSG$001936,32]
+Nonogusa "Good morning, Minase."
+
+[MSG$001971,22]
+Minase "Good morning."
+
+[MSG$0019A1,36]
+I return Nonogusa's cheery greeting.
+
+[MSG$0019D2,36]
+Nonogusa "Thanks for the other day."
+
+[MSG$001A10,20]
+Minase "No problem."
+
+[MSG$001A62,39]
+She smiles at me and goes off to class.
+
+[MSG$001B19,24]
+Imari "What's going on?"
+
+[MSG$001B4B,98]
+Imari "Wasn't that Nonogusa? That girl you used to always pick on? Giving her horrible nicknames?"
+
+[MSG$001BC7,14]
+Minase "Yeah."
+
+[MSG$001BEF,39]
+Imari "So what happened the other day?"
+
+[MSG$001C30,68]
+Minase "She was getting picked on, so I helped her out, that's all."
+
+[MSG$001C8E,35]
+Imari "What are you talking about?"
+
+[MSG$001CCB,90]
+Imari "Hey, that reminds me, I heard Nonogusa-san's going to be the new swim team captain.
+
+[MSG$001D2A,36]
+One my friends on the team told me."
+
+[MSG$001D68,16]
+Minase "Really?"
+
+[MSG$001D92,63]
+It sounds like those photos were more effective than I thought.
+
+[MSG$001DDE,20]
+April 24 - Classroom
+
+[MSG$001E71,75]
+When I get to my classroom, there are already a few other students there...
+
+[MSG$001EC1,20]
+Saeki's one of them.
+
+[MSG$001F14,21]
+Saeki "Good morning."
+
+[MSG$001F43,49]
+Saeki greets me as if nothing happened yesterday.
+
+[MSG$001F79,47]
+So she's got her school face on at school, huh?
+
+[MSG$001FCE,54]
+Minase "Okay, why don't you give it back to me, then?"
+
+[MSG$00201E,61]
+I hold out my hand, intending to get my book back from Saeki.
+
+[MSG$002068,71]
+Saeki "Could you wait a little longer? Don't worry, I have it with me."
+
+[MSG$0020C9,19]
+Saeki taps her bag.
+
+[MSG$0020E1,25]
+True, her bag is bulging.
+
+[MSG$002107,50]
+Minase "Well, give it back by the end of the day."
+
+[MSG$002153,37]
+With that, I head toward my own seat.
+
+[MSG$00217D,85]
+What the hell, as long as she brought it with her, I'll just wait until after school.
+
+[MSG$0021E5,14]
+Minase "Okay."
+
+[MSG$00220D,64]
+I try to look as indifferent as possible, and go to my own seat.
+
+[MSG$0022B0,61]
+Murai "Hey, Minase, I want you to cast another spell for me."
+
+[MSG$002308,37]
+The second I do, Murai pounces on me.
+
+[MSG$00233A,16]
+Here it comes...
+
+[MSG$00234F,75]
+At first I liked getting all the attention, but now it's a pain in the ass.
+
+[MSG$0023A7,46]
+Minase "I just did one for you the other day."
+
+[MSG$0023EF,72]
+Murai "Well, the thing is, for a virile guy he finishes way too fast..."
+
+[MSG$002451,83]
+Murai "So I was wondering if...if you had a spell that would make him last longer."
+
+[MSG$0024BE,55]
+Murai clasps her hands together in a beseeching manner.
+
+[MSG$0024FA,90]
+What the hell does she want me to do, anyway? If he comes too fast, then tie up his prick!
+
+[MSG$002561,43]
+Minase "Sorry...I'm not in the mood today."
+
+[MSG$0025A6,101]
+I say this in a disgusted tone. Of course, I have no intention of ever casting a spell for her again.
+
+[MSG$002618,57]
+If I did as she asked, I'd soon be swamped with requests.
+
+[MSG$002656,78]
+Why the hell should I have to listen to someone bitching about their sex life?
+
+[MSG$0026E3,46]
+Murai "Whaaa? Minase, you're just being mean!"
+
+[MSG$00272B,64]
+Minase "Go ask Saeki to help you out with that kind of problem."
+
+[MSG$002785,74]
+Murai "Can't you see I'm asking you because I respect your power? Please!"
+
+[MSG$0027E9,41]
+To be blunt, it's a huge pain in the ass.
+
+[MSG$002817,47]
+I ignore Murai and put my head down on my desk.
+
+[MSG$002853,17]
+Minase "Zzzzz..."
+
+[MSG$00287E,44]
+Murai "Come on, don't pretend to be asleep!"
+
+[MSG$0028C4,12]
+Minase "..."
+
+[MSG$0028DD,16]
+Murai "Come on!"
+
+[MSG$0029F1,24]
+Eventually class starts.
+
+[MSG$002A16,39]
+.......................................
+
+[MSG$002A4A,30]
+..............................
+
+[MSG$002A75,21]
+.....................
+
+[MSG$002A97,12]
+............
+
+[MSG$002AB0,6]
+......
+
+[MSG$002AD4,16]
+April 24 - Lunch
+
+[MSG$002B6B,37]
+The bell rings and lunch hour begins.
+
+[MSG$002B9D,41]
+Girl 1 "Hey, Minase, let's eat together."
+
+[MSG$002BE0,14]
+Girl "Me too!"
+
+[MSG$002C08,79]
+Imari had been on her way to my desk with her little lunchbox in her hands, but
+
+[MSG$002C5C,69]
+she sees what's happening and goes back to her own desk, looking sad.
+
+[MSG$002CAE,36]
+Things have changed for me, somehow.
+
+[MSG$002CD7,65]
+In recent days it feels as though I've started to lose control...
+
+[MSG$002D25,89]
+These girls who've started surrounding me...you can tell they're only trying to get on my
+
+[MSG$002D83,53]
+|good side, because I've suddenly become a hot topic.
+
+[MSG$002DC5,87]
+I'll bet they're only thinking it might come in handy sometime to have me for a friend.
+
+[MSG$002E21,39]
+I'd take Imari over this bunch any day.
+
+[MSG$002E55,53]
+I take the lunch my sister made for me out of my bag.
+
+[MSG$002E8F,84]
+I see those girls dragging their chairs over to my desk, clutching their lunchboxes.
+
+[MSG$002EF0,16]
+Minase "(sighs)"
+
+[MSG$002F1A,99]
+It's not that I don't like the idea of eating with the girls. But for some reason it makes me sigh.
+
+[MSG$002F8A,5]
+Slam!
+
+[MSG$002FA4,116]
+Just then, the door slams open, shattering the lunchtime peace. A group of guys is muscling their way into the room.
+
+[MSG$003025,32]
+Instantly, the room grows quiet.
+
+[MSG$003052,57]
+These guys are part of our school's most notorious gangs.
+
+[MSG$003090,83]
+They're stereotypical delinquents, now a rare sight on co-ed campuses such as ours.
+
+[MSG$0030E8,40]
+I hear they pretty much rule the school.
+
+[MSG$00311D,54]
+Some idiot must've rubbed these jerks the wrong way...
+
+[MSG$003160,85]
+I've heard they do drugs, too. It's safer not to get involved with the likes of them.
+
+[MSG$0031BA,76]
+These thugs will pick a fight with you at the drop of a hat. On top of that,
+
+[MSG$00320B,85]
+I've heard they do drugs, too. It's safer not to get involved with the likes of them.
+
+[MSG$00326D,19]
+Thud, thud, thud...
+
+[MSG$00328D,65]
+They're headed my way, kicking aside all nearby desks and chairs.
+
+[MSG$0032DB,42]
+An arrogant guy named Inoue leads the way.
+
+[MSG$00330A,64]
+He looks pretty tough, but there's no telling if he really is...
+
+[MSG$003357,85]
+But who the hell could it be? The moron who's going to get dragged away by this gang?
+
+[MSG$003434,37]
+Inoue "Are you Minase? Come with us."
+
+[MSG$003473,22]
+Huh? They're after ME?
+
+[MSG$003496,61]
+Girl 1 "Oh, sorry, I just remembered something I have to do."
+
+[MSG$0034ED,25]
+Squeak, squeak, squeak...
+
+[MSG$003513,19]
+Girl 2 "Me, too..."
+
+[MSG$003540,25]
+Squeak, squeak, squeak...
+
+[MSG$003566,75]
+All at once, the girls who'd been surrounding me scatter in all directions.
+
+[MSG$0035B6,19]
+Like, thanks a lot!
+
+[MSG$0035D6,42]
+Minase "I think you've got the wrong guy."
+
+[MSG$00361A,37]
+I say this to Inoue in a timid voice.
+
+[MSG$003644,82]
+I don't remember ever picking a fight with them, or getting baited by them either.
+
+[MSG$0036A3,31]
+Inoue "Aren't you Taki Minase?"
+
+[MSG$0036FC,14]
+Minase "No..."
+
+[MSG$003724,16]
+I reply timidly.
+
+[MSG$003741,45]
+Inoue "Then who the hell is this Minase guy?"
+
+[MSG$003788,24]
+Minase "I don't know..."
+
+[MSG$0037BA,28]
+Desperately I avert my gaze.
+
+[MSG$0037E3,90]
+No way am I going to get away with a lame lie like that. But maybe I can stall for time...
+
+[MSG$00384A,25]
+Inoue "Then what's that?"
+
+[MSG$00387D,32]
+Inoue is staring at my lunchbox.
+
+[MSG$0038A2,58]
+The name ''Taki Minase'' is written in huge letters on it.
+
+[MSG$0038E9,7]
+Darn...
+
+[MSG$0038FD,75]
+My sister wrote that against my wishes, so no one would take it by mistake.
+
+[MSG$003955,40]
+Inoue "Are you messing with me or what?"
+
+[MSG$003997,7]
+Shit...
+
+[MSG$0039AB,22]
+Inoue "Take him away!'
+
+[MSG$0039E6,15]
+Minase "Yes..."
+
+[MSG$003A0F,18]
+I answer honestly.
+
+[MSG$003A2E,32]
+Inoue "Then there's no mistake."
+
+[MSG$003A68,28]
+I guess they are after me...
+
+[MSG$003A89,107]
+What should I do? I can't use magic to get out of this. Plus, I have no confidence when it comes to fights.
+
+[MSG$003B01,22]
+Inoue "Take him away!"
+
+[MSG$003B55,67]
+With that, the gang surrounds me and drags me out of the classroom.
+
+[MSG$003BD7,39]
+Imari "What do you think you're doing?"
+
+[MSG$003C18,15]
+April 24 - Roof
+
+[MSG$003CB2,33]
+The gang drags me up to the roof.
+
+[MSG$003D5B,58]
+Inoue "Listen, punk, do you know why we brought you here?"
+
+[MSG$003DAF,16]
+I shake my head.
+
+[MSG$003DCC,35]
+Minase "What did I ever do to you?"
+
+[MSG$003E09,64]
+I'm perfectly aware that it will do me no good to ask them that.
+
+[MSG$003E4E,37]
+Jerks like these don't need a reason.
+
+[MSG$003E80,86]
+For them, this is no more than a way to kill time, something to do when they're bored.
+
+[MSG$003EDB,41]
+But I wish I knew why they'd picked me...
+
+[MSG$003F11,64]
+Inoue "I hear you're popular with the girls these days, Minase!"
+
+[MSG$003F6B,108]
+Inoue "We've heard all the rumors. You've become the big man on campus using Black Magic, isn't that right?"
+
+[MSG$003FF1,70]
+Inoue "What are you gonna do? Summon a demon and take over the world?"
+
+[MSG$004051,43]
+The guys behind him snicker at these words.
+
+[MSG$004081,40]
+Who knew the rumors had spread this far?
+
+[MSG$0040B6,56]
+Inoue "We want you to show us, see. Show us your power!"
+
+[MSG$004108,17]
+Minase "(chokes)"
+
+[MSG$004133,45]
+Inoue "You're an eyesore...a moron like you."
+
+[MSG$00417A,74]
+Inoue "Thanks to your spells, we've been hearing all kinds of complaints."
+
+[MSG$0041DE,46]
+Inoue "What are you gonna do about that, huh?"
+
+[MSG$004226,43]
+They're talking about the Murai incident...
+
+[MSG$00425E,60]
+After Murai, I'd cast the same spell for a bunch of girls...
+
+[MSG$00429F,98]
+It's not surprising that some people would bear a grudge against me, hearing about my Black Magic.
+
+[MSG$00430E,84]
+The guy Murai was after...I'd forced him to break up with his girlfriend, after all,
+
+[MSG$004367,32]
+I'm sure she's got it in for me.
+
+[MSG$0043AF,49]
+Inoue "And besides, I can't stand guys like you."
+
+[MSG$0043FA,101]
+Inoue "Dweebs like you who get off on something like Black Magic, Just looking at you pisses me off."
+
+[MSG$004479,44]
+Inoue "Plus I'm in a really bad mood today."
+
+[MSG$0044BF,115]
+Inoue "I stepped in dog shit on my way here this morning...I got a ticket for parking my bike in front of my house,
+
+[MSG$004537,31]
+so now my license's suspended!"
+
+[MSG$004570,67]
+Inoue "And it's all because of you. So now I'm gonna make you pay!"
+
+[MSG$0045CD,34]
+What the hell is he talking about?
+
+[MSG$0045FC,76]
+Inoue "So that's the deal. Don't blame me, you only have yourself to blame!"
+
+[MSG$004668,57]
+Inoue "Also...I hear you're going out with Rika Shiraki!"
+
+[MSG$0046BB,65]
+Inoue spits this out at me with an even scarier look on his face.
+
+[MSG$004701,31]
+Where did that rumor come from?
+
+[MSG$00472D,68]
+Inoue "Someone saw you feeling Shiraki's breasts behind the school."
+
+[MSG$00478B,18]
+So someone saw us.
+
+[MSG$0047AA,49]
+Inoue "I've never even touched them yet, dammit!"
+
+[MSG$0047F5,74]
+Inoue "How dare you put your hands on the tits of our Idol...You're dead!"
+
+[MSG$004859,88]
+Inoue "I wanna massage those tits of Shiraki's too, see? Know what I'm saying, asshole?"
+
+[MSG$0048CB,48]
+Inoue's fists are trembling. He's way serious...
+
+[MSG$004908,44]
+Inoue "So how far did you get with Shiraki?"
+
+[MSG$00494E,53]
+Inoue "Don't tell me you went all the way, dickhead!"
+
+[MSG$00499D,45]
+Inoue asks me this as he cracks his knuckles.
+
+[MSG$0049CF,45]
+Depending on my answer, I could get killed...
+
+[MSG$004A09,12]
+Minase "..."
+
+[MSG$004A22,69]
+Inoue "I know you massaged her tits. Don't tell me nothing happened!"
+
+[MSG$004A81,47]
+Inoue "Tell me exactly what went down, dammit!"
+
+[MSG$004ACA,72]
+Inoue "Depending on what you tell me...you're going to be in deep shit."
+
+[MSG$004B2C,67]
+It's a threat. It's like he's telling me not to tell him the truth.
+
+[MSG$004B74,57]
+At any rate, I've got to talk my way out of this somehow.
+
+[MSG$004BBA,72]
+Inoue "I hear you two went into the storage room in the gym after that."
+
+[MSG$004C1C,7]
+Shit...
+
+[MSG$004C28,36]
+I had no idea someone had seen THAT.
+
+[MSG$004C59,50]
+Inoue "Now what were doing in there, huh, Minase?"
+
+[MSG$004CA5,69]
+Inoue "You weren't having a friendly calisthenics session, were you?"
+
+[MSG$004D04,19]
+Minase "You see..."
+
+[MSG$004D31,116]
+Inoue "Tell me the truth. No matter what you say, you signed your own death sentence when you massaged her breasts."
+
+[MSG$004DBF,22]
+Minase "Hey, come on!"
+
+[MSG$004DEF,47]
+Inoue "Tell me, dammit! Did you or didn't you?"
+
+[MSG$004E38,17]
+Minase "I...I..."
+
+[MSG$004E63,80]
+What have I got to lose now? No matter what I say, he's going to kill me anyway.
+
+[MSG$004EC0,15]
+Minase "I did."
+
+[MSG$004EE9,7]
+Snap...
+
+[MSG$004EFD,39]
+Inoue loses it when he hears my answer.
+
+[MSG$004F31,27]
+Inoue "I'm gonna kill you!"
+
+[MSG$004F66,67]
+Inoue "You bastard, I was supposed to be Rika Shiraki's first time,
+
+[MSG$004FAE,54]
+don't you know that's what I decided a long time ago?"
+
+[MSG$004FFE,33]
+Inoue "Beat the crap out of him!"
+
+[MSG$005039,37]
+All at once, the whole gang jumps me.
+
+[MSG$005100,4]
+Pow!
+
+[MSG$005111,17]
+Minase "(chokes)"
+
+[MSG$00513C,74]
+Nobody's pulling any punches, and I go flying. I'm pummeled to the ground.
+
+[MSG$00518B,55]
+Sparks are going off inside my head, and I'm in a daze.
+
+[MSG$005268,6]
+Whack!
+
+[MSG$00527B,15]
+Minase "(gags)"
+
+[MSG$0052A4,59]
+Now that I'm on the ground, I'm getting kicked mercilessly.
+
+[MSG$0052EC,45]
+Thug 1 "Don't mess with us, you little punk!"
+
+[MSG$0053CB,6]
+Whack!
+
+[MSG$0053DE,15]
+Minase "(gags)"
+
+[MSG$005407,67]
+Thug 2 "You little dweeb! Why don't you just go home and jerk off!"
+
+[MSG$0054FD,17]
+Being pummeled...
+
+[MSG$0055B0,6]
+Whack!
+
+[MSG$0055C3,97]
+I'm helpless. I have no choice but to let them pound away at me, and just try to endure the pain.
+
+[MSG$005631,59]
+Inoue "Dammit, get up, Minase! It's too early for bedtime!"
+
+[MSG$005686,38]
+With that Inoue forces me to stand up.
+
+[MSG$0056B9,94]
+Inoue "Don't think you're gonna get off with a little beating like this. We're gonna make sure
+
+[MSG$00571C,49]
+|we put you in the hospital for at least a week."
+
+[MSG$005767,51]
+Inoue smirks when he sees the suffering on my face.
+
+[MSG$00579F,42]
+He draws back his fist to strike me again.
+
+[MSG$0057D6,26]
+Imari "Stop it right now!"
+
+[MSG$00580A,57]
+All of a sudden, a voice reverberates across the rooftop.
+
+[MSG$0058AE,17]
+Minase "Imari..."
+
+[MSG$0058D9,45]
+I whisper her name when I see who just spoke.
+
+[MSG$005913,23]
+Imari's standing there.
+
+[MSG$00592F,26]
+She's glaring at the guys.
+
+[MSG$00594E,43]
+She must've come up here, worried about me.
+
+[MSG$005986,110]
+I know it's lame to have a girl stand up for me, but at this moment, there's no sweeter sight for sore eyes...
+
+[MSG$005A01,29]
+Inoue "Who the hell are you?"
+
+[MSG$005A38,105]
+Inoue shoves me aside. He stands there glaring suspiciously at this brash-looking girl who just appeared.
+
+[MSG$005AAE,29]
+Imari "That kid's classmate."
+
+[MSG$005AE5,39]
+Inoue "So what do you want, Classmate?"
+
+[MSG$005B26,54]
+Imari "3 against 1? Aren't you ashamed of yourselves?"
+
+[MSG$005B76,101]
+Inoue "Nope, it doesn't bother me at all. Anyway, I could take a guy like him on my own, no problem."
+
+[MSG$005BF5,103]
+Just listen to him...Although it's true that I don't think I have a chance against him even one-on-one.
+
+[MSG$005C61,84]
+These guys are always fighting, so someone like me must be mere clay in their hands.
+
+[MSG$005CC2,69]
+Imari "If you don't stop beating up on him, I'll take you on myself!"
+
+[MSG$005D21,70]
+Imari stands in front of the gang and makes this gallant proclamation.
+
+[MSG$005D74,82]
+I'm sure it would be a comical sight to someone who didn't know what was going on.
+
+[MSG$005DCB,59]
+3 guys against 1 girl. Plus they're way bigger than she is.
+
+[MSG$005E69,80]
+Inoue "Hey, listen! Don't think just because you're a girl that I won't hit you.
+
+[MSG$005EBE,66]
+Sorry, but I'm no feminist. I don't have a problem hitting girls."
+
+[MSG$005F1A,40]
+The guys look insulted by Imari's words.
+
+[MSG$005F47,35]
+They have no idea how tough she is.
+
+[MSG$005F77,114]
+Imari's been taking shorinji kempo lessons since she was small. My parents forced me to take lessons with her too,
+
+[MSG$005FEE,36]
+but I didn't stick with it for long.
+
+[MSG$00601F,75]
+Imari always finished what she starts, so she's been practicing ever since.
+
+[MSG$00606F,37]
+She's even won a national tournament.
+
+[MSG$0060A1,69]
+She's got what it takes to make short work of your average male thug.
+
+[MSG$0060F3,98]
+Imari "Fine by me. Besides, if you try to hold back I might really do some serious damage to you."
+
+[MSG$00616F,43]
+Inoue "Listen to you shoot off your mouth."
+
+[MSG$0061B4,64]
+Inoue "Hey, make this stupid little bitch grovel on the ground!"
+
+[MSG$00620E,29]
+Thug 1 "Just leave it to me."
+
+[MSG$006245,56]
+One of the thugs advances with a nasty leer on his face.
+
+[MSG$0062EE,50]
+Imari "Don't underestimate me because I'm a girl."
+
+[MSG$00633A,67]
+Thug 1 "No sweat, after I knock you out, I'm gonna lick your tits."
+
+[MSG$006397,69]
+He grins lewdly at Imari as he advances, fists aimed at Imari's face.
+
+[MSG$006481,6]
+Whack!
+
+[MSG$006494,69]
+Imari casually deflects his right hook with a chop of her right hand.
+
+[MSG$0064E6,91]
+Then she balls that hand into a fist, and pummels the thug in the face with blinding force.
+
+[MSG$0065E7,5]
+Slam!
+
+[MSG$0065F9,15]
+Thug 1 "Ugh..."
+
+[MSG$006646,60]
+With a sickening thud, her fist sinks into the thug's cheek.
+
+[MSG$006687,66]
+The thug covers his face with both hands, then sinks to his knees.
+
+[MSG$0066D6,31]
+Blood squirts from his fingers.
+
+[MSG$006734,28]
+Imari "What did I tell you?"
+
+[MSG$0067BB,56]
+Imari waves her right hand with a cool look on her face.
+
+[MSG$0067F8,57]
+So it's the guy who's ended up groveling on the ground...
+
+[MSG$00683E,73]
+Imari "Forgot to mention that I'm a black belt in shorinji kempo. Sorry!"
+
+[MSG$0068F7,21]
+Inoue "You little..."
+
+[MSG$006926,85]
+Seeing his crony knocked down with a single punch, Inoue begins to tremble with rage.
+
+[MSG$006988,63]
+Inoue "Shorinji kempo or not, you're still nothing but a girl."
+
+[MSG$0069E1,78]
+Inoue "We got all our training on the streets. We'll show you the difference!"
+
+[MSG$006A49,63]
+Inoue motions with his eyes, and the other guy slowly advances.
+
+[MSG$006A8D,88]
+Despite Inoue's tough talk, this thug is clearly rattled by what he just saw from Imari.
+
+[MSG$006B56,27]
+Thug 2 "Go to hell, bitch!"
+
+[MSG$006BDC,73]
+He rushes toward Imari menacingly, and unleashes a full-on kick at Imari.
+
+[MSG$006C2A,78]
+You can hear the sound of his boot slicing the air in an arc towards her body.
+
+[MSG$006C85,46]
+But at the last second, Imari dodges the blow.
+
+[MSG$006CC0,56]
+The thug's kick misses its target, and he loses balance.
+
+[MSG$006D05,102]
+Without a moment's hesitation, Imari aims a kick of her own at his side, which is wide open to attack.
+
+[MSG$006D78,91]
+Making a half-turn with her left foot, her other foot sails through the air in a clean arc,
+
+[MSG$006DD8,51]
+and she sinks her frail-looking foot into his side.
+
+[MSG$006EB0,5]
+Thud!
+
+[MSG$006EC2,12]
+Thug 2 "!!!"
+
+[MSG$006EFF,120]
+The thug doesn't even have time to yell before he goes flying through the air sideways. Soon he's rolling on the ground.
+
+[MSG$006FB6,58]
+Imari "You're so lame. What happened to all that bluster?"
+
+[MSG$00700A,42]
+Imari stands there brushing off her hands.
+
+[MSG$0070C4,11]
+Inoue "..."
+
+[MSG$0070E9,60]
+Inoue is staring in disbelief at the two guys on the ground.
+
+[MSG$007132,24]
+Inoue "What the hell..."
+
+[MSG$007164,31]
+Imari "Now there's only you..."
+
+[MSG$00719D,54]
+Imari "What's it gonna be? Do you want to take me on?"
+
+[MSG$0071ED,42]
+Imari is confident as she asks Inoue this.
+
+[MSG$00721C,43]
+Clearly, their fortunes have been reversed.
+
+[MSG$007254,50]
+Inoue "Damn right I do! I'm not backing down now!"
+
+[MSG$0072A0,59]
+Inoue "Hey, how long are you gonna stay down? Help me out!"
+
+[MSG$00734A,54]
+The first thug struggles to his feet at Inoue's words.
+
+[MSG$007385,68]
+They signal to each other with their eyes, and turn on Imari as one.
+
+[MSG$0073D6,23]
+Inoue "Take this, you!"
+
+[MSG$007458,64]
+Even though it's 2 on 1, Imari stays calm as she makes her move.
+
+[MSG$0074A5,93]
+First she sets herself for the first guy's attack, and deflects his fist. Then she blocks the
+
+[MSG$007507,51]
+|other guy's kick--from behind her-- from the knee.
+
+[MSG$007547,62]
+The sound of physical contact reverberates across the rooftop.
+
+[MSG$007592,60]
+Imari "That's really low, you know...2 guys against 1 girl."
+
+[MSG$0075E8,65]
+Having dodged their attacks, Imari falls back, still in position.
+
+[MSG$007636,76]
+Inoue "This isn't about being low or fair. All that matters is that we win."
+
+[MSG$00769C,31]
+With that, they rush her again.
+
+[MSG$0076C8,11]
+Imari "Oh?"
+
+[MSG$0076ED,52]
+That's all Imari says as she swiftly braces herself.
+
+[MSG$00772E,60]
+The two guys are rushing her from the front and from behind.
+
+[MSG$00776F,100]
+Imari sets herself to take on the frontal assault while keeping her eyes on the attacker behind her.
+
+[MSG$0077E0,40]
+The guy behind her makes his move first.
+
+[MSG$007815,99]
+Closing the gap between them in an instant, he feints a jab, then unleashes a full-on punch towards
+
+[MSG$00787D,14]
+|Imari's face,
+
+[MSG$007898,99]
+Without batting an eyelid, Imari deflects the punch with one arm, then as the guy lunges to attack,
+
+[MSG$007900,65]
+she delivers a blow to his neck putting all her weight behind it,
+
+[MSG$0079E7,51]
+It's a knockout punch. Gagging, the thug goes down.
+
+[MSG$007A74,55]
+But Imari has no time to rest, as Inoue makes his move.
+
+[MSG$007AB8,40]
+He's going to blindside her with a kick.
+
+[MSG$007AED,108]
+She senses him coming and quickly turns to face him, but by that time he's already within striking distance.
+
+[MSG$007B66,89]
+She manages to deflect the kick while off-balance. But Inoue's kick is so well-aimed that
+
+[MSG$007BC4,32]
+she can't deflect it completely.
+
+[MSG$007BF1,12]
+Imari "Ugh!"
+
+[MSG$007C17,68]
+Imari's face contorts with pain as she absorbs the shock of contact.
+
+[MSG$007C68,63]
+She glares at him and uncharacteristically takes the offensive.
+
+[MSG$007CB4,29]
+She rushes in under his arms.
+
+[MSG$007CD6,28]
+The gap between them closes.
+
+[MSG$007CFF,12]
+Imari "Hah!"
+
+[MSG$007DBD,89]
+Lowering her center of gravity, she bends her knees, and catapults herself against Inoue.
+
+[MSG$007E1B,20]
+There's a dull thud,
+
+[MSG$007E3C,77]
+Inoue is elbowed in the chest. He gasps for air as he bends his body forward.
+
+[MSG$007F2F,69]
+|Imari elbows him, then backhands his face, which is leaning forward.
+
+[MSG$007F81,96]
+The elbowing and the backhand punch are delivered smoothly and with merciless destructive force.
+
+[MSG$008012,45]
+Without a word, Inoue crumples to the ground.
+
+[MSG$0080CF,46]
+Imari "Oh, man, you didn't even challenge me."
+
+[MSG$008117,85]
+Imari scoffs at Inoue and puts her hands on her hips. She sighs in a resigned manner.
+
+[MSG$008171,67]
+She's barely out of breath, even though she took on all those guys.
+
+[MSG$0081C1,55]
+I've been watching all this with my mouth hanging open.
+
+[MSG$008205,95]
+I never dreamed she had moves like those. I hadn't seen her do kempo in a while, but she's even
+
+[MSG$008269,42]
+|more lethal now than she ever was before.
+
+[MSG$0082A0,116]
+Right now she looks just like any ordinary girl, but then girls who go through ruthless training are to be feared...
+
+[MSG$008321,47]
+Inoue "You bitch...I swear I'm gonna kill you!"
+
+[MSG$00836A,60]
+Inoue struggles to his feet with a look of pain on his face.
+
+[MSG$0083AB,84]
+Then he pulls a switchblade out of his pocket, and flicks out the blade with a snap.
+
+[MSG$00843E,91]
+Imari "You mean you can't take on a girl unless you have a weapon like that in your hands?"
+
+[MSG$0084B3,22]
+Imari looks disgusted.
+
+[MSG$0084D6,25]
+Inoue "Shut the hell up!"
+
+[MSG$008509,39]
+Apparently he can't think up an excuse.
+
+[MSG$00853D,72]
+Inoue "I'm gonna use this on your face so I never have to see it again!"
+
+[MSG$00859F,64]
+With an evil smile, he advances towards Imari, waving the knife.
+
+[MSG$0085EC,80]
+There's cold sweat on his brow. Inoue must really be at the end of his rope now.
+
+[MSG$008641,79]
+With Imari's unexpected arrival, he and his posse have fallen completely apart.
+
+[MSG$00869D,53]
+But even Imari is unnerved by the sight of the knife.
+
+[MSG$0086D7,61]
+If Inoue's got a knife, she's definitely at a disadvantage...
+
+[MSG$008721,23]
+Man "Stop right there."
+
+[MSG$008752,44]
+Just then, there's a voice from the doorway.
+
+[MSG$0087E1,30]
+We all look towards the voice.
+
+[MSG$008804,43]
+A big, muscular guy is striding towards us.
+
+[MSG$008834,48]
+From the looks of him, no way is he on our side.
+
+[MSG$008871,16]
+Inoue "Shinjou!"
+
+[MSG$00889B,23]
+Inoue calls out to him.
+
+[MSG$0088BF,79]
+So this is Shinjou...the leader of this gang here, the guy who runs the school.
+
+[MSG$008913,28]
+A.K.A. Shinjou the Repeater.
+
+[MSG$008934,64]
+He's a notorious delinquent who rarely shows his face at school.
+
+[MSG$008981,34]
+Apparently he's in school today...
+
+[MSG$0089A8,77]
+He only shows up when he feels like it. I haven't seen him in a while myself.
+
+[MSG$008A02,115]
+Rumor has it that his dad's a city councilman, which is why he's escaped expulsion despite his many transgressions.
+
+[MSG$008A82,51]
+Shinjou "She really did a number on you guys, huh?"
+
+[MSG$008ACF,70]
+Shinjou looks around at the guys on the ground, still moaning in pain.
+
+[MSG$008B22,101]
+Inoue "That's because...see...we went easy on her because she's a girl, and this is what happened..."
+
+[MSG$008BA1,73]
+I'm sure it would've happened even if they hadn't ''gone easy on her''...
+
+[MSG$008BEF,44]
+Shinjou slowly turns his gaze towards Imari.
+
+[MSG$008C28,73]
+Shinjou "Little girl, I think you've pushed your luck a little too much."
+
+[MSG$008C8B,59]
+Shinjou looks down on Imari, his eyes icy, as he says this.
+
+[MSG$008CD3,56]
+Imari "They're the ones who picked the fight, you know."
+
+[MSG$008D25,67]
+Imari looks right back at Shinjou as she flings this retort at him.
+
+[MSG$008D75,43]
+Shinjou "Oh, yeah? Well, sorry about that."
+
+[MSG$008DBA,26]
+Shinjou laughs derisively.
+
+[MSG$008DE1,72]
+Shinjou "To show you just how sorry I am, why don't I take you on next?"
+
+[MSG$008E43,48]
+So saying, Shinjou starts cracking his knuckles.
+
+[MSG$008E78,44]
+When this guy does it, he sure looks fierce.
+
+[MSG$008F07,54]
+Imari continues to stare at Shinjou without flinching.
+
+[MSG$008F4A,44]
+Imari "I hear you're a really good fighter."
+
+[MSG$008F90,96]
+Imari's right; I've heard the rumors too. Apparently this Shinjou is a formidable karate master.
+
+[MSG$008FF5,48]
+Judging by the way he's built, I can believe it.
+
+[MSG$009032,44]
+Shinjou "You'll find out if you take me on."
+
+[MSG$0090AA,62]
+So saying, Shinjou takes his position, hunching over slightly.
+
+[MSG$0090ED,55]
+He holds his elbows against his side, his arms relaxed.
+
+[MSG$009129,55]
+It's not a text-book position; it's for streetfighting.
+
+[MSG$0091BE,48]
+In contrast, Imari assumes a text-book position.
+
+[MSG$0091F3,115]
+She holds her right arm against her side, her left arm bent at a right-angle so it's perpendicular to her opponent.
+
+[MSG$009273,60]
+Karate and shorinji kempo are two totally different animals.
+
+[MSG$0092BC,56]
+In karate, you use force; you attack from top to bottom.
+
+[MSG$0092F9,71]
+You utilize your body weight in karate, so you can wreak maximum havoc.
+
+[MSG$00934D,97]
+Shorinji, on the other hand, involves using your whole body to thrust upward, from bottom to top.
+
+[MSG$0093B3,86]
+You go from bottom to top so you can be sure to hit your opponent's vulnerable points.
+
+[MSG$00940E,88]
+In this way, even someone without a lot of physical strength can do some serious damage.
+
+[MSG$009473,83]
+In shorinji, there are more moves where you attack after first receiving an attack.
+
+[MSG$0094CB,75]
+It's effective so long as there's no real discrepancy in height and weight;
+
+[MSG$00951B,77]
+but since Shinjou's so much bigger than her, Imari's at a clear disadvantage.
+
+[MSG$009575,57]
+This isn't going to be another scuffle with an amateur...
+
+[MSG$0095BB,96]
+Shinjou "Half-assed kempo, huh? You think you can take me out with sneakyass tactics like that?"
+
+[MSG$009635,32]
+Imari "You're really confident."
+
+[MSG$00966F,94]
+Shinjou "I have nothing against you, but I do have an image to maintain. Don't hate me, okay?"
+
+[MSG$0096E7,80]
+Imari "I wouldn't slack off just because I'm a girl...it's for your own safety!"
+
+[MSG$009751,47]
+Imari waits for Shinjou to make the first move.
+
+[MSG$009785,86]
+She's sticking to the book...make him make the first move, then switch to attack mode.
+
+[MSG$0097E8,93]
+Shinjou lets out a breath, then releases one of his log-like legs towards Imari's frail body.
+
+[MSG$009852,32]
+The kick slices through the air.
+
+[MSG$00987F,36]
+Imari jumps to the side to avoid it.
+
+[MSG$0098A8,79]
+As if he'd been anticipating that move, Shinjou throws a fist in her direction.
+
+[MSG$009904,56]
+Imari barely manages to dodge the blow by twisting away.
+
+[MSG$009941,81]
+With her left hand she grabs the fist that ends up in the space she just vacated;
+
+[MSG$009997,50]
+puts up her right arm and gets ready to throw him.
+
+[MSG$0099D6,110]
+To create an opportunity to make the throw, Imari starts to press against Shinjou's chest. But at that moment,
+
+[MSG$009A49,55]
+Shinjou brings up his right knee, in Imari's direction.
+
+[MSG$009A8D,10]
+Imari "!!"
+
+[MSG$009AB1,82]
+Seeing this, Imari lets go of Shinjou's hand, and blocks his knee in front of her.
+
+[MSG$009B08,48]
+Imari's body is rocked from the shock of impact.
+
+[MSG$009B45,15]
+Shinjou sneers.
+
+[MSG$009B59,55]
+Imari is right in front of Shinjou, totally vulnerable.
+
+[MSG$009B9D,72]
+In that instant, Shinjou unleashes a ferocious kick with his right foot.
+
+[MSG$009BF2,25]
+She has no time to dodge.
+
+[MSG$009C10,77]
+Imari instantly bends her left arm and left leg, to guard against the attack.
+
+[MSG$009C62,31]
+She's going to try to block it.
+
+[MSG$009D27,6]
+Whack!
+
+[MSG$009D3A,59]
+There's a huge thud, and Imari's body is bent over sharply.
+
+[MSG$009D82,117]
+Shinjou's kick is so brutal that it's able to breach Imari's guard. Imari might've thought she was totally protected,
+
+[MSG$009DFC,73]
+but in reality she'd done nothing more than to cushion the blow slightly.
+
+[MSG$009E52,13]
+Imari "Augh!"
+
+[MSG$009E79,30]
+Imari's face contorts in pain.
+
+[MSG$009E9C,73]
+If she hadn't had her guard up, she could've easily broken a bone or two.
+
+[MSG$009EF2,60]
+Imari is wobbling on her feet, but she maintains her stance.
+
+[MSG$009F33,62]
+Her eyes are unfocused. She has my respect for not collapsing.
+
+[MSG$009F7E,26]
+Shinjou "We're done here."
+
+[MSG$009FB2,100]
+With these cold words, Shinjou pulls back his fist to strike her in her upper body, now unprotected.
+
+[MSG$00A0B8,6]
+Whack!
+
+[MSG$00A0CB,51]
+He delivers a merciless blow to Imari's dazed face.
+
+[MSG$00A103,62]
+I can't believe he'd do that do a girl. What a cold bastard...
+
+[MSG$00A14E,14]
+Imari "Ugh..."
+
+[MSG$00A1FC,24]
+Body falls to the ground
+
+[MSG$00A221,102]
+Imari crumples to her knees. Then she falls onto the ground like a puppet whose strings have been cut.
+
+[MSG$00A28C,41]
+Blood is pouring from her nose and mouth.
+
+[MSG$00A2C2,15]
+Minase "Imari!"
+
+[MSG$00A2EB,48]
+I shout out her name as she falls to the ground.
+
+[MSG$00A328,100]
+But I don't have what it would take to save her. If she couldn't beat the guy, there's no way I can.
+
+[MSG$00A391,44]
+If I try to take him on, I could get killed.
+
+[MSG$00A3CA,61]
+Shinjou "I thought we'd have some fun, but that was nothing!"
+
+[MSG$00A421,38]
+Inoue "Gotta hand it to you, Shinjou."
+
+[MSG$00A461,71]
+Shinjou "This is the girl who beat you guys up? You oughta be ashamed."
+
+[MSG$00A4C2,51]
+Inoue "Sorry. To put you through all this trouble."
+
+[MSG$00A50F,35]
+Inoue "What should we do with her?"
+
+[MSG$00A54C,40]
+Shinjou "Do whatever you want with her."
+
+[MSG$00A58E,38]
+So saying, Shinjou leaves the rooftop.
+
+[MSG$00A5C1,59]
+Inoue "Okay...you really had your way with us, didn't you?"
+
+[MSG$00A616,93]
+Inoue "I bet you were enjoying yourself. So in return, you'd better make us enjoy ourselves!"
+
+[MSG$00A68D,14]
+Imari "Ugh..."
+
+[MSG$00A6B5,50]
+Imari might be unconscious; all she does is groan.
+
+[MSG$00A6F4,47]
+Inoue "Huh! What happened to all your bluster?"
+
+[MSG$00A73D,90]
+Inoue "We need you to be at full strength now. It's too soon for you to be all wiped out."
+
+[MSG$00A7B1,28]
+Inoue "Okay, take her away."
+
+[MSG$00A7E7,14]
+Imari "Ugh..."
+
+[MSG$00A80F,34]
+The guys behind him pick up Imari.
+
+[MSG$00A8DD,17]
+Minase "Stop it."
+
+[MSG$00A908,34]
+I call out to them, still in pain.
+
+[MSG$00A937,49]
+Inoue "Hey, that's right, forgot about you, huh?"
+
+[MSG$00A982,66]
+Inoue comes over to me like he's suddenly remembered my existence.
+
+[MSG$00A9D1,102]
+Inoue "You're the one we called out in the first place, right? But never mind, we'll let this one go."
+
+[MSG$00AA51,45]
+Minase "But she has nothing to do with it..."
+
+[MSG$00AA98,80]
+Inoue "You think we're going to let her get away with humiliating us like this?"
+
+[MSG$00AB02,48]
+Inoue "We've got to make her pay with her body."
+
+[MSG$00AB4C,93]
+Inoue "It really hurts where she kicked me. She has to massage me there or I won't be able to
+
+[MSG$00ABAE,17]
+|stand the pain."
+
+[MSG$00ABD9,119]
+Inoue "But hey, we're going to let you go free this time. You've got her to thank. Well, we didn't really care too much
+
+[MSG$00AC55,33]
+|about you in the first place..."
+
+[MSG$00AC90,80]
+Inoue "So anyway, that's the deal. We're borrowing your girlfriend for a while."
+
+[MSG$00ACFA,78]
+Inoue "Don't worry, we'll be sure to teach her all about grownup intercourse!"
+
+[MSG$00AD62,62]
+With that, Inoue and the others leave, taking Imari with them.
+
+[MSG$00ADA5,47]
+Imari's still dazed as the thugs drag her away.
+
+[MSG$00AE05,12]
+Door opening
+
+[MSG$00AE1E,15]
+Minase "Ugh..."
+
+[MSG$00AE47,51]
+I'm standing all alone on the roof, in my own daze.
+
+[MSG$00AE87,35]
+I'm still aching in several places.
+
+[MSG$00AEAF,62]
+But that doesn't mean I can just wait around until I'm better.
+
+[MSG$00AEFA,104]
+It won't do any good to tell the professors...the faculty doesn't stand a chance against Shinjou either.
+
+[MSG$00AF67,37]
+I've got to do something on my own...
+
+[MSG$00AF99,59]
+And if I don't hurry, something bad will happen to Imari...
+
+[MSG$00AFE1,66]
+I try to endure the pain as I get up, and wobble over to the door.
+
+[MSG$00B030,20]
+April 24 - Classroom
+
+[MSG$00B11C,49]
+Minase "Saeki! Give me back that book right now!"
+
+[MSG$00B167,63]
+Saeki "Hold on, will you? I'll return it when school lets out."
+
+[MSG$00B1C0,68]
+Minase "Don't gimme that. Just hand it over now. That was the deal!"
+
+[MSG$00B21E,11]
+Saeki "..."
+
+[MSG$00B243,24]
+Saeki 'All right, then."
+
+[MSG$00B275,92]
+Saeki starts rummaging around in her bag, then takes out the book, wrapped in a white cloth.
+
+[MSG$00B2DE,15]
+Saeki "Here..."
+
+[MSG$00B307,36]
+Minase "As long as I've got this..."
+
+[MSG$00B345,53]
+I snatch it away from Saeki and rush out of the room.
+
+[MSG$00B387,25]
+April 24 - Imari Captured
+
+[MSG$00B41F,42]
+Minase "Where the hell did they take her?"
+
+[MSG$00B463,67]
+I run down the hall, trying to figure out where they could've gone.
+
+[MSG$00B4B3,42]
+Where would they most likely to have gone?
+
+[MSG$00B4E2,85]
+I've often seen them behind the school, but there's no place for them to hide a girl.
+
+[MSG$00B544,57]
+Even so, it's unlikely that they left the school grounds.
+
+[MSG$00B582,71]
+They couldn't just drag Imari around, it would be too much of a burden.
+
+[MSG$00B5D6,47]
+My best bet is probably the gym storage room...
+
+[MSG$00B60A,93]
+Once they're inside nobody will know they're in there. It's ideal for what they have in mind.
+
+[MSG$00B674,83]
+Clutching the cloth-wrapped book in my arms, I run faster towards the storage room.
+
+[MSG$00B6D4,12]
+Door opening
+
+[MSG$00B71F,15]
+Takashiro "Oh!"
+
+[MSG$00B748,13]
+Minase "Huh?"
+
+[MSG$00B808,5]
+Slam!
+
+[MSG$00B81A,17]
+Takashiro "Augh!"
+
+[MSG$00B869,6]
+Crash!
+
+[MSG$00B87C,82]
+Takashiro suddenly emerges from a classroom, and I can't avoid colliding with her.
+
+[MSG$00B8DB,71]
+We both fall to the floor. She drops her art books and attendance book.
+
+[MSG$00B927,59]
+At the same time, I lose my grip on the cloth-wrapped book.
+
+[MSG$00B96F,19]
+Takashiro "Ouch..."
+
+[MSG$00B99C,43]
+She gets up unsteadily, rubbing her behind.
+
+[MSG$00BA06,52]
+Takashiro "Oh, it's you, Minase. Are you all right?"
+
+[MSG$00BA54,57]
+Minase "Ouch! You shouldn't have come out so suddenly..."
+
+[MSG$00BAA7,38]
+I get up, too, rubbing my bruised hip.
+
+[MSG$00BAD2,63]
+My body is screaming in pain. First the beating and now this...
+
+[MSG$00BB1E,95]
+Takashiro "No, you shouldn't have been running in the halls. Didn't they teach you that back in
+
+[MSG$00BB82,14]
+|high school?"
+
+[MSG$00BBAA,83]
+So saying, Takashiro starts picking up the chalk that's scattered across the floor.
+
+[MSG$00BC02,33]
+It's all in pieces from the fall.
+
+[MSG$00BC30,61]
+Takashiro "Oh, my...I'm going to have to get some new chalk."
+
+[MSG$00BC87,52]
+I hastily reach for the book I dropped on the floor.
+
+[MSG$00BCC8,13]
+Minase "Huh?"
+
+[MSG$00BCEF,34]
+I look over at the book and stare.
+
+[MSG$00BD16,44]
+Takashiro looks over, too, ready to help me.
+
+[MSG$00BD4F,17]
+Takashiro "What?"
+
+[MSG$00BD7A,57]
+She sees the cover of the book, now exposed, and freezes.
+
+[MSG$00BDC0,53]
+The white cloth has come off, baring the book inside.
+
+[MSG$00BE02,31]
+But it's not the Book of Magic.
+
+[MSG$00BE26,43]
+No way in hell is that the Book of Magic...
+
+[MSG$00BE5E,25]
+Girl "What's that? Jeez!"
+
+[MSG$00BE92,75]
+Several girls pass by and see what's on the floor. Their comments are cold.
+
+[MSG$00BEEA,92]
+Instead of the Book of Magic, the white cloth had been wrapped around uncensored porn books.
+
+[MSG$00BF4B,52]
+There's everything from S&M to animal fornication...
+
+[MSG$00BF8C,84]
+Some of them are open, and you can see women with huge boobs in the midst of a dump.
+
+[MSG$00BFE5,40]
+Of course, it's not censored in any way.
+
+[MSG$00C01A,10]
+Holy crap!
+
+[MSG$00C031,50]
+I stand there looking down at the books in a daze.
+
+[MSG$00C070,49]
+Takashiro "Minase...you're a maniac, aren't you?"
+
+[MSG$00C0BB,106]
+Takashiro "I can't tell you not to read those things, but I don't approve of you bringing them to school."
+
+[MSG$00C13F,41]
+Takashiro tells me this with a wry smile.
+
+[MSG$00C175,7]
+Jeez...
+
+[MSG$00C189,65]
+I'm so confused that I can't even get a grip on what's happening.
+
+[MSG$00C1D7,72]
+Okay, so I lent the Book of Magic to Saeki. Then I got her to return it.
+
+[MSG$00C224,25]
+And this is what I got...
+
+[MSG$00C24A,54]
+There's no way this is my fault. It's got to be Saeki.
+
+[MSG$00C28D,46]
+There's also no way that Saeki made a mistake.
+
+[MSG$00C2C0,78]
+Even if she did put in the wrong book, she wouldn't use these particular ones.
+
+[MSG$00C31B,18]
+Saeki set me up...
+
+[MSG$00C332,69]
+That bitch...she never had any intention of returning the book to me.
+
+[MSG$00C384,22]
+Minase "That bitch..."
+
+[MSG$00C3B4,55]
+But I don't have time for this. I have no time to lose!
+
+[MSG$00C3F0,58]
+I've got to do something about Imari before anything else.
+
+[MSG$00C437,108]
+If Saeki is indeed behind this, she would've known I'd find out. She probably left the classroom long ago...
+
+[MSG$00C4B0,59]
+It's Saeki, after all. She's never gonna give up that book.
+
+[MSG$00C4F0,71]
+I can't depend on the book anymore. I've got to save Imari on my own...
+
+[MSG$00C544,17]
+Takashiro "Here."
+
+[MSG$00C570,85]
+Takashiro gathers up the porn books, wraps them up in the cloth and hands them to me.
+
+[MSG$00C5D2,22]
+Maybe she can help me.
+
+[MSG$00C5ED,50]
+She did say she'd help me if something happened...
+
+[MSG$00C62C,45]
+I'm grasping at straws, but I have no choice.
+
+[MSG$00C666,41]
+Minase "Ms. Takashiro, I need your help!"
+
+[MSG$00C6A9,35]
+Takashiro "What? What do you mean?"
+
+[MSG$00C6E6,50]
+Minase "Inoue and his thugs dragged Imari away..."
+
+[MSG$00C732,54]
+Takashiro "They took Imari? Inoue, that troublemaker?"
+
+[MSG$00C782,111]
+Minase "That's right. She's in danger. Those jerks took her away so they could do something terrible to her..."
+
+[MSG$00C80B,56]
+I give her the short version, hoping she'll help me out.
+
+[MSG$00C850,58]
+Takashiro "All right, I think I understand what happened."
+
+[MSG$00C8A4,63]
+Takashiro "Leave it to me. I'll teach those hoodlums a lesson."
+
+[MSG$00C8FD,45]
+She thumps herself on the chest for emphasis.
+
+[MSG$00C92F,104]
+Other professors would probably opt to look the other way, but apparently she's not like other teachers.
+
+[MSG$00C9A4,115]
+Still, Inoue and his gang aren't the kind of guys who can be stopped by a mere teacher. I don't know if Takashiro's
+
+[MSG$00CA1C,71]
+|aware of this or not, but I have no choice but to put my faith in her.
+
+[MSG$00CA70,31]
+Takashiro "So, where are they?"
+
+[MSG$00CAA9,49]
+Minase "Probably in the storage room in the gym."
+
+[MSG$00CAF4,56]
+Takashiro "Then we'd better hurry before it's too late."
+
+[MSG$00CB46,45]
+So saying, she quickly heads towards the gym.
+
+[MSG$00CB78,15]
+I follow her...
+
+[MSG$00CC10,32]
+Takashiro and I enter the gym...
+
+[MSG$00CC3D,61]
+Afternoon classes have already started, but the gym is empty.
+
+[MSG$00CC7F,94]
+It looks like there aren't going to be any P.E. classes today. Perfect for Inoue and his gang.
+
+[MSG$00CCEA,23]
+Takashiro "This is it?"
+
+[MSG$00CD1B,46]
+We look at the steel door to the storage room.
+
+[MSG$00CD4E,38]
+We can hear voices coming from inside.
+
+[MSG$00CD79,47]
+No question, Inoue and his gang are in there...
+
+[MSG$00CDB5,36]
+Takashiro "Are you ready? Let's go."
+
+[MSG$00CDF3,15]
+I nod silently.
+
+[MSG$00CEAE,12]
+Door opening
+
+[MSG$00CEC7,53]
+Inoue "Hey, what the hell do you think you're doing?"
+
+[MSG$00CF16,65]
+As soon as the steel door opens, we can hear Inoue's loud shriek.
+
+[MSG$00CF64,62]
+Just as I'd thought, Inoue and the others are loitering there.
+
+[MSG$00CFA7,34]
+And they're standing around Imari.
+
+[MSG$00D052,15]
+Minase "Imari!"
+
+[MSG$00D07B,14]
+Imari "Ugh..."
+
+[MSG$00D0A3,28]
+Imari gives me a blank look.
+
+[MSG$00D0CC,42]
+Apparently nothing's been done to her yet.
+
+[MSG$00D103,76]
+But they've half-undressed her, and you can see the white skin of her chest.
+
+[MSG$00D154,63]
+Her legs are spread wide open, with her underwear in full view.
+
+[MSG$00D1A0,28]
+But something's not right...
+
+[MSG$00D1C1,86]
+Imari's eyes are unfocused. and she doesn't seem to be able to hear what we're saying.
+
+[MSG$00D224,87]
+Inoue "You again? I thought you'd learned your lesson. First this girl has to save you,
+
+[MSG$00D280,64]
+and now it's this woman professor? And you call yourself a man?"
+
+[MSG$00D2DA,87]
+I'll just let him say whatever he wants. The only important thing now is to save Imari.
+
+[MSG$00D33E,34]
+Minase "What did you do to Imari?"
+
+[MSG$00D37A,56]
+Inoue "We just smoked up together, so we can feel good."
+
+[MSG$00D3CD,66]
+Inoue gives us a glimpse of the cigarette-like object in his hand.
+
+[MSG$00D41C,28]
+Inoue "You want a drag too?"
+
+[MSG$00D452,70]
+He puts it to his lips, inhales deeply, then exhales in our direction.
+
+[MSG$00D49D,62]
+The smoke envelopes us, and I can smell its deep, sweet scent.
+
+[MSG$00D4E8,91]
+This isn't your normal cigarette...I know a few people on campus who have smokes like these
+
+[MSG$00D548,7]
+|too...
+
+[MSG$00D55C,96]
+Takashiro "I can't believe you'd smoke that here! You'll be expelled. I hope you're prepared..."
+
+[MSG$00D5D6,51]
+Inoue "I'd like to see you try to get me expelled."
+
+[MSG$00D623,79]
+With that, Inoue takes another hit, and exhales the smoke through his nostrils.
+
+[MSG$00D67F,105]
+Inoue knows. Even if a professor were to squeal on him, it would be nothing for him to get it covered up.
+
+[MSG$00D6ED,48]
+And surely Takashiro knows that only too well...
+
+[MSG$00D72A,45]
+Takashiro "You let Ms. Imari go this minute!"
+
+[MSG$00D771,65]
+Inoue "Well, if you take her place, I'll be happy to let her go."
+
+[MSG$00D7CC,50]
+Inoue "I enjoy doing older women once in a while."
+
+[MSG$00D818,25]
+Takashiro "How dare you!"
+
+[MSG$00D84B,73]
+Inoue "Don't get mad, teach. Anyway, this bitch seems to like the stuff."
+
+[MSG$00D8AE,27]
+He leers when he says this.
+
+[MSG$00D8D6,20]
+Takashiro "Stop it!"
+
+[MSG$00D904,72]
+Ignoring her, Inoue brings the joint closer and closer to Imari's mouth.
+
+[MSG$00D9E2,57]
+Imari tries to fight it, but he forces it into her mouth.
+
+[MSG$00DA20,29]
+Next he pinches Imari's nose.
+
+[MSG$00DA4A,86]
+Unable to breathe, Imari begins to struggle. Finally she's forces to inhale the smoke.
+
+[MSG$00DAAD,14]
+Imari "Ugh..."
+
+[MSG$00DAD5,17]
+Imari "(gagging)"
+
+[MSG$00DB00,51]
+Imari begins to choke as her lungs fill with smoke.
+
+[MSG$00DB40,20]
+Inoue "(snickering)"
+
+[MSG$00DB6E,21]
+Minase "Goddamn you!"
+
+[MSG$00DB9D,22]
+I'm shaking with rage.
+
+[MSG$00DBC0,44]
+Inoue "What is it, Minase? Are you mad? Ha!"
+
+[MSG$00DC06,81]
+Inoue "If you got a problem with this, just bring it. I'll take you on any time."
+
+[MSG$00DC71,79]
+Sneering, Inoue tries to bait me. But I can't do anything but ball up my fists.
+
+[MSG$00DCCD,48]
+Takashiro "Don't worry, I'll take care of this."
+
+[MSG$00DD17,47]
+Takashiro speaks to me as I tremble with anger.
+
+[MSG$00DD53,27]
+Imari "(breathing heavily)"
+
+[MSG$00DD88,72]
+Imari's eyes look even more drowsy than before. She's breathing heavily.
+
+[MSG$00DDDD,34]
+Inoue "Is she getting a buzz now?"
+
+[MSG$00DE92,84]
+With that, Inoue sticks his hand between Imari's legs, spread wide open. His fingers
+
+[MSG$00DEEB,44]
+|trace her crevice, rubbing her up and down.
+
+[MSG$00DF24,86]
+The two thugs behind him watch this, leering as they begin to massage Imari's breasts.
+
+[MSG$00DF87,11]
+Minase "!!"
+
+[MSG$00DF9F,80]
+Takashiro "Stop that right now! What do you think you're doing, in front of us?"
+
+[MSG$00E009,40]
+Inoue "Ha! You got a problem with this?"
+
+[MSG$00E04B,88]
+Inoue "Want me to do the same to you, Prof? Anyway, this little bitch seems to like it."
+
+[MSG$00E0BD,27]
+Imari "Mmm...mmm...ahhh..."
+
+[MSG$00E0F2,85]
+Imari is writhing with a look of confusion on her face as Inoue's fingers continue to
+
+[MSG$00E14C,15]
+|stimulate her.
+
+[MSG$00E168,95]
+It might be because she's been drugged, but Imari's getting aroused even in the state she's in.
+
+[MSG$00E1CC,47]
+There's definitely a mature woman inside her...
+
+[MSG$00E208,37]
+Inoue "Just look. She's getting off!"
+
+[MSG$00E247,78]
+Inoue gets carried away and shoves his fingers inside. He begins to rub her up
+
+[MSG$00E29A,83]
+|in the sensitive area of her vulva, which is discernible even through her panties.
+
+[MSG$00E2FA,25]
+Imari "Mmm...mmm..ahhhh!"
+
+[MSG$00E32D,15]
+|her panties...
+
+[MSG$00E341,82]
+At last Inoue removes his hand from between Imari's legs. There's a small stain on
+
+[MSG$00E398,15]
+|her panties...
+
+[MSG$00E3B4,47]
+Inoue starts sniffing the juice on his fingers.
+
+[MSG$00E3F0,35]
+Inoue "What a nasty smell. Hahaha!"
+
+[MSG$00E42D,43]
+Takashiro "You'd better stop it right now!"
+
+[MSG$00E472,51]
+Takashiro "If you go any further, you'll be sorry!"
+
+[MSG$00E4BF,60]
+Inoue "Oh, yeah? What are you gonna do about it, huh, Prof?"
+
+[MSG$00E515,96]
+Inoue "You're nothing but an art professor...Better not get out of line or I'll make you sorry!"
+
+[MSG$00E62E,48]
+Takashiro "You're not going to listen, are you?"
+
+[MSG$00E678,69]
+Takashiro "Well, in that case I'll have to resort to other measures."
+
+[MSG$00E6D7,49]
+With that, Takashiro puts her hand in her pocket.
+
+[MSG$00E715,11]
+Minase "!?"
+
+[MSG$00E72D,70]
+I glance over at Takashiro's pocket. I can see her white hand gripping
+
+[MSG$00E778,24]
+|some kind of black box.
+
+[MSG$00E795,23]
+What's she going to do?
+
+[MSG$00E7B9,49]
+Takashiro advances, first one step, then another.
+
+[MSG$00E7F7,54]
+Inoue "Hey, let's be gentle with the professor, guys."
+
+[MSG$00E8AB,61]
+So saying, one of the thugs advances with a leer on his face.
+
+[MSG$00E8ED,103]
+He puts his hand to his hip and withdraws a retractable police baton from a pouch attached to his belt.
+
+[MSG$00E961,5]
+Snap!
+
+[MSG$00E973,99]
+He flings it outward, and the baton snaps out with a ringing sound. Open, it's three times as long.
+
+[MSG$00E9E3,71]
+Inoue "What are you gonna do now, teach? Why don't we call your bluff?"
+
+[MSG$00EA44,16]
+Inoue "Get her!"
+
+[MSG$00EA6E,45]
+At Inoue's signal, the thug raises the baton.
+
+[MSG$00EAA8,5]
+Whip!
+
+[MSG$00EABA,62]
+The metal stick is brought down hard, slicing through the air.
+
+[MSG$00EB93,6]
+Whack!
+
+[MSG$00EC4F,12]
+Thug "Augh!"
+
+[MSG$00EC99,48]
+But it's the thug who ends up screaming in pain.
+
+[MSG$00ECD6,13]
+Minase "Huh?"
+
+[MSG$00ECFD,68]
+The thug jumps away from Takashiro as if he's been repelled somehow.
+
+[MSG$00ED4E,6]
+Thump!
+
+[MSG$00ED61,75]
+All 4 of his limbs are rigid, and he rolls around on the floor, convulsing.
+
+[MSG$00EDB1,35]
+I can see the whites of his eyes...
+
+[MSG$00EE5D,40]
+Takashiro "Oh, did that sting too much?"
+
+[MSG$00EE9F,67]
+Takashiro addresses the thug on the floor with a mischievous smile.
+
+[MSG$00EEEF,48]
+There's a black, nondescript object in her hand.
+
+[MSG$00EF24,89]
+It's a stun gun...and judging by the state the thug's in, it must be pretty high-voltage.
+
+[MSG$00F003,26]
+Crackle, crackle, crackle!
+
+[MSG$00F02A,110]
+Takashiro snaps on the switch. There's a whirring sound, and a bluish light emanates from the tip of stun gun.
+
+[MSG$00F0A5,43]
+Takashiro "Who wants to get punished next?"
+
+[MSG$00F0EA,83]
+Inoue "What the hell! You're a professor, and you carry around a goddamn stun gun?"
+
+[MSG$00F157,54]
+Takashiro "A lady has to protect herself, you know..."
+
+[MSG$00F1A7,13]
+Inoue "Grrr!"
+
+[MSG$00F1CE,52]
+Inoue "Hey! Somebody shut this psycho professor up!"
+
+[MSG$00F21C,44]
+But no one has the courage to go near her...
+
+[MSG$00F255,26]
+Takashiro "What a wimp..."
+
+[MSG$00F289,49]
+Takashiro "Can't you take me on yourself, Inoue?"
+
+[MSG$00F2D4,25]
+Inoue "What did you say?"
+
+[MSG$00F307,79]
+Takashiro "What's it going to be? If you're not going to make a move, shall I?"
+
+[MSG$00F370,42]
+With that, Takashiro flicks on the switch.
+
+[MSG$00F3A7,28]
+Crackle, crackle, crackle...
+
+[MSG$00F3D0,52]
+Inoue trembles at the ominous sound of the stun gun.
+
+[MSG$00F411,41]
+Inoue "I...I've got a weak heart, see..."
+
+[MSG$00F454,94]
+Inoue stares at the bluish-white light as he makes this lame excuse, a weak smile on his face.
+
+[MSG$00F4B7,29]
+His legs are audibly shaking.
+
+[MSG$00F580,42]
+Takashiro "No one's going to make a move?"
+
+[MSG$00F5C4,43]
+Takashiro "Then I guess that means we win."
+
+[MSG$00F609,76]
+Takashiro "All right, Minase. Take Imari to the campus infirmary, will you?"
+
+[MSG$00F66F,74]
+Takashiro "I'm going to stay behind and teach these degenerates a lesson."
+
+[MSG$00F6D3,85]
+I nod my head, fix Imari's clothing, and carry her limp body out of the storage room.
+
+[MSG$00F7B9,115]
+Takashiro "Now then! You know what you have coming, don't you? I'm going to give you the punishment of your lives!"
+
+[MSG$00F846,54]
+I could hear these words from inside the storage room.
+
+[MSG$00F89E,6]
+Whack!
+
+[MSG$00F8B1,14]
+Thug A "Augh!"
+
+[MSG$00F8EE,6]
+Whack!
+
+[MSG$00F901,14]
+Thug B "Augh!"
+
+[MSG$00F929,52]
+Their shrieks of agony echo around the silent gym...
+
+[MSG$00F9F1,53]
+I hurry back to my classroom and rush toward my seat.
+
+[MSG$00FA2B,63]
+I open my bag, and take out the book, wrapped in a white cloth.
+
+[MSG$00FA77,36]
+Minase "As long as I've got this..."
+
+[MSG$00FAB5,48]
+Clutching the book, I leave the classroom again.
+
+[MSG$00FAF2,25]
+April 24 - Imari Captured
+
+[MSG$00FB8A,42]
+Minase "Where the hell did they take her?"
+
+[MSG$00FBCE,67]
+I run down the hall, trying to figure out where they could've gone.
+
+[MSG$00FC1E,42]
+Where would they most likely to have gone?
+
+[MSG$00FC4D,85]
+I've often seen them behind the school, but there's no place for them to hide a girl.
+
+[MSG$00FCAF,57]
+Even so, it's unlikely that they left the school grounds.
+
+[MSG$00FCED,71]
+They couldn't just drag Imari around, it would be too much of a burden.
+
+[MSG$00FD41,47]
+My best bet is probably the gym storage room...
+
+[MSG$00FD75,93]
+Once they're inside nobody will know they're in there. It's ideal for what they have in mind.
+
+[MSG$00FDDF,83]
+Clutching the cloth-wrapped book in my arms, I run faster towards the storage room.
+
+[MSG$00FE37,14]
+(Door opening)
+
+[MSG$00FE84,15]
+Takashiro "Oh!"
+
+[MSG$00FEAD,13]
+Minase "Huh?"
+
+[MSG$00FF6D,6]
+Slam!!
+
+[MSG$00FF80,17]
+Takashiro "Augh!"
+
+[MSG$00FFCF,6]
+Crash!
+
+[MSG$00FFE2,82]
+Takashiro suddenly emerges from a classroom, and I can't avoid colliding into her.
+
+[MSG$010041,71]
+We both fall to the floor. She drops her art books and attendance book.
+
+[MSG$01008D,59]
+At the same time, I lose my grip on the cloth-wrapped book.
+
+[MSG$0100D5,19]
+Takashiro "Ouch..."
+
+[MSG$010102,43]
+She gets up unsteadily, rubbing her behind.
+
+[MSG$01016C,52]
+Takashiro "Oh, it's you, Minase. Are you all right?"
+
+[MSG$0101BA,57]
+Minase "Ouch! You shouldn't have come out so suddenly..."
+
+[MSG$01020D,38]
+I get up, too, rubbing my bruised hip.
+
+[MSG$010238,63]
+My body is screaming in pain. First the beating and now this...
+
+[MSG$010284,90]
+Takashiro "No, you shouldn't have been running in the halls. Didn't they teach you that in
+
+[MSG$0102E3,22]
+|back in high school?"
+
+[MSG$010313,83]
+So saying, Takashiro starts picking up the chalk that's scattered across the floor.
+
+[MSG$01036B,33]
+It's all in pieces from the fall.
+
+[MSG$010399,61]
+Takashiro "Oh, my...I'm going to have to get some new chalk."
+
+[MSG$0103F0,52]
+I hastily reach for the book I dropped on the floor.
+
+[MSG$010429,55]
+I definitely don't want Takashiro to see what's inside.
+
+[MSG$01046D,95]
+Out of the corner of my eye, I watch Takashiro frantically picking up the broken bits of chalk,
+
+[MSG$0104D1,61]
+as I quickly scoop up the cloth-wrapped book a few feet away.
+
+[MSG$01051B,86]
+The cloth has come undone from the shock of the fall, and you can see the book inside.
+
+[MSG$010576,58]
+I quickly cover it up again with the cloth and pick it up.
+
+[MSG$0105BD,46]
+Takashiro "Well...finally picked them all up."
+
+[MSG$010605,80]
+Takashiro's finally done putting the chalk back into its box and looks up at me.
+
+[MSG$010662,47]
+Takashiro "Watch where you're going next time."
+
+[MSG$0106AB,43]
+Takashiro brushes the dust off her clothes.
+
+[MSG$0106E3,51]
+I don't have time for this. I have no time to lose!
+
+[MSG$010723,41]
+Minase "See you later. I'm in a hurry..."
+
+[MSG$010766,70]
+Takashiro "Excuse me, didn't I just tell you not to run in the halls?"
+
+[MSG$0107C6,41]
+Ignoring Takashiro, I race down the hall.
+
+[MSG$010878,16]
+I enter the gym.
+
+[MSG$010895,61]
+Afternoon classes have already started, but the gym is empty.
+
+[MSG$0108D7,94]
+It looks like there aren't going to be any P.E. classes today. Perfect for Inoue and his gang.
+
+[MSG$010942,66]
+Minase "I'll bet a million dollars Inoue and his gang are here..."
+
+[MSG$01099E,70]
+I'm convinced of this as I look at the steel door of the storage room.
+
+[MSG$0109F1,39]
+I can hear voices coming from inside...
+
+[MSG$010A1D,22]
+There's no question...
+
+[MSG$010A40,52]
+I slowly unwrap the cloth from the book in my hands.
+
+[MSG$010A81,69]
+Minase "I don't care if you're a god or a demon, just help me out..."
+
+[MSG$010AE0,61]
+Praying silently, I open the book and flip through the pages.
+
+[MSG$010B2A,23]
+I don't have much time.
+
+[MSG$010B46,86]
+It's got to have an instant effect. So there aren't a lot of spells I can choose from.
+
+[MSG$010BA9,76]
+Since I have neither the tools nor the time, I'll have to go with a charm...
+
+[MSG$010BFA,42]
+I already know how effective those can be.
+
+[MSG$010C29,46]
+I just hope it will work out this time, too...
+
+[MSG$010C64,19]
+Flip, flip, flip...
+
+[MSG$010C84,82]
+I flip through page after page of pentacle drawings, in search of the right spell.
+
+[MSG$010CDB,92]
+Needless to say, I'll be playing this one by ear, so I have no idea how powerful it will be.
+
+[MSG$010D44,75]
+I brush away such misgivings, and pick out one I think will be appropriate.
+
+[MSG$010D94,81]
+I take a pen from my uniform pocket, remove the cap and place it against my palm.
+
+[MSG$010DF2,94]
+Minase "The Lord is on my side, and on the day of his great anger he shall smite all kings..."
+
+[MSG$010E6A,59]
+I draw a pentacle on my left palm as I whisper these words.
+
+[MSG$010EB2,90]
+When I'm done drawing, I open and close my fist for confirmation. I used an oil-based pen,
+
+[MSG$010F11,41]
+so I'm sure it won't rub off that easily.
+
+[MSG$010F47,28]
+But I don't see any changes.
+
+[MSG$010F70,35]
+Minase "Is this really gonna work?"
+
+[MSG$010FAD,95]
+The pentacle of power...I have misgivings, but right now I have no choice but to believe in it.
+
+[MSG$011011,52]
+I've never had less confidence in an unseen power...
+
+[MSG$011052,19]
+Minase "All right."
+
+[MSG$01107F,37]
+|cold steel door of the storage room.
+
+[MSG$0110A9,109]
+I gather up my concentration by clenching my hand with the pentacle drawn on it once more, then reach for the
+
+[MSG$01111B,37]
+|cold steel door of the storage room.
+
+[MSG$0111EC,14]
+(Door opening)
+
+[MSG$0111FF,53]
+Inoue "Hey, what the hell do you think you're doing?"
+
+[MSG$01124E,64]
+As soon as the steel door opens, I can hear Inoue's loud shriek.
+
+[MSG$01129B,62]
+Just as I'd thought, Inoue and the others are loitering there.
+
+[MSG$0112DE,34]
+And they're standing around Imari.
+
+[MSG$011389,15]
+Minase "Imari!"
+
+[MSG$0113B2,14]
+Imari "Ugh..."
+
+[MSG$0113DA,28]
+Imari gives me a blank look.
+
+[MSG$011403,42]
+Apparently nothing's been done to her yet.
+
+[MSG$01143A,76]
+But they've half-undressed her, and you can see the white skin of her chest.
+
+[MSG$01148B,63]
+Her legs are spread wide open, with her underwear in full view.
+
+[MSG$0114D7,28]
+But something's not right...
+
+[MSG$0114F8,86]
+Imari's eyes are unfocused. and she doesn't seem to be able to hear what we're saying.
+
+[MSG$01155B,85]
+Inoue "You again? Thought you'd learned your lesson. First this girl has to save you,
+
+[MSG$0115B5,48]
+and now it's this? And you call yourself a man?"
+
+[MSG$0115FF,87]
+I'll just let him say whatever he wants. The only important thing now is to save Imari.
+
+[MSG$011663,34]
+Minase "What did you do to Imari?"
+
+[MSG$01169F,56]
+Inoue "We just smoked up together, so we can feel good."
+
+[MSG$0116F2,66]
+Inoue gives me a glimpse of the cigarette-like object in his hand.
+
+[MSG$011741,28]
+Inoue "You want a drag too?"
+
+[MSG$011777,69]
+He puts it to his lips, inhales deeply, then exhales in my direction.
+
+[MSG$0117C1,62]
+The smoke envelopes us, and I can smell its deep, sweet scent.
+
+[MSG$01180C,91]
+This isn't your normal cigarette...I know a few people on campus who have smokes like these
+
+[MSG$01186C,7]
+|too...
+
+[MSG$011878,36]
+Minase "You let Imari go right now!"
+
+[MSG$0118B6,66]
+Inoue "Are you ordering me around? You watch your mouth, dipshit."
+
+[MSG$011912,51]
+Inoue "Anyway, this bitch seems to like the stuff."
+
+[MSG$01195F,25]
+He leers as he says this.
+
+[MSG$011985,64]
+Imari remains in a daze, looking around her with unfocused eyes.
+
+[MSG$0119CA,61]
+Inoue takes another hit, then takes the joint from his mouth.
+
+[MSG$011A14,17]
+Minase "Stop it!"
+
+[MSG$011A3F,71]
+Ignoring me, Inoue brings the joint closer and closer to Imari's mouth.
+
+[MSG$011B1C,57]
+Imari tries to fight it, but he forces it into her mouth.
+
+[MSG$011B5A,29]
+Next he pinches Imari's nose.
+
+[MSG$011B84,86]
+Unable to breathe, Imari begins to struggle. Finally she's forced to inhale the smoke.
+
+[MSG$011BE7,14]
+Imari "Ugh..."
+
+[MSG$011C0F,17]
+Imari "(gagging)"
+
+[MSG$011C3A,51]
+Imari begins to choke as her lungs fill with smoke.
+
+[MSG$011C7A,20]
+Inoue "(snickering)"
+
+[MSG$011CA8,21]
+Minase "Goddamn you!"
+
+[MSG$011CD7,22]
+I'm shaking with rage.
+
+[MSG$011CFA,44]
+Inoue "What is it, Minase? Are you mad? Ha!"
+
+[MSG$011D40,81]
+Inoue "If you got a problem with this, just bring it. I'll take you on any time."
+
+[MSG$011DAB,33]
+Sneering, Inoue tries to bait me.
+
+[MSG$011DD9,16]
+Minase "Grrr..."
+
+[MSG$011E03,18]
+I clench my fists.
+
+[MSG$011E1A,50]
+Can I really take out these jerks with this spell?
+
+[MSG$011E51,62]
+If it doesn't work, then both Imari and I will be in for it...
+
+[MSG$011E9C,27]
+Imari "(breathing heavily)"
+
+[MSG$011ED1,72]
+Imari's eyes look even more drowsy than before. She's breathing heavily.
+
+[MSG$011F26,34]
+Inoue "Is she getting a buzz now?"
+
+[MSG$011FDB,84]
+With that, Inoue sticks his hand between Imari's legs, spread wide open. His fingers
+
+[MSG$012034,44]
+|trace her crevice, rubbing her up and down.
+
+[MSG$01206D,86]
+The two thugs behind him watch this, leering as they begin to massage Imari's breasts.
+
+[MSG$0120D0,29]
+Minase "What are you doing?!"
+
+[MSG$0120FA,40]
+Inoue "Ha! You got a problem with this?"
+
+[MSG$01213C,51]
+Inoue "Anyway, this little bitch seems to like it."
+
+[MSG$012189,27]
+Imari "Mmm...mmm...ahhh..."
+
+[MSG$0121BE,85]
+Imari is writhing with a look of confusion on her face as Inoue's fingers continue to
+
+[MSG$012218,15]
+|stimulate her.
+
+[MSG$012234,95]
+It might be because she's been drugged, but Imari's getting aroused even in the state she's in.
+
+[MSG$012298,47]
+There's definitely a mature woman inside her...
+
+[MSG$0122D4,37]
+Inoue "Just look. She's getting off!"
+
+[MSG$012313,78]
+Inoue gets carried away and shoves his fingers inside. He begins to rub her up
+
+[MSG$012366,83]
+|in the sensitive area of her vulva, which is discernible even through her panties.
+
+[MSG$0123C6,25]
+Imari "Mmm...mmm..ahhhh!"
+
+[MSG$0123F9,15]
+|her panties...
+
+[MSG$01240D,82]
+At last Inoue removes his hand from between Imari's legs. There's a small stain on
+
+[MSG$012464,15]
+|her panties...
+
+[MSG$012480,47]
+Inoue starts sniffing the juice on his fingers.
+
+[MSG$0124BC,35]
+Inoue "What a nasty smell. Hahaha!"
+
+[MSG$0124F9,57]
+Inoue "I guess she likes me a lot better than you, wuss!"
+
+[MSG$01254C,27]
+Minase "Stop it right now!"
+
+[MSG$012581,70]
+I can't take it anymore. I've got to believe in the power of my spell.
+
+[MSG$0125D4,49]
+Inoue "Oooh, I'm so scared. Calm down, will you?"
+
+[MSG$01261F,89]
+Inoue "Don't worry, I'll let you screw her after I'm done. Until then, why don't you just
+
+[MSG$01267D,45]
+|sit back and jerk off while you're waiting?"
+
+[MSG$0126C4,48]
+Minase "If you go any farther, you'll be sorry!"
+
+[MSG$01270E,75]
+Inoue "Oh, yeah? And just what do you think you're gonna do about it, huh?"
+
+[MSG$012773,101]
+Inoue "There's only one of you, shithead. Do you want me to make you crawl all over the floor again?"
+
+[MSG$0127F2,69]
+Minase "Don't think it's going to turn out the same way this time..."
+
+[MSG$012851,81]
+I say this, praying inwardly with everything I have that my words will come true.
+
+[MSG$0128AF,22]
+Inoue "Interesting..."
+
+[MSG$0128DF,35]
+Inoue starts cracking his knuckles.
+
+[MSG$0129BC,54]
+Inoue "Hey, somebody beat the crap out of this loser."
+
+[MSG$012A0C,81]
+At these words, one of the thugs comes towards me slowly with a leer on his face.
+
+[MSG$012A62,103]
+He puts his hand to his hip and withdraws a retractable police baton from a pouch attached to his belt.
+
+[MSG$012AD6,5]
+Snap!
+
+[MSG$012AE8,99]
+He flings it outward, and the baton snaps out with a ringing sound. Open, it's three times as long.
+
+[MSG$012B58,72]
+Inoue "What are you gonna do now, Minase? Why don't we call your bluff?"
+
+[MSG$012BBA,16]
+Inoue "Get him!"
+
+[MSG$012BE4,45]
+At Inoue's signal, the thug raises the baton.
+
+[MSG$012C1E,72]
+Damn...if I get hit with that thing, I'm gonna break something for sure.
+
+[MSG$012C73,5]
+Whip!
+
+[MSG$012C85,62]
+The metal stick is brought down hard, slicing through the air.
+
+[MSG$012CD0,65]
+I close my eyes and wildly put up my left hand to protect myself.
+
+[MSG$012D16,56]
+Just as I think one of my bones is about to be broken...
+
+[MSG$012DF4,5]
+Whip!
+
+[MSG$012E06,42]
+With a sharp sound, it slams into my hand.
+
+[MSG$012E3D,12]
+Thug "Augh!"
+
+[MSG$012E63,38]
+But it's the thug who shrieks in pain.
+
+[MSG$012EBA,13]
+Minase "Huh?"
+
+[MSG$012EE1,15]
+Clang, clang...
+
+[MSG$012EFD,57]
+I open my eyes and the thug is gripping his hand in pain.
+
+[MSG$012F3B,58]
+The baton has fallen to the ground, where it rolls around.
+
+[MSG$012F82,84]
+My left hand doesn't hurt at all, even though that's where I got hit with the baton.
+
+[MSG$012FDB,42]
+I shake my left hand, but nothing's wrong.
+
+[MSG$013012,32]
+Minase "Haha, I'm totally fine."
+
+[MSG$01304C,32]
+I stare at my hand in disbelief.
+
+[MSG$0130AB,42]
+Inoue "What the...what the hell happened?"
+
+[MSG$0130EF,46]
+Inoue's eyes are about to pop out of his head.
+
+[MSG$01312A,54]
+The fact is, the baton did strike the palm of my hand.
+
+[MSG$013165,57]
+But not only didn't my hand break, it deflected the blow.
+
+[MSG$0131A3,38]
+So that's the power of the pentacle...
+
+[MSG$0131D6,24]
+Minase "It's working..."
+
+[MSG$013208,40]
+I'm convinced now. The spell is working.
+
+[MSG$013235,44]
+Now I have nothing to fear from these jerks.
+
+[MSG$01326E,60]
+Minase "You had a lot of nerve, roughing me up like that..."
+
+[MSG$0132C4,43]
+I walk towards Inoue, cracking my knuckles.
+
+[MSG$0132F4,32]
+Our fortunes have been reversed.
+
+[MSG$013321,57]
+Inoue "That was just a fluke. Hey, somebody shut him up!"
+
+[MSG$013374,26]
+Minase "Just bring it on."
+
+[MSG$0133A8,54]
+I smile confidently, and bait them by waving my hands.
+
+[MSG$0133E3,44]
+When they see me do this, they both jump me.
+
+[MSG$013495,21]
+Minase "Minase Kick!"
+
+[MSG$0134D8,4]
+Pow!
+
+[MSG$0134E9,12]
+Thug "Augh!"
+
+[MSG$01350F,21]
+Minase "Minase Chop!"
+
+[MSG$013553,8]
+Crack...
+
+[MSG$013568,12]
+Thug "Augh!"
+
+[MSG$01358E,86]
+I adopt Imari's strategy, taking them on and tossing them to the side over and over...
+
+[MSG$0135F1,74]
+Even my sloppiest moves are direct hits. And thanks to their lethal force,
+
+[MSG$013640,50]
+I manage to drop them all to the floor one by one.
+
+[MSG$01371C,22]
+Inoue "No...no way..."
+
+[MSG$01374C,71]
+I step all over the losers on the floor as I noisily dust off my hands.
+
+[MSG$0137A0,41]
+Minase "Okay...you're the only one left."
+
+[MSG$0137E3,24]
+I stare at Inoue coldly.
+
+[MSG$013800,97]
+Inoue has been watching all this, and now he smiles at me as though he's about to piss his pants.
+
+[MSG$01386E,17]
+Inoue "Hahaha..."
+
+[MSG$013899,99]
+Inoue "We're...we're really sorry about what we did to you, Minase. Come on, let's be friends now."
+
+[MSG$013916,16]
+Minase "No way."
+
+[MSG$013940,58]
+Inoue "Hey, don't be like that. We're buddies, aren't we?"
+
+[MSG$013994,43]
+Inoue "Come on...listen, I'll do anything!"
+
+[MSG$0139D9,12]
+Minase "..."
+
+[MSG$0139F2,36]
+I stare at this loser, my eyes cold.
+
+[MSG$013A1B,78]
+He'll do anything, huh? In that case, why don't I make him pay for everything?
+
+[MSG$013A9E,44]
+Minase "You said you'll do anything, right?"
+
+[MSG$013AE4,74]
+Inoue "Sure, sure, that's right. Anything you say. You want money? Women?"
+
+[MSG$013B48,46]
+Minase "Go run through the school butt-naked."
+
+[MSG$013B90,27]
+I say this in a cold voice.
+
+[MSG$013BB8,13]
+Inoue "What?"
+
+[MSG$013BDF,45]
+Inoue "You think I'd do something like that?"
+
+[MSG$013C26,46]
+Minase "Oh, you don't want to? That's okay..."
+
+[MSG$013C6E,65]
+Minase "But I'm gonna have to break a few of your bones, then..."
+
+[MSG$013CC9,58]
+Hearing this, the blood slowly drains out of Inoue's face.
+
+[MSG$013D10,47]
+Inoue "Okay, I'll do it! Please, let me do it!"
+
+[MSG$013D59,35]
+Minase "You don't want to, though."
+
+[MSG$013D96,94]
+Inoue "That's not true. I was just thinking it would be great to run around the school naked!"
+
+[MSG$013E0E,31]
+Nobody would ever think that...
+
+[MSG$013E3A,38]
+Minase "Okay, then, why don't you go?"
+
+[MSG$013E9F,116]
+Hearing my cold words, Inoue gives up and sheds his clothes. When he's stark naked, he runs out of the storage room.
+
+[MSG$013F18,51]
+His huge prick dangles and bobs between his legs...
+
+[MSG$013F58,14]
+Inoue "Ahhhh!"
+
+[MSG$013F80,49]
+With a loud cry, Inoue races inside the building.
+
+[MSG$013FBE,36]
+Voice "Augh! What's wrong with you?"
+
+[MSG$013FFC,38]
+Guy "Shit! Don't come near me, freak!"
+
+[MSG$01403C,87]
+After Inoue disappears inside, I can hear shrieks and yelps from all over the building.
+
+[MSG$014098,55]
+The sight of Inoue's naked body is causing an uproar...
+
+[MSG$0140EF,44]
+Minase "You said you'll do anything, right?"
+
+[MSG$014135,74]
+Inoue "Sure, sure, that's right. Anything you say. You want money? Women?"
+
+[MSG$014199,81]
+Minase "Okay, then, maybe I'll make you stand in front of the school gate naked."
+
+[MSG$014204,27]
+I say this in a cold voice.
+
+[MSG$01422C,13]
+Inoue "What?"
+
+[MSG$014253,45]
+Inoue "You think I'd do something like that?"
+
+[MSG$01429A,46]
+Minase "Oh, you don't want to? That's okay..."
+
+[MSG$0142E2,65]
+Minase "But I'm gonna have to break a few of your bones, then..."
+
+[MSG$01433D,58]
+Hearing this, the blood slowly drains out of Inoue's face.
+
+[MSG$014384,47]
+Inoue "Okay, I'll do it! Please, let me do it!"
+
+[MSG$0143CD,35]
+Minase "You don't want to, though."
+
+[MSG$01440A,23]
+Inoue "That's not true.
+
+[MSG$014426,102]
+I was just thinking it would be great if I could stand in front of the school gate and expose myself."
+
+[MSG$0144A6,31]
+Nobody would ever think that...
+
+[MSG$0144D2,93]
+Minase "In that case, while you're at it, why don't you jerk off, too? In front of everyone?"
+
+[MSG$014549,30]
+Inoue "You...you little shit!"
+
+[MSG$014581,47]
+Minase "Oh, I see...you don't want to do it..."
+
+[MSG$0145CA,40]
+Inoue freezes when he sees my cold gaze.
+
+[MSG$0145FF,80]
+Inoue "Oh, come on, I was just kidding! I'll jerk off like there's no tomorrow!"
+
+[MSG$014669,38]
+Minase "Okay, then, why don't you go?"
+
+[MSG$0146CD,116]
+Hearing my cold words, Inoue gives up and sheds his clothes. When he's stark naked, he runs out of the storage room.
+
+[MSG$014746,51]
+His huge prick dangles and bobs between his legs...
+
+[MSG$014786,13]
+Inoue "Ahhh!"
+
+[MSG$0147AD,58]
+I can hear Inoue's brave cry from the storage room window.
+
+[MSG$0147F4,44]
+Voice "Augh! What does he think he's doing?"
+
+[MSG$01483B,47]
+Voice "Can you believe the size of that thing?"
+
+[MSG$014885,39]
+Voice "Gross! Something just came out!"
+
+[MSG$0148C7,114]
+After Inoue leaves, I hear shrieks and yelps from outside. The sight of Inoue's naked body is causing an uproar...
+
+[MSG$014946,22]
+Minase "What a moron."
+
+[MSG$014977,44]
+With that, I walk towards Imari's limp body.
+
+[MSG$0149A8,61]
+Then I fix her clothes and carry her out of the storage room.
+
+[MSG$0149F2,78]
+Imari ended up like this because she tried to save me. So saving her in return
+
+[MSG$014A45,24]
+|is my responsibility...
+
+[MSG$014A6A,28]
+April 24 - Medical Treatment
+
+[MSG$014B6B,12]
+Door opening
+
+[MSG$014B84,74]
+I carry the limp Imari into the infirmary, supporting her by the shoulder.
+
+[MSG$014BDB,22]
+Click, click, click...
+
+[MSG$014BFE,67]
+Inside the infirmary, Dr. Kitami is at her desk typing on a laptop.
+
+[MSG$014C80,14]
+Kitami "Well!"
+
+[MSG$014CA8,57]
+She notices us, quickly closes her laptop and walks over.
+
+[MSG$014CE6,101]
+She's got that sexy vibe as usual as she looks us over. It feels like she's licking us with her gaze.
+
+[MSG$014D58,30]
+Kitami "What happened to you?"
+
+[MSG$014D90,32]
+Minase "Fell down the stairs..."
+
+[MSG$014DCA,53]
+I hand Imari over to her, giving her a random excuse.
+
+[MSG$014E0C,21]
+Kitami "Both of you?"
+
+[MSG$014E3B,69]
+Kitami "Really, now...Oh, well, it doesn't matter. Let me treat you."
+
+[MSG$014F2B,9]
+.........
+
+[MSG$014FBD,16]
+Minase "Ow! Ow!"
+
+[MSG$014FE7,86]
+Kitami "Come on, sit still. I can't disinfect the wound if you move around like that."
+
+[MSG$015057,27]
+I let her disinfect my cut.
+
+[MSG$015077,37]
+It's the scrape I got up on the roof.
+
+[MSG$0150A9,83]
+Imari is in bed. I guess she's still in a daze, because as soon as she hits the bed
+
+[MSG$015101,18]
+|she falls asleep.
+
+[MSG$015120,71]
+It'll probably be better to let her rest until she gets back to normal.
+
+[MSG$015174,71]
+Kitami "But how come she's in worse shape than you, when you're a guy?"
+
+[MSG$0151D5,31]
+Kitami "Did she fight for you?"
+
+[MSG$01520F,61]
+She talks to me as she tends to my wounds. I grimace in pain.
+
+[MSG$015259,13]
+Minase "Huh?"
+
+[MSG$015280,44]
+Kitami "You can see a lot from this window."
+
+[MSG$0152C6,33]
+Kitami glances toward the window.
+
+[MSG$0152F4,69]
+True, she probably had a good view of the rooftop from this window...
+
+[MSG$01533E,26]
+So she knows everything...
+
+[MSG$015365,72]
+Minase "I was getting beaten up, and Imari jumped in to try to save me."
+
+[MSG$0153C7,68]
+I confess to Kitami, seeing that there's no sense in covering it up.
+
+[MSG$015418,55]
+Kitami "So the knight got rescued by the princess, eh?"
+
+[MSG$015469,52]
+Kitami "And that's why you both ended up like this?"
+
+[MSG$0154B7,12]
+Minase "..."
+
+[MSG$0154D0,73]
+Kitami "I see...so the magician isn't really what he's cracked up to be."
+
+[MSG$015533,21]
+Minase "Magician...?"
+
+[MSG$015562,88]
+Kitami "Everyone's talking about your magic spells. I hear they're extremely effective?"
+
+[MSG$0155D4,89]
+Delinquent students are always hanging out in the infirmary, she must've heard the rumors
+
+[MSG$015632,13]
+|from them...
+
+[MSG$01564C,80]
+Kitami "Just like those students from 12 years ago. They were magicians, too..."
+
+[MSG$0156B6,66]
+Minase "You mean you know about that? What happened 12 years ago?"
+
+[MSG$015712,61]
+Kitami "Yes, of course I do. I was a student here back then."
+
+[MSG$015769,30]
+I'd never heard that before...
+
+[MSG$015794,101]
+Kitami "They were the talk of the school, just like you are now. The resurrected coven of witches..."
+
+[MSG$015813,45]
+Minase "And what happened to those students?"
+
+[MSG$01585A,97]
+Kitami "They all died...The rumor was that they'd all been possessed by a demon who killed them."
+
+[MSG$0158D5,50]
+She says this calmly with a cold look on her face.
+
+[MSG$015914,82]
+Kitami "Look at you, so serious. Don't tell you really believe a story like that?"
+
+[MSG$015980,26]
+Minase "No...no, I don't."
+
+[MSG$0159D3,41]
+I look down to escape from Kitami's gaze.
+
+[MSG$015A09,36]
+Then I remember something important.
+
+[MSG$015A42,21]
+That's right...Saeki!
+
+[MSG$015A64,62]
+I'd forgotten all about her thanks to the incident with Inoue.
+
+[MSG$015AA7,67]
+I've got to get hold of her, now that I know she swapped the books.
+
+[MSG$015AF7,81]
+Everything started going out of whack since I let her get her hands on that book.
+
+[MSG$015B4D,76]
+If only I'd had the book on me, I might've been able to get away from Inoue.
+
+[MSG$015BA6,83]
+I don't know what she's got in mind, but I've got to get that book back from her...
+
+[MSG$015C06,69]
+I've got to get it back before she gets closer to the book's power...
+
+[MSG$015C58,83]
+I'm sure she has no rationale. It's too freaky to see her immerse herself in magic.
+
+[MSG$015CB0,85]
+Once she gets a taste of that book's power, there's no question that she'll abuse it.
+
+[MSG$015D12,62]
+And if I don't have that book, I'll never be able to stop her.
+
+[MSG$015D55,30]
+It's just like 12 years ago...
+
+[MSG$015D80,31]
+Kitami "All right, you're set."
+
+[MSG$015DB9,48]
+With that, Kitami applies a bandage to my wound.
+
+[MSG$015DF6,36]
+I look at it and slide off my chair.
+
+[MSG$015E27,76]
+I see that afternoon classes have already ended. There's a chance that Saeki
+
+[MSG$015E78,36]
+|might've already left the school...
+
+[MSG$015EA9,23]
+Minase "I'm going now."
+
+[MSG$015EDA,36]
+Kitami "What? But what about Imari?"
+
+[MSG$015F18,22]
+Minase "I'll be back."
+
+[MSG$015F48,56]
+That's all I say to her as I hurry out of the infirmary.
+
+[MSG$015F8D,23]
+April 24 - After School
+
+[MSG$016089,12]
+Door opening
+
+[MSG$0160A2,68]
+I enter the classroom and grab hold of Murai, who's standing nearby.
+
+[MSG$016125,29]
+Minase "Have you seen Saeki?"
+
+[MSG$01615C,56]
+Murai "Saeki? I haven't seen her since lunch...but why?"
+
+[MSG$0161AF,43]
+Just as I thought, she's already escaped...
+
+[MSG$0161E7,33]
+But her bag is still on her desk.
+
+[MSG$016215,47]
+Murai "She's probably in the campus infirmary."
+
+[MSG$01625E,77]
+No way. There was no sign of her in the infirmary. Where the hell did she go?
+
+[MSG$0162B8,14]
+Minase "Shit!"
+
+[MSG$0162E0,72]
+Murai "Oh, by the way, Minase, I have to talk to you about something..."
+
+[MSG$016342,31]
+Murai "Hey, are you listening?"
+
+[MSG$0163F7,37]
+Ignoring her, I rush out of the room.
+
+[MSG$016429,37]
+I head straight for the faculty room.
+
+[MSG$016453,34]
+I have a bad feeling about this...
+
+[MSG$0164FE,12]
+Door opening
+
+[MSG$016517,50]
+I open the door and head straight for the key box.
+
+[MSG$0165A7,5]
+Click
+
+[MSG$016635,19]
+Minase "It's gone!'
+
+[MSG$016662,46]
+There's no sign of the key to the Secret Room.
+
+[MSG$016695,46]
+I look everywhere, but there's no trace of it.
+
+[MSG$0166D0,55]
+Minase "I knew it...Saeki's gone down to the basement."
+
+[MSG$016721,22]
+That's got to be it...
+
+[MSG$01673C,70]
+Saeki must've gone downstairs to the basement with that book. But why?
+
+[MSG$01678F,51]
+Don't tell me she's going to try out that ritual...
+
+[MSG$0167C7,36]
+That book's got my notes in it, too.
+
+[MSG$0167F8,56]
+No, wait...I haven't finished deciphering that page yet.
+
+[MSG$016835,65]
+Surely even Saeki couldn't manage to decipher it in half a day...
+
+[MSG$016883,51]
+I have no choice but to go downstairs and find out.
+
+[MSG$0168BB,86]
+I don't mind going down there, but I don't like the idea of her taking the book there.
+
+[MSG$01691E,108]
+And worst of all, it's Saeki who took it. That's like jumping into a fire with a bomb strapped to your body.
+
+[MSG$016A21,55]
+I stop in front of the door with the ''No Entry'' sign.
+
+[MSG$016A62,96]
+I can see a faint light coming through the transom. Someone's definitely gone down those stairs.
+
+[MSG$016AC7,30]
+I put my hand on the doorknob.
+
+[MSG$016AF2,8]
+Click...
+
+[MSG$016B07,13]
+Minase "Huh?"
+
+[MSG$016B2E,13]
+Click, click!
+
+[MSG$016B48,12]
+It's locked.
+
+[MSG$016B61,41]
+There's no way this door could be locked.
+
+[MSG$016B8F,65]
+Did she lock it from inside? That means Saeki's still down there.
+
+[MSG$016BDD,14]
+Minase "Shit!"
+
+[MSG$016C05,20]
+Click, click, click!
+
+[MSG$016C26,89]
+I twist the knob over and over, venting all my frustration on the locked door. Of course,
+
+[MSG$016C84,29]
+that doesn't get me anywhere.
+
+[MSG$016CAE,39]
+Kitami "What are you doing down there?"
+
+[MSG$016CEF,9]
+Flinch...
+
+[MSG$016D88,37]
+Kitami is looking at me, exasperated.
+
+[MSG$016DBA,42]
+Kitami "Are you trying to break the door?"
+
+[MSG$016DFE,83]
+Kitami "You leave Imari lying in my office, and I find you in a place like this..."
+
+[MSG$016E6B,53]
+Hearing her, I quickly take my hand off the doorknob.
+
+[MSG$016EAD,74]
+Kitami "That room is forbidden. Students aren't allowed to go down there."
+
+[MSG$016F11,57]
+Kitami "Or do you have some kind of business down there?"
+
+[MSG$016F64,28]
+Minase "Uh, no, not really."
+
+[MSG$016F9A,71]
+Kitami "Don't tell me you had to go down there after hearing my story?"
+
+[MSG$016FFB,27]
+Minase "No, that's not it."
+
+[MSG$017030,100]
+Minase "I just saw some light coming from down there, so I tried to open the door, but it's locked."
+
+[MSG$0170AE,52]
+I give her the most plausible excuse I can think of.
+
+[MSG$0170EF,65]
+Kitami "That's strange. This door shouldn't be locked, you know."
+
+[MSG$01714A,89]
+Kitami "Never mind, I'll go down there and check it out. You go back and sit with Imari."
+
+[MSG$0171BD,14]
+Minase "What?"
+
+[MSG$0171E5,23]
+But that's pointless...
+
+[MSG$017209,76]
+Kitami "You two are close, aren't you? Then you should take care of her, and
+
+[MSG$01725A,32]
+walk her home, don't you think?"
+
+[MSG$017294,55]
+She looks exasperated. True, I do owe Imari big time...
+
+[MSG$0172D8,21]
+Minase "All right..."
+
+[MSG$017307,21]
+Reluctantly, I leave.
+
+[MSG$017329,21]
+Kitami "Go on, then."
+
+[MSG$017358,24]
+Kitami "Come on, hurry!"
+
+[MSG$0173AE,21]
+Reluctantly, I leave.
+
+[MSG$0173C8,70]
+I'm anxious about Saeki, but I can't go down there in front of Kitami.
+
+[MSG$01741B,90]
+Besides, as long as the door's locked, I can't do anything but wait for Saeki to come out.
+
+[MSG$017482,42]
+I have no choice but to retreat for now...
+
+[MSG$0174B1,77]
+If I can't go down there now, then I might as well just talk to her tomorrow.
+
+[MSG$01750B,76]
+Anyway, Saeki might not have gone downstairs, and even if she is down there,
+
+[MSG$01755C,79]
+she can't possibly perform that ritual without having deciphered it completely.
+
+[MSG$0175B0,65]
+If she realizes she can't do it, then I'm sure she'll give it up.
+
+[MSG$0175FE,80]
+Next time I see her, I'm going to get that book back even if I have to deck her.
+
+[MSG$017653,50]
+The damage should still be slight if I act fast...
+
+[MSG$01768A,66]
+I make my decision and head toward the infirmary to be with Imari.
+
+[MSG$0176D9,15]
+April 24 - Home
+
+[MSG$0177D7,14]
+The door opens
+
+[MSG$0177F2,33]
+I return to the campus infirmary.
+
+[MSG$017818,22]
+Imari is still asleep.
+
+[MSG$0178B7,19]
+Imari "Zzz..zzz..."
+
+[MSG$0178E4,63]
+Imari is sleeping peacefully. You can hear her light breathing.
+
+[MSG$017928,62]
+I can't believe she can sleep so deeply after what happened...
+
+[MSG$017973,50]
+Minase "Imari...wake up! We're going home soon..."
+
+[MSG$0179BF,66]
+I'm impressed with Imari's ability to sleep as I shake her gently.
+
+[MSG$017A0E,19]
+Imari "Zzz..zzz..."
+
+[MSG$017A3B,53]
+Minase "I said wake up! Or I'm gonna leave you here."
+
+[MSG$017A8A,19]
+Imari "Zzz..zzz..."
+
+[MSG$017AB7,12]
+Minase "..."
+
+[MSG$017AD0,28]
+Minase "Wake up! You idiot."
+
+[MSG$017B06,19]
+Imari "Zzz..zzz..."
+
+[MSG$017B33,35]
+Minase "Why don't you kiss my ass?"
+
+[MSG$017B70,19]
+Imari "Zzz..zzz..."
+
+[MSG$017B9D,12]
+Minase "..."
+
+[MSG$017BB6,71]
+I'm ragging her mercilessly, but she still shows no signs of waking up.
+
+[MSG$017C02,25]
+That's unusual for Imari.
+
+[MSG$017C28,63]
+Who is she to talk, anyway? She's not waking up at all herself!
+
+[MSG$017C74,19]
+Why don't I just...
+
+[MSG$017CB4,31]
+Minase "Hey, wake the hell up!"
+
+[MSG$017CED,19]
+Thud, thud, thud...
+
+[MSG$017D0D,20]
+I punch her breasts.
+
+[MSG$017D2E,32]
+They jiggle like punching balls.
+
+[MSG$017D53,35]
+Let's see how effective that was...
+
+[MSG$017D83,19]
+Imari "Zzz..zzz..."
+
+[MSG$017DB0,8]
+No good.
+
+[MSG$017DC5,72]
+Minase "Tougher than I thought. I'll have to do something more drastic."
+
+[MSG$017E27,25]
+Tickle, tickle, tickle...
+
+[MSG$017E4D,34]
+Next, I tickle Imari on her sides.
+
+[MSG$017E7C,19]
+Imari "Zzz..zzz..."
+
+[MSG$017EA9,25]
+This doesn't work either.
+
+[MSG$017ECF,45]
+Minase "Don't be so unreasonable, Take that!"
+
+[MSG$017F17,9]
+Massaging
+
+[MSG$017F2D,30]
+I start massaging her breasts.
+
+[MSG$017F58,36]
+Huh...they're bigger than I thought.
+
+[MSG$017F81,43]
+So she's gotten big without my noticing it.
+
+[MSG$017FB1,14]
+What the hell.
+
+[MSG$017FF3,19]
+Minase "(snickers)"
+
+[MSG$018020,29]
+This is a golden opportunity.
+
+[MSG$018042,63]
+Now I can get back at her for always waking me up so violently.
+
+[MSG$01808E,81]
+I get a magic marker from the desk, remove the cap and bring it closer and closer
+
+[MSG$0180E4,19]
+|to Imari's face...
+
+[MSG$018104,38]
+Minase "Now you'll know how I feel..."
+
+[MSG$018144,25]
+Squeak, squeak, squeak...
+
+[MSG$0181F3,44]
+Minase "I think I'll let you off with this."
+
+[MSG$018239,16]
+Heh, heh, heh...
+
+[MSG$01824E,50]
+I can't wait to see Imari's face when she notices.
+
+[MSG$01828D,14]
+Imari "Mmm..."
+
+[MSG$0182B5,85]
+I quickly move my hands away from Imari's face as she starts to regain consciousness.
+
+[MSG$01830F,47]
+If she finds out what I did now she'll kill me.
+
+[MSG$01834B,20]
+Imari "Mmm...mmm..."
+
+[MSG$018486,10]
+Getting up
+
+[MSG$01849D,31]
+Imari "What am I doing in bed?"
+
+[MSG$0184D6,14]
+Imari sits up.
+
+[MSG$0184F1,5]
+Whoa!
+
+[MSG$018503,29]
+Imari's not wearing anything.
+
+[MSG$018525,34]
+Her underwear is dazzling white...
+
+[MSG$018554,70]
+Imari "Oh, right, I just remembered! It was that guy named Shinjou..."
+
+[MSG$0185B4,83]
+Imari "Grr! I'm so mad he beat me! Next time I see him I'm going to kick his butt!"
+
+[MSG$018621,75]
+Imari's trembling from rage as she remembers what went down on the rooftop.
+
+[MSG$018679,84]
+Looks like she doesn't remember anything that happened after she lost consciousness.
+
+[MSG$0186D2,88]
+I'm glad, because it would complicate things if she remembered what happened in the gym.
+
+[MSG$018737,65]
+Imari "Oh, no, look at the time! The club meeting's over by now!"
+
+[MSG$018792,53]
+Imari "Huh? What's wrong? Why are you staring at me?"
+
+[MSG$0187E1,53]
+Imari notices that I'm staring at her and looks down.
+
+[MSG$018823,16]
+Minase "That..."
+
+[MSG$01884D,23]
+I point to Imari's bra.
+
+[MSG$018871,12]
+Imari "Huh?"
+
+[MSG$018897,11]
+Imari "..."
+
+[MSG$0188AF,48]
+Imari looks down at her body for the first time.
+
+[MSG$0189F7,47]
+Imari "Augh! Don't look at me! Why am I naked?"
+
+[MSG$018A40,24]
+Imari "Don't tell me..."
+
+[MSG$018A72,19]
+Imari stares at me.
+
+[MSG$018A8A,22]
+As if I'm the culprit.
+
+[MSG$018AAD,49]
+Minase "It wasn't me! That's a false accusation!"
+
+[MSG$018AF8,34]
+Imari "I don't know about that..."
+
+[MSG$018B34,96]
+I'm being wrongly accused. All I did was come back to wake her up. And this is the thanks I get.
+
+[MSG$018B99,57]
+Anyway, Kitami didn't have to take off all her clothes...
+
+[MSG$018BDF,55]
+Imari "Stop staring at me, already! Close the curtain!"
+
+[MSG$018C30,5]
+Snap!
+
+[MSG$018C42,35]
+I close the curtain around her bed.
+
+[MSG$018C72,77]
+Imari, clad only in her underwear, and I gaze at each other in the dim light.
+
+[MSG$018CCC,25]
+Quiver, quiver, quiver...
+
+[MSG$018CF2,24]
+Imari "Get out of here!"
+
+[MSG$018DB9,7]
+Thwack!
+
+[MSG$018DCD,19]
+Roll, roll, roll...
+
+[MSG$018E69,76]
+She kicks me sharply and I go flying through the curtain and onto the floor.
+
+[MSG$018EC2,67]
+I was just trying to lift her spirits, and my plan backfired on me.
+
+[MSG$018F0A,57]
+But if she's got that much energy, she must be all right.
+
+[MSG$01909C,28]
+Imari "You saw, didn't you?"
+
+[MSG$0190D2,15]
+Minase "I saw."
+
+[MSG$0190FB,31]
+Imari and I walk home together.
+
+[MSG$019127,18]
+Imari "Pervert..."
+
+[MSG$019153,94]
+Minase "Look, I told you! It was Kitami who undressed you, and what happened was an accident."
+
+[MSG$0191CB,83]
+Imari "Oh, never mind. There's nothing I can do now, since you've already seen me."
+
+[MSG$019238,83]
+Imari "And besides, it looks like you saved me from those jerks after the fight..."
+
+[MSG$0192A6,45]
+Why does she have to blame me for everything?
+
+[MSG$0192E0,71]
+Imari "If you buy me some ice cream on the way home, I'll forgive you."
+
+[MSG$019341,28]
+Imari "A triple, of course."
+
+[MSG$019377,107]
+She's talking about this ice cream in a shop on the way home; it's 3 layers of mint, vanilla and chocolate.
+
+[MSG$0193EF,92]
+Imari has a weird ritual: she eats one layer a day, taking 3 days to finish the huge carton.
+
+[MSG$019458,25]
+Minase "Are you serious?"
+
+[MSG$01948B,62]
+Minase "Anyway, it's cold out now. It's not ice cream season!"
+
+[MSG$0194E3,93]
+Imari "It doesn't matter. Connoisseurs eat cold stuff in cold weather, didn't you know that?"
+
+[MSG$01955A,39]
+Imari "Come on, it's not a lot to ask."
+
+[MSG$01959B,30]
+Minase "All right, all right."
+
+[MSG$0195D3,66]
+Exasperated, I check my pockets to see how much change I've got...
+
+[MSG$01961A,45]
+This is why women are such a pain in the ass.
+
+[MSG$019672,50]
+Imari "You know what, I just realized something...
+
+[MSG$0196A9,48]
+Everyone who passes by seems to be staring at me
+
+[MSG$0196DE,20]
+|for some reason..."
+
+[MSG$01970C,9]
+Whoops...
+
+[MSG$019722,12]
+Minase "..."
+
+[MSG$01973B,42]
+Imari "Is there something funny about me?"
+
+[MSG$01977F,23]
+Imari "Well? Is there?"
+
+[MSG$0197B0,49]
+Yes, there's something extremely weird about her.
+
+[MSG$0197EE,32]
+Minase "I don't see anything..."
+
+[MSG$019828,73]
+Minase "I bet everyone's staring at you because you're so pretty, Imari."
+
+[MSG$01988B,16]
+Heh, heh, heh...
+
+[MSG$0198A0,52]
+I say this even though I don't mean it in the least.
+
+[MSG$019913,46]
+Imari "Really? Do you really think that's it?"
+
+[MSG$01995B,31]
+Imari blushes and laughs shyly.
+
+[MSG$01997F,89]
+Seeing her blush like that with the drawing on her face makes her look incredibly stupid.
+
+[MSG$0199E5,46]
+Imari "I see...everyone thinks I'm cute, huh?"
+
+[MSG$019A2D,38]
+Imari "Am I really that good-looking?"
+
+[MSG$019A6D,79]
+So saying, Imari stops to look at her reflection in the window of a parked car.
+
+[MSG$019AC1,21]
+Moron, don't do that!
+
+[MSG$019AE3,21]
+Imari "Hahaha...HUH?"
+
+[MSG$019B44,13]
+Imari "What?"
+
+[MSG$019B6B,11]
+Imari "..."
+
+[MSG$019B83,38]
+Imari sees her reflection and freezes.
+
+[MSG$019BAE,17]
+Shit, I'm busted.
+
+[MSG$019BCC,15]
+Imari "MINASE!"
+
+[MSG$019BF5,25]
+Quiver, quiver, quiver...
+
+[MSG$019C1B,44]
+Imari starts shaking like a malaria patient.
+
+[MSG$019C4C,19]
+This is really bad.
+
+[MSG$019C6C,27]
+Imari "I'm gonna kill you!"
+
+[MSG$019CA1,21]
+April 24 - Night/Home
+
+[MSG$019DC3,5]
+Click
+
+[MSG$019DD5,18]
+Minase "I'm home."
+
+[MSG$019E01,40]
+I call out as I stumble inside my house.
+
+[MSG$019E36,71]
+I'm all beaten up from the torture Imari subjected me to on the street.
+
+[MSG$019E8A,97]
+Imari was so carried away by her rage that she used me as a punching bag and went home in a huff.
+
+[MSG$019EFE,18]
+Minase "I'm home."
+
+[MSG$019F2A,61]
+I reach home as usual, take off my shoes and head to my room.
+
+[MSG$019F74,26]
+April 24 - Night/Your Room
+
+[MSG$01A026,64]
+I sink down into my chair, exhausted, and open my bag as always.
+
+[MSG$01A073,48]
+Minase "Oh, that's right, Saeki's got the book."
+
+[MSG$01A0BD,49]
+There's an empty space inside my bag again today.
+
+[MSG$01A0FB,65]
+Minase "I've got to get that book back, no matter what it takes."
+
+[MSG$01A156,54]
+Damn that Saeki, what the hell's she thinking, anyway?
+
+[MSG$01A191,52]
+Thanks to Saeki, I got into a load of trouble today.
+
+[MSG$01A1D2,92]
+I start thinking about all the complaints I can make to Saeki tomorrow to get the book back,
+
+[MSG$01A233,21]
+and flop onto my bed.
+
+[MSG$01A255,15]
+Minase "(sigh)"
+
+[MSG$01A27E,108]
+All those notes I took so painstakingly are still stuck inside that book. I have absolutely nothing on hand.
+
+[MSG$01A2F7,75]
+The last few days, I'd been engrossed in that book, and now that it's gone,
+
+[MSG$01A347,36]
+everything seems so anticlimactic...
+
+[MSG$01A378,68]
+Now that I think of it, ever since I found that book, it's owned me.
+
+[MSG$01A3C9,50]
+I lie there in a daze. I can feel time going by...
+
+[MSG$01A42F,58]
+After I've had dinner and taken a bath, I go to bed early.
+
+[MSG$01A476,81]
+Why not just forget about that book for one night and get a good night's sleep...
+
+[MSG$01A4CC,38]
+Whatever happens tomorrow will happen.
+
+[MSG$01A527,18]
+..................
+
+[MSG$01A546,12]
+............
+
+[MSG$01A55F,6]
+......
+
+[MSG$01A57E,43]
+I look down to get away from Kitami's gaze.
+
+[MSG$01A5B6,106]
+It's not a question of believing...I've seen that basement room. It would be impossible not to believe it.
+
+[MSG$01A62D,15]
+That's right...
+
+[MSG$01A641,54]
+I remember that I was planning to go down there again.
+
+[MSG$01A68C,98]
+Now that I've deciphered that ritual from 12 years ago, I'm going down there to have another look.
+
+[MSG$01A6FB,50]
+The only clues I have are that room and that book.
+
+[MSG$01A732,107]
+As long as I'm going to use that Book of Magic, the incident from 12 years ago will always stand in my way.
+
+[MSG$01A7AA,74]
+It might be dangerous to keep that book unless I find out what happened...
+
+[MSG$01A7F9,94]
+I can't even deny the fact that there's a chance I might come to the same end as those others.
+
+[MSG$01A864,31]
+Kitami "All right, you're set."
+
+[MSG$01A89D,48]
+With that, Kitami applies a bandage to my wound.
+
+[MSG$01A8DA,36]
+I look at it and slide off my chair.
+
+[MSG$01A90B,82]
+I see that afternoon classes have already ended. It might be the perfect timing...
+
+[MSG$01A96A,23]
+Minase "I'm going now."
+
+[MSG$01A99B,36]
+Kitami "What? But what about Imari?"
+
+[MSG$01A9D9,22]
+Minase "I'll be back."
+
+[MSG$01AA09,56]
+That's all I say to her as I hurry out of the infirmary.
+
+[MSG$01AA4E,23]
+April 24 - After School
+
+[MSG$01AAE4,14]
+The door opens
+
+[MSG$01AB7C,98]
+Book in hand, I enter the faculty room, and quickly pick out the key to the basement storage room.
+
+[MSG$01ABE3,48]
+The key's lying right there where I last saw it.
+
+[MSG$01AC20,88]
+I put it in my pocket, quickly leave the faculty room and head for the 1st floor stairs.
+
+[MSG$01AD01,76]
+I make sure nobody's around, then quietly open the door marked ''No Entry.''
+
+[MSG$01ADD2,97]
+I flick on the switch, turning on the stair lights. As soon as I do, I can make out the dimly lit
+
+[MSG$01AE38,39]
+|outline of the stairs in the darkness.
+
+[MSG$01AE6C,31]
+Slowly, I walk down the stairs.
+
+[MSG$01AE98,19]
+Thump, thump, thump
+
+[MSG$01AF34,79]
+When I get to the bottom of the stairs, my way is blocked by a cold steel door.
+
+[MSG$01AF88,64]
+I take the key from my pocket, stick it in the keyhole and turn.
+
+[MSG$01AFD5,8]
+Click...
+
+[MSG$01AFEA,5]
+Creak
+
+[MSG$01AFFC,32]
+I open the steel door and enter.
+
+[MSG$01B029,24]
+April 24 - Basement Room
+
+[MSG$01B140,75]
+Using the lighter in my pocket, I manage to light a candle in the darkness.
+
+[MSG$01B190,68]
+I can now make out the unchanged sight of the altar in the darkness.
+
+[MSG$01B1E1,80]
+This is where those students summoned a demon for the last time, 12 years ago...
+
+[MSG$01B23E,37]
+This place still gives me the creeps.
+
+[MSG$01B270,75]
+The moldy, cold air, the stains all over the room, and the magic circles...
+
+[MSG$01B2C0,53]
+They're all here as if they've been frozen in time...
+
+[MSG$01B353,78]
+I walk toward the center of the room, gazing at the Book of Magic in my hands.
+
+[MSG$01B3AE,82]
+The last ritual that leads those who've read this book to their final destination.
+
+[MSG$01B40D,82]
+The power all magicians dream about. Controlling evil, making it do their bidding.
+
+[MSG$01B464,41]
+Just like King Solomon, long, long ago...
+
+[MSG$01B49A,63]
+This room has borne witness to how those people met their ends.
+
+[MSG$01B4E6,31]
+I start investigating the room.
+
+[MSG$01B50A,113]
+Before, I didn't know what to expect, so I was confused. That was why I wasn't able to give the room a good look.
+
+[MSG$01B588,45]
+But I don't really find anything substantial.
+
+[MSG$01B5C2,70]
+The only thing I do find is that there are seven big bloodstains here.
+
+[MSG$01B615,53]
+If I remember correctly, Saeki had said there were 6.
+
+[MSG$01B64F,82]
+But that can be explained by assuming that Saeki merely got the wrong information.
+
+[MSG$01B6AE,83]
+My findings are below expectations, and I stand there at a loss in the silent room.
+
+[MSG$01B797,113]
+I decide to try something else and unwrap the book. Flipping through the pages, I find the section about rituals.
+
+[MSG$01B815,65]
+So all I have to help me find the truth is this book after all...
+
+[MSG$01B863,36]
+I kick away the dust from the floor.
+
+[MSG$01B894,84]
+The dust rises into the air, and I can make out the clear outline of a magic circle.
+
+[MSG$01B8ED,73]
+I give it a closer look, and I find it's the same as the one in the book.
+
+[MSG$01B943,57]
+Then I pick up the cross-shaped sword lying on the floor.
+
+[MSG$01B981,43]
+The letter ''A'' is engraved on the pommel.
+
+[MSG$01B9B9,61]
+I grip it in my hands, and slowly step into the magic circle.
+
+[MSG$01BA80,95]
+I have the sword in one hand, and the book in the other. I try out the ritual at the beginning.
+
+[MSG$01BAEC,78]
+I trace the edge of the white circle on the floor with the point of the sword.
+
+[MSG$01BB3F,97]
+Of course, I'm only doing this in a casual way. I have no intention of really opening the gate...
+
+[MSG$01BBAD,58]
+Before I realize it, I'm reciting the chant from the book.
+
+[MSG$01BBF4,54]
+Minase "O Lord, we are about to fly towards thy power.
+
+[MSG$01BC2F,44]
+O Lord, we ask that you recognize our work."
+
+[MSG$01BC75,50]
+In that moment, I can feel the tension in the air.
+
+[MSG$01BCAC,20]
+I continue to chant.
+
+[MSG$01BCCD,85]
+Minase "That power which we now use is no more than the dust that swirls in the wind.
+
+[MSG$01BD27,111]
+And we will be visited by an Angel of God. Extinguish the darkness, and pursue the Angel of God for  eternity."
+
+[MSG$01BDB0,62]
+Minase "Alpha, Omega, Elohi, Elohim, Sabaoth, Elion, Sadai..."
+
+[MSG$01BE08,53]
+There are no windows in this room, but I feel a wind.
+
+[MSG$01BE4A,67]
+I pay no attention and use the sword to trace the circle clockwise.
+
+[MSG$01BE9A,87]
+The sound of the blade scratching blends with the sound of my voice reciting the chant,
+
+[MSG$01BEF6,67]
+becoming a strange rhythm that echoes throughout the closed room...
+
+[MSG$01BF46,39]
+Forgetting myself, I continue to chant.
+
+[MSG$01BF7A,52]
+Minase "We shall open the book with the Seven Seals.
+
+[MSG$01BFB3,77]
+We shall see Satan as he falls to earth from heaven in a flash of lightning."
+
+[MSG$01C01A,96]
+Minase "You have endowed us with the power to smite dragons, scorpions, and all of your enemies,
+
+[MSG$01C07F,48]
+Nothing exists that can put us in harm's way..."
+
+[MSG$01C0C9,77]
+Minase "Elohi, Elohim, Sabaoth, Elion, Eschiros, Adonai, Jah, Tetragrammaton,
+
+[MSG$01C11B,7]
+Sadai!"
+
+[MSG$01C13C,56]
+Just then, the magic circle begins to glow bluish-white.
+
+[MSG$01C179,36]
+I sense this, and continue to chant.
+
+[MSG$01C1AA,50]
+But I'm about to reach the main part of the chant.
+
+[MSG$01C1E1,50]
+If I recite any more I won't be able to go back...
+
+[MSG$01C220,40]
+I realize this, yet I can't stop myself.
+
+[MSG$01C255,91]
+Minase "O living sacrifice, savior of the spirits, thou who shall open the gates of heaven.
+
+[MSG$01C2B5,77]
+Our enemies challenge us in battle, therefore we need thy power and thy aid."
+
+[MSG$01C31E,25]
+Voice "Stop right there!"
+
+[MSG$01C351,55]
+Just then, I hear a voice shouting at me from the door.
+
+[MSG$01C395,11]
+Minase "!?"
+
+[MSG$01C3AD,89]
+I stop chanting. I snap out of my trance and look to see whose voice it was I just heard.
+
+[MSG$01C49E,20]
+Minase "Dr. Kitami?"
+
+[MSG$01C4CC,34]
+Kitami is standing in the doorway.
+
+[MSG$01C4FB,61]
+But she was just in the infirmary. How could she be here now?
+
+[MSG$01C53D,32]
+Don't tell me she'd followed me?
+
+[MSG$01C56A,65]
+Also, now that I think about it, I'm sure that I locked the door.
+
+[MSG$01C5B0,32]
+So how the hell did she open it?
+
+[MSG$01C5DD,33]
+Minase "What are you doing here?"
+
+[MSG$01C618,46]
+Kitami "I came to rescue you, ignorant boy..."
+
+[MSG$01C660,67]
+Kitami "Don't tell me you were really intending to summon a demon?"
+
+[MSG$01C6BD,35]
+So saying, Kitami walks towards me.
+
+[MSG$01C6ED,51]
+Kitami "I haven't seen that book in a long time..."
+
+[MSG$01C73A,51]
+She says this as she gazes at the book I'm holding.
+
+[MSG$01C77A,49]
+Kitami "That book is very convenient, you know...
+
+[MSG$01C7B0,91]
+It contains many demonic secrets that were said to have been handed down from the Devil..."
+
+[MSG$01C825,114]
+Kitami "The fruit forbidden by God. Those humans from Biblical times ate the forbidden fruit and felt God's wrath.
+
+[MSG$01C89C,39]
+They were cursed and driven from Eden."
+
+[MSG$01C8DD,109]
+Kitami "Do you know why? Those who eat that fruit become God's equal. Because God was so fearful and jealous,
+
+[MSG$01C94F,82]
+he made it a sin for them to eat it and used that as a pretext to drive them out."
+
+[MSG$01C9BB,106]
+Kitami "In other words, that book is the forbidden fruit of knowledge. And those who partake of this fruit
+
+[MSG$01CA2A,38]
+|can become closer in stature to God."
+
+[MSG$01CA6A,30]
+Minase "How do you know that?"
+
+[MSG$01CAA2,55]
+I'm wary of Kitami's words as I grip the Book of Magic.
+
+[MSG$01CAE6,90]
+Kitami "Because I practice what's in that book. You tried to use it yourself, didn't you?"
+
+[MSG$01CB5A,88]
+Kitami "I'm the only one who witnessed that ritual 12 years ago from start to finish..."
+
+[MSG$01CBCC,38]
+With that, Kitami smiles eerily at me.
+
+[MSG$01CBF7,67]
+The way she puts it, it sounds like she was a member of that coven.
+
+[MSG$01CC47,59]
+Minase "Those people from back then all died, didn't they?"
+
+[MSG$01CC9C,59]
+Kitami "Yes, they died...It was a total bloodbath in here."
+
+[MSG$01CCF1,59]
+I don't get what she's saying. I stare at her suspiciously.
+
+[MSG$01CD31,70]
+Kitami's just trying to trick me. She's using her words to confuse me.
+
+[MSG$01CD84,96]
+Kitami "Don't look at me like that. Do I look like a ghost to you? I've got two feet, you know."
+
+[MSG$01CDFE,45]
+She gives me a cold smile when she says this.
+
+[MSG$01CE38,104]
+She said she uses the power, too. If that's the case, then does she know more about this book than I do?
+
+[MSG$01CEA5,102]
+Besides that, I can't believe there was someone else at school other than me who knew about this book.
+
+[MSG$01CF18,98]
+Minase "So, what kind of business does a witch have with me? Have you come to get this book back?"
+
+[MSG$01CF95,27]
+Kitami "No, that's not it."
+
+[MSG$01CFCA,94]
+Kitami "If you want that book, you can have it. But only if you're one of my kind, of course."
+
+[MSG$01D042,34]
+Minase "What do you mean by that?"
+
+[MSG$01D07E,33]
+Kitami "I've come to invite you."
+
+[MSG$01D0B9,19]
+Minase "Invite me?"
+
+[MSG$01D0E6,22]
+Kitami "That's right."
+
+[MSG$01D116,90]
+Kitami "You're someone who's been lured by magic, just like I was. I've come to save you."
+
+[MSG$01D18A,50]
+Kitami stares right into my eyes as she says this.
+
+[MSG$01D1C9,68]
+Kitami "You want to find out the truth. The truth about this world."
+
+[MSG$01D227,108]
+Kitami "To have the same power as a god. To obtain the kind of divine power no human can ever hope to have."
+
+[MSG$01D2DF,75]
+Kitami "If you desire it, you can claim it for yourself. Just like I have."
+
+[MSG$01D344,43]
+With that, Kitami's smile twists her mouth.
+
+[MSG$01D37C,11]
+Minase "!?"
+
+[MSG$01D394,71]
+Kitami "That's right...12 years ago, I acquired that power right here."
+
+[MSG$01D3F5,75]
+Kitami "12 years ago, I saw Hell with my own eyes. The Hell of this world."
+
+[MSG$01D45A,83]
+Kitami "And it was while I was in that Hell that I made a contract with the Devil."
+
+[MSG$01D4C7,73]
+You mean she acquired the power of the ruler of Hell during that ritual?!
+
+[MSG$01D51D,24]
+But that's impossible...
+
+[MSG$01D53A,34]
+I mean, wasn't it a failed ritual?
+
+[MSG$01D569,38]
+Kitami "You don't believe me, do you?"
+
+[MSG$01D5A9,84]
+Kitami "But I survived the ritual. I'm the sole survivor of that session in Hell..."
+
+[MSG$01D617,81]
+Kitami "Don't you want to have that power, too? More power than you can imagine?"
+
+[MSG$01D682,105]
+Kitami "It's the kind of power all magicians dream about. Every living entity will bow before you. If you
+
+[MSG$01D6F0,30]
+|wish it, the entire world..."
+
+[MSG$01D728,91]
+Kitami "If you do as I say, I'll show you that dream. Of course, you have nothing to fear."
+
+[MSG$01D79D,32]
+So saying, Kitami bites her lip.
+
+[MSG$01D7CA,62]
+Kitami "If you become my partner, it will take a load off me."
+
+[MSG$01D822,100]
+Kitami "You only have to do as I tell you. That's all you have to do to acquire power and pleasure."
+
+[MSG$01D8A0,98]
+Kitami "This is a transaction. You desire...I provide. But you have to satisfy my every desire..."
+
+[MSG$01D90F,69]
+Kitami "Just do as I say. Together we can usher in a new millennium."
+
+[MSG$01D96E,78]
+Kitami "Now then...what's it going to be, Minase? I want to hear your answer."
+
+[MSG$01DA16,21]
+Minase "All right..."
+
+[MSG$01DA45,58]
+Unable to put up any more resistance, I give in to Kitami.
+
+[MSG$01DA8C,52]
+At this point, I might as well fall as far as I can.
+
+[MSG$01DAC5,76]
+Even if I try to reject her advances in my mind, my body has another agenda.
+
+[MSG$01DB1E,52]
+From the moment I was convinced of the book's power,
+
+[MSG$01DB57,85]
+I knew somewhere deep down inside that I wouldn't be able to resist the temptation...
+
+[MSG$01DBB9,111]
+It turns out that I'm just like those students from 12 years ago. I won't be satisfied unless I go all the way.
+
+[MSG$01DC2D,32]
+Even if it's the road to hell...
+
+[MSG$01DC5A,31]
+Kitami "I'm glad you said yes."
+
+[MSG$01DC93,105]
+Kitami "All right, then, I'm going to teach you everything I know... About the wonders of the Dark Arts."
+
+[MSG$01DD16,29]
+Kitami "Now then, come here."
+
+[MSG$01DD4D,57]
+Unsteadily, I fall into her arms, offering no resistance.
+
+[MSG$01DD8B,56]
+She puts her hand on my neck, and her mouth over mine...
+
+[MSG$01DEC3,16]
+Minase "(gulps)"
+
+[MSG$01DEED,20]
+Slither...slither...
+
+[MSG$01DF0E,58]
+Soon, Kitami's long tongue pushes its way between my lips.
+
+[MSG$01DF55,15]
+Kitami "Mmm..."
+
+[MSG$01DF7E,18]
+Minase "(Gulping)"
+
+[MSG$01DFAA,72]
+Having someone else's tongue crawling all over the inside of my mouth...
+
+[MSG$01DFF7,27]
+It was a strange sensation.
+
+[MSG$01E01F,61]
+I'm unable to resist, so I just let her have her way with me.
+
+[MSG$01E061,52]
+And soon I'm intoxicated with the sweet sensation...
+
+[MSG$01E0A2,81]
+Our tongues are eventually entwined, and our saliva mixes together in our mouths.
+
+[MSG$01E0F8,19]
+I suck it greedily.
+
+[MSG$01E118,66]
+We stay that way for a long time, then Kitami finally releases me.
+
+[MSG$01E1E0,14]
+Minase 'Ah..."
+
+[MSG$01E208,29]
+We pull away from each other.
+
+[MSG$01E22A,77]
+There's a thread of our saliva stretching between us. It falls to the ground.
+
+[MSG$01E284,28]
+Minase "(breathing heavily)"
+
+[MSG$01E2BA,73]
+Kitami "Now then, get yourself out of those clothes. Show me all of you!"
+
+[MSG$01E396,26]
+I let Kitami undress me...
+
+[MSG$01E3BD,59]
+She tosses my pants, my jacket, and my shorts on the floor.
+
+[MSG$01E405,23]
+Soon I'm stark naked...
+
+[MSG$01E429,73]
+I'm embarrassed that my crotch is plain view, so I cover it with my hand.
+
+[MSG$01E47F,77]
+Kitami "You can't do anything if your hand's there. Come on, out of the way!"
+
+[MSG$01E55F,12]
+Minase "Oh!"
+
+[MSG$01E585,27]
+Kitami pushes my hand away.
+
+[MSG$01E5AD,58]
+Kitami "Well, now...you have pretty good equipment there."
+
+[MSG$01E601,49]
+Kitami "And it's already hard from anticipation."
+
+[MSG$01E64C,59]
+My prick has been erect since our kissing session just now.
+
+[MSG$01E694,47]
+Kitami "First of all, I'm going to eat you up."
+
+[MSG$01E6DD,59]
+With that, she pushes her lips against the tip of my prick.
+
+[MSG$01E79E,53]
+My rigid penis gradually disappears inside her mouth.
+
+[MSG$01E7E0,14]
+Minase "Whoa!"
+
+[MSG$01E808,55]
+Kitami skillfully manipulates my dick inside her mouth.
+
+[MSG$01E84C,13]
+She's good...
+
+[MSG$01E866,55]
+She wraps her hot tongue around my penis, sucking hard.
+
+[MSG$01E8A2,61]
+From time to time, she stimulates my urethra with her tongue.
+
+[MSG$01E8EC,99]
+The pleasure's so intense I'm ready to melt. I'm in a daze as I let myself get lost in the ecstasy.
+
+[MSG$01E954,84]
+If it means I can get a taste of this, then falling to the Dark Arts isn't so bad...
+
+[MSG$01EA2E,27]
+Squish...squish...squish...
+
+[MSG$01EA56,39]
+Kitami grips my balls in her free hand.
+
+[MSG$01EA82,75]
+While she continues to caress my prick in her mouth, she massages my balls.
+
+[MSG$01EADA,28]
+Minase "(Breathing heavily)"
+
+[MSG$01EB10,31]
+Kitami "Go ahead...let it out."
+
+[MSG$01EB49,69]
+Kitami "You're not going to be satisfied by coming just once, right?"
+
+[MSG$01EBA8,54]
+Minase "(Breathing heavily) Can't hold it in anymore!"
+
+[MSG$01EBF8,38]
+Kitami "Do you want me to swallow it?"
+
+[MSG$01EC58,48]
+Minase "Swallow it...hurry up...I'm gonna come!"
+
+[MSG$01ECA2,65]
+I say this, desperately trying to hold back my urge to ejaculate.
+
+[MSG$01ECF0,34]
+Kitami "I guess I have no choice."
+
+[MSG$01EDA9,76]
+Once again she pushes her mouth against my prick and slowly slips it inside.
+
+[MSG$01EE02,8]
+Slide...
+
+[MSG$01EE17,34]
+Minase "Can't hold it in anymore!"
+
+[MSG$01EF45,21]
+Throb! Twitch! Throb!
+
+[MSG$01EF67,26]
+Minase "Augh! Whoa! Ahhh!"
+
+[MSG$01EF9B,75]
+As soon as she puts my cock in her mouth I begin to ejaculate relentlessly.
+
+[MSG$01EFF3,48]
+I'm writhing as I begin to twitch and shoot off.
+
+[MSG$01F030,13]
+Gulp, gulp...
+
+[MSG$01F04A,77]
+As her mouth fills with the heady-smelling cum, she swallows it down noisily.
+
+[MSG$01F0A4,19]
+Glub, glub, glub...
+
+[MSG$01F0C4,53]
+The stimulation's so strong I can't stop ejaculating.
+
+[MSG$01F106,119]
+There's so much cum and I'm shooting off so hard that it starts to overflow from Kitami's mouth, running down her chin.
+
+[MSG$01F182,54]
+She can't take it and removes my prick from her mouth.
+
+[MSG$01F23E,8]
+Splat...
+
+[MSG$01F253,18]
+Kitami "(gagging)"
+
+[MSG$01F27F,63]
+Kitami "Really! That's too much cum, I can't swallow all that!"
+
+[MSG$01F2D8,88]
+With that, Kitami starts to lick away the thick white semen collecting around her mouth.
+
+[MSG$01F33D,35]
+Kitami "You're still shooting off."
+
+[MSG$01F37A,71]
+After popping out from Kitami's mouth, my prick continues to spray cum.
+
+[MSG$01F3CE,28]
+Minase "(breathing heavily)"
+
+[MSG$01F404,52]
+I'm totally wiped out and I fall over in exhaustion.
+
+[MSG$01F450,40]
+Minase "Can I just...come all over you?"
+
+[MSG$01F492,65]
+I say this, desperately trying to hold back my urge to ejaculate.
+
+[MSG$01F4E0,29]
+Kitami "All right, go ahead."
+
+[MSG$01F517,34]
+Kitami "Cover me in your juice..."
+
+[MSG$01F553,75]
+I can't take it anymore, and I start jerking off with my prick in my hands.
+
+[MSG$01F5AB,16]
+Rub, rub, rub...
+
+[MSG$01F5C8,66]
+I'm already stimulated, so it's not long before I'm ready to come.
+
+[MSG$01F617,26]
+Minase "Can't hold it in!"
+
+[MSG$01F73D,21]
+Throb! Twitch! Throb!
+
+[MSG$01F75F,26]
+Minase "Augh! Whoa! Ahhh!"
+
+[MSG$01F793,38]
+I spray my cum all over Kitami's body.
+
+[MSG$01F7BE,79]
+I'm twitching and ejaculating at the same time. I'm swooning from the pleasure.
+
+[MSG$01F81A,22]
+Splat, splat, splat...
+
+[MSG$01F83D,55]
+My frothy white cum rains down on her face and breasts.
+
+[MSG$01F879,33]
+She doesn't even try to dodge it.
+
+[MSG$01F8A7,19]
+Glub, glub, glub...
+
+[MSG$01F8C7,53]
+The stimulation's so strong I can't stop ejaculating.
+
+[MSG$01F909,37]
+The cum starts running down her body.
+
+[MSG$01F933,51]
+Her face is already plastered with the thick juice.
+
+[MSG$01F9EC,86]
+Kitami "That's too much cum. Look at my face, it's all wet and sticky because of you."
+
+[MSG$01FA5C,76]
+So saying, she licks away the semen that rolls down her face near her mouth.
+
+[MSG$01FAB5,33]
+Kitami "And you're still coming."
+
+[MSG$01FAF0,59]
+There's still some juice Spurting from the tip of my prick.
+
+[MSG$01FB38,28]
+Minase "(breathing heavily)"
+
+[MSG$01FB6E,52]
+I'm totally wiped out and I fall over in exhaustion.
+
+[MSG$01FC2B,59]
+Kitami "All right, now I'm going to eat you with my pussy."
+
+[MSG$01FC80,33]
+So saying, Kitami licks her lips.
+
+[MSG$01FCAE,36]
+But my prick is starting to go soft.
+
+[MSG$01FCD7,86]
+It can't be helped, since I came so hard just now. No way can I do it again so soon...
+
+[MSG$01FD3A,32]
+Minase "Let me rest a minute..."
+
+[MSG$01FD74,62]
+Kitami "Don't be such a wuss. We've only gotten started here."
+
+[MSG$01FDCC,41]
+Minase "But I can't do it again so soon."
+
+[MSG$01FE0F,42]
+Kitami "Don't worry, just leave it to me."
+
+[MSG$01FE53,87]
+With that, Kitami grabs my prick, fills her mouth with saliva and starts to spit it out
+
+[MSG$01FEAF,12]
+on my penis.
+
+[MSG$01FEC8,35]
+Kitami "O Uvall, Amon, Astaroth..."
+
+[MSG$01FF05,77]
+As she whispers, she begins to pump my prick, now glistening with her saliva.
+
+[MSG$01FF5F,25]
+Squish, squish, squish...
+
+[MSG$01FF85,90]
+The saliva has a lubricating effect. Her hand slips and slides as she continues to rub me.
+
+[MSG$01FFEC,69]
+As she continues the hand job, my prick gets even harder than before.
+
+[MSG$020036,68]
+The veins are distended, and it's twitching as if I'm about to come.
+
+[MSG$020087,38]
+Kitami "Now you can do it, can't you?"
+
+[MSG$0200C7,60]
+My prick pops erect in her hands. My whole body is tingling.
+
+[MSG$020110,72]
+She sees what's happening, lets go of my penis and rips off her clothes.
+
+[MSG$0201EE,51]
+Kitami's well-built body is exposed before my eyes.
+
+[MSG$02022E,7]
+Gulp...
+
+[MSG$020242,20]
+I gulp at the sight.
+
+[MSG$020263,62]
+Right in front, right within my reach is Kitami's lewd crotch.
+
+[MSG$0202A6,70]
+My prick goes even more erect as I anticipate thrusting myself inside.
+
+[MSG$0202F9,41]
+Minase "Let...let me put my dick inside."
+
+[MSG$02033C,41]
+I ask her without even thinking about it.
+
+[MSG$020372,87]
+Kitami "You want to put it in me? You want to put that nasty engorged thing inside me?"
+
+[MSG$0203E3,21]
+Minase "Yes, I do..."
+
+[MSG$020412,49]
+I'm begging her. It's like I'm being manipulated.
+
+[MSG$020450,58]
+Kitami "What do you say when you ask someone for a favor?"
+
+[MSG$0204A4,46]
+Minase "Please let me put my dick inside you."
+
+[MSG$0204EC,65]
+I know how lame it must sound, but I beg her in a plaintive tone.
+
+[MSG$020532,86]
+Right now all I can think of is penetrating Kitami. I'll do anything if she'll let me.
+
+[MSG$020595,21]
+Kitami "All right..."
+
+[MSG$0205C4,53]
+Kitami "But first, I want you to lick me down there."
+
+[MSG$020613,49]
+I do as she says and lower my head to her crotch.
+
+[MSG$020651,8]
+Smack...
+
+[MSG$020666,68]
+I kiss the sensitive mound of her vulva, and suck it up in my mouth.
+
+[MSG$0206AF,55]
+Then I use my tongue to lick at her crevice like a dog.
+
+[MSG$0206F3,13]
+Lick, lick...
+
+[MSG$020786,16]
+Kitami "Ahhh..."
+
+[MSG$0207B0,59]
+Right away her juice starts flowing, and it hits my tongue.
+
+[MSG$0207F0,56]
+I let my tongue run all over her crevice, licking it up.
+
+[MSG$020835,90]
+Kitami "Mmm...Put your whole tongue inside. I want you to lick me thoroughly inside, too."
+
+[MSG$0208A9,75]
+I do as she says, sticking out my tongue and pushing it inside her crevice.
+
+[MSG$0208F9,55]
+I push away her labia, and my tongue disappears inside.
+
+[MSG$02093D,7]
+Lick...
+
+[MSG$020951,101]
+I sweep my tongue all over her vagina. At the same time I stimulate her clit with the tip of my nose.
+
+[MSG$0209C3,55]
+Kitami "That feels great...You're pretty good at this!"
+
+[MSG$020A14,14]
+Glub...glub...
+
+[MSG$020A2F,42]
+I continue to eat her out for a long time.
+
+[MSG$020A5E,83]
+Kitami starts breathing heavily as I bury my head in her crotch, totally out of it.
+
+[MSG$020ABE,36]
+Kitami "I'm just about ready now..."
+
+[MSG$020AFC,67]
+I remove my mouth from her crotch area as if I'm being peeled away.
+
+[MSG$020B44,66]
+The area around my mouth is sticky with saliva and Kitami's juice.
+
+[MSG$020B93,55]
+Kitami "All right, now I'm going to cleanse your body."
+
+[MSG$020BE4,13]
+Minase "...?"
+
+[MSG$020BFE,55]
+Kitami "You're going to baptized with my Holy Fluid..."
+
+[MSG$020C4F,31]
+Kitami "Stay still, now. Ahhh!"
+
+[MSG$020D11,8]
+Spurt...
+
+[MSG$020D26,10]
+(Spraying)
+
+[MSG$020D3D,62]
+Kitami "I hereby baptize this man, Taki Minase, in my name..."
+
+[MSG$020D95,23]
+Squirt, squirt, squirt!
+
+[MSG$020DB9,20]
+Minase "Whoa! Augh!"
+
+[MSG$020DE7,95]
+Suddenly a stream of amber-colored fluid sprays out from Kitami's crevice, splattering my face.
+
+[MSG$020E53,41]
+Kitami "Come on, drink it. Drink it now!"
+
+[MSG$020E96,48]
+I raise my face and catch the spray in my mouth.
+
+[MSG$020ED3,30]
+Minase "(gulping and gagging)"
+
+[MSG$020F0B,94]
+Kitami "O Almighty Ruler of Hell, you have blessed us with the ability to reproduce endlessly.
+
+[MSG$020F6E,77]
+Let those who wish to join us be reborn by the grace of this baptismal water,
+
+[MSG$020FC0,110]
+and so that they may become one of your beloved children, grant them now greater knowledge of your teachings."
+
+[MSG$021048,71]
+Kitami "I ask this in the name of our great rulers, Astaroth, Belzebub,
+
+[MSG$021094,15]
+and Lucifer..."
+
+[MSG$021136,16]
+Splat...splat...
+
+[MSG$021153,31]
+Minase "(Coughing and gulping)"
+
+[MSG$02118C,57]
+Finally she's done peeing, and I'm released from my task.
+
+[MSG$0211CA,76]
+I drank so much that it tastes like urine when I burp. I can't stop gagging.
+
+[MSG$021223,41]
+Kitami "Well done. Now you're one of us."
+
+[MSG$021266,53]
+Kitami "Okay, now it's my turn to let you inside me."
+
+[MSG$0212B5,50]
+With that, she places my prick against her crotch.
+
+[MSG$0212F4,55]
+Kitami "I'm going to give you the ultimate pleasure..."
+
+[MSG$021345,74]
+Kitami "It's the kind of pleasure you normally wouldn't get to experience.
+
+[MSG$021394,46]
+Don't hold back...get as aroused as you want."
+
+[MSG$0213DC,38]
+With that, Kitami slowly sinks down...
+
+[MSG$0214B1,16]
+Kitami "Augh..."
+
+[MSG$0214DB,16]
+Glub, glub, glub
+
+[MSG$0214F8,16]
+Minase "Augh..."
+
+[MSG$021522,38]
+My prick is skewering Kitami's crotch.
+
+[MSG$021555,105]
+The head of my penis shoves through her crevice. I watch it slowly disappear inside her, and a feeling of
+
+[MSG$0215C3,67]
+intense pleasure takes over my own crotch until I'm ready to swoon.
+
+[MSG$021613,94]
+A bigger wave of pleasure than the one I felt when she was giving me head sweeps over my body.
+
+[MSG$021707,48]
+Kitami "Well? How does it feel to be inside me?"
+
+[MSG$021751,61]
+She's looking at me with a lewd smile on her face as I swoon.
+
+[MSG$021793,72]
+I look down and see that my prick is inserted up her vagina all the way.
+
+[MSG$0217E8,32]
+Minase "It feels...really good."
+
+[MSG$021822,20]
+I answer in a groan.
+
+[MSG$021843,26]
+If I lose focus I'll come.
+
+[MSG$021862,98]
+Kitami's vagina seems to have a life of its own. It envelopes my prick, squirming all the while...
+
+[MSG$0218D1,58]
+Kitami "I'm going to move now...keep your head about you."
+
+[MSG$021925,53]
+With that, Kitami begins to slowly churn up and down.
+
+[MSG$021967,18]
+Squish...squish...
+
+[MSG$021986,14]
+Minase "Whoa!"
+
+[MSG$0219AE,70]
+The second she starts moving, I start convulsing from the stimulation.
+
+[MSG$0219F9,61]
+It feels as if my whole body has become one big sexual organ.
+
+[MSG$021A43,56]
+Kitami "Well...I've only just gotten started, you know."
+
+[MSG$021A95,25]
+Squish, squish, squish...
+
+[MSG$021ABB,66]
+Just like she said, it's a pleasure so intense I'm ready to faint.
+
+[MSG$021B02,78]
+I feel like my brain's going to melt. I come close to fainting numerous times.
+
+[MSG$021B5D,45]
+We lie together on top of the magic circle...
+
+[MSG$021B8F,84]
+I'm writhing on top of that mysterious diagram. It's like I'm being raped by Kitami.
+
+[MSG$021BF0,67]
+A priest being raped by the devil...that's the perfect description.
+
+[MSG$021C40,92]
+I'm lying underneath Kitami, and I have no choice but let her do whatever she wants with me.
+
+[MSG$021CA1,28]
+I can't even move on my own.
+
+[MSG$021CC2,33]
+If I tried, I'd come in a second.
+
+[MSG$021CF0,82]
+We're both moaning, and the sound of our voices echo across the room like a chant.
+
+[MSG$021D4F,55]
+Kitami "Well? Isn't this the best sex you've ever had?"
+
+[MSG$021DA0,62]
+Minase "It's the best, all right. I can't hold it in anymore!"
+
+[MSG$021DF8,40]
+Kitami "You can't come yet. Hold it in!"
+
+[MSG$021E3A,55]
+Minase "But you don't understand...I can't hold it in!"
+
+[MSG$021E8B,108]
+Kitami "Don't worry. All of your senses are under my control. Even if you want to come, it won't be possible
+
+[MSG$021EFC,23]
+|unless I want you to."
+
+[MSG$021F2D,36]
+Minase "What are you talking about?"
+
+[MSG$021F6B,63]
+But come to think of it, even though I've had the urge to come,
+
+[MSG$021FAF,65]
+I keep getting the sensation that I'm being forced to hold it in.
+
+[MSG$021FFD,50]
+And the pleasure keeps ebbing and flowing as well.
+
+[MSG$022034,33]
+All because she's controlling me?
+
+[MSG$022062,108]
+Kitami "So? Normally, you'd have come long ago. But I'm stretching it out, making you last a little longer."
+
+[MSG$0220E8,33]
+Kitami "Pretty stimulating, huh?"
+
+[MSG$022123,36]
+She pumps her hips as she says this.
+
+[MSG$022154,44]
+Desperately I try to endure the stimulation.
+
+[MSG$02218D,84]
+There's no way for me to relieve myself of this torture-like pleasure unless I come.
+
+[MSG$0221E6,37]
+But since she won't allow me to come,
+
+[MSG$022210,36]
+I have no choice but to hold back...
+
+[MSG$022241,34]
+But I've already reached my limit.
+
+[MSG$022268,52]
+If I hold it back any longer, I'm going to go crazy.
+
+[MSG$0222A9,42]
+Minase "Let me come now! I'm going crazy!"
+
+[MSG$0222ED,32]
+Desperately I plead with Kitami.
+
+[MSG$022312,73]
+If she keeps stringing me along like this, I know I'm going to go insane.
+
+[MSG$022368,99]
+It's like I've inhaled a lethal dose of marijuana...This pleasure that I'm unable to control myself
+
+[MSG$0223D0,46]
+|has far exceeded the bounds of rationality...
+
+[MSG$02240B,40]
+Kitami "So you're almost at your limit?'
+
+[MSG$02244D,48]
+Kitami "All right, then, I'll let you come now."
+
+[MSG$022497,75]
+Kitami "I'll even let you come inside me. Now doesn't that make you happy?"
+
+[MSG$0224FC,52]
+Minase "Makes me really happy...so let me come now!"
+
+[MSG$02254A,43]
+Kitami "All right. Let it all out at once!"
+
+[MSG$02258F,54]
+With that, Kitami starts pumping her hips even faster.
+
+[MSG$0225CA,46]
+At the same time, my orgasm peaks all at once.
+
+[MSG$022605,27]
+Splat! Splat! Splat! Splat!
+
+[MSG$02262D,75]
+The sound of our bodies knocking against each other echoes across the room.
+
+[MSG$022685,116]
+Kitami "All right, all right! You want to come, don't you? You want to unload your dirty cum inside me, don't  you?"
+
+[MSG$022713,42]
+Minase "I'm gonna come! Augh! I'm coming!"
+
+[MSG$022757,69]
+Kitami "Come inside me. I want you to let it all out inside my womb!"
+
+[MSG$0227B6,16]
+Minase "Ahhhhh!"
+
+[MSG$0227E0,118]
+In that instant, my mind goes blank. I ejaculate so hard inside Kitami that it feels like my prick is going to  burst.
+
+[MSG$0228DC,20]
+Throb, throb, throb!
+
+[MSG$022976,63]
+Kitami "I can feel you coming. You're coming all over my womb."
+
+[MSG$0229CF,14]
+Minase "Augh!"
+
+[MSG$0229F7,20]
+Spurt! Splat! Splat!
+
+[MSG$022A18,48]
+I continue to come. It's like I'm taking a piss.
+
+[MSG$022A55,89]
+I continue to spray cum from my dick. Kitami's vagina wrings out every last drop of semen
+
+[MSG$022AB3,18]
+|pooled inside me.
+
+[MSG$022AD2,37]
+Kitami "Oh, my, you're still coming."
+
+[MSG$022B11,91]
+Kitami "You're my servant now. All right, I'm going to grant you the power I promised you."
+
+[MSG$022B86,77]
+Kitami "You're still too inexperienced to have a high-level spirit serve you.
+
+[MSG$022BD8,55]
+So I'm going to give you my own demon-servant, an Imp."
+
+[MSG$022C29,47]
+Kitami "This is Rasha the Imp. Accept him now."
+
+[MSG$022C72,48]
+Kitami's voice cuts through the haze in my mind.
+
+[MSG$022CA7,85]
+I still haven't stopped coming, and I'm convulsing and shivering from the pleasure...
+
+[MSG$022D09,94]
+Kitami "Sign this contract with me. Swear that you'll be loyal, and will bring me pleasure..."
+
+[MSG$022D81,52]
+As she chants, she pushes her long nails against me.
+
+[MSG$022DC2,52]
+Her sharp nails dig into my flesh, and draw blood...
+
+[MSG$022E03,64]
+And she scratches my body with her nails as she moves her hands.
+
+[MSG$022E48,43]
+I twist my body from the pain and pleasure.
+
+[MSG$022F09,68]
+When she's left a triangular mark on my body, she removes her hands.
+
+[MSG$022F52,54]
+Blood is dripping from the scratches onto the floor...
+
+[MSG$022F95,106]
+Kitami "That finalizes our contract. You've signed a contract with me. From now on, my demon-servant Rasha
+
+[MSG$023004,26]
+|will lend you his power."
+
+[MSG$023038,66]
+Kitami "He's a kind of incubus, highly skilled in the art of lust.
+
+[MSG$02307F,64]
+As a man, I'm sure you'll find a lot of use for him, won't you?"
+
+[MSG$0230D9,38]
+As she whispers, she slowly stands up.
+
+[MSG$02310C,70]
+My dick, covered in my own cum, slides out, popping out of her vagina.
+
+[MSG$023157,63]
+Now that it's been extricated, my prick is still exuding semen.
+
+[MSG$0231A3,67]
+Kitami "Looks like you were aroused big time. That makes me happy."
+
+[MSG$023200,61]
+When she stands up, a stream of cum pours out of her crevice.
+
+[MSG$023242,48]
+It drips down her thighs and pools on the floor.
+
+[MSG$02327F,28]
+Minase "(breathing heavily)"
+
+[MSG$0232B5,90]
+Kitami "The day is drawing near...I've got all the players, now all I have to do is wait."
+
+[MSG$023329,106]
+Kitami "But first of all, we need to get rid of those annoying flies...it will be a good way to kill time,
+
+[MSG$023398,12]
+at least..."
+
+[MSG$0233BE,39]
+Kitami "I'm counting on you, Minase..."
+
+[MSG$0233FF,93]
+I've finally been released from my mad pleasure, and slip into unconsciousness as she speaks.
+
+[MSG$0234F9,18]
+..................
+
+[MSG$023518,12]
+............
+
+[MSG$023531,6]
+......
+
+[MSG$02354F,23]
+Minase "I won't do it."
+
+[MSG$023580,21]
+I reject her request.
+
+[MSG$0235A2,62]
+What she's asking me to do is to basically become her servant.
+
+[MSG$0235ED,88]
+I don't know what she has in mind, but I have no desire to be at Kitami's beck and call.
+
+[MSG$023652,92]
+I can sense that it would be dangerous to believe Kitami, who just appeared out of thin air.
+
+[MSG$0236B3,60]
+I've never been able to trust her anyway, for some reason...
+
+[MSG$0236FC,42]
+Kitami "Why? Why are you turning me down?"
+
+[MSG$023740,87]
+Minase "Don't you think it's a little too much to ask me to believe a story like that?"
+
+[MSG$0237B1,41]
+Minase "I don't know anything about you."
+
+[MSG$0237F4,24]
+Kitami "Are you scared?"
+
+[MSG$023826,12]
+Minase "..."
+
+[MSG$02383F,39]
+Kitami "Don't worry, you can trust me."
+
+[MSG$023880,51]
+Kitami "I'm the kind of person you need right now."
+
+[MSG$0238CD,101]
+Kitami "You've already taken a bite out of the Forbidden Fruit. Sinners like you should be in a world
+
+[MSG$023937,14]
+|for sinners."
+
+[MSG$02395F,66]
+With that, she takes a step towards me. Instinctively I step back.
+
+[MSG$0239AE,96]
+She stares right at me, and I'm overcome by a feeling that she's sucking me right into her eyes.
+
+[MSG$023A13,32]
+It's no good...I can't escape...
+
+[MSG$023A40,72]
+Kitami "Do you want to get to know me? Then I'll tell you everything..."
+
+[MSG$023AA2,68]
+After she says this, she reaches out and puts her hand on my crotch,
+
+[MSG$023AEB,62]
+massaging her way up until she's holding my prick in her hand.
+
+[MSG$023B36,14]
+Minase "Ah..."
+
+[MSG$023B5E,51]
+Kitami "Now then, let's you and I fall together..."
+
+[MSG$023C15,17]
+Minase "Stop it!"
+
+[MSG$023CD9,59]
+Suddenly I push Kitami away, freeing myself from her curse.
+
+[MSG$023D21,59]
+Minase "I'm not gonna be your slave! Go find someone else!"
+
+[MSG$023D76,38]
+I tell her this in no uncertain terms.
+
+[MSG$023DA9,66]
+The last thing I want to do is fall into hell with this professor.
+
+[MSG$023DF0,42]
+Besides, I haven't sunk to that level yet.
+
+[MSG$023E59,12]
+Kitami "..."
+
+[MSG$023E72,63]
+Kitami stares at me coldly, not moving a muscle the whole time.
+
+[MSG$023EBE,47]
+After a silence, Kitami speaks in a flat voice.
+
+[MSG$023F07,60]
+Her eyes are gleaming so coldly that it makes my skin crawl.
+
+[MSG$023F50,79]
+Kitami "And I had such high expectations of you...you've thrown me in despair."
+
+[MSG$023FB9,81]
+There's no longer any trace in her voice of the professor that she supposedly is.
+
+[MSG$024017,72]
+If Kitami really does possess the Dark Power, then I'm no match for her.
+
+[MSG$024064,58]
+No one knows the magnitude of that power better than me...
+
+[MSG$0240B6,12]
+Minase "..."
+
+[MSG$0240CF,39]
+I can't trust this professor after all.
+
+[MSG$0240FB,38]
+I ignore her and walk toward the door.
+
+[MSG$024160,12]
+Kitami "..."
+
+[MSG$024179,63]
+Kitami stares at me coldly, not moving a muscle the whole time.
+
+[MSG$0241BD,81]
+The moment I stretch my hand out toward the knob, she speaks out in a flat voice.
+
+[MSG$02421B,29]
+Kitami "I see...what a pity."
+
+[MSG$024252,60]
+Her eyes are gleaming so coldly that it makes my skin crawl.
+
+[MSG$02429B,79]
+Kitami "And I had such high expectations of you...you've thrown me in despair."
+
+[MSG$024304,81]
+There's no longer any trace in her voice of the professor that she supposedly is.
+
+[MSG$024362,72]
+If Kitami really does possess the Dark Power, then I'm no match for her.
+
+[MSG$0243AF,58]
+No one knows the magnitude of that power better than me...
+
+[MSG$0243F6,72]
+Kitami "But the thing is, I can always find someone to take your place."
+
+[MSG$024458,96]
+I realize that Kitami is creeping closer and closer to me. I impulsively open the Book of Magic.
+
+[MSG$0244C5,54]
+I desperately search for a spell that will protect me.
+
+[MSG$024500,63]
+But the more frantic I get, the harder it is to turn the pages.
+
+[MSG$02454C,101]
+Kitami "That won't do you any good. The spells in that book will only have a temporary effect on me."
+
+[MSG$0245CB,59]
+When I hear this, I stop turning pages and stare at Kitami.
+
+[MSG$024613,34]
+Minase "What do you want from me?"
+
+[MSG$02464F,37]
+Kitami "I've changed my mind, see..."
+
+[MSG$02468E,77]
+Kitami "I wasn't planning to kill you, but now I have the urge to abuse you."
+
+[MSG$0246F5,30]
+So saying, Kitami leers at me.
+
+[MSG$024720,16]
+Minase "(Gulps)"
+
+[MSG$02474A,41]
+I threaten her with the sword in my hand.
+
+[MSG$024780,27]
+Minase "Stay away from me!"
+
+[MSG$0247B5,67]
+Kitami is unmoved by the flickering light reflecting off the blade.
+
+[MSG$0247FD,68]
+All of a sudden, the sword doesn't seem like a lethal weapon at all.
+
+[MSG$02484E,56]
+Kitami "Don't worry, now...I'm very good at necromancy."
+
+[MSG$0248A0,106]
+Kitami "Your physical body will become a vessel that does my bidding. I'll keep you as a pet for a while."
+
+[MSG$024924,29]
+Minase "Don't screw with me!"
+
+[MSG$02495B,31]
+I wave the sword around wildly.
+
+[MSG$024987,15]
+Whoosh! Whoosh!
+
+[MSG$0249A3,12]
+Kitami "..."
+
+[MSG$0249BC,73]
+Kitami doesn't even flinch. She's so relaxed she has a smile on her lips.
+
+[MSG$024A12,61]
+I'm so terrified that I bring the sword down across her body.
+
+[MSG$024AF5,6]
+Clang!
+
+[MSG$024B08,78]
+But just before it hits her, it's seemingly deflected by some unseen wall, and
+
+[MSG$024B5B,36]
+plunges into the floor with a clang.
+
+[MSG$024B8C,16]
+Minase "No way!"
+
+[MSG$024BB6,17]
+Kitami "(laughs)"
+
+[MSG$024BE1,17]
+Kitami "(laughs)"
+
+[MSG$024C0D,76]
+I'm stunned. I can hear Kitami's mocking laughter echoing all over the room.
+
+[MSG$024C66,74]
+Kitami "Idiot. Did you really think you could actually hurt me, you fool?"
+
+[MSG$024CCA,65]
+Kitami "I'll just send you off to lament your stupidity in hell!"
+
+[MSG$024D25,41]
+Hearing this, I try to make a run for it.
+
+[MSG$024D53,92]
+Kitami's dead serious. Plus this woman's got the power to do exactly what she said she'd do.
+
+[MSG$024DBC,11]
+Minase "!!"
+
+[MSG$024DD4,19]
+Minase "Holy shit!"
+
+[MSG$024E01,70]
+That's when I discover that I can't move. It's like my body is frozen.
+
+[MSG$024E4C,64]
+No matter how hard I try to move forward, I don't budge an inch.
+
+[MSG$024E99,43]
+Kitami "It's no use. You can't escape now."
+
+[MSG$024EDE,41]
+With that, Kitami looks down at her feet.
+
+[MSG$024F0C,20]
+I follow her gaze...
+
+[MSG$024F2D,11]
+Minase "!?"
+
+[MSG$024F45,96]
+I can see my own shadow, created by the light of the candles. Kitami has planted her feet on it.
+
+[MSG$024FAA,39]
+But surely that's not why I'm immobile?
+
+[MSG$024FDE,46]
+Kitami "Now then, how should I play with you?"
+
+[MSG$025026,53]
+Kitami slowly approaches me, stepping over my shadow.
+
+[MSG$025068,75]
+Kitami "If I give you any visible bruises, it'll only be a hassle later..."
+
+[MSG$0250CD,115]
+Kitami "I've got it...why don't I be merciful and send you to the heights of ecstasy? Then you can go mad and die!"
+
+[MSG$02515A,61]
+With that, Kitami takes some kind of capsule from her pocket.
+
+[MSG$0251A4,85]
+Kitami "You're going to have an orgasm so powerful it's going to kill you. Ha ha ha!"
+
+[MSG$025213,69]
+Kitami "You're a strong boy, I'm sure the effects will be monstrous."
+
+[MSG$025272,40]
+Minase "What the hell are you gonna do?"
+
+[MSG$0252B4,46]
+She shows me the capsule in her hand in reply.
+
+[MSG$0252EF,101]
+Kitami "This is a secret potion that will teach you about lust. In other words, it's an aphrodisiac."
+
+[MSG$02536E,102]
+Kitami "It's something I concocted by blending magic and modern medicine. Its efficacy is guaranteed."
+
+[MSG$0253EE,90]
+Kitami "This is more than 10 times the normal dose. A special maximum-strength version..."
+
+[MSG$025462,72]
+Kitami "As a service to you, I'm giving you a super-concentrated dosage.
+
+[MSG$0254AF,60]
+This would drive even an elephant to madness in an instant."
+
+[MSG$025505,62]
+Minase "Are you fucking crazy? No way am I taking that thing!"
+
+[MSG$02555D,92]
+Kitami "Oh yes you are...struggle all you want, but there's nothing you can do to get away."
+
+[MSG$02564F,85]
+With that, Kitami places the capsule between her lips, then lays her mouth over mine.
+
+[MSG$0256A9,48]
+I can't move. I'm helpless against her advances.
+
+[MSG$0256E6,16]
+Kitami "Mmmm..."
+
+[MSG$025710,20]
+Minase "Mmmm! Mmmm!"
+
+[MSG$02573E,15]
+Spurt, splat...
+
+[MSG$02575A,47]
+Kitami's tongue forces its way between my lips,
+
+[MSG$02578E,61]
+and begins to shove the capsule toward the back of my throat.
+
+[MSG$0257D8,16]
+Kitami "Mmmm..."
+
+[MSG$025802,18]
+Minase "(gagging)"
+
+[MSG$02582E,90]
+Desperately I try to keep from swallowing the capsule. But Kitami's tongue is too skilful.
+
+[MSG$02588D,32]
+|Eventually she manages to force
+
+[MSG$0258B2,72]
+|the capsule, covered in both our saliva, towards the back of my throat.
+
+[MSG$025907,7]
+Gulp...
+
+[MSG$025994,27]
+Minase "Ugh...ugh...ugh..."
+
+[MSG$0259C9,42]
+Kitami withdraws her tongue from my mouth.
+
+[MSG$0259F8,50]
+A long sticky thread of saliva dangles between us.
+
+[MSG$025A37,31]
+Dammit, I swallowed that thing.
+
+[MSG$025A63,89]
+Kitami "You're history. The capsule will melt instantly. You'll just have to give it up."
+
+[MSG$025AD6,36]
+Minase "What's going to happen now?"
+
+[MSG$025B14,66]
+Kitami "Who knows? I've never used that amount on a human before."
+
+[MSG$025B70,71]
+Kitami "Don't worry, you'll find out soon enough. First-hand, that is."
+
+[MSG$025BD1,96]
+Kitami "Just for your reference, when I gave another student 1/10 the amount you just swallowed,
+
+[MSG$025C36,79]
+he couldn't stop masturbating. He just jerked off until he lost consciousness."
+
+[MSG$025C9F,120]
+Kitami "Well, let's just say that even if you do survive this, it's highly unlikely that you'll still have your sanity."
+
+[MSG$025D31,25]
+Minase "Are you serious?"
+
+[MSG$025E04,108]
+All I can do is stare dumbly at Kitami as she speaks in that calm tone of voice, a little smile on her lips.
+
+[MSG$025E7D,13]
+Minase "Ugh!"
+
+[MSG$025EA4,52]
+Soon after, I begin to feel a change inside my body.
+
+[MSG$025EE5,57]
+Kitami "It looks like the medicine's kicking in already."
+
+[MSG$025F38,5]
+Slam!
+
+[MSG$025FA2,14]
+Minase "Augh!"
+
+[MSG$025FCA,46]
+My body's being taken over by a massive shock.
+
+[MSG$025FFD,49]
+Lust for pleasure...it's setting my mind on fire.
+
+[MSG$02603B,32]
+Minase "Augh! (heavy breathing)"
+
+[MSG$026075,25]
+Kitami "Do you feel ill?"
+
+[MSG$0260A8,84]
+Kitami "Do you want me to help you? Or would you rather give yourself some comfort?"
+
+[MSG$026116,14]
+Minase "Shit!"
+
+[MSG$02613E,45]
+Desperately I try to fight off the sensation.
+
+[MSG$026170,32]
+But I soon realize it's useless.
+
+[MSG$02619D,67]
+No matter how hard I try to reject it, my lust only grows stronger.
+
+[MSG$0261ED,24]
+Thump...thump...thump...
+
+[MSG$026212,65]
+Every time my heart beats, I can feel the quivering in my crotch.
+
+[MSG$026258,64]
+I can't hold back anymore. If I resist any longer I'll go crazy.
+
+[MSG$0262A5,23]
+Minase "Help...help me!
+
+[MSG$0262D6,116]
+Finally I give in. I'm at the point where I don't care what happens to me anymore, as long as she satisfies my lust.
+
+[MSG$026357,65]
+Kitami "All right, I will. I'll give you some relief right away."
+
+[MSG$02642F,56]
+Kitami takes off my pants, and whips out my erect prick.
+
+[MSG$026474,67]
+Kitami "My goodness. Looks like you'll come with just one squeeze."
+
+[MSG$0264D2,56]
+Kitami "Let's see...why don't I do you with my breasts?"
+
+[MSG$0265A0,38]
+Kitami exposes her huge breasts to me.
+
+[MSG$0265D3,48]
+Kitami "All right, just stick it between these."
+
+[MSG$0266A6,69]
+I succumb to her tempting words and plunge my cock between her boobs.
+
+[MSG$0266F8,83]
+They're so big that there's still plenty of room, even after she envelops my prick.
+
+[MSG$026758,60]
+She pushes her boobs from both sides, and squeezes my prick.
+
+[MSG$026799,69]
+I can't take it. I start trying to move around in my narrow confines.
+
+[MSG$0267EB,73]
+Kitami "Impatient boy...Your prick is so hot it feels like it's on fire!"
+
+[MSG$02684E,27]
+Squish...squish...squish...
+
+[MSG$026876,93]
+The juice from my prick dampens her boobs. Already I can hear squishing sounds between them..
+
+[MSG$0268D8,101]
+Kitami's boobs are surprisingly soft, and partly because of the potion, I'm ready to come in no time.
+
+[MSG$02694A,105]
+Kitami "You're about to come, aren't you? That's all right, just spray it out whenever you feel like it."
+
+[MSG$0269CD,70]
+Desperately I try to hold back, but I can't. It has a life of its own.
+
+[MSG$026A18,57]
+Kitami squeezes me even harder, stimulating me even more.
+
+[MSG$026A5E,27]
+Squish...squish...squish...
+
+[MSG$026A86,40]
+Minase "I'm gonna come! I'm gonna come!"
+
+[MSG$026AC8,37]
+Kitami "Go ahead, come all you want."
+
+[MSG$026B07,14]
+Minase "Whoa!"
+
+[MSG$026B2F,89]
+The pleasure I feel is intense as I stop grinding my hips and climax in Kitami's breasts.
+
+[MSG$026C87,20]
+Spurt! Spurt! Spurt!
+
+[MSG$026CA8,44]
+Kitami "Well! You sure are coming big time!"
+
+[MSG$026CEE,75]
+The white juice spurts out from between her huge boobs, and soils her face.
+
+[MSG$026D3E,86]
+My brain is stimulated by my intense pleasure, I'm so turned on that I know I'll faint
+
+[MSG$026D99,39]
+|if I lose focus. My whole body shakes.
+
+[MSG$026DCD,26]
+Throb...squirm...twitch...
+
+[MSG$026DF4,107]
+I continue to shoot off for a long time. The cum overflows from her cleavage and drips down onto the floor.
+
+[MSG$026E6C,83]
+Kitami "If you've got this much cum to show for it, you must've really enjoyed it!"
+
+[MSG$026ED9,71]
+Kitami "You'd better savor it while you can. This is your last time..."
+
+[MSG$026F3A,93]
+Normally, I'd be finished by now, but my prick continues to produce a massive spray of frothy
+
+[MSG$026F9C,5]
+|cum.
+
+[MSG$026FAE,52]
+This is weird...something's definitely up with this.
+
+[MSG$026FEF,15]
+Minase "Ugh..."
+
+[MSG$027091,24]
+Spurt...spurt...spurt...
+
+[MSG$02712F,38]
+Minase "I can't stop! I can't stop..."
+
+[MSG$02716F,43]
+The pleasure still hasn't worn off, either.
+
+[MSG$02719F,96]
+It's making me feel like my brain's going to melt, and inwardly I'm screaming for it to be over.
+
+[MSG$02720C,69]
+Kitami "It's no good. It's not going to stop until your heart stops."
+
+[MSG$02726B,114]
+Kitami "Which will break down first, your brain or your heart? Not that it really makes much difference anyway..."
+
+[MSG$0272F7,116]
+Speaking calmly, Kitami pushes me away and wipes away the cum that's soiled her. She puts on her clothes and stands.
+
+[MSG$02741A,24]
+Minase "Help...help me!"
+
+[MSG$02744C,102]
+Kitami "All right, I'm going to get going now. I don't have time to watch you in this pathetic state."
+
+[MSG$0274CC,14]
+Minase "Wait!"
+
+[MSG$0274F4,97]
+Kitami "You're lucky, getting to die in a state of ecstasy. Not many people get to die so happy."
+
+[MSG$02756F,41]
+Minase "No! I don't want to die! Augh..."
+
+[MSG$0275B2,22]
+Kitami "Good night..."
+
+[MSG$027606,9]
+Squeak...
+
+[MSG$02761C,7]
+Slam...
+
+[MSG$027630,43]
+Kitami abandons me there, leaving the room.
+
+[MSG$027660,32]
+I start to lose consciousness...
+
+[MSG$027708,30]
+It's too late now for regrets.
+
+[MSG$02772B,79]
+The price to pay for underestimating the power of the Dark Arts was too high...
+
+[MSG$027787,88]
+I beg of thee, O great and merciful God, take pity on us, and forgive us for our sins...
+
+[MSG$02780C,29]
+Ending No. 5 ''Reika Kitami''
+
+[MSG$02782E,10]
+...Bad End
+
+[MSG$02786F,70]
+Kitami "But do you really think you can come back from where you are?"
+
+[MSG$0278CF,61]
+Kitami "I can always find someone else to take your place..."
+
+[MSG$027926,96]
+I realize that Kitami is creeping closer and closer to me. I impulsively open the Book of Magic.
+
+[MSG$027993,94]
+You've already taken a bite out of the Forbidden Fruit. There's a high price to pay for that."
+
+[MSG$027A03,54]
+I desperately search for a spell that will protect me.
+
+[MSG$027A3E,63]
+But the more frantic I get, the harder it is to turn the pages.
+
+[MSG$027A8A,101]
+Kitami "That won't do you any good. The spells in that book will only have a temporary effect on me."
+
+[MSG$027B09,59]
+When I hear this, I stop turning pages and stare at Kitami.
+
+[MSG$027B51,33]
+Kitami "It's time to give it up."
+
+[MSG$027B8C,85]
+I keep backing up, trying with all my might to come up with a way to get out of here.
+
+[MSG$027BEE,66]
+Kitami "It won't do you any good to try to escape. Now come here."
+
+[MSG$027C4A,93]
+Then I notice something odd; the fact that Kitami is still standing outside the magic circle.
+
+[MSG$027CAC,63]
+She's not even trying to enter...It's like she can't come in...
+
+[MSG$027CF8,60]
+That's it, she can't come in. Because of the magic circle...
+
+[MSG$027D39,109]
+Magic circles are drawn to protect magicians from evil. And I've just sanctified this particular magic circle
+
+[MSG$027DAB,8]
+|myself.
+
+[MSG$027DC0,100]
+It probably wouldn't have any effect on a normal person, but if Kitami is affiliated with the devil,
+
+[MSG$027E29,52]
+then the effects of the magic circle should kick in.
+
+[MSG$027E6A,80]
+In other words, as long as I stay inside the circle she can't do anything to me.
+
+[MSG$027F4A,37]
+Minase "I get it, so that's it, huh?"
+
+[MSG$027F89,56]
+Kitami "What's the matter, have you decided to give in?"
+
+[MSG$027FDB,36]
+Minase "No, the opposite, actually."
+
+[MSG$028019,47]
+Minase "You can't step into this magic circle."
+
+[MSG$028062,12]
+Kitami "..."
+
+[MSG$02807B,49]
+Minase "Hey, what do you have to say about that?"
+
+[MSG$0280C6,45]
+Minase "Come on, try coming into the circle."
+
+[MSG$02810D,45]
+Slowly, she stretches her hand out toward me.
+
+[MSG$02825C,7]
+Thwack!
+
+[MSG$028270,16]
+Kitami "Damn..."
+
+[MSG$02829A,92]
+The instant she tried to put her hand over the line of magic circle, something deflected it.
+
+[MSG$0282FB,26]
+So it's working after all.
+
+[MSG$028322,57]
+Minase "Just as I thought...you can't enter this circle."
+
+[MSG$028375,12]
+Kitami "..."
+
+[MSG$02838E,50]
+Minase "You might have all the power in the world,
+
+[MSG$0283C5,72]
+but a simple circle drawn on the floor can render you totally helpless."
+
+[MSG$028427,29]
+I sneer at her as I say this.
+
+[MSG$028449,75]
+As long as I stay inside the circle, at least she won't be able to hurt me.
+
+[MSG$0284A1,42]
+Kitami "I wouldn't be too sure of that..."
+
+[MSG$0284E5,13]
+Minase "Huh?"
+
+[MSG$02850C,68]
+Kitami "Do you really think you can resist me in that magic circle?"
+
+[MSG$02856A,104]
+Kitami "Don't forget, during ritual 12 years ago, this magic circle was too weak to escape the power..."
+
+[MSG$0285EC,52]
+With that, she reaches out her hand toward me again.
+
+[MSG$028742,17]
+Whack! Crackle...
+
+[MSG$028760,64]
+Her hand touches the barrier field, and bluish-white sparks fly.
+
+[MSG$0287AD,30]
+Kitami "OKTNS ITRPS TUER OILIF
+
+[MSG$0287D0,19]
+|TUER IRTAP EYROLG"
+
+[MSG$0287FD,54]
+As Kitami chants, the barrier field begins to flicker.
+
+[MSG$028840,15]
+Minase "What?!"
+
+[MSG$028869,77]
+Kitami's hand continues to consume the barrier field, pushing its way inside.
+
+[MSG$0288BB,64]
+It's just a matter of time before the barrier field is breached.
+
+[MSG$028908,66]
+Kitami "So do you still believe in the power of the magic circle?"
+
+[MSG$028964,14]
+Minase "Shit!"
+
+[MSG$02898C,89]
+I've got to escape...if the barrier field's breached, I won't have any protection at all.
+
+[MSG$0289EA,30]
+I don't have time to hesitate.
+
+[MSG$028A15,23]
+Minase "Out of my way!"
+
+[MSG$028A46,72]
+As I shout, I throw the Book of Magic in Kitami's face as hard as I can.
+
+[MSG$028A9B,6]
+Crash!
+
+[MSG$028AAE,87]
+The book is considerably heavy. I can hear a rush of wind as it flies towards her face.
+
+[MSG$028B0A,51]
+In the next instant, I make a rush toward the door.
+
+[MSG$028BE2,5]
+Slam!
+
+[MSG$028BF4,13]
+Kitami "Ugh!"
+
+[MSG$028C98,41]
+The book hits Kitami's face with a thump.
+
+[MSG$028CC6,100]
+She strikes it away with her hand, but the shock of the impact makes her off balance for an instant.
+
+[MSG$028D37,82]
+Ignoring her, I kick the door open, race up the stairs and burst into the hallway.
+
+[MSG$028E14,5]
+Slam!
+
+[MSG$028E26,87]
+I close the door right away. I gulp air as though I'm trying to calm down my breathing.
+
+[MSG$028E8A,30]
+Minase "Gasp...gasp...gasp..."
+
+[MSG$028EC2,77]
+Kitami isn't chasing me. There are a few students in the hall, staring at me.
+
+[MSG$028F24,69]
+Somehow I managed to escape. But is Kitami really going to let me go?
+
+[MSG$028F76,104]
+I know that would be too good to be true, but even Kitami wouldn't attack me in front of other people...
+
+[MSG$02901D,50]
+Saeki "What are you doing...in a place like this?"
+
+[MSG$029069,65]
+Saeki sees me standing their catching my breath as she passes by.
+
+[MSG$0290AF,38]
+What's she still doing here at school?
+
+[MSG$0290E2,31]
+Minase "Nothing, it's nothing."
+
+[MSG$02911B,83]
+Saeki "Are you all right? You look pale. Why don't you go to the campus infirmary?"
+
+[MSG$029188,31]
+I was going to go there anyway.
+
+[MSG$0291B4,32]
+Minase "It's nothing, I'm fine."
+
+[MSG$0291EE,11]
+Saeki "..."
+
+[MSG$029206,111]
+With that, I head toward the infirmary where Imari is sleeping. My footsteps are heavy as I walk down the hall.
+
+[MSG$029282,15]
+April 24 - Home
+
+[MSG$029310,10]
+Door opens
+
+[MSG$029327,52]
+I return to the infirmary and check on Imari in bed.
+
+[MSG$0293E4,20]
+Imari "Zzz...zzz..."
+
+[MSG$029412,21]
+Imari's still asleep.
+
+[MSG$029434,20]
+Imari "Zzz...zzz..."
+
+[MSG$029462,55]
+I stare at Imari as she lies there sleeping peacefully.
+
+[MSG$02949E,52]
+The sight of her sleeping face puts my mind at ease.
+
+[MSG$0294DF,27]
+I shouldn't stay here long.
+
+[MSG$029507,113]
+Right now I need to avoid that crazy professor as much as possible. I'd better wake Imari up and get out of here.
+
+[MSG$029585,30]
+Minase "Imari...hey, wake up!"
+
+[MSG$0295BD,25]
+Rustle, rustle, rustle...
+
+[MSG$0295E3,14]
+I shake Imari.
+
+[MSG$0295FE,14]
+Imari "Mmm..."
+
+[MSG$029626,57]
+Imari twists her body and starts to regain consciousness.
+
+[MSG$029664,60]
+I can't believe she can sleep so deeply after what happened.
+
+[MSG$0296AD,20]
+Imari "Mmm...mmm..."
+
+[MSG$0296DB,21]
+Imari "Huh...Minase?"
+
+[MSG$029786,10]
+Getting up
+
+[MSG$02979D,22]
+Imari slowly wakes up.
+
+[MSG$0297C0,45]
+Imari "Mmm...huh? Hey, what am I doing here?"
+
+[MSG$029807,35]
+She rubs her eyes and looks around.
+
+[MSG$029837,7]
+Whoa...
+
+[MSG$02984B,32]
+Imari's not wearing any clothes.
+
+[MSG$029870,36]
+Her underwear is blindingly white...
+
+[MSG$0298A1,79]
+Imari "Wait, now I remember! That jerk Shinjou or whatever his name was, he..."
+
+[MSG$02990A,83]
+Imari "Grr! I'm so mad he beat me! Next time I see him I'm going to kick his butt!"
+
+[MSG$029977,75]
+Imari's trembling from rage as she remembers what went down on the rooftop.
+
+[MSG$0299CF,87]
+It looks like she doesn't remember anything that happened after she lost consciousness.
+
+[MSG$029A2B,88]
+I'm glad, because it would complicate things if she remembered what happened in the gym.
+
+[MSG$029A90,65]
+Imari "Oh, no, look at the time! The club meeting's over by now!"
+
+[MSG$029AEB,53]
+Imari "Huh? What's wrong? Why are you staring at me?"
+
+[MSG$029B3A,53]
+Imari notices that I'm staring at her and looks down.
+
+[MSG$029B7C,16]
+Minase "That..."
+
+[MSG$029BA6,23]
+I point to Imari's bra.
+
+[MSG$029BCA,12]
+Imari "Huh?"
+
+[MSG$029BF0,11]
+Imari "..."
+
+[MSG$029C08,48]
+Imari looks down at her body for the first time.
+
+[MSG$029CC2,47]
+Imari "Augh! Don't look at me! Why am I naked?"
+
+[MSG$029D0B,24]
+Imari "Don't tell me..."
+
+[MSG$029D3D,19]
+Imari stares at me.
+
+[MSG$029D55,22]
+As if I'm the culprit.
+
+[MSG$029D78,49]
+Minase "It wasn't me! That's a false accusation!"
+
+[MSG$029DC3,34]
+Imari "I don't know about that..."
+
+[MSG$029DFF,26]
+I'm being wrongly accused.
+
+[MSG$029E1E,80]
+Anyway, Kitami didn't have to take off all her clothes. Was she just being mean?
+
+[MSG$029E7B,67]
+Imari "Stop staring at me, already! Turn around for heaven's sake!"
+
+[MSG$029ED8,5]
+Snap!
+
+[MSG$029EEA,34]
+I hurriedly turn my back on Imari.
+
+[MSG$029F19,21]
+April 24 - Night/Home
+
+[MSG$02A01D,5]
+Click
+
+[MSG$02A02F,18]
+Minase "I'm home."
+
+[MSG$02A05B,40]
+I call out as I stumble inside my house.
+
+[MSG$02A090,75]
+Imari had vented her anger against Inoue and his gang all the way home, but
+
+[MSG$02A0E0,70]
+I barely heard her, only giving her vague responses from time to time.
+
+[MSG$02A133,51]
+Right now, I don't have time to listen to her rant.
+
+[MSG$02A1EF,38]
+I sit down at my desk and open my bag.
+
+[MSG$02A21A,39]
+The Book of Magic is no longer there...
+
+[MSG$02A24E,36]
+I'd thrown it against Kitami's face.
+
+[MSG$02A277,89]
+I have some regrets about losing that book. But there was nothing else I could've done...
+
+[MSG$02A2DD,73]
+Besides, that book would only hinder me if I tried to escape from Kitami.
+
+[MSG$02A32B,100]
+Now I have no connection to the basement room. As time goes on, I bet Kitami will forget about me...
+
+[MSG$02A39C,16]
+Minase "(yawns)"
+
+[MSG$02A3C6,27]
+I'm really wiped out today.
+
+[MSG$02A3E6,57]
+If I get into bed, I'll fall asleep within three seconds.
+
+[MSG$02A42C,29]
+You can't blame me, really...
+
+[MSG$02A44E,30]
+Too much happened to me today.
+
+[MSG$02A479,49]
+I get up from my chair and tear off my clothes...
+
+[MSG$02A4AF,84]
+I leave my sister a note, telling her I don't need dinner, and then I dive into bed.
+
+[MSG$02A510,51]
+Minase "I can't tell what's true and what's not..."
+
+[MSG$02A55D,26]
+I remember Kitami's words.
+
+[MSG$02A57C,66]
+Kitami...a demon-master who took part in that ritual 12 years ago.
+
+[MSG$02A5CB,106]
+But can that be true? It's odd that she's the only one who survived. And if you go by what Kitami told me,
+
+[MSG$02A63A,27]
+the story doesn't add up...
+
+[MSG$02A662,48]
+But pondering all this won't get me any answers.
+
+[MSG$02A697,86]
+I have too much to think about. I don't even know what I have to straighten out first.
+
+[MSG$02A6FA,52]
+I soon as I lose concentration, I sink into sleep...
+
+[MSG$02A7B6,18]
+..................
+
+[MSG$02A7D5,12]
+............
+
+[MSG$02A7EE,6]
+......
+
+[MSG$02A808,15]
+April 24 - Home
+
+[MSG$02A81A,18]
+Voice "Wake up..."
+
+[MSG$02A846,32]
+Voice "Come on, I said wake up!"
+
+[MSG$02A880,25]
+Rustle, rustle, rustle...
+
+[MSG$02A936,15]
+Minase "Mmm..."
+
+[MSG$02A95F,61]
+Imari "So you're not going to get up, eh? All right, then..."
+
+[MSG$02A9B6,65]
+I hear her rustling around, then she places something in my ears.
+
+[MSG$02AA04,15]
+Imari "Sss...."
+
+[MSG$02AA2D,25]
+Imari "Wake the heck up!"
+
+[MSG$02AA60,14]
+Minase "Augh!"
+
+[MSG$02AA88,28]
+Instantly I jump out of bed.
+
+[MSG$02AAA9,92]
+I've got a stethoscope against my ears, and Imari's holding the end of it like a microphone.
+
+[MSG$02ABB1,60]
+Imari "Come on, how long is it going to take you to get up?"
+
+[MSG$02AC07,23]
+Minase "Is it morning?"
+
+[MSG$02AC38,54]
+I yawn as I ask Imari this. She's standing next to me.
+
+[MSG$02AC7B,39]
+Imari "Are you still dreaming or what?"
+
+[MSG$02ACBC,39]
+True, this doesn't look like my room...
+
+[MSG$02ACF0,22]
+And I'm in my uniform.
+
+[MSG$02AD0B,37]
+There's a faint hospital smell, too..
+
+[MSG$02AD35,29]
+Is this the school infirmary?
+
+[MSG$02AD5F,97]
+Imari "There's nothing strange about me being asleep here, but why were you sleeping next to me?"
+
+[MSG$02ADDA,13]
+I wonder why?
+
+[MSG$02ADEC,95]
+I remember getting roughed up by Inoue and the gang on the roof. Then I went to the basement...
+
+[MSG$02AE50,29]
+And after that, I remember...
+
+[MSG$02AE7A,73]
+Imari "What time do you think it is? The club meeting ended a while ago."
+
+[MSG$02AEDD,59]
+I glance at my watch and see that it's the end of the day..
+
+[MSG$02AF1D,56]
+A lot of time has gone by since I was in the basement...
+
+[MSG$02AF62,11]
+Basement...
+
+[MSG$02AF7A,43]
+That's right...I was in the basement and...
+
+[MSG$02AFB2,22]
+I remember everything,
+
+[MSG$02AFCD,32]
+What happened in the basement...
+
+[MSG$02AFF5,15]
+Kitami and I...
+
+[MSG$02B009,29]
+Could that have been a dream?
+
+[MSG$02B033,44]
+Imari "What's the matter? You look so lost."
+
+[MSG$02B079,31]
+Minase "Huh? Oh, it's nothing."
+
+[MSG$02B0B2,32]
+Minase "Listen, where's Kitami?"
+
+[MSG$02B0EC,60]
+Imari "How should I know? Nobody was around when I woke up."
+
+[MSG$02B142,14]
+Minase "Oh..."
+
+[MSG$02B16A,45]
+I don't know how long I've been here, either.
+
+[MSG$02B19C,41]
+It feels like it all happened in a dream.
+
+[MSG$02B1D2,65]
+Imari "Anyway, let's go home. Or else the gate will close on us."
+
+[MSG$02B22D,30]
+Minase "Yeah, you're right..."
+
+[MSG$02B265,55]
+I give up trying to figure it out, and get up from bed.
+
+[MSG$02B2A9,27]
+Minase "Are you all right?"
+
+[MSG$02B2DE,52]
+I ask Imari this as I extricate myself from the bed.
+
+[MSG$02B31F,45]
+Imari "Yes, I slept soundly so I'm fine now."
+
+[MSG$02B398,83]
+Imari "Grr! I'm so mad he beat me! Next time I see him I'm going to kick his butt!"
+
+[MSG$02B405,52]
+Imari's totally unfazed, as if nothing had happened.
+
+[MSG$02B43E,68]
+She's just her usual self. I can't believe how thick-skinned she is.
+
+[MSG$02B4B3,7]
+Thud...
+
+[MSG$02B4C7,64]
+As soon as my feet hit the ground, something falls to the floor.
+
+[MSG$02B514,49]
+I look and it's something wrapped in white cloth.
+
+[MSG$02B552,20]
+The Book of Magic...
+
+[MSG$02B56B,66]
+I pick it up in a hurry. I don't remember bringing that with me...
+
+[MSG$02B5BA,41]
+When I stand up, I'm overcome by fatigue.
+
+[MSG$02B5E8,26]
+My body feels super-heavy.
+
+[MSG$02B641,21]
+Imari "What's wrong?"
+
+[MSG$02B670,22]
+Minase "It's nothing."
+
+[MSG$02B6A0,33]
+I shake my head to get rid of it.
+
+[MSG$02B6CE,17]
+My stomach hurts.
+
+[MSG$02B6E4,36]
+I touch it and it tingles painfully.
+
+[MSG$02B70D,34]
+I pull up my shirt to have a look.
+
+[MSG$02B73C,11]
+Minase "!?"
+
+[MSG$02B754,38]
+There's a bloody triangle on my shirt.
+
+[MSG$02B77F,47]
+It's like a diagram drawn in blood on my shirt.
+
+[MSG$02B7BB,29]
+The symbol of the contract...
+
+[MSG$02B7DD,28]
+It was Kitami who drew it...
+
+[MSG$02B806,69]
+In that case, everything that happened in that basement was for real.
+
+[MSG$02B850,32]
+I quickly conceal it from Imari.
+
+[MSG$02B87D,17]
+Imari "Let's go."
+
+[MSG$02B8A8,69]
+I pick up the cloth-wrapped book, and leave the infirmary with Imari.
+
+[MSG$02B8FA,21]
+April 24 - Night/Home
+
+[MSG$02B9FE,5]
+Click
+
+[MSG$02BA10,18]
+Minase "I'm home."
+
+[MSG$02BA3C,40]
+I call out as I stumble inside my house.
+
+[MSG$02BA71,79]
+Imari had vented all her anger against Inoue and his gang all the way home, but
+
+[MSG$02BAC5,70]
+I barely heard her, only giving her vague responses from time to time.
+
+[MSG$02BB18,51]
+Right now, I don't have time to listen to her rant.
+
+[MSG$02BBD4,38]
+I sit down at my desk and open my bag.
+
+[MSG$02BBFF,51]
+I take out the Book of Magic and set it on my desk.
+
+[MSG$02BC3F,80]
+I remember bringing this down to the basement. And then I had sex with Kitami...
+
+[MSG$02BC9C,79]
+When I close my eyes, it comes back to me. My body still remembers how it felt.
+
+[MSG$02BCF8,16]
+Minase "(yawns)"
+
+[MSG$02BD22,27]
+I'm really wiped out today.
+
+[MSG$02BD42,57]
+If I get into bed, I'll fall asleep within three seconds.
+
+[MSG$02BD88,29]
+You can't blame me, really...
+
+[MSG$02BDB2,41]
+Not after what happened in that basement.
+
+[MSG$02BDE8,47]
+I get up from my chair and tear off my clothes.
+
+[MSG$02BE24,84]
+I leave my sister a note, telling her I don't need dinner, and then I dive into bed.
+
+[MSG$02BE85,51]
+Minase "I can't tell what's true and what's not..."
+
+[MSG$02BED2,26]
+I remember Kitami's words.
+
+[MSG$02BEF1,66]
+Kitami...a demon-master who took part in that ritual 12 years ago.
+
+[MSG$02BF40,106]
+But can that be true? It's odd that she's the only one who survived. And if you go by what Kitami told me,
+
+[MSG$02BFAF,27]
+the story doesn't add up...
+
+[MSG$02BFD7,48]
+But pondering all this won't get me any answers.
+
+[MSG$02C00C,85]
+I have too much to think about. I don't even know what I should straighten out first.
+
+[MSG$02C06E,52]
+I soon as I lose concentration, I sink into sleep...
+
+[MSG$02C12A,18]
+..................
+
+[MSG$02C149,12]
+............
+
+[MSG$02C162,6]
+......
