@@ -1,6 +1,5 @@
 This is translation toolkit for a PC game "Bible Black" (2000, English version by Kitty Media).
-It consists of BBLACK.EXE IPS patch, PAK unpacker/packer, text scripts along with injection program,
-and a little tool which helps getting game to work under Windows 10.
+It consists of BBLACK.EXE IPS patch, PAK unpacker/packer and text scripts along with injection program.
 
 About BBLACK.exe patches:
 0x47B88: font weight ($0000, $6400, $C800, $2C01, $9001, $F401, $5802, $BC02, $2003 or $8403)
