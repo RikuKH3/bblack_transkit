@@ -1,17 +1,17 @@
-0x0-0xA		magic ('.8Bit'+$8D5D8CCB00)
-0xA-0xC		ed8 type (always $100)
-0xC-0xE		unknown1 (always 0)
-0xE-0x10	width
-0x10-0x12	height
-0x12-0x14	number of colors in palette
-0x14-0x16	unknown2 (always 0) (positioning related?)
-0x16-0x1A	image size in bytes
-0x1A-???	palette (3 bytes per color)
-???-file_end	image data
+0x0	(10 bytes)	magic ('.8Bit'+$8D5D8CCB00)
+0xA	(2 bytes)	ed8 type (always $0001)
+0xC	(2 bytes)	unknown1 (always 0)
+0xE	(2 bytes)	width
+0x10	(2 bytes)	height
+0x12	(2 bytes)	number of colors in palette
+0x14	(2 bytes)	unknown2 (always 0) (positioning related?)
+0x16	(4 bytes)	image size in bytes
+0x1A	(x bytes)	palette (3 bytes per color)
+0x1A+x	(y bytes)	image data
 
 Use 'Crass' or 'Susie' with 'Ifactive.spi' plugin to convert ED8/SAL and EDT images into BMP.
 After modifying BMP convert it into uncompressed ED8.
 You can replace EDT files with ED8. For example: delete E000.EDT and place E000.ED8 instead.
-For smart color reductionand best image quality use OPTPiX iMageStudio.
+For smart color reduction and best image quality use OPTPiX iMageStudio.
 
 //RikuKH3
