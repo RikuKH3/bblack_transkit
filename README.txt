@@ -12,5 +12,11 @@ About BBLACK.exe patches:
 0x318A2: font size 3 (default value is $0E)
 0x318A6: font size 4 (default value is $16)
 
+About ED8/SAL and EDT images editing:
+Use 'Crass' (galcrass.blog124.fc2blog.us) or 'Susie' with 'Ifactive.spi' plugin to convert ED8/SAL and EDT images into BMP.
+After modifying BMP convert it into uncompressed ED8 using my 'ed8conv.exe'.
+You can replace EDT files with ED8. For example: delete E000.EDT and place E000.ED8 instead.
+For smart color reduction and best image quality use OPTPiX iMageStudio.
+
 //made by RikuKH3
 (riku.kh3@gmail.com)
